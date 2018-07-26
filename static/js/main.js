@@ -11,10 +11,9 @@ window.app = new window.Vue({
 
     isTabActive: false,
     isTabAuthorship: false,
-    isTabIssues: false,
-
-    tabAuthor: '',
-    tabRepo: '',
+    tabInfo: {},
+    tabAuthorship: {},
+    creationDate: "",
   },
   methods: {
     // model functions //
@@ -61,16 +60,18 @@ window.app = new window.Vue({
 
     deactivateTabs() {
       this.isTabAuthorship = false;
-      this.isTabIssues = false;
     },
 
     updateTabAuthorship(obj) {
       this.deactivateTabs();
-      this.tabAuthor = obj.author;
-      this.tabRepo = obj.repo;
+      this.tabInfo.tabAuthorship = { ...obj };
 
       this.isTabActive = true;
       this.isTabAuthorship = true;
+    },
+
+    generateKey(dataObj) {
+      return JSON.stringify(dataObj);
     },
   },
   components: {
@@ -81,4 +82,3 @@ window.app = new window.Vue({
     this.updateReportDir();
   },
 });
-
