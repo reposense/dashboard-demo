@@ -1,27 +1,21 @@
-window.toggleNext = function toggleNext(ele) {
+function toggleNext(ele) {
   // function for toggling unopened code
-  const target = ele.nextSibling;
-  const child = ele.childNodes;
+  const targetClass = 'active';
 
-  let style = 'none';
-  let childBackground = '#bfbdbd';
-  let toolTipMessage = 'Show untouched code';
+  const parent = ele.parentNode;
+  const classes = parent.className.split(' ');
+  const idx = classes.indexOf(targetClass);
 
-  if (target.style.display === 'none') {
-    style = '';
-    childBackground = '#000';
-    toolTipMessage = 'Hide untouched code';
+  if (idx === -1) {
+    classes.push(targetClass);
+  } else {
+    classes.splice(idx, 1);
   }
 
-  target.style.display = style;
-
-  if (target.className === 'code') {
-    child[0].style.background = childBackground;
-    target.style.borderLeft = '4px solid rgba(197, 206, 197, 1)';
-    child[2].innerHTML = toolTipMessage;
-  }
+  parent.className = classes.join(' ');
 };
 
+const repoCache = [];
 window.vAuthorship = {
   props: ['info'],
   template: window.$('v_authorship').innerHTML,
@@ -35,6 +29,14 @@ window.vAuthorship = {
   methods: {
     initiate() {
       const repo = window.REPOS[this.info.repo];
+
+      if (repoCache.length === 2) {
+        const toRemove = repoCache.shift();
+        if (toRemove !== this.info.repo) {
+          delete window.REPOS[toRemove].files;
+        }
+      }
+      repoCache.push(this.info.repo);
 
       if (repo.files) {
         this.processFiles(repo.files);
@@ -62,78 +64,31 @@ window.vAuthorship = {
           lastId += 1;
           lastState = authored;
         }
-        segments[lastId].lines.push(line.content);
+
+        const content = line.content || ' ';
+        segments[lastId].lines.push(content);
       });
 
       return segments;
-    },
-
-    mergeSegments(segments) {
-      let lastAuthored;
-      const mergedSegments = [];
-
-      segments.forEach((segment) => {
-        if (lastAuthored !== segment.authored || mergedSegments.length === 0) {
-          mergedSegments.push(segment);
-          lastAuthored = segment.authored;
-        } else {
-          const last = mergedSegments[mergedSegments.length - 1];
-          last.lines = last.lines.concat(segment.lines);
-        }
-      });
-
-      return mergedSegments;
-    },
-
-    removeSmallUnauthored(segments) {
-      const MIN_LINES = 5;
-      const res = [];
-
-      segments.forEach((segment) => {
-        if (segment.lines.length < MIN_LINES && !segment.authored) {
-          if (res.length === 0) {
-            const { lines } = segments[1];
-            segments[1].lines = segment.lines.concat(lines);
-          } else {
-            const last = res[res.length - 1];
-            last.lines = segment.lines.concat(last.lines);
-          }
-        } else {
-          res.push(segment);
-        }
-      });
-
-      return res;
-    },
-
-    removeEmptySegments(segments) {
-      const res = [];
-      segments.forEach((segment) => {
-        if (segment.lines.join('') !== '') {
-          res.push(segment);
-        }
-      });
-
-      return res;
     },
 
     processFiles(files) {
       const res = [];
 
       files.forEach((file) => {
-        if (file.authorContributionMap[this.info.author]) {
+        const lineCnt = file.authorContributionMap[this.info.author];
+        if (lineCnt) {
           const out = {};
           out.path = file.path;
+          out.lineCount = lineCnt;
 
           const segments = this.splitSegments(file.lines);
-          const bigSegments = this.removeSmallUnauthored(segments);
-          const validSegments = this.removeEmptySegments(bigSegments);
-          const mergedSegments = this.mergeSegments(validSegments);
-
-          out.segments = mergedSegments;
+          out.segments = segments;
           res.push(out);
         }
       });
+
+      res.sort((a, b) => b.lineCount - a.lineCount);
 
       this.files = res;
       this.isLoaded = true;
