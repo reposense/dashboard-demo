@@ -4814,7 +4814,7 @@
         "author": {
           "gitId": "Wuhao-ooo"
         },
-        "content": "As you can see from the diagram below, these are the interactions among the components during an “add�? command. After the Model component raises an AddressBookChangedEvent to update the content of the AddressBook, it raises another CustomerStatsChangedEvent to update the current customer’s order count."
+        "content": "As you can see from the diagram below, these are the interactions among the components during an “add” command. After the Model component raises an AddressBookChangedEvent to update the content of the AddressBook, it raises another CustomerStatsChangedEvent to update the current customer’s order count."
       },
       {
         "lineNumber": 389,
@@ -5150,7 +5150,7 @@
         "author": {
           "gitId": "ZacZequn"
         },
-        "content": "As you can see from the diagram below, these are the interactions among the components during an “add�? command. During the adding process, the availability of the food ordered will be checked. Order will only be added when ordered food is available."
+        "content": "As you can see from the diagram below, these are the interactions among the components during an “add” command. During the adding process, the availability of the food ordered will be checked. Order will only be added when ordered food is available."
       },
       {
         "lineNumber": 437,
@@ -6445,7 +6445,7 @@
         "author": {
           "gitId": "ZhangYijiong"
         },
-        "content": "As you can see from the diagram below, these are the interactions among the components during an “Path�? command. The Model component raises a PersonPanelPathChangedEvent."
+        "content": "As you can see from the diagram below, these are the interactions among the components during an “Path” command. The Model component raises a PersonPanelPathChangedEvent."
       },
       {
         "lineNumber": 622,
