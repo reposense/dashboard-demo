@@ -4839,7 +4839,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": " It is generally a best practice to request scopes incrementally, at the time access is required, rather than up front. For example, an app that wants to support purchases should not request Google Wallet access until the user presses the “buy” button; see Incremental authorization."
+        "content": " It is generally a best practice to request scopes incrementally, at the time access is required, rather than up front. For example, an app that wants to support purchases should not request Google Wallet access until the user presses the “buy�? button; see Incremental authorization."
       },
       {
         "lineNumber": 470,
@@ -6638,7 +6638,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "The sequence diagram below shows interactions within the `Logic` Component for the `execute(“tc tt/http://modsn.us/q7cLP”)`"
+        "content": "The sequence diagram below shows interactions within the `Logic` Component for the `execute(“tc tt/http://modsn.us/q7cLP�?)`"
       },
       {
         "lineNumber": 727,

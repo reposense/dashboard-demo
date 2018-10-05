@@ -2863,7 +2863,7 @@
         "author": {
           "gitId": "jiangyue12392"
         },
-        "content": "The `find-event` command input is passed into an `EventPlannerParser` object. The `EventPlannerParser` reads the command word “find-event” and creates a `FindEventCommandParser` object that further parses the command input and creates a `FindEventCommand`. The `FindEventCommand` filters the the event list based on the keywords and updates Model component on changes in the filtered event list."
+        "content": "The `find-event` command input is passed into an `EventPlannerParser` object. The `EventPlannerParser` reads the command word “find-event�? and creates a `FindEventCommandParser` object that further parses the command input and creates a `FindEventCommand`. The `FindEventCommand` filters the the event list based on the keywords and updates Model component on changes in the filtered event list."
       },
       {
         "lineNumber": 322,
