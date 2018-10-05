@@ -4909,7 +4909,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "The calendar feature is currently in its early stages of implementation. At present, it only supports the switching between months, and is best viewed fully-maximised on a 13‚Äù computer screen."
+        "content": "The calendar feature is currently in its early stages of implementation. At present, it only supports the switching between months, and is best viewed fully-maximised on a 13‚Ä? computer screen."
       },
       {
         "lineNumber": 656,
@@ -5938,7 +5938,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Suppose the user executes a calendar feature command. \u003c\u003cfig-CalendarCommandExecutionSequenceDiagram\u003e\u003e shows the interactions within the `Logic` and `UI` components for the execute(‚Äúnmonth‚Äù) API call."
+        "content": "Suppose the user executes a calendar feature command. \u003c\u003cfig-CalendarCommandExecutionSequenceDiagram\u003e\u003e shows the interactions within the `Logic` and `UI` components for the execute(‚Äúnmonth‚Ä?) API call."
       },
       {
         "lineNumber": 803,
@@ -16034,7 +16034,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "The calendar is best viewed fully-maximised on a 1280 x 720 screen (usually a 13‚Äù computer screen). +"
+        "content": "The calendar is best viewed fully-maximised on a 1280 x 720 screen (usually a 13‚Ä? computer screen). +"
       },
       {
         "lineNumber": 807,
