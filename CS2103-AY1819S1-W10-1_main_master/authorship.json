@@ -1,0 +1,5229 @@
+[
+  {
+    "path": "README.adoc",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d TheTracker"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "ifdef::env-github,env-browser[:relfileprefix: docs/]"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "https://travis-ci.org/se-edu/addressbook-level4[image:https://travis-ci.org/se-edu/addressbook-level4.svg?branch\u003dmaster[Build Status]]"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "https://ci.appveyor.com/project/damithc/addressbook-level4[image:https://ci.appveyor.com/api/projects/status/3boko2x2vr5cc3w2?svg\u003dtrue[Build status]]"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "https://coveralls.io/github/se-edu/addressbook-level4?branch\u003dmaster[image:https://coveralls.io/repos/github/se-edu/addressbook-level4/badge.svg?branch\u003dmaster[Coverage Status]]"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "https://www.codacy.com/app/damith/addressbook-level4?utm_source\u003dgithub.com\u0026utm_medium\u003dreferral\u0026utm_content\u003dse-edu/addressbook-level4\u0026utm_campaign\u003dBadge_Grade[image:https://api.codacy.com/project/badge/Grade/fc0b7775cf7f4fdeaf08776f3d8e364a[Codacy Badge]]"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "https://gitter.im/se-edu/Lobby[image:https://badges.gitter.im/se-edu/Lobby.svg[Gitter chat]]"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "ifdef::env-github[]"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "image::docs/images/Ui.png[width\u003d\"600\"]"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "endif::[]"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "ifndef::env-github[]"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "image::docs/images/Ui.png[width\u003d\"600\"]"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "endif::[]"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "* Welcome to TheTracker"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* TheTracker aims to help NUS students keep track of their friends, modules and events."
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* Students can find other students who share their major, have common modules,"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "while also noting those in charge of key events."
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "* The design of TheTracker favours students who prefer interactions which are"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " using CLI(Command Line Interface). Experienced users can do multiple updates at once,"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " but new users can perform these step by step."
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* TheTracker welcomes students who:"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "** Are sociable and wish to stay in contact with his/her NUS peers"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "** Want a multi-utility academic tool, to record grades, modules and peers"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "** Are looking for a minimalistic scheduler/planner"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Site Map"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* \u003c\u003cUserGuide#, User Guide\u003e\u003e"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* \u003c\u003cDeveloperGuide#, Developer Guide\u003e\u003e"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* \u003c\u003cAboutUs#, About Us\u003e\u003e"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* \u003c\u003cContactUs#, Contact Us\u003e\u003e"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Acknowledgements"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "* The original source of code: AddressBook-Level4 project created by SE-EDU"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "initiative at https://github.com/se-edu/g"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* Libraries used: https://github.com/TestFX/TestFX[TextFX], https://bitbucket.org/controlsfx/controlsfx/[ControlsFX], https://github.com/FasterXML/jackson[Jackson], https://github.com/google/guava[Guava], https://github.com/junit-team/junit5[JUnit5]"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Licence : link:LICENSE[MIT]"
+      }
+    ],
+    "authorContributionMap": {
+      "KongZijin": 5,
+      "-": 38
+    }
+  },
+  {
+    "path": "docs/AboutUs.adoc",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d About Us"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":site-section: AboutUs"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":relfileprefix: team/"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":imagesDir: images"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":stylesDir: stylesheets"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "TheTracker was developed by a team of students as part of the CS2103 Software Engineering module."
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "It was modified from the AddressBook - Level 4 program developed by the https://se-edu.github.io/docs/Team.html[se-edu] team. +"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "{empty} +"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "We are a team based in the http://www.comp.nus.edu.sg[School of Computing, National University of Singapore]."
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Project Team"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d\u003d Ahan Gupta"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "image::spikerheado1234.png[width\u003d\"150\", align\u003d\"left\"]"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "{empty}[http://www.ahangupta.com[homepage]] [https://github.com/spikerheado1234[github]] [\u003c\u003cspikerheado1234#, portfolio\u003e\u003e]"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "Role: Team Lead"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d\u003d Way Tan"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "image::waytan.png[width\u003d\"150\", align\u003d\"left\"]"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "{empty}[http://github.com/waytan[github]] [\u003c\u003cwaytan#, portfolio\u003e\u003e]"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Role: Team Member"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u0027\u0027\u0027"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d\u003d Kong Zijin"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "image::kongzijin.png[width\u003d\"150\", align\u003d\"left\"]"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "{empty}[http://github.com/KongZijin[github]] [\u003c\u003cKongZijin#, portfolio\u003e\u003e]"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "Role: Team Member"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u0027\u0027\u0027"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003d\u003d\u003d Alistair Ong"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "image::alistairong.png[width\u003d\"150\", align\u003d\"left\"]"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "{empty}[http://github.com/alistairong[github]] [\u003c\u003calistairong#, portfolio\u003e\u003e]"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "Role: Team Member"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u0027\u0027\u0027"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d\u003d Tian Xueyan"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "image::xueyantian.png[width\u003d\"150\", align\u003d\"left\"]"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "{empty}[http://github.com/xueyantian[github]] [\u003c\u003cxueyantian#, portfolio\u003e\u003e]"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Role: Team Member"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u0027\u0027\u0027"
+      }
+    ],
+    "authorContributionMap": {
+      "KongZijin": 2,
+      "-": 40,
+      "alistairong": 8
+    }
+  },
+  {
+    "path": "docs/team/KongZijin.adoc",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "\u003d Kong Zijin - Project Portfolio"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ":site-section: AboutUs"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ":imagesDir: ../images"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ":stylesDir: ../stylesheets"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "\u003d\u003d PROJECT: AddressBook - Level 4"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "---"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "\u003d\u003d Overview"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "AddressBook - Level 4 is a desktop address book application used for teaching Software Engineering principles. The user interacts with it using a CLI, and it has a GUI created with JavaFX. It is written in Java, and has about 10 kLoC."
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "\u003d\u003d Summary of contributions"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "* *Major enhancement*: added *the ability to undo/redo previous commands*"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "** What it does: allows the user to undo all previous commands one at a time. Preceding undo commands can be reversed by using the redo command."
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "** Justification: This feature improves the product significantly because a user can make mistakes in commands and the app should provide a convenient way to rectify them."
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "** Highlights: This enhancement affects existing commands and commands to be added in future. It required an in-depth analysis of design alternatives. The implementation too was challenging as it required changes to existing commands."
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "** Credits: _{mention here if you reused any code/ideas from elsewhere or if a third-party library is heavily used in the feature so that a reader can make a more accurate judgement of how much effort went into the feature}_"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "* *Minor enhancement*: added a history command that allows the user to navigate to previous commands using up/down keys."
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "* *Code contributed*: [https://github.com[Functional code]] [https://github.com[Test code]] _{give links to collated code files}_"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "* *Other contributions*:"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "** Project management:"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** Managed releases `v1.3` - `v1.5rc` (3 releases) on GitHub"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "** Enhancements to existing features:"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** Updated the GUI color scheme (Pull requests https://github.com[#33], https://github.com[#34])"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** Wrote additional tests for existing features to increase coverage from 88% to 92% (Pull requests https://github.com[#36], https://github.com[#38])"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "** Documentation:"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** Did cosmetic tweaks to existing contents of the User Guide: https://github.com[#14]"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "** Community:"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** PRs reviewed (with non-trivial review comments): https://github.com[#12], https://github.com[#32], https://github.com[#19], https://github.com[#42]"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** Contributed to forum discussions (examples:  https://github.com[1], https://github.com[2], https://github.com[3], https://github.com[4])"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** Reported bugs and suggestions for other teams in the class (examples:  https://github.com[1], https://github.com[2], https://github.com[3])"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** Some parts of the history feature I added was adopted by several other class mates (https://github.com[1], https://github.com[2])"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "** Tools:"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** Integrated a third party library (Natty) to the project (https://github.com[#42])"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "*** Integrated a new Github plugin (CircleCI) to the team repo"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "_{you can add/remove categories in the list above}_"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "\u003d\u003d Contributions to the User Guide"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "|_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeting end-users._"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "include::../UserGuide.adoc[tag\u003dundoredo]"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "include::../UserGuide.adoc[tag\u003ddataencryption]"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "\u003d\u003d Contributions to the Developer Guide"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "|_Given below are sections I contributed to the Developer Guide. They showcase my ability to write technical documentation and the technical depth of my contributions to the project._"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "include::../DeveloperGuide.adoc[tag\u003dundoredo]"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "include::../DeveloperGuide.adoc[tag\u003ddataencryption]"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "\u003d\u003d PROJECT: PowerPointLabs"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "---"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "_{Optionally, you may include other projects in your portfolio.}_"
+      }
+    ],
+    "authorContributionMap": {
+      "KongZijin": 72
+    }
+  },
+  {
+    "path": "docs/team/alistairong.adoc",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003d Alistair Ong - Project Portfolio"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ":site-section: AboutUs"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ":imagesDir: ../images"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ":stylesDir: ../stylesheets"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003d\u003d PROJECT: AddressBook - Level 4"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "---"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003d\u003d Overview"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "AddressBook - Level 4 is a desktop address book application used for teaching Software Engineering principles. The user interacts with it using a CLI, and it has a GUI created with JavaFX. It is written in Java, and has about 10 kLoC."
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003d\u003d Summary of contributions"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "* *Major enhancement*: added *the ability to undo/redo previous commands*"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "** What it does: allows the user to undo all previous commands one at a time. Preceding undo commands can be reversed by using the redo command."
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "** Justification: This feature improves the product significantly because a user can make mistakes in commands and the app should provide a convenient way to rectify them."
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "** Highlights: This enhancement affects existing commands and commands to be added in future. It required an in-depth analysis of design alternatives. The implementation too was challenging as it required changes to existing commands."
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "** Credits: _{mention here if you reused any code/ideas from elsewhere or if a third-party library is heavily used in the feature so that a reader can make a more accurate judgement of how much effort went into the feature}_"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "* *Minor enhancement*: added a history command that allows the user to navigate to previous commands using up/down keys."
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "* *Code contributed*: [https://github.com[Functional code]] [https://github.com[Test code]] _{give links to collated code files}_"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "* *Other contributions*:"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "** Project management:"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** Managed releases `v1.3` - `v1.5rc` (3 releases) on GitHub"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "** Enhancements to existing features:"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** Updated the GUI color scheme (Pull requests https://github.com[#33], https://github.com[#34])"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** Wrote additional tests for existing features to increase coverage from 88% to 92% (Pull requests https://github.com[#36], https://github.com[#38])"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "** Documentation:"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** Did cosmetic tweaks to existing contents of the User Guide: https://github.com[#14]"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "** Community:"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** PRs reviewed (with non-trivial review comments): https://github.com[#12], https://github.com[#32], https://github.com[#19], https://github.com[#42]"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** Contributed to forum discussions (examples:  https://github.com[1], https://github.com[2], https://github.com[3], https://github.com[4])"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** Reported bugs and suggestions for other teams in the class (examples:  https://github.com[1], https://github.com[2], https://github.com[3])"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** Some parts of the history feature I added was adopted by several other class mates (https://github.com[1], https://github.com[2])"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "** Tools:"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** Integrated a third party library (Natty) to the project (https://github.com[#42])"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "*** Integrated a new Github plugin (CircleCI) to the team repo"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "_{you can add/remove categories in the list above}_"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003d\u003d Contributions to the User Guide"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "|_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeting end-users._"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "include::../UserGuide.adoc[tag\u003dundoredo]"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "include::../UserGuide.adoc[tag\u003ddataencryption]"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003d\u003d Contributions to the Developer Guide"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "|_Given below are sections I contributed to the Developer Guide. They showcase my ability to write technical documentation and the technical depth of my contributions to the project._"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "include::../DeveloperGuide.adoc[tag\u003dundoredo]"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "include::../DeveloperGuide.adoc[tag\u003ddataencryption]"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003d\u003d PROJECT: PowerPointLabs"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "---"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "_{Optionally, you may include other projects in your portfolio.}_"
+      }
+    ],
+    "authorContributionMap": {
+      "alistairong": 72
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/commons/events/ui/ModulePanelSelectionChangedEvent.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "package seedu.address.commons.events.ui;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import seedu.address.commons.events.BaseEvent;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import seedu.address.model.module.Module;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " * Represents a selection change in the Module List Panel"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " *"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " * @author alistair"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "public class ModulePanelSelectionChangedEvent extends BaseEvent {"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private final Module newSelection;"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    public ModulePanelSelectionChangedEvent(Module newSelection) {"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        this.newSelection \u003d newSelection;"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    public String toString() {"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        return getClass().getSimpleName();"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    public Module getNewSelection() {"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        return newSelection;"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "alistairong": 28
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/logic/AutoComplete.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "package seedu.address.logic;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " * Provides basic logic of giving complete command suggestions."
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " *"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " * @author alistair"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "public class AutoComplete {"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "alistairong": 11
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/model/occasion/Occasion.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "package seedu.address.model.occasion;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import static seedu.address.commons.util.CollectionUtil.requireAllNonNull;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import java.util.Collections;"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import java.util.HashSet;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import java.util.Objects;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import java.util.Set;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.commons.util.TypeUtil;"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.inanimate.Inanimate;"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import seedu.address.model.person.Person;"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import seedu.address.model.tag.Tag;"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " * Represents an Occasion within the address book."
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " * @author KongZijin"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "public class Occasion extends Inanimate {"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    // Identity fields"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    private final OccasionName occasionName;"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    private final OccasionDate occasionDate;"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    private final Person organiser;"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    // Date fields"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    private final Set\u003cTag\u003e tags \u003d new HashSet\u003c\u003e();"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * Every field must be present and not null."
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public Occasion(OccasionName occasionName, OccasionDate occasionDate,"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        Person organiser, Set\u003cTag\u003e tags, TypeUtil type) {"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        requireAllNonNull(occasionName, occasionDate, organiser, tags, type);"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        this.occasionName \u003d occasionName;"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        this.occasionDate \u003d occasionDate;"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        this.organiser \u003d organiser;"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        this.tags.addAll(tags);"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        this.type \u003d type;"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public OccasionName getOccasionName() {"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return occasionName;"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public OccasionDate getOccasionDate() {"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return occasionDate;"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public Person getOrganiser() {"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return organiser;"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * Get the set of Tags."
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * @return An immutable tag set, which throws {@code"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * UnsupportedOperationException} if modification is attempted."
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public Set\u003cTag\u003e getTags() {"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return Collections.unmodifiableSet(tags);"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * Check the equality of two occasions. This defines a stronger notion of"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * equality between two occasions."
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * @return Return true if both occasion have the same identity and data"
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * fields."
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public boolean equals(Object other) {"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        if (other \u003d\u003d this) {"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            return true;"
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        if (!(other instanceof Occasion)) {"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            return false;"
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        Occasion otherOccasion \u003d (Occasion) other;"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return otherOccasion.getOccasionName().equals(this.getOccasionName())"
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            \u0026\u0026 otherOccasion.getOccasionDate().equals(this.getOccasionDate())"
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            \u0026\u0026 otherOccasion.getOrganiser().equals(this.getOrganiser())"
+      },
+      {
+        "lineNumber": 86,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            \u0026\u0026 otherOccasion.getTags().equals(this.getTags());"
+      },
+      {
+        "lineNumber": 87,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 88,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 89,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 90,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public int hashCode() {"
+      },
+      {
+        "lineNumber": 91,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        // Use this method for custom fields hashing instead of implementing one."
+      },
+      {
+        "lineNumber": 92,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return Objects.hash(occasionName, occasionDate, organiser, tags);"
+      },
+      {
+        "lineNumber": 93,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 94,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 95,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 96,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public String toString() {"
+      },
+      {
+        "lineNumber": 97,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        final StringBuilder stringBuilder \u003d new StringBuilder();"
+      },
+      {
+        "lineNumber": 98,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        stringBuilder.append(getOccasionName())"
+      },
+      {
+        "lineNumber": 99,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            .append(\" \")"
+      },
+      {
+        "lineNumber": 100,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            .append(getOccasionDate())"
+      },
+      {
+        "lineNumber": 101,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            .append(\" Organiser: \")"
+      },
+      {
+        "lineNumber": 102,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            .append(getOrganiser().getName()) // use the person\u0027s name to represent this Peron"
+      },
+      {
+        "lineNumber": 103,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            // object."
+      },
+      {
+        "lineNumber": 104,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            .append(\" Tags: \");"
+      },
+      {
+        "lineNumber": 105,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        getTags().forEach(stringBuilder::append);"
+      },
+      {
+        "lineNumber": 106,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return stringBuilder.toString();"
+      },
+      {
+        "lineNumber": 107,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 108,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "KongZijin": 94,
+      "-": 14
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/model/occasion/OccasionDate.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "package seedu.address.model.occasion;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import static java.util.Objects.requireNonNull;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import static seedu.address.commons.util.AppUtil.checkArgument;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import java.text.ParseException;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import java.text.SimpleDateFormat;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " * Represents an Occasions date in the address book."
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " * Guarantees: immutable, is valid as declared in {@link #isValidDate(String)}"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " * @author kongzijin"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "public class OccasionDate {"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public static final String MESSAGE_OCCASIONDATE_CONSTRAINTS \u003d \"Occasion \""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        + \"dates should be in the format YYYY-MM-DD, and should not be in the \""
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        + \"blank.\";"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    /*"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * The date should be in the format YYYY-MM-DD. The date value should be"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * valid."
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * TODO: Further constrain date to be a date in the future."
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public static final String OCCASIONDATE_VALIDATION_REGEX \u003d \"\\\\d{4}-\\\\d{2}-\\\\d{2}\";"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public final String fullOccasionDate;"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * Constructs a {@code OccasionDate}."
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * @param date An occasion date."
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public OccasionDate(String date) {"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        requireNonNull(date);"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        checkArgument(isValidDate(date), MESSAGE_OCCASIONDATE_CONSTRAINTS);"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        fullOccasionDate \u003d date;"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * Check whether a given string is in correct format and is a valid date."
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * @return A boolean value indicating the validation of this date."
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 46,
+        "content": "    // @@author KongZijin-reused"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    // Reused from"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    // https://stackoverflow.com/questions/2149680/regex-date-format-validation-on-java"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    // with minor modifications."
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public static boolean isValidDate(String test) {"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        if (!test.matches(OCCASIONDATE_VALIDATION_REGEX)) {"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            return false;"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        SimpleDateFormat dateFormat \u003d new SimpleDateFormat(\"YYYY-MM-DD\");"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        dateFormat.setLenient(false);"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            dateFormat.parse(test);"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            return true;"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        } catch (ParseException pex) {"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            return false;"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 65,
+        "content": "    //@@author"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public String toString() {"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return fullOccasionDate;"
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public boolean equals(Object other) {"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return other \u003d\u003d this // short circuit if same object"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            || (other instanceof OccasionDate // instanceof handles nulls"
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            \u0026\u0026 fullOccasionDate.equals(((OccasionDate) other).fullOccasionDate));"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public int hashCode() {"
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return fullOccasionDate.hashCode();"
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "null": 2,
+      "KongZijin": 81
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/model/occasion/OccasionName.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "package seedu.address.model.occasion;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import static java.util.Objects.requireNonNull;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "import static seedu.address.commons.util.AppUtil.checkArgument;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " * Represents an Occasion\u0027s name in the address book."
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " * Guarantees: immutable, is valid as declared in {@link #isValidName(String)}"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " *"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " * @author KongZijin"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "public class OccasionName {"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public static final String MESSAGE_OCCASIONNAME_CONSTRAINTS \u003d \"Occasion \""
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        + \"names should only contain alphanumeric characters and spaces, and it\""
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        + \" should not be blank.\";"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    /*"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * The name of an occasion should consist of any number of alphanumeric"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * characters and spaces."
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * The name should not start or end with spaces."
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * Length of the name should be restricted between 3 - 20."
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public static final String OCCASIONNAME_VALIDATION_REGEX \u003d \"(?! )(?!.*? $)[a-zA-Z0-9 ]{3,20}\";"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public final String fullOccasionName;"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * Construct a {@code OccasionName}."
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * @param name An occasion name."
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public OccasionName(String name) {"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        requireNonNull(name);"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        checkArgument(isValidName(name), MESSAGE_OCCASIONNAME_CONSTRAINTS);"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        fullOccasionName \u003d name;"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * Check whether a given string is a valid name."
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     * @return A boolean value indicating the validation of this occasion name."
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public static boolean isValidName(String test) {"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return test.matches(OCCASIONNAME_VALIDATION_REGEX);"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public String toString() {"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return fullOccasionName;"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public boolean equals(Object other) {"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return other \u003d\u003d this // short circuit if same object"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            || (other instanceof OccasionName // instanceof handles nulls"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "            \u0026\u0026 fullOccasionName.equals(((OccasionName) other).fullOccasionName));"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    public int hashCode() {"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "        return fullOccasionName.hashCode();"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "KongZijin"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "KongZijin": 64
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/ui/ModuleCard.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "package seedu.address.ui;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.fxml.FXML;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.scene.control.Label;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.scene.layout.FlowPane;"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.scene.layout.HBox;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.scene.layout.Region;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import seedu.address.model.module.Module;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " * An UI component that displays information of a {@code Module}."
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " *"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " * @author alistair"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "public class ModuleCard extends UiPart\u003cRegion\u003e {"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private static final String FXML \u003d \"ModuleListCard.fxml\";"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     * Note: Certain keywords such as \"location\" and \"resources\" are reserved keywords in JavaFX."
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     * As a consequence, UI elements\u0027 variable names cannot be set to such keywords"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     * or an exception will be thrown by JavaFX during runtime."
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     * @see \u003ca href\u003d\"https://github.com/se-edu/addressbook-level4/issues/336\"\u003eThe issue on AddressBook level 4\u003c/a\u003e"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    public final Module module;"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @FXML"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private HBox cardPane;"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @FXML"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private Label name;"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @FXML"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private Label id;"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @FXML"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private Label phone;"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @FXML"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private Label address;"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @FXML"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private Label email;"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @FXML"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private FlowPane tags;"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    public ModuleCard(Module module, int displayedIndex) {"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        super(FXML);"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        this.module \u003d module;"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        id.setText(displayedIndex + \". \");"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        //name.setText(module.getName().fullName);"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        //phone.setText(module.getPhone().value);"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        //address.setText(module.getAddress().value);"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        //email.setText(module.getEmail().value);"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        module.getTags().forEach(tag -\u003e tags.getChildren().add(new Label(tag.tagName)));"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    public boolean equals(Object other) {"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        // short circuit if same object"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        if (other \u003d\u003d this) {"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            return true;"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        // instanceof handles nulls"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        if (!(other instanceof ModuleCard)) {"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            return false;"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        // state check"
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        ModuleCard card \u003d (ModuleCard) other;"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        return id.getText().equals(card.id.getText())"
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                \u0026\u0026 module.equals(card.module);"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "alistairong": 72
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/ui/ModuleListPanel.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "package seedu.address.ui;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import java.util.logging.Logger;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import com.google.common.eventbus.Subscribe;"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.application.Platform;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.collections.ObservableList;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.fxml.FXML;"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.scene.control.ListCell;"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.scene.control.ListView;"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import javafx.scene.layout.Region;"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import seedu.address.commons.core.LogsCenter;"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import seedu.address.commons.events.ui.JumpToListRequestEvent;"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import seedu.address.commons.events.ui.ModulePanelSelectionChangedEvent;"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "import seedu.address.model.module.Module;"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " * Panel containing the list of modules."
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " *"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " * @author alistair"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "public class ModuleListPanel extends UiPart\u003cRegion\u003e {"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private static final String FXML \u003d \"ModuleListPanel.fxml\";"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private final Logger logger \u003d LogsCenter.getLogger(ModuleListPanel.class);"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @FXML"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private ListView\u003cModule\u003e moduleListView;"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    public ModuleListPanel(ObservableList\u003cModule\u003e moduleList) {"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        super(FXML);"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        setConnections(moduleList);"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        registerAsAnEventHandler(this);"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private void setConnections(ObservableList\u003cModule\u003e moduleList) {"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        moduleListView.setItems(moduleList);"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        moduleListView.setCellFactory(listView -\u003e new ModuleListViewCell());"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        setEventHandlerForSelectionChangeEvent();"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private void setEventHandlerForSelectionChangeEvent() {"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        moduleListView.getSelectionModel().selectedItemProperty()"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                .addListener((observable, oldValue, newValue) -\u003e {"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                    if (newValue !\u003d null) {"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                        logger.fine(\"Selection in module list panel changed to : \u0027\" + newValue + \"\u0027\");"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                        raise(new ModulePanelSelectionChangedEvent(newValue));"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                    }"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                });"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     * Scrolls to the {@code ModuleCard} at the {@code index} and selects it."
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private void scrollTo(int index) {"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        Platform.runLater(() -\u003e {"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            moduleListView.scrollTo(index);"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            moduleListView.getSelectionModel().clearAndSelect(index);"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        });"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    @Subscribe"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    private void handleJumpToListRequestEvent(JumpToListRequestEvent event) {"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        logger.info(LogsCenter.getEventHandlingLogMessage(event));"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        scrollTo(event.targetIndex);"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     * Custom {@code ListCell} that displays the graphics of a {@code Module} using a {@code ModuleCard}."
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    class ModuleListViewCell extends ListCell\u003cModule\u003e {"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        @Override"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        protected void updateItem(Module module, boolean empty) {"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            super.updateItem(module, empty);"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            if (empty || module \u003d\u003d null) {"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                setGraphic(null);"
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                setText(null);"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            } else {"
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "                setGraphic(new ModuleCard(module, getIndex() + 1).getRoot());"
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "alistairong": 85
+    }
+  },
+  {
+    "path": "src/main/resources/view/ModuleListCard.fxml",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\"?\u003e"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.geometry.Insets?\u003e"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.scene.control.Label?\u003e"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.scene.layout.ColumnConstraints?\u003e"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.scene.layout.FlowPane?\u003e"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.scene.layout.GridPane?\u003e"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.scene.layout.HBox?\u003e"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.scene.layout.Region?\u003e"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.scene.layout.VBox?\u003e"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003cHBox id\u003d\"cardPane\" fx:id\u003d\"cardPane\" xmlns\u003d\"http://javafx.com/javafx/8\" xmlns:fx\u003d\"http://javafx.com/fxml/1\"\u003e"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "  \u003cGridPane HBox.hgrow\u003d\"ALWAYS\"\u003e"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    \u003ccolumnConstraints\u003e"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "      \u003cColumnConstraints hgrow\u003d\"SOMETIMES\" minWidth\u003d\"10\" prefWidth\u003d\"150\" /\u003e"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    \u003c/columnConstraints\u003e"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    \u003cVBox alignment\u003d\"CENTER_LEFT\" minHeight\u003d\"105\" GridPane.columnIndex\u003d\"0\"\u003e"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "      \u003cpadding\u003e"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        \u003cInsets top\u003d\"5\" right\u003d\"5\" bottom\u003d\"5\" left\u003d\"15\" /\u003e"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "      \u003c/padding\u003e"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "      \u003cHBox spacing\u003d\"5\" alignment\u003d\"CENTER_LEFT\"\u003e"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        \u003cLabel fx:id\u003d\"id\" styleClass\u003d\"cell_big_label\"\u003e"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "          \u003cminWidth\u003e"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            \u003c!-- Ensures that the label text is never truncated --\u003e"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "            \u003cRegion fx:constant\u003d\"USE_PREF_SIZE\" /\u003e"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "          \u003c/minWidth\u003e"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        \u003c/Label\u003e"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "        \u003cLabel fx:id\u003d\"name\" text\u003d\"\\$first\" styleClass\u003d\"cell_big_label\" /\u003e"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "      \u003c/HBox\u003e"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "      \u003cFlowPane fx:id\u003d\"tags\" /\u003e"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "      \u003cLabel fx:id\u003d\"phone\" styleClass\u003d\"cell_small_label\" text\u003d\"\\$phone\" /\u003e"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "      \u003cLabel fx:id\u003d\"address\" styleClass\u003d\"cell_small_label\" text\u003d\"\\$address\" /\u003e"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "      \u003cLabel fx:id\u003d\"email\" styleClass\u003d\"cell_small_label\" text\u003d\"\\$email\" /\u003e"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "    \u003c/VBox\u003e"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "  \u003c/GridPane\u003e"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c/HBox\u003e"
+      }
+    ],
+    "authorContributionMap": {
+      "alistairong": 36
+    }
+  },
+  {
+    "path": "src/main/resources/view/ModuleListPanel.fxml",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\"?\u003e"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.scene.control.ListView?\u003e"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c?import javafx.scene.layout.VBox?\u003e"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003cVBox xmlns\u003d\"http://javafx.com/javafx/8\" xmlns:fx\u003d\"http://javafx.com/fxml/1\"\u003e"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "  \u003cListView fx:id\u003d\"moduleListView\" VBox.vgrow\u003d\"ALWAYS\" /\u003e"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "alistairong"
+        },
+        "content": "\u003c/VBox\u003e"
+      }
+    ],
+    "authorContributionMap": {
+      "alistairong": 8
+    }
+  }
+]
