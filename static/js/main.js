@@ -23,6 +23,7 @@ window.app = new window.Vue({
     loadedRepo: 0,
     userUpdated: false,
 
+    isCollapsed: false,
     isTabActive: false,
     isTabAuthorship: false,
     tabInfo: {},
@@ -82,6 +83,16 @@ window.app = new window.Vue({
 
       this.isTabActive = true;
       this.isTabAuthorship = true;
+      this.isCollapsed = false;
+      if (document.getElementById("tabs-wrapper")) {
+        document.getElementById("tabs-wrapper").scrollTop = 0;
+      }
+    },
+
+    /*global expandAll*/
+    expand(isActive) {
+      this.isCollapsed = !isActive;
+      expandAll(isActive);
     },
 
     generateKey(dataObj) {
