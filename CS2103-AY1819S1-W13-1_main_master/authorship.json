@@ -3771,7 +3771,7 @@
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "denzelchung"
+          "gitId": "-"
         },
         "content": "Note how the `Model` simply raises a `AddressBookChangedEvent` when the Address Book data are changed, instead of asking the `Storage` to save the updates to the hard disk."
       },
@@ -4303,7 +4303,7 @@
       {
         "lineNumber": 228,
         "author": {
-          "gitId": "denzelchung"
+          "gitId": "-"
         },
         "content": "* can save the Address Book data in xml format and read it back."
       },
@@ -7782,7 +7782,7 @@
       {
         "lineNumber": 725,
         "author": {
-          "gitId": "A19Sean"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10631,7 +10631,7 @@
       {
         "lineNumber": 1132,
         "author": {
-          "gitId": "A19Sean"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11107,7 +11107,7 @@
       {
         "lineNumber": 1200,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11163,7 +11163,7 @@
       {
         "lineNumber": 1208,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11191,7 +11191,7 @@
       {
         "lineNumber": 1212,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11205,7 +11205,7 @@
       {
         "lineNumber": 1214,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11254,7 +11254,7 @@
       {
         "lineNumber": 1221,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11303,7 +11303,7 @@
       {
         "lineNumber": 1228,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11359,7 +11359,7 @@
       {
         "lineNumber": 1236,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12164,7 +12164,7 @@
       {
         "lineNumber": 1351,
         "author": {
-          "gitId": "denzelchung"
+          "gitId": "-"
         },
         "content": "[appendix]"
       },
@@ -12311,7 +12311,7 @@
       {
         "lineNumber": 1372,
         "author": {
-          "gitId": "denzelchung"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13186,7 +13186,7 @@
       {
         "lineNumber": 1497,
         "author": {
-          "gitId": "chantca95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13200,7 +13200,7 @@
       {
         "lineNumber": 1499,
         "author": {
-          "gitId": "chantca95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13242,7 +13242,7 @@
       {
         "lineNumber": 1505,
         "author": {
-          "gitId": "chantca95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14319,12 +14319,12 @@
       }
     ],
     "authorContributionMap": {
-      "zioul123": 226,
-      "A19Sean": 185,
-      "-": 842,
-      "denzelchung": 154,
+      "zioul123": 219,
+      "A19Sean": 183,
+      "-": 858,
+      "denzelchung": 150,
       "AyushChatto": 99,
-      "chantca95": 152
+      "chantca95": 149
     }
   },
   {
@@ -14816,7 +14816,7 @@
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "AyushChatto"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15194,7 +15194,7 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "A19Sean"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17798,7 +17798,7 @@
       {
         "lineNumber": 496,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18022,7 +18022,7 @@
       {
         "lineNumber": 528,
         "author": {
-          "gitId": "chantca95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18217,12 +18217,12 @@
       }
     ],
     "authorContributionMap": {
-      "zioul123": 70,
-      "A19Sean": 108,
-      "-": 223,
+      "zioul123": 69,
+      "A19Sean": 107,
+      "-": 227,
       "denzelchung": 41,
-      "AyushChatto": 46,
-      "chantca95": 67
+      "AyushChatto": 45,
+      "chantca95": 66
     }
   },
   {
@@ -35709,7 +35709,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": "import static seedu.address.commons.core.Messages.MESSAGE_INVALID_COMMAND_FORMAT;"
       },
@@ -36345,8 +36345,8 @@
       }
     ],
     "authorContributionMap": {
-      "zioul123": 23,
-      "-": 71
+      "zioul123": 22,
+      "-": 72
     }
   },
   {
@@ -40827,14 +40827,14 @@
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "AyushChatto"
+          "gitId": "-"
         },
         "content": "import seedu.address.model.person.Person;"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "AyushChatto"
+          "gitId": "-"
         },
         "content": "import seedu.address.model.person.UniquePersonList;"
       },
@@ -41667,7 +41667,7 @@
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "AyushChatto"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -41925,8 +41925,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 117,
-      "AyushChatto": 48,
+      "-": 120,
+      "AyushChatto": 45,
       "chantca95": 1
     }
   },
@@ -47335,7 +47335,7 @@
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "AyushChatto"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -48518,8 +48518,8 @@
     ],
     "authorContributionMap": {
       "zioul123": 25,
-      "-": 84,
-      "AyushChatto": 73,
+      "-": 85,
+      "AyushChatto": 72,
       "denzelchung": 18
     }
   },
@@ -50199,7 +50199,7 @@
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": "                getTagSet(\"colleagues\", \"friends\")),"
       },
@@ -50255,7 +50255,7 @@
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": "                getTagSet(\"family\")),"
       },
@@ -50464,8 +50464,8 @@
       }
     ],
     "authorContributionMap": {
-      "zioul123": 21,
-      "-": 45
+      "zioul123": 19,
+      "-": 47
     }
   },
   {
@@ -52880,7 +52880,7 @@
       {
         "lineNumber": 143,
         "author": {
-          "gitId": "denzelchung"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -53048,9 +53048,9 @@
     ],
     "authorContributionMap": {
       "zioul123": 10,
-      "-": 130,
+      "-": 131,
       "AyushChatto": 13,
-      "denzelchung": 13
+      "denzelchung": 12
     }
   },
   {
@@ -57458,7 +57458,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -57500,7 +57500,7 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "denzelchung"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -58318,9 +58318,9 @@
       }
     ],
     "authorContributionMap": {
-      "zioul123": 25,
-      "-": 64,
-      "denzelchung": 31,
+      "zioul123": 24,
+      "-": 66,
+      "denzelchung": 30,
       "AyushChatto": 5,
       "chantca95": 22
     }
@@ -62341,7 +62341,7 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "denzelchung"
+          "gitId": "-"
         },
         "content": "    \u003cVBox alignment\u003d\"CENTER_LEFT\" minHeight\u003d\"105\" GridPane.columnIndex\u003d\"0\"\u003e"
       },
@@ -62530,8 +62530,8 @@
     ],
     "authorContributionMap": {
       "zioul123": 1,
-      "-": 31,
-      "denzelchung": 9,
+      "-": 32,
+      "denzelchung": 8,
       "AyushChatto": 1
     }
   },
@@ -62682,6 +62682,28 @@
     "authorContributionMap": {
       "zioul123": 12,
       "-": 8
+    }
+  },
+  {
+    "path": "src/test/data/CsvTest/AddressbookText.txt",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "chantca95"
+        },
+        "content": "Chee Cheong Fun,98987423,horjiak@gmail.com,Bedok 88,,hawker,businessman"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "chantca95"
+        },
+        "content": "Amos Yee,98743423,amosyee@gmail.com,America,,refugee,activist"
+      }
+    ],
+    "authorContributionMap": {
+      "chantca95": 2
     }
   },
   {
@@ -63813,7 +63835,7 @@
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": "    \u003c/persons\u003e"
       },
@@ -63826,9 +63848,9 @@
       }
     ],
     "authorContributionMap": {
-      "zioul123": 18,
+      "zioul123": 17,
       "A19Sean": 2,
-      "-": 50,
+      "-": 51,
       "AyushChatto": 10,
       "denzelchung": 10
     }
@@ -89819,21 +89841,21 @@
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": "        return this;"
       },
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -90036,7 +90058,7 @@
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -90078,21 +90100,21 @@
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": "        return this;"
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "zioul123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -90357,8 +90379,8 @@
       }
     ],
     "authorContributionMap": {
-      "zioul123": 45,
-      "-": 77,
+      "zioul123": 38,
+      "-": 84,
       "AyushChatto": 16,
       "denzelchung": 18
     }
@@ -92086,7 +92108,7 @@
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "AyushChatto"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -92101,9 +92123,9 @@
     "authorContributionMap": {
       "zioul123": 7,
       "A19Sean": 71,
-      "-": 68,
+      "-": 69,
       "denzelchung": 20,
-      "AyushChatto": 18
+      "AyushChatto": 17
     }
   },
   {
@@ -95135,7 +95157,7 @@
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "AyushChatto"
+          "gitId": "-"
         },
         "content": "     * Initializes {@code personListPanelHandle} with a {@code PersonListPanel} backed by {@code backingList}."
       },
@@ -95211,8 +95233,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 123,
-      "AyushChatto": 2,
+      "-": 124,
+      "AyushChatto": 1,
       "denzelchung": 1
     }
   },
@@ -95572,7 +95594,7 @@
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "A19Sean"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -95690,8 +95712,8 @@
       }
     ],
     "authorContributionMap": {
-      "A19Sean": 33,
-      "-": 34
+      "A19Sean": 32,
+      "-": 35
     }
   },
   {
@@ -95909,6 +95931,9 @@
       },
       {
         "lineNumber": 31,
+        "author": {
+          "gitId": "-"
+        },
         "content": "    //@@author zioul123-reused"
       },
       {
@@ -96319,9 +96344,8 @@
       }
     ],
     "authorContributionMap": {
-      "null": 1,
       "zioul123": 19,
-      "-": 69
+      "-": 70
     }
   },
   {

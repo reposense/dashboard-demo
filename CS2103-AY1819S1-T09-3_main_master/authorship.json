@@ -2332,7 +2332,7 @@
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2353,7 +2353,7 @@
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "j-lum"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3172,11 +3172,10 @@
     ],
     "authorContributionMap": {
       "lancelotwillow": 3,
-      "chivent": 23,
+      "chivent": 22,
       "ihwk1996": 3,
-      "j-lum": 1,
       "benedictcss": 1,
-      "-": 167
+      "-": 169
     }
   },
   {
@@ -5305,7 +5304,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5664,8 +5663,8 @@
       "lancelotwillow": 6,
       "chivent": 23,
       "j-lum": 25,
-      "benedictcss": 9,
-      "-": 12
+      "benedictcss": 8,
+      "-": 13
     }
   },
   {
@@ -25002,6 +25001,9 @@
       },
       {
         "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
         "content": "//@@author lancelotwilow"
       },
       {
@@ -25279,8 +25281,8 @@
       }
     ],
     "authorContributionMap": {
-      "null": 1,
-      "lancelotwillow": 41
+      "lancelotwillow": 41,
+      "-": 1
     }
   },
   {
@@ -28772,14 +28774,14 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -28793,14 +28795,14 @@
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "     * Leading and trailing whitespaces will be trimmed."
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "     *"
       },
@@ -28814,7 +28816,7 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -28835,7 +28837,7 @@
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -28884,14 +28886,14 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -28912,7 +28914,7 @@
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -28926,7 +28928,7 @@
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -28940,8 +28942,8 @@
     ],
     "authorContributionMap": {
       "chivent": 17,
-      "benedictcss": 24,
-      "-": 30
+      "benedictcss": 14,
+      "-": 40
     }
   },
   {
@@ -30657,7 +30659,7 @@
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -30692,7 +30694,7 @@
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -30727,14 +30729,14 @@
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -30748,7 +30750,7 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -30762,14 +30764,14 @@
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -30783,7 +30785,7 @@
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -30797,14 +30799,14 @@
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -30818,7 +30820,7 @@
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -30832,14 +30834,14 @@
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -30853,7 +30855,7 @@
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -30867,7 +30869,7 @@
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -30902,14 +30904,14 @@
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "lancelotwillow"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -30923,7 +30925,7 @@
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "lancelotwillow"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -30937,14 +30939,14 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "lancelotwillow"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -30958,7 +30960,7 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -30972,14 +30974,14 @@
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -30993,7 +30995,7 @@
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -31007,14 +31009,14 @@
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "lancelotwillow"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -31035,7 +31037,7 @@
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "lancelotwillow"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -31049,14 +31051,14 @@
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -31084,7 +31086,7 @@
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -31098,14 +31100,14 @@
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "lancelotwillow"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -31126,7 +31128,7 @@
       {
         "lineNumber": 151,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -31384,12 +31386,12 @@
       }
     ],
     "authorContributionMap": {
-      "lancelotwillow": 17,
-      "chivent": 29,
-      "ihwk1996": 39,
-      "benedictcss": 49,
+      "lancelotwillow": 11,
+      "chivent": 26,
+      "ihwk1996": 30,
+      "benedictcss": 34,
       "j-lum": 22,
-      "-": 31
+      "-": 64
     }
   },
   {
@@ -31699,7 +31701,7 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -31762,7 +31764,7 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -31790,7 +31792,7 @@
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -34436,11 +34438,11 @@
     ],
     "authorContributionMap": {
       "lancelotwillow": 13,
-      "chivent": 74,
+      "chivent": 72,
       "ihwk1996": 59,
-      "benedictcss": 123,
+      "benedictcss": 122,
       "j-lum": 138,
-      "-": 27
+      "-": 30
     }
   },
   {
@@ -36965,7 +36967,7 @@
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -37161,8 +37163,8 @@
     ],
     "authorContributionMap": {
       "chivent": 3,
-      "benedictcss": 89,
-      "-": 56
+      "benedictcss": 88,
+      "-": 57
     }
   },
   {
@@ -45403,7 +45405,7 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -45459,7 +45461,7 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -45473,7 +45475,7 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -45487,8 +45489,8 @@
     ],
     "authorContributionMap": {
       "chivent": 2,
-      "ihwk1996": 12,
-      "-": 42
+      "ihwk1996": 9,
+      "-": 45
     }
   },
   {
@@ -51249,7 +51251,7 @@
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "j-lum"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -51817,9 +51819,9 @@
     "authorContributionMap": {
       "lancelotwillow": 8,
       "chivent": 21,
-      "j-lum": 18,
+      "j-lum": 17,
       "benedictcss": 1,
-      "-": 173
+      "-": 174
     }
   },
   {
@@ -55110,7 +55112,7 @@
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -55159,7 +55161,7 @@
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -55172,8 +55174,8 @@
       }
     ],
     "authorContributionMap": {
-      "chivent": 12,
-      "-": 39
+      "chivent": 10,
+      "-": 41
     }
   },
   {
@@ -56579,21 +56581,21 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -56838,8 +56840,8 @@
     ],
     "authorContributionMap": {
       "lancelotwillow": 1,
-      "chivent": 34,
-      "-": 67
+      "chivent": 31,
+      "-": 70
     }
   },
   {
@@ -66843,7 +66845,7 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "public class ExitCommandTest {"
       },
@@ -66948,8 +66950,8 @@
     ],
     "authorContributionMap": {
       "lancelotwillow": 1,
-      "chivent": 3,
-      "-": 26
+      "chivent": 2,
+      "-": 27
     }
   },
   {
@@ -68275,7 +68277,7 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "public class HelpCommandTest {"
       },
@@ -68380,8 +68382,8 @@
     ],
     "authorContributionMap": {
       "lancelotwillow": 1,
-      "chivent": 4,
-      "-": 25
+      "chivent": 3,
+      "-": 26
     }
   },
   {
@@ -71855,7 +71857,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "import org.junit.Test;"
       },
@@ -71876,7 +71878,7 @@
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "import seedu.address.model.Model;"
       },
@@ -72246,8 +72248,8 @@
       }
     ],
     "authorContributionMap": {
-      "ihwk1996": 57,
-      "-": 6
+      "ihwk1996": 55,
+      "-": 8
     }
   },
   {
@@ -73282,7 +73284,7 @@
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.CommandHistory;"
       },
@@ -73303,7 +73305,7 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -73667,8 +73669,8 @@
     ],
     "authorContributionMap": {
       "chivent": 1,
-      "ihwk1996": 58,
-      "-": 6
+      "ihwk1996": 56,
+      "-": 8
     }
   },
   {
@@ -82685,7 +82687,7 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "j-lum"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -82832,7 +82834,7 @@
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "j-lum"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -82965,7 +82967,7 @@
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "j-lum"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -83308,7 +83310,7 @@
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "j-lum"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -83323,8 +83325,8 @@
     "authorContributionMap": {
       "lancelotwillow": 3,
       "chivent": 1,
-      "j-lum": 86,
-      "-": 31
+      "j-lum": 82,
+      "-": 35
     }
   },
   {
@@ -90425,7 +90427,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertNotNull;"
       },
@@ -90453,7 +90455,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "import java.io.IOException;"
       },
@@ -90488,7 +90490,7 @@
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -90824,7 +90826,7 @@
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
@@ -90908,7 +90910,7 @@
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -90922,7 +90924,7 @@
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -90936,21 +90938,21 @@
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -90992,7 +90994,7 @@
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "ihwk1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -91006,8 +91008,8 @@
     ],
     "authorContributionMap": {
       "chivent": 1,
-      "ihwk1996": 38,
-      "-": 47
+      "ihwk1996": 28,
+      "-": 57
     }
   },
   {
@@ -94427,7 +94429,7 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "benedictcss"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -95828,8 +95830,8 @@
     "authorContributionMap": {
       "lancelotwillow": 7,
       "chivent": 2,
-      "benedictcss": 88,
-      "-": 147
+      "benedictcss": 87,
+      "-": 148
     }
   },
   {
@@ -99671,7 +99673,7 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "import static seedu.address.testutil.EventsUtil.postNow;"
       },
@@ -99762,7 +99764,7 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -99797,7 +99799,7 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -100307,8 +100309,8 @@
       }
     ],
     "authorContributionMap": {
-      "chivent": 75,
-      "-": 20
+      "chivent": 72,
+      "-": 23
     }
   },
   {
@@ -103355,105 +103357,105 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "package systemtests;"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertEquals;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertFalse;"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertTrue;"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "import guitests.GuiRobot;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "import guitests.guihandles.HelpWindowHandle;"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.HelpCommand;"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "/**"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": " * A system test class for the help window, which contains interaction with other UI components."
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": " */"
       },
@@ -103467,182 +103469,182 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    private static final String ERROR_MESSAGE \u003d \"ATTENTION!!!! : On some computers, this test may fail when run on \""
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "            + \"non-headless mode as FxRobot#clickOn(Node, MouseButton...) clicks on the wrong location. We suspect \""
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "            + \"that this is a bug with TestFX library that we are using. If this test fails, you have to run your \""
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "            + \"tests on headless mode. See UsingGradle.adoc on how to do so.\";"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    private final GuiRobot guiRobot \u003d new GuiRobot();"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    public void openHelpWindow() {"
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        //use accelerator"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getCommandBox().click();"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getMainMenu().openHelpWindowUsingAccelerator();"
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        assertHelpWindowOpen();"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getResultDisplay().click();"
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getMainMenu().openHelpWindowUsingAccelerator();"
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        assertHelpWindowOpen();"
       },
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        //use menu button"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getMainMenu().openHelpWindowUsingMenu();"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        assertHelpWindowOpen();"
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        //use command box"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        executeCommand(HelpCommand.COMMAND_WORD);"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        assertHelpWindowOpen();"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -103663,28 +103665,28 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        // open help window and give it focus"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        executeCommand(HelpCommand.COMMAND_WORD);"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getMainWindowHandle().focus();"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -103705,21 +103707,21 @@
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
@@ -103733,217 +103735,218 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getMainMenu().openHelpWindowUsingMenu();"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getMainWindowHandle().focus();"
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getMainMenu().openHelpWindowUsingAccelerator();"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getMainWindowHandle().focus();"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        executeCommand(HelpCommand.COMMAND_WORD);"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        assertEquals(1, guiRobot.getNumberOfWindowsShown(HelpWindowHandle.HELP_WINDOW_TITLE));"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "     * Asserts that the help window is open, and closes it after checking."
       },
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    private void assertHelpWindowOpen() {"
       },
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        assertTrue(ERROR_MESSAGE, HelpWindowHandle.isWindowPresent());"
       },
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        guiRobot.pauseForHuman();"
       },
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        new HelpWindowHandle(guiRobot.getStage(HelpWindowHandle.HELP_WINDOW_TITLE)).close();"
       },
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        getMainWindowHandle().focus();"
       },
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "     * Asserts that the help window isn\u0027t open."
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    private void assertHelpWindowNotOpen() {"
       },
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "        assertFalse(ERROR_MESSAGE, HelpWindowHandle.isWindowPresent());"
       },
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "chivent"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
       "lancelotwillow": 1,
-      "chivent": 83
+      "chivent": 5,
+      "-": 78
     }
   },
   {

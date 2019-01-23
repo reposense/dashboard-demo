@@ -54,7 +54,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": "ifdef::env-github[]"
       },
@@ -292,9 +292,9 @@
     ],
     "authorContributionMap": {
       "darieca": 9,
-      "-": 22,
+      "-": 23,
       "keithtan": 1,
-      "caephler": 9
+      "caephler": 8
     }
   },
   {
@@ -2323,6 +2323,78 @@
     ],
     "authorContributionMap": {
       "triger15": 5
+    }
+  },
+  {
+    "path": "copyright.txt",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "caephler"
+        },
+        "content": "Some code adapted from http://code.makery.ch/library/javafx-8-tutorial/ by Marco Jakob"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Copyright by Susumu Yoshida - http://www.mcdodesign.com/"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "- address_book_32.png"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "- AddressApp.ico"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Copyright by Jan Jan Kovařík - http://glyphicons.com/"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "- calendar.png"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "- edit.png"
+      }
+    ],
+    "authorContributionMap": {
+      "-": 8,
+      "caephler": 1
     }
   },
   {
@@ -4495,7 +4567,7 @@
       {
         "lineNumber": 250,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5972,7 +6044,7 @@
       {
         "lineNumber": 461,
         "author": {
-          "gitId": "darieca"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5986,7 +6058,7 @@
       {
         "lineNumber": 463,
         "author": {
-          "gitId": "darieca"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6378,7 +6450,7 @@
       {
         "lineNumber": 519,
         "author": {
-          "gitId": "triger15"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7834,7 +7906,7 @@
       {
         "lineNumber": 727,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7932,7 +8004,7 @@
       {
         "lineNumber": 741,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7967,7 +8039,7 @@
       {
         "lineNumber": 746,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8072,7 +8144,7 @@
       {
         "lineNumber": 761,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8086,7 +8158,7 @@
       {
         "lineNumber": 763,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8100,7 +8172,7 @@
       {
         "lineNumber": 765,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8114,7 +8186,7 @@
       {
         "lineNumber": 767,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8128,7 +8200,7 @@
       {
         "lineNumber": 769,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8142,7 +8214,7 @@
       {
         "lineNumber": 771,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8156,7 +8228,7 @@
       {
         "lineNumber": 773,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8170,7 +8242,7 @@
       {
         "lineNumber": 775,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8184,7 +8256,7 @@
       {
         "lineNumber": 777,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8198,7 +8270,7 @@
       {
         "lineNumber": 779,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8212,7 +8284,7 @@
       {
         "lineNumber": 781,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8226,7 +8298,7 @@
       {
         "lineNumber": 783,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8240,7 +8312,7 @@
       {
         "lineNumber": 785,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8254,7 +8326,7 @@
       {
         "lineNumber": 787,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8268,7 +8340,7 @@
       {
         "lineNumber": 789,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8282,7 +8354,7 @@
       {
         "lineNumber": 791,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8296,7 +8368,7 @@
       {
         "lineNumber": 793,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8310,7 +8382,7 @@
       {
         "lineNumber": 795,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8324,7 +8396,7 @@
       {
         "lineNumber": 797,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8338,7 +8410,7 @@
       {
         "lineNumber": 799,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8352,7 +8424,7 @@
       {
         "lineNumber": 801,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8366,7 +8438,7 @@
       {
         "lineNumber": 803,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8450,7 +8522,7 @@
       {
         "lineNumber": 815,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8464,7 +8536,7 @@
       {
         "lineNumber": 817,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8478,7 +8550,7 @@
       {
         "lineNumber": 819,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8492,7 +8564,7 @@
       {
         "lineNumber": 821,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8590,7 +8662,7 @@
       {
         "lineNumber": 835,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8604,7 +8676,7 @@
       {
         "lineNumber": 837,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8639,7 +8711,7 @@
       {
         "lineNumber": 842,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8660,7 +8732,7 @@
       {
         "lineNumber": 845,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8674,7 +8746,7 @@
       {
         "lineNumber": 847,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8730,7 +8802,7 @@
       {
         "lineNumber": 855,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8751,7 +8823,7 @@
       {
         "lineNumber": 858,
         "author": {
-          "gitId": "darieca"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8765,7 +8837,7 @@
       {
         "lineNumber": 860,
         "author": {
-          "gitId": "darieca"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8786,7 +8858,7 @@
       {
         "lineNumber": 863,
         "author": {
-          "gitId": "darieca"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8807,7 +8879,7 @@
       {
         "lineNumber": 866,
         "author": {
-          "gitId": "darieca"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8821,7 +8893,7 @@
       {
         "lineNumber": 868,
         "author": {
-          "gitId": "darieca"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8863,7 +8935,7 @@
       {
         "lineNumber": 874,
         "author": {
-          "gitId": "darieca"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9024,7 +9096,7 @@
       {
         "lineNumber": 897,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9038,7 +9110,7 @@
       {
         "lineNumber": 899,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9101,7 +9173,7 @@
       {
         "lineNumber": 908,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9115,7 +9187,7 @@
       {
         "lineNumber": 910,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9157,7 +9229,7 @@
       {
         "lineNumber": 916,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9192,7 +9264,7 @@
       {
         "lineNumber": 921,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9227,7 +9299,7 @@
       {
         "lineNumber": 926,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9241,7 +9313,7 @@
       {
         "lineNumber": 928,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9269,7 +9341,7 @@
       {
         "lineNumber": 932,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9283,7 +9355,7 @@
       {
         "lineNumber": 934,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9332,7 +9404,7 @@
       {
         "lineNumber": 941,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9346,7 +9418,7 @@
       {
         "lineNumber": 943,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9388,7 +9460,7 @@
       {
         "lineNumber": 949,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9423,7 +9495,7 @@
       {
         "lineNumber": 954,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9437,7 +9509,7 @@
       {
         "lineNumber": 956,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9451,7 +9523,7 @@
       {
         "lineNumber": 958,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "[discrete]"
       },
@@ -9465,7 +9537,7 @@
       {
         "lineNumber": 960,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9479,7 +9551,7 @@
       {
         "lineNumber": 962,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9500,21 +9572,21 @@
       {
         "lineNumber": 965,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 966,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 967,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9528,7 +9600,7 @@
       {
         "lineNumber": 969,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "[none]"
       },
@@ -9549,7 +9621,7 @@
       {
         "lineNumber": 972,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "+"
       },
@@ -9563,7 +9635,7 @@
       {
         "lineNumber": 974,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9577,7 +9649,7 @@
       {
         "lineNumber": 976,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9752,7 +9824,7 @@
       {
         "lineNumber": 1001,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11025,12 +11097,12 @@
       }
     ],
     "authorContributionMap": {
-      "darieca": 145,
-      "wenshei": 228,
-      "triger15": 65,
-      "-": 572,
-      "keithtan": 132,
-      "caephler": 40
+      "darieca": 137,
+      "wenshei": 187,
+      "triger15": 64,
+      "-": 643,
+      "keithtan": 112,
+      "caephler": 39
     }
   },
   {
@@ -12034,7 +12106,7 @@
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12265,7 +12337,7 @@
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": "* The order of the keywords does not matter. e.g. `Hans Bo` will match `Bo Hans`"
       },
@@ -12405,7 +12477,7 @@
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "darieca"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14344,7 +14416,7 @@
       {
         "lineNumber": 416,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14603,7 +14675,7 @@
       {
         "lineNumber": 453,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14848,7 +14920,7 @@
       {
         "lineNumber": 488,
         "author": {
-          "gitId": "keithtan"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15058,7 +15130,7 @@
       {
         "lineNumber": 518,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15268,28 +15340,28 @@
       {
         "lineNumber": 548,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "* *Delete* : `delete INDEX` +"
       },
       {
         "lineNumber": 549,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "e.g. `delete 3`"
       },
       {
         "lineNumber": 550,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "* *Select* : `select INDEX` +"
       },
       {
         "lineNumber": 551,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "e.g.`select 2`"
       },
@@ -15547,12 +15619,12 @@
       }
     ],
     "authorContributionMap": {
-      "darieca": 34,
+      "darieca": 33,
       "triger15": 17,
-      "wenshei": 40,
-      "-": 205,
-      "keithtan": 110,
-      "caephler": 181
+      "wenshei": 36,
+      "-": 216,
+      "keithtan": 107,
+      "caephler": 178
     }
   },
   {
@@ -22707,7 +22779,7 @@
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -22734,8 +22806,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 27,
-      "caephler": 4
+      "-": 28,
+      "caephler": 3
     }
   },
   {
@@ -38866,7 +38938,7 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -39049,8 +39121,8 @@
     "authorContributionMap": {
       "triger15": 1,
       "wenshei": 2,
-      "-": 78,
-      "caephler": 3
+      "-": 79,
+      "caephler": 2
     }
   },
   {
@@ -72305,7 +72377,7 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -72326,7 +72398,7 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -72536,8 +72608,8 @@
     ],
     "authorContributionMap": {
       "triger15": 20,
-      "-": 123,
-      "caephler": 13
+      "-": 125,
+      "caephler": 11
     }
   },
   {
@@ -78611,14 +78683,14 @@
       {
         "lineNumber": 243,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 244,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -78841,8 +78913,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 193,
-      "caephler": 82
+      "-": 195,
+      "caephler": 80
     }
   },
   {
@@ -109921,21 +109993,21 @@
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertFalse;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertNotEquals;"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertTrue;"
       },
@@ -111642,8 +111714,8 @@
       }
     ],
     "authorContributionMap": {
-      "wenshei": 13,
-      "-": 231,
+      "wenshei": 10,
+      "-": 234,
       "caephler": 4
     }
   },
@@ -144771,21 +144843,21 @@
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertEquals;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertNotNull;"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertTrue;"
       },
@@ -145477,8 +145549,8 @@
       }
     ],
     "authorContributionMap": {
-      "wenshei": 7,
-      "-": 96
+      "wenshei": 4,
+      "-": 99
     }
   },
   {
@@ -146820,7 +146892,7 @@
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
@@ -146855,21 +146927,21 @@
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": "        Assert.assertThrows(IllegalValueException.class, expectedMessage, person::toModelType);"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "caephler"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -146954,8 +147026,8 @@
     "authorContributionMap": {
       "wenshei": 1,
       "triger15": 8,
-      "-": 85,
-      "caephler": 17
+      "-": 89,
+      "caephler": 13
     }
   },
   {
@@ -162872,21 +162944,21 @@
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertEquals;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertFalse;"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "wenshei"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertTrue;"
       },
@@ -164622,8 +164694,8 @@
     ],
     "authorContributionMap": {
       "darieca": 2,
-      "wenshei": 6,
-      "-": 243,
+      "wenshei": 3,
+      "-": 246,
       "caephler": 1
     }
   }
