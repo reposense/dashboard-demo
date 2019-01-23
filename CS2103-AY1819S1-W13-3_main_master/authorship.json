@@ -124,7 +124,7 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -235,9 +235,9 @@
       }
     ],
     "authorContributionMap": {
-      "preethi-d": 2,
+      "preethi-d": 1,
       "andrewtanJS": 2,
-      "-": 29
+      "-": 30
     }
   },
   {
@@ -2266,7 +2266,7 @@
       {
         "lineNumber": 261,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "}"
       },
@@ -2308,9 +2308,9 @@
     ],
     "authorContributionMap": {
       "preethi-d": 10,
-      "cyrusguo": 14,
+      "cyrusguo": 13,
       "andrewtanJS": 3,
-      "-": 239
+      "-": 240
     }
   },
   {
@@ -5653,7 +5653,7 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": "Role: Developer +"
       },
@@ -5680,9 +5680,8 @@
       }
     ],
     "authorContributionMap": {
-      "preethi-d": 1,
       "andrewtanJS": 5,
-      "-": 50
+      "-": 51
     }
   },
   {
@@ -6106,7 +6105,7 @@
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ". Run the `seedu.address.MainApp` and try a few commands"
       },
@@ -6512,7 +6511,7 @@
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "`Main` has only one class called link:{repoURL}/src/main/java/seedu/address/MainApp.java[`MainApp`]. It is responsible for,"
       },
@@ -6890,7 +6889,7 @@
       {
         "lineNumber": 164,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "*API* : link:{repoURL}/src/main/java/seedu/address/ui/Ui.java[`Ui.java`]"
       },
@@ -6918,7 +6917,7 @@
       {
         "lineNumber": 168,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "The `UI` component uses JavaFx UI framework. The layout of these UI parts are defined in matching `.fxml` files that are in the `src/main/resources/view` folder. For example, the layout of the link:{repoURL}/src/main/java/seedu/address/ui/MainWindow.java[`MainWindow`] is specified in link:{repoURL}/src/main/resources/view/MainWindow.fxml[`MainWindow.fxml`]"
       },
@@ -7030,7 +7029,7 @@
       {
         "lineNumber": 184,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "link:{repoURL}/src/main/java/seedu/address/logic/Logic.java[`Logic.java`]"
       },
@@ -7156,7 +7155,7 @@
       {
         "lineNumber": 202,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "*API* : link:{repoURL}/src/main/java/seedu/address/model/Model.java[`Model.java`]"
       },
@@ -7268,7 +7267,7 @@
       {
         "lineNumber": 218,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "*API* : link:{repoURL}/src/main/java/seedu/address/storage/Storage.java[`Storage.java`]"
       },
@@ -9270,21 +9269,21 @@
       {
         "lineNumber": 504,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "* `VersionedAddressBook#commit()` -- Saves the current address book state in its history."
       },
       {
         "lineNumber": 505,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "* `VersionedAddressBook#undo()` -- Restores the previous address book state from its history."
       },
       {
         "lineNumber": 506,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "* `VersionedAddressBook#redo()` -- Restores a previously undone address book state from its history."
       },
@@ -9326,7 +9325,7 @@
       {
         "lineNumber": 512,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "Step 1. The user launches the application for the first time. The `VersionedAddressBook` will be initialized with the initial address book state, and the `currentStatePointer` pointing to that single address book state."
       },
@@ -9417,7 +9416,7 @@
       {
         "lineNumber": 525,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "If a command fails its execution, it will not call `Model#commitAddressBook()`, so the address book state will not be saved into the `addressBookStateList`."
       },
@@ -9466,7 +9465,7 @@
       {
         "lineNumber": 532,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "If the `currentStatePointer` is at index 0, pointing to the initial address book state, then there are no previous address book states to restore. The `undo` command uses `Model#canUndoAddressBook()` to check if this is the case. If so, it will return an error to the user rather than attempting to perform the undo."
       },
@@ -9508,7 +9507,7 @@
       {
         "lineNumber": 538,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "The `redo` command does the opposite -- it calls `Model#redoAddressBook()`, which shifts the `currentStatePointer` once to the right, pointing to the previously undone state, and restores the address book to that state."
       },
@@ -9529,7 +9528,7 @@
       {
         "lineNumber": 541,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "If the `currentStatePointer` is at index `addressBookStateList.size() - 1`, pointing to the latest address book state, then there are no undone address book states to restore. The `redo` command uses `Model#canRedoAddressBook()` to check if this is the case. If so, it will return an error to the user rather than attempting to perform the redo."
       },
@@ -9543,7 +9542,7 @@
       {
         "lineNumber": 543,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "Step 5. The user then decides to execute the command `list`. Commands that do not modify the address book, such as `list`, will usually not call `Model#commitAddressBook()`, `Model#undoAddressBook()` or `Model#redoAddressBook()`. Thus, the `addressBookStateList` remains unchanged."
       },
@@ -9571,7 +9570,7 @@
       {
         "lineNumber": 547,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "Step 6. The user executes `clear`, which calls `Model#commitAddressBook()`. Since the `currentStatePointer` is not pointing at the end of the `addressBookStateList`, all address book states after the `currentStatePointer` will be purged. We designed it this way because it no longer makes sense to redo the `add n/David ...` command. This is the behavior that most modern desktop applications follow."
       },
@@ -9655,7 +9654,7 @@
       {
         "lineNumber": 559,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "* **Alternative 1 (current choice):** Saves the entire address book."
       },
@@ -9718,7 +9717,7 @@
       {
         "lineNumber": 568,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "* **Alternative 1 (current choice):** Use a list to store the history of address book states."
       },
@@ -11027,7 +11026,7 @@
       {
         "lineNumber": 755,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "// tag::dataencryption[]"
       },
@@ -11055,7 +11054,7 @@
       {
         "lineNumber": 759,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11083,21 +11082,21 @@
       {
         "lineNumber": 763,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 764,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "// end::dataencryption[]"
       },
       {
         "lineNumber": 765,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12168,7 +12167,7 @@
       {
         "lineNumber": 918,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ".. _Unit tests_ that test the individual components. These are in `seedu.address.ui` package."
       },
@@ -12189,7 +12188,7 @@
       {
         "lineNumber": 921,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "e.g. `seedu.address.commons.StringUtilTest`"
       },
@@ -12203,7 +12202,7 @@
       {
         "lineNumber": 923,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "e.g. `seedu.address.storage.StorageManagerTest`"
       },
@@ -12217,7 +12216,7 @@
       {
         "lineNumber": 925,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "e.g. `seedu.address.logic.LogicManagerTest`"
       },
@@ -12427,7 +12426,7 @@
       {
         "lineNumber": 955,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ".  Update the version number in link:{repoURL}/src/main/java/seedu/address/MainApp.java[`MainApp.java`]."
       },
@@ -12742,7 +12741,7 @@
       {
         "lineNumber": 1000,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12756,7 +12755,7 @@
       {
         "lineNumber": 1002,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12770,7 +12769,7 @@
       {
         "lineNumber": 1004,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12784,7 +12783,7 @@
       {
         "lineNumber": 1006,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12847,14 +12846,14 @@
       {
         "lineNumber": 1015,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1016,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "[discrete]"
       },
@@ -12868,7 +12867,7 @@
       {
         "lineNumber": 1018,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12882,7 +12881,7 @@
       {
         "lineNumber": 1020,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12903,7 +12902,7 @@
       {
         "lineNumber": 1023,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "+"
       },
@@ -12917,7 +12916,7 @@
       {
         "lineNumber": 1025,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12931,7 +12930,7 @@
       {
         "lineNumber": 1027,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12987,7 +12986,7 @@
       {
         "lineNumber": 1035,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13008,7 +13007,7 @@
       {
         "lineNumber": 1038,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13022,7 +13021,7 @@
       {
         "lineNumber": 1040,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13057,7 +13056,7 @@
       {
         "lineNumber": 1045,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13071,7 +13070,7 @@
       {
         "lineNumber": 1047,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13127,7 +13126,7 @@
       {
         "lineNumber": 1055,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13148,7 +13147,7 @@
       {
         "lineNumber": 1058,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13162,7 +13161,7 @@
       {
         "lineNumber": 1060,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13197,7 +13196,7 @@
       {
         "lineNumber": 1065,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13211,7 +13210,7 @@
       {
         "lineNumber": 1067,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13267,7 +13266,7 @@
       {
         "lineNumber": 1075,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13295,7 +13294,7 @@
       {
         "lineNumber": 1079,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13309,7 +13308,7 @@
       {
         "lineNumber": 1081,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13351,7 +13350,7 @@
       {
         "lineNumber": 1087,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13365,7 +13364,7 @@
       {
         "lineNumber": 1089,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13890,7 +13889,7 @@
       {
         "lineNumber": 1164,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13918,7 +13917,7 @@
       {
         "lineNumber": 1168,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13932,7 +13931,7 @@
       {
         "lineNumber": 1170,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13967,7 +13966,7 @@
       {
         "lineNumber": 1175,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13981,7 +13980,7 @@
       {
         "lineNumber": 1177,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14037,7 +14036,7 @@
       {
         "lineNumber": 1185,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14058,7 +14057,7 @@
       {
         "lineNumber": 1188,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14072,7 +14071,7 @@
       {
         "lineNumber": 1190,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14107,7 +14106,7 @@
       {
         "lineNumber": 1195,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14121,7 +14120,7 @@
       {
         "lineNumber": 1197,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14177,7 +14176,7 @@
       {
         "lineNumber": 1205,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14240,7 +14239,7 @@
       {
         "lineNumber": 1214,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14254,7 +14253,7 @@
       {
         "lineNumber": 1216,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "[discrete]"
       },
@@ -14268,21 +14267,21 @@
       {
         "lineNumber": 1218,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1219,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "*MSS*"
       },
       {
         "lineNumber": 1220,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14317,42 +14316,42 @@
       {
         "lineNumber": 1225,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 1226,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1227,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1228,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": "*Extensions*"
       },
       {
         "lineNumber": 1229,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1230,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "[none]"
       },
@@ -14387,21 +14386,21 @@
       {
         "lineNumber": 1235,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 1236,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1237,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14422,14 +14421,14 @@
       {
         "lineNumber": 1240,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 1241,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "[none]"
       },
@@ -14443,7 +14442,7 @@
       {
         "lineNumber": 1243,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "+"
       },
@@ -14464,7 +14463,7 @@
       {
         "lineNumber": 1246,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15996,11 +15995,11 @@
       }
     ],
     "authorContributionMap": {
-      "preethi-d": 94,
-      "cyrusguo": 85,
-      "andrewtanJS": 409,
+      "preethi-d": 93,
+      "cyrusguo": 80,
+      "andrewtanJS": 331,
       "alyip98": 171,
-      "-": 705
+      "-": 789
     }
   },
   {
@@ -18208,7 +18207,7 @@
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18229,14 +18228,14 @@
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": "****"
       },
@@ -19104,7 +19103,7 @@
       {
         "lineNumber": 207,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -19286,14 +19285,14 @@
       {
         "lineNumber": 233,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "****"
       },
       {
         "lineNumber": 234,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -19762,7 +19761,7 @@
       {
         "lineNumber": 301,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -19776,7 +19775,7 @@
       {
         "lineNumber": 303,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -20994,35 +20993,35 @@
       {
         "lineNumber": 477,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Saving the data"
       },
       {
         "lineNumber": 478,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 479,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "Address book data are saved in the hard disk automatically after any command that changes the data. +"
       },
       {
         "lineNumber": 480,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "There is no need to save manually."
       },
       {
         "lineNumber": 481,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -21287,10 +21286,10 @@
       }
     ],
     "authorContributionMap": {
-      "preethi-d": 59,
-      "andrewtanJS": 99,
-      "alyip98": 144,
-      "-": 216
+      "preethi-d": 56,
+      "andrewtanJS": 98,
+      "alyip98": 135,
+      "-": 229
     }
   },
   {
@@ -28706,7 +28705,7 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -28734,8 +28733,8 @@
     ],
     "authorContributionMap": {
       "andrewtanJS": 7,
-      "alyip98": 3,
-      "-": 24
+      "alyip98": 2,
+      "-": 25
     }
   },
   {
@@ -29185,14 +29184,14 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -29297,8 +29296,8 @@
     ],
     "authorContributionMap": {
       "andrewtanJS": 9,
-      "alyip98": 21,
-      "-": 49
+      "alyip98": 19,
+      "-": 51
     }
   },
   {
@@ -34885,14 +34884,14 @@
       {
         "lineNumber": 195,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 196,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -34913,14 +34912,14 @@
       {
         "lineNumber": 199,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 200,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -35207,8 +35206,8 @@
     ],
     "authorContributionMap": {
       "andrewtanJS": 66,
-      "alyip98": 10,
-      "-": 164
+      "alyip98": 6,
+      "-": 168
     }
   },
   {
@@ -36278,14 +36277,14 @@
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -36341,8 +36340,8 @@
     ],
     "authorContributionMap": {
       "andrewtanJS": 9,
-      "alyip98": 9,
-      "-": 37
+      "alyip98": 7,
+      "-": 39
     }
   },
   {
@@ -41807,7 +41806,7 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.AddCommand;"
       },
@@ -41828,28 +41827,28 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.ClearCommand;"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.Command;"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.DeleteCommand;"
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.EditCommand;"
       },
@@ -41863,14 +41862,14 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.ExitCommand;"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.FindCommand;"
       },
@@ -41884,21 +41883,21 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.HelpCommand;"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.HistoryCommand;"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.ListCommand;"
       },
@@ -41919,7 +41918,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.RedoCommand;"
       },
@@ -41933,14 +41932,14 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.SelectCommand;"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.UndoCommand;"
       },
@@ -42601,8 +42600,8 @@
       "yogtew": 3,
       "preethi-d": 3,
       "andrewtanJS": 7,
-      "alyip98": 25,
-      "-": 79
+      "alyip98": 12,
+      "-": 92
     }
   },
   {
@@ -46722,14 +46721,14 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -46743,8 +46742,8 @@
     ],
     "authorContributionMap": {
       "andrewtanJS": 2,
-      "alyip98": 23,
-      "-": 31
+      "alyip98": 21,
+      "-": 33
     }
   },
   {
@@ -48093,21 +48092,21 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "import seedu.address.commons.core.index.Index;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "import seedu.address.commons.util.StringUtil;"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.parser.exceptions.ParseException;"
       },
@@ -48751,14 +48750,14 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "yogtew"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "yogtew"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -49801,9 +49800,9 @@
     ],
     "authorContributionMap": {
       "preethi-d": 33,
-      "yogtew": 14,
-      "andrewtanJS": 104,
-      "-": 101
+      "yogtew": 12,
+      "andrewtanJS": 101,
+      "-": 106
     }
   },
   {
@@ -52765,7 +52764,7 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -53283,7 +53282,7 @@
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -53297,14 +53296,14 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -53325,7 +53324,7 @@
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -53339,14 +53338,14 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -53367,7 +53366,7 @@
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -53695,9 +53694,9 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 89,
+      "andrewtanJS": 81,
       "alyip98": 14,
-      "-": 50
+      "-": 58
     }
   },
   {
@@ -53930,7 +53929,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "    private final VersionedAddressBook versionedAddressBook;"
       },
@@ -54077,7 +54076,7 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -56834,9 +56833,9 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 211,
-      "alyip98": 117,
-      "-": 119
+      "andrewtanJS": 210,
+      "alyip98": 116,
+      "-": 121
     }
   },
   {
@@ -79553,84 +79552,84 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "package seedu.address.ui;"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import java.util.logging.Logger;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import com.google.common.eventbus.Subscribe;"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import javafx.application.Platform;"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import javafx.event.Event;"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import javafx.fxml.FXML;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import javafx.scene.layout.Region;"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import javafx.scene.web.WebView;"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import seedu.address.commons.core.LogsCenter;"
       },
@@ -79644,14 +79643,14 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "/**"
       },
@@ -79665,7 +79664,7 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": " */"
       },
@@ -79679,7 +79678,7 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -79693,7 +79692,7 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    public static final String SEARCH_PAGE_URL \u003d"
       },
@@ -79728,56 +79727,56 @@
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    private static final String FXML \u003d \"BrowserPanel.fxml\";"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    private final Logger logger \u003d LogsCenter.getLogger(getClass());"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    @FXML"
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    private WebView browser;"
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -79791,63 +79790,63 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        super(FXML);"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        // To prevent triggering events for typing inside the loaded Web page."
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        getRoot().setOnKeyPressed(Event::consume);"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        loadDefaultPage();"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        registerAsAnEventHandler(this);"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -79917,70 +79916,70 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    public void loadPage(String url) {"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        Platform.runLater(() -\u003e browser.getEngine().load(url));"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     * Loads a default HTML file with a background that matches the general theme."
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    private void loadDefaultPage() {"
       },
@@ -80008,28 +80007,28 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    @Subscribe"
       },
@@ -80043,7 +80042,7 @@
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        logger.info(LogsCenter.getEventHandlingLogMessage(event));"
       },
@@ -80057,20 +80056,21 @@
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "cyrusguo": 74
+      "cyrusguo": 23,
+      "-": 51
     }
   },
   {
@@ -81397,7 +81397,7 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    @FXML"
       },
@@ -81411,7 +81411,7 @@
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -81516,7 +81516,7 @@
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -81992,7 +81992,7 @@
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -82076,7 +82076,7 @@
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -82517,7 +82517,7 @@
       {
         "lineNumber": 205,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -82593,10 +82593,10 @@
       }
     ],
     "authorContributionMap": {
-      "cyrusguo": 9,
-      "andrewtanJS": 13,
-      "alyip98": 7,
-      "-": 186
+      "cyrusguo": 5,
+      "andrewtanJS": 12,
+      "alyip98": 6,
+      "-": 192
     }
   },
   {
@@ -85243,14 +85243,14 @@
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": "}"
       },
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -86964,8 +86964,8 @@
       }
     ],
     "authorContributionMap": {
-      "preethi-d": 43,
-      "-": 327
+      "preethi-d": 41,
+      "-": 329
     }
   },
   {
@@ -87923,21 +87923,21 @@
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "            \u003cpadding\u003e"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "              \u003cInsets top\u003d\"10\" right\u003d\"10\" bottom\u003d\"10\" left\u003d\"10\" /\u003e"
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "            \u003c/padding\u003e"
       },
@@ -87951,14 +87951,14 @@
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "          \u003c/VBox\u003e"
       },
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -88056,10 +88056,10 @@
     ],
     "authorContributionMap": {
       "preethi-d": 2,
-      "cyrusguo": 9,
+      "cyrusguo": 4,
       "andrewtanJS": 4,
       "alyip98": 5,
-      "-": 59
+      "-": 64
     }
   },
   {
@@ -92480,77 +92480,77 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "package guitests.guihandles;"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import java.net.URL;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import guitests.GuiRobot;"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import javafx.concurrent.Worker;"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import javafx.scene.Node;"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import javafx.scene.web.WebEngine;"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import javafx.scene.web.WebView;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "/**"
       },
@@ -92564,7 +92564,7 @@
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": " */"
       },
@@ -92578,49 +92578,49 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    public static final String BROWSER_ID \u003d \"#browser\";"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    private boolean isWebViewLoaded \u003d true;"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    private URL lastRememberedUrl;"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -92634,300 +92634,301 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        super(browserPanelNode);"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        WebView webView \u003d getChildNode(BROWSER_ID);"
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        WebEngine engine \u003d webView.getEngine();"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        new GuiRobot().interact(() -\u003e engine.getLoadWorker().stateProperty().addListener((obs, oldState, newState) -\u003e {"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "            if (newState \u003d\u003d Worker.State.RUNNING) {"
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "                isWebViewLoaded \u003d false;"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "            } else if (newState \u003d\u003d Worker.State.SUCCEEDED) {"
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "                isWebViewLoaded \u003d true;"
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "            }"
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        }));"
       },
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     * Returns the {@code URL} of the currently loaded page."
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    public URL getLoadedUrl() {"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        return WebViewUtil.getLoadedUrl(getChildNode(BROWSER_ID));"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     * Remembers the {@code URL} of the currently loaded page."
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    public void rememberUrl() {"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        lastRememberedUrl \u003d getLoadedUrl();"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     * Returns true if the current {@code URL} is different from the value remembered by the most recent"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     * {@code rememberUrl()} call."
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    public boolean isUrlChanged() {"
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        return !lastRememberedUrl.equals(getLoadedUrl());"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     * Returns true if the browser is done loading a page, or if this browser has yet to load any page."
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    public boolean isLoaded() {"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "        return isWebViewLoaded;"
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "cyrusguo": 64
+      "cyrusguo": 3,
+      "-": 61
     }
   },
   {
@@ -93167,14 +93168,14 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -93299,8 +93300,8 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 10,
-      "-": 42
+      "andrewtanJS": 8,
+      "-": 44
     }
   },
   {
@@ -95514,7 +95515,7 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "import guitests.GuiRobot;"
       },
@@ -95640,14 +95641,14 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -95661,7 +95662,7 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -95682,7 +95683,7 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "cyrusguo"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -95695,8 +95696,8 @@
       }
     ],
     "authorContributionMap": {
-      "cyrusguo": 8,
-      "-": 23
+      "cyrusguo": 3,
+      "-": 28
     }
   },
   {
@@ -101114,14 +101115,14 @@
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        @Override"
       },
@@ -101135,28 +101136,28 @@
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(\"This method should not be called.\");"
       },
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 167,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 168,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        @Override"
       },
@@ -101786,14 +101787,14 @@
       {
         "lineNumber": 258,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(\"This method should not be called.\");"
       },
       {
         "lineNumber": 259,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -102149,9 +102150,9 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 124,
-      "alyip98": 27,
-      "-": 158
+      "andrewtanJS": 121,
+      "alyip98": 22,
+      "-": 166
     }
   },
   {
@@ -104691,7 +104692,7 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_EMAIL;"
       },
@@ -104712,7 +104713,7 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_NAME;"
       },
@@ -104740,7 +104741,7 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_TAG;"
       },
@@ -105405,7 +105406,7 @@
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -106125,11 +106126,11 @@
       }
     ],
     "authorContributionMap": {
-      "preethi-d": 15,
+      "preethi-d": 12,
       "yogtew": 1,
-      "andrewtanJS": 100,
+      "andrewtanJS": 99,
       "alyip98": 1,
-      "-": 96
+      "-": 100
     }
   },
   {
@@ -110171,105 +110172,105 @@
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        FindCommand findSecondCommand \u003d new FindCommand(secondPredicate);"
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        // same object -\u003e returns true"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        assertTrue(findFirstCommand.equals(findFirstCommand));"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        // same values -\u003e returns true"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        FindCommand findFirstCommandCopy \u003d new FindCommand(firstPredicate);"
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        assertTrue(findFirstCommand.equals(findFirstCommandCopy));"
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        // different types -\u003e returns false"
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        assertFalse(findFirstCommand.equals(1));"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        // null -\u003e returns false"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        assertFalse(findFirstCommand.equals(null));"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -110283,28 +110284,28 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "        assertFalse(findFirstCommand.equals(findSecondCommand));"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
@@ -110682,8 +110683,8 @@
     ],
     "authorContributionMap": {
       "andrewtanJS": 20,
-      "alyip98": 27,
-      "-": 68
+      "alyip98": 8,
+      "-": 87
     }
   },
   {
@@ -118262,7 +118263,7 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
@@ -118331,8 +118332,8 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 23,
-      "-": 34
+      "andrewtanJS": 22,
+      "-": 35
     }
   },
   {
@@ -119856,14 +119857,14 @@
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "yogtew"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "yogtew"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -120087,14 +120088,14 @@
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "preethi-d"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -120647,14 +120648,14 @@
       {
         "lineNumber": 188,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 189,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -120842,11 +120843,11 @@
       }
     ],
     "authorContributionMap": {
-      "preethi-d": 17,
-      "yogtew": 8,
+      "preethi-d": 15,
+      "yogtew": 6,
       "cyrusguo": 10,
-      "andrewtanJS": 55,
-      "-": 125
+      "andrewtanJS": 53,
+      "-": 131
     }
   },
   {
@@ -123699,7 +123700,7 @@
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "alyip98"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -124014,8 +124015,8 @@
     ],
     "authorContributionMap": {
       "andrewtanJS": 2,
-      "alyip98": 20,
-      "-": 32
+      "alyip98": 19,
+      "-": 33
     }
   },
   {
@@ -130186,14 +130187,14 @@
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -130493,8 +130494,8 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 53,
-      "-": 62
+      "andrewtanJS": 51,
+      "-": 64
     }
   },
   {
@@ -154118,7 +154119,7 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -154307,14 +154308,14 @@
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "     * in the correct order."
       },
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -154349,21 +154350,21 @@
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -154440,14 +154441,14 @@
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "     * in the correct order."
       },
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -154468,14 +154469,14 @@
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -154593,8 +154594,8 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 63,
-      "-": 49
+      "andrewtanJS": 53,
+      "-": 59
     }
   },
   {
@@ -157230,14 +157231,14 @@
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -158398,8 +158399,8 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 68,
-      "-": 221
+      "andrewtanJS": 66,
+      "-": 223
     }
   },
   {
@@ -165098,14 +165099,14 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -165119,7 +165120,7 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -165140,7 +165141,7 @@
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -165153,8 +165154,8 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 25,
-      "-": 27
+      "andrewtanJS": 21,
+      "-": 31
     }
   },
   {
@@ -165688,7 +165689,7 @@
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "andrewtanJS"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -165701,8 +165702,8 @@
       }
     ],
     "authorContributionMap": {
-      "andrewtanJS": 31,
-      "-": 46
+      "andrewtanJS": 30,
+      "-": 47
     }
   },
   {

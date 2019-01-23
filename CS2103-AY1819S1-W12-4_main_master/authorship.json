@@ -250,7 +250,7 @@
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": "_Marco Jakob_."
       },
@@ -284,9 +284,9 @@
       }
     ],
     "authorContributionMap": {
-      "robertvictoreen": 4,
+      "robertvictoreen": 3,
       "spencertan96": 12,
-      "-": 24
+      "-": 25
     }
   },
   {
@@ -2511,7 +2511,7 @@
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2532,14 +2532,14 @@
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "Role: Developer +"
       },
@@ -2553,7 +2553,7 @@
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2589,9 +2589,9 @@
     "authorContributionMap": {
       "robertvictoreen": 2,
       "Zackkh95": 1,
-      "spencertan96": 7,
-      "HenryJk": 4,
-      "-": 39
+      "spencertan96": 4,
+      "HenryJk": 3,
+      "-": 43
     }
   },
   {
@@ -4954,7 +4954,7 @@
       {
         "lineNumber": 329,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4975,7 +4975,7 @@
       {
         "lineNumber": 332,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7565,7 +7565,7 @@
       {
         "lineNumber": 702,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11142,7 +11142,7 @@
       {
         "lineNumber": 1213,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11156,7 +11156,7 @@
       {
         "lineNumber": 1215,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11170,7 +11170,7 @@
       {
         "lineNumber": 1217,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11184,7 +11184,7 @@
       {
         "lineNumber": 1219,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11597,7 +11597,7 @@
       {
         "lineNumber": 1278,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "+"
       },
@@ -11919,7 +11919,7 @@
       {
         "lineNumber": 1324,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11940,7 +11940,7 @@
       {
         "lineNumber": 1327,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12941,7 +12941,7 @@
       {
         "lineNumber": 1470,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13423,11 +13423,11 @@
       }
     ],
     "authorContributionMap": {
-      "robertvictoreen": 222,
-      "Zackkh95": 105,
-      "spencertan96": 167,
-      "HenryJk": 86,
-      "-": 958
+      "robertvictoreen": 215,
+      "Zackkh95": 103,
+      "spencertan96": 166,
+      "HenryJk": 85,
+      "-": 969
     }
   },
   {
@@ -14010,7 +14010,7 @@
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14024,14 +14024,14 @@
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "Format: `list`"
       },
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14045,7 +14045,7 @@
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14066,7 +14066,7 @@
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14080,21 +14080,21 @@
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "* The order of the keywords does not matter. e.g. `Hans Bo` will match `Bo Hans`"
       },
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "* Only the name is searched."
       },
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "* Only full words will be matched e.g. `Han` will not match `Hans`"
       },
@@ -14108,56 +14108,56 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "* `find John` +"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "Returns `john` and `John Doe`"
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "* `find Betsy Tim John` +"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "Returns any person having names `Betsy`, `Tim`, or `John`"
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14332,7 +14332,7 @@
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14346,14 +14346,14 @@
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "Format: `select INDEX`"
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14381,35 +14381,35 @@
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "* `list` +"
       },
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "`select 2` +"
       },
@@ -14423,14 +14423,14 @@
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "* `find Betsy` +"
       },
       {
         "lineNumber": 143,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "`select 1` +"
       },
@@ -14444,7 +14444,7 @@
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14458,7 +14458,7 @@
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14472,7 +14472,7 @@
       {
         "lineNumber": 149,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14745,7 +14745,7 @@
       {
         "lineNumber": 188,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15606,7 +15606,7 @@
       {
         "lineNumber": 311,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15627,7 +15627,7 @@
       {
         "lineNumber": 314,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15662,7 +15662,7 @@
       {
         "lineNumber": 319,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16663,21 +16663,21 @@
       {
         "lineNumber": 462,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 463,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Command Summary"
       },
       {
         "lineNumber": 464,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16831,7 +16831,7 @@
       {
         "lineNumber": 486,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "e.g. `edit 2 n/James Lee e/jameslee@example.com`"
       },
@@ -16894,7 +16894,7 @@
       {
         "lineNumber": 495,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "e.g. `find James Jake`"
       },
@@ -17027,10 +17027,10 @@
     ],
     "authorContributionMap": {
       "robertvictoreen": 26,
-      "Zackkh95": 24,
-      "spencertan96": 221,
-      "HenryJk": 49,
-      "-": 193
+      "Zackkh95": 21,
+      "spencertan96": 193,
+      "HenryJk": 42,
+      "-": 231
     }
   },
   {
@@ -23938,21 +23938,21 @@
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "    public AddCommand(Person person) {"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "        requireNonNull(person);"
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "        toAdd \u003d person;"
       },
@@ -23966,14 +23966,14 @@
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -24211,8 +24211,8 @@
     ],
     "authorContributionMap": {
       "robertvictoreen": 9,
-      "spencertan96": 24,
-      "-": 66
+      "spencertan96": 19,
+      "-": 71
     }
   },
   {
@@ -30304,7 +30304,7 @@
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "import java.util.List;"
       },
@@ -30360,7 +30360,7 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "import seedu.address.model.person.Person;"
       },
@@ -30928,8 +30928,7 @@
     "authorContributionMap": {
       "robertvictoreen": 2,
       "spencertan96": 2,
-      "HenryJk": 2,
-      "-": 93
+      "-": 95
     }
   },
   {
@@ -34474,7 +34473,7 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -34607,8 +34606,8 @@
     ],
     "authorContributionMap": {
       "robertvictoreen": 7,
-      "spencertan96": 8,
-      "-": 43
+      "spencertan96": 7,
+      "-": 44
     }
   },
   {
@@ -58108,7 +58107,7 @@
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -58241,14 +58240,14 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -59236,9 +59235,9 @@
     "authorContributionMap": {
       "robertvictoreen": 13,
       "Zackkh95": 16,
-      "spencertan96": 62,
+      "spencertan96": 59,
       "HenryJk": 32,
-      "-": 121
+      "-": 124
     }
   },
   {
@@ -66387,70 +66386,70 @@
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "     * Converts a given Person into this class for JAXB use."
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "     *"
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "     * @param source future changes to this will not affect the created XmlAdaptedPerson"
       },
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "    public XmlAdaptedPerson(Person source) {"
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "        name \u003d source.getName().fullName;"
       },
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "        phone \u003d source.getPhone().value;"
       },
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "        email \u003d source.getEmail().value;"
       },
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "        address \u003d source.getAddress().value;"
       },
@@ -66471,21 +66470,21 @@
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "        tagged \u003d source.getTags().stream()"
       },
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "                .map(XmlAdaptedTag::new)"
       },
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "                .collect(Collectors.toList());"
       },
@@ -66534,14 +66533,14 @@
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "HenryJk"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -66968,7 +66967,7 @@
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -67234,10 +67233,10 @@
     ],
     "authorContributionMap": {
       "robertvictoreen": 31,
-      "Zackkh95": 23,
+      "Zackkh95": 22,
       "spencertan96": 15,
-      "HenryJk": 51,
-      "-": 126
+      "HenryJk": 36,
+      "-": 142
     }
   },
   {
@@ -72052,7 +72051,7 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -72227,14 +72226,14 @@
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -72366,9 +72365,8 @@
       }
     ],
     "authorContributionMap": {
-      "Zackkh95": 22,
-      "spencertan96": 1,
-      "-": 69
+      "Zackkh95": 20,
+      "-": 72
     }
   },
   {
@@ -74854,7 +74852,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": "    -fx-padding: 0 0 0 1;"
       },
@@ -74889,14 +74887,14 @@
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": "    -fx-min-height: 0;"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": "    -fx-max-height: 0;"
       },
@@ -75645,7 +75643,7 @@
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "robertvictoreen"
+          "gitId": "-"
         },
         "content": "     -fx-border-top-width: 1px;"
       },
@@ -77247,10 +77245,10 @@
       }
     ],
     "authorContributionMap": {
-      "robertvictoreen": 12,
+      "robertvictoreen": 8,
       "spencertan96": 4,
       "HenryJk": 11,
-      "-": 347
+      "-": 351
     }
   },
   {
@@ -78674,7 +78672,7 @@
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -78695,7 +78693,7 @@
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -78708,8 +78706,8 @@
       }
     ],
     "authorContributionMap": {
-      "spencertan96": 9,
-      "-": 44
+      "spencertan96": 7,
+      "-": 46
     }
   },
   {
@@ -80444,91 +80442,91 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "package guitests.guihandles;"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "import java.net.MalformedURLException;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "import java.net.URL;"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "import javafx.scene.web.WebView;"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "/**"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": " * Helper methods for dealing with {@code WebView}."
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": " */"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "public class WebViewUtil {"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -80542,69 +80540,70 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "    public static URL getLoadedUrl(WebView webView) {"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "        try {"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "            return new URL(webView.getEngine().getLocation());"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "        } catch (MalformedURLException mue) {"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(\"webView should not be displaying an invalid URL.\", mue);"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "spencertan96": 23
+      "spencertan96": 1,
+      "-": 22
     }
   },
   {
@@ -82284,7 +82283,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertEquals;"
       },
@@ -82326,7 +82325,7 @@
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "import java.util.Arrays;"
       },
@@ -82396,7 +82395,7 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.exceptions.CommandException;"
       },
@@ -82683,14 +82682,14 @@
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -83438,8 +83437,8 @@
       }
     ],
     "authorContributionMap": {
-      "spencertan96": 47,
-      "-": 121
+      "spencertan96": 42,
+      "-": 126
     }
   },
   {
@@ -85507,21 +85506,21 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import java.util.ArrayList;"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import java.util.Arrays;"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import java.util.List;"
       },
@@ -85535,14 +85534,14 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import seedu.address.commons.core.index.Index;"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.CommandHistory;"
       },
@@ -85563,21 +85562,21 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.exceptions.CommandException;"
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import seedu.address.model.AddressBook;"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import seedu.address.model.Model;"
       },
@@ -85591,14 +85590,14 @@
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import seedu.address.model.person.NameContainsKeywordsPredicate;"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "Zackkh95"
+          "gitId": "-"
         },
         "content": "import seedu.address.model.person.Person;"
       },
@@ -87235,10 +87234,10 @@
       }
     ],
     "authorContributionMap": {
-      "Zackkh95": 30,
+      "Zackkh95": 20,
       "spencertan96": 31,
       "HenryJk": 37,
-      "-": 165
+      "-": 175
     }
   },
   {
@@ -101763,925 +101762,6 @@
     ],
     "authorContributionMap": {
       "HenryJk": 104
-    }
-  },
-  {
-    "path": "src/test/java/seedu/address/logic/parser/AddCommandParserTest.java",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "package seedu.address.logic.parser;"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.commons.core.Messages.MESSAGE_INVALID_COMMAND_FORMAT;"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.ADDRESS_DESC_AMY;"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.ADDRESS_DESC_BOB;"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.EMAIL_DESC_AMY;"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.EMAIL_DESC_BOB;"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_ADDRESS_DESC;"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_EMAIL_DESC;"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_NAME_DESC;"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_PHONE_DESC;"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_TAG_DESC;"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.NAME_DESC_AMY;"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.NAME_DESC_BOB;"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.PHONE_DESC_AMY;"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.PHONE_DESC_BOB;"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.PREAMBLE_NON_EMPTY;"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.PREAMBLE_WHITESPACE;"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.TAG_DESC_FRIEND;"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.TAG_DESC_HUSBAND;"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_ADDRESS_BOB;"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_EMAIL_BOB;"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_NAME_BOB;"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_PHONE_BOB;"
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_TAG_FRIEND;"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_TAG_HUSBAND;"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.parser.CommandParserTestUtil.assertParseFailure;"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.parser.CommandParserTestUtil.assertParseSuccess;"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.AMY;"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.BOB;"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import org.junit.Test;"
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.logic.commands.AddCommand;"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "HenryJk"
-        },
-        "content": "import seedu.address.model.person.Address;"
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Email;"
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Name;"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Person;"
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Phone;"
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.tag.Tag;"
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.testutil.PersonBuilder;"
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "public class AddCommandParserTest {"
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private AddCommandParser parser \u003d new AddCommandParser();"
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parse_allFieldsPresent_success() {"
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Person expectedPerson \u003d new PersonBuilder(BOB).withTags(VALID_TAG_FRIEND).build();"
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // whitespace only preamble"
-      },
-      {
-        "lineNumber": 51,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseSuccess(parser, PREAMBLE_WHITESPACE + NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB"
-      },
-      {
-        "lineNumber": 52,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + ADDRESS_DESC_BOB + TAG_DESC_FRIEND, new AddCommand(expectedPerson));"
-      },
-      {
-        "lineNumber": 53,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 54,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // multiple names - last name accepted"
-      },
-      {
-        "lineNumber": 55,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseSuccess(parser, NAME_DESC_AMY + NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB"
-      },
-      {
-        "lineNumber": 56,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + ADDRESS_DESC_BOB + TAG_DESC_FRIEND, new AddCommand(expectedPerson));"
-      },
-      {
-        "lineNumber": 57,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 58,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // multiple phones - last phone accepted"
-      },
-      {
-        "lineNumber": 59,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseSuccess(parser, NAME_DESC_BOB + PHONE_DESC_AMY + PHONE_DESC_BOB + EMAIL_DESC_BOB"
-      },
-      {
-        "lineNumber": 60,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + ADDRESS_DESC_BOB + TAG_DESC_FRIEND, new AddCommand(expectedPerson));"
-      },
-      {
-        "lineNumber": 61,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // multiple emails - last email accepted"
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseSuccess(parser, NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_AMY + EMAIL_DESC_BOB"
-      },
-      {
-        "lineNumber": 64,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + ADDRESS_DESC_BOB + TAG_DESC_FRIEND, new AddCommand(expectedPerson));"
-      },
-      {
-        "lineNumber": 65,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 66,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // multiple addresses - last address accepted"
-      },
-      {
-        "lineNumber": 67,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseSuccess(parser, NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB + ADDRESS_DESC_AMY"
-      },
-      {
-        "lineNumber": 68,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + ADDRESS_DESC_BOB + TAG_DESC_FRIEND, new AddCommand(expectedPerson));"
-      },
-      {
-        "lineNumber": 69,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 70,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // multiple tags - all accepted"
-      },
-      {
-        "lineNumber": 71,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Person expectedPersonMultipleTags \u003d new PersonBuilder(BOB).withTags(VALID_TAG_FRIEND, VALID_TAG_HUSBAND)"
-      },
-      {
-        "lineNumber": 72,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                .build();"
-      },
-      {
-        "lineNumber": 73,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseSuccess(parser, NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB + ADDRESS_DESC_BOB"
-      },
-      {
-        "lineNumber": 74,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + TAG_DESC_HUSBAND + TAG_DESC_FRIEND, new AddCommand(expectedPersonMultipleTags));"
-      },
-      {
-        "lineNumber": 75,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 76,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 77,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 78,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parse_optionalFieldsMissing_success() {"
-      },
-      {
-        "lineNumber": 79,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // zero tags"
-      },
-      {
-        "lineNumber": 80,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Person expectedPerson \u003d new PersonBuilder(AMY).withTags().build();"
-      },
-      {
-        "lineNumber": 81,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseSuccess(parser, NAME_DESC_AMY + PHONE_DESC_AMY + EMAIL_DESC_AMY + ADDRESS_DESC_AMY,"
-      },
-      {
-        "lineNumber": 82,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                new AddCommand(expectedPerson));"
-      },
-      {
-        "lineNumber": 83,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 84,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 85,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 86,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parse_compulsoryFieldMissing_failure() {"
-      },
-      {
-        "lineNumber": 87,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String expectedMessage \u003d String.format(MESSAGE_INVALID_COMMAND_FORMAT, AddCommand.MESSAGE_USAGE);"
-      },
-      {
-        "lineNumber": 88,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 89,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // missing name prefix"
-      },
-      {
-        "lineNumber": 90,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseFailure(parser, VALID_NAME_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB + ADDRESS_DESC_BOB,"
-      },
-      {
-        "lineNumber": 91,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                expectedMessage);"
-      },
-      {
-        "lineNumber": 92,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 93,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // all prefixes missing"
-      },
-      {
-        "lineNumber": 94,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseFailure(parser, VALID_NAME_BOB + VALID_PHONE_BOB + VALID_EMAIL_BOB + VALID_ADDRESS_BOB,"
-      },
-      {
-        "lineNumber": 95,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                expectedMessage);"
-      },
-      {
-        "lineNumber": 96,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 97,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 98,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 99,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parse_invalidValue_failure() {"
-      },
-      {
-        "lineNumber": 100,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // invalid name"
-      },
-      {
-        "lineNumber": 101,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseFailure(parser, INVALID_NAME_DESC + PHONE_DESC_BOB + EMAIL_DESC_BOB + ADDRESS_DESC_BOB"
-      },
-      {
-        "lineNumber": 102,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + TAG_DESC_HUSBAND + TAG_DESC_FRIEND, Name.MESSAGE_NAME_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 103,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 104,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // invalid phone"
-      },
-      {
-        "lineNumber": 105,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseFailure(parser, NAME_DESC_BOB + INVALID_PHONE_DESC + EMAIL_DESC_BOB + ADDRESS_DESC_BOB"
-      },
-      {
-        "lineNumber": 106,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + TAG_DESC_HUSBAND + TAG_DESC_FRIEND, Phone.MESSAGE_PHONE_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 107,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 108,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // invalid email"
-      },
-      {
-        "lineNumber": 109,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseFailure(parser, NAME_DESC_BOB + PHONE_DESC_BOB + INVALID_EMAIL_DESC + ADDRESS_DESC_BOB"
-      },
-      {
-        "lineNumber": 110,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + TAG_DESC_HUSBAND + TAG_DESC_FRIEND, Email.MESSAGE_EMAIL_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 111,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 112,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // invalid address"
-      },
-      {
-        "lineNumber": 113,
-        "author": {
-          "gitId": "HenryJk"
-        },
-        "content": "        assertParseFailure(parser, NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB + INVALID_ADDRESS_DESC"
-      },
-      {
-        "lineNumber": 114,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + TAG_DESC_HUSBAND + TAG_DESC_FRIEND, Address.MESSAGE_ADDRESS_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 115,
-        "author": {
-          "gitId": "HenryJk"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 116,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 117,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // invalid tag"
-      },
-      {
-        "lineNumber": 118,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseFailure(parser, NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB + ADDRESS_DESC_BOB"
-      },
-      {
-        "lineNumber": 119,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + INVALID_TAG_DESC + VALID_TAG_FRIEND, Tag.MESSAGE_TAG_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 120,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 121,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // two invalid values, only first invalid value reported"
-      },
-      {
-        "lineNumber": 122,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseFailure(parser, INVALID_NAME_DESC + PHONE_DESC_BOB + EMAIL_DESC_BOB + INVALID_ADDRESS_DESC,"
-      },
-      {
-        "lineNumber": 123,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                Name.MESSAGE_NAME_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 124,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 125,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // non-empty preamble"
-      },
-      {
-        "lineNumber": 126,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertParseFailure(parser, PREAMBLE_NON_EMPTY + NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB"
-      },
-      {
-        "lineNumber": 127,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + ADDRESS_DESC_BOB + TAG_DESC_HUSBAND + TAG_DESC_FRIEND,"
-      },
-      {
-        "lineNumber": 128,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                String.format(MESSAGE_INVALID_COMMAND_FORMAT, AddCommand.MESSAGE_USAGE));"
-      },
-      {
-        "lineNumber": 129,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 130,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "}"
-      }
-    ],
-    "authorContributionMap": {
-      "HenryJk": 3,
-      "-": 127
     }
   },
   {
@@ -123206,463 +122286,6 @@
     }
   },
   {
-    "path": "src/test/java/seedu/address/testutil/TypicalPersons.java",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "package seedu.address.testutil;"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_ADDRESS_AMY;"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_ADDRESS_BOB;"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_EMAIL_AMY;"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_EMAIL_BOB;"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_NAME_AMY;"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_NAME_BOB;"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_PHONE_AMY;"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_PHONE_BOB;"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_TAG_FRIEND;"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_TAG_HUSBAND;"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import java.util.ArrayList;"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import java.util.Arrays;"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import java.util.List;"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Person;"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/**"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": " * A utility class containing a list of {@code Person} objects to be used in tests."
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": " */"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "public class TypicalPersons {"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person ALICE \u003d new PersonBuilder().withName(\"Alice Pauline\")"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withAddress(\"123, Jurong West Ave 6, #08-111\").withEmail(\"alice@example.com\")"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withPhone(\"94351253\")"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withTags(\"friends\").build();"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person BENSON \u003d new PersonBuilder().withName(\"Benson Meier\")"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withAddress(\"311, Clementi Ave 2, #02-25\")"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(\"johnd@example.com\").withPhone(\"98765432\")"
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "spencertan96"
-        },
-        "content": "            .withTags(\"owesMoney\", \"friends\").build();"
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person CARL \u003d new PersonBuilder().withName(\"Carl Kurz\").withPhone(\"95352563\")"
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(\"heinz@example.com\").withAddress(\"wall street\").build();"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person DANIEL \u003d new PersonBuilder().withName(\"Daniel Meier\").withPhone(\"87652533\")"
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(\"cornelia@example.com\").withAddress(\"10th street\").withTags(\"friends\").build();"
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person ELLE \u003d new PersonBuilder().withName(\"Elle Meyer\").withPhone(\"9482224\")"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(\"werner@example.com\").withAddress(\"michegan ave\").build();"
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person FIONA \u003d new PersonBuilder().withName(\"Fiona Kunz\").withPhone(\"9482427\")"
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(\"lydia@example.com\").withAddress(\"little tokyo\").build();"
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person GEORGE \u003d new PersonBuilder().withName(\"George Best\").withPhone(\"9482442\")"
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(\"anna@example.com\").withAddress(\"4th street\").build();"
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    // Manually added"
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person HOON \u003d new PersonBuilder().withName(\"Hoon Meier\").withPhone(\"8482424\")"
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(\"stefan@example.com\").withAddress(\"little india\").build();"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person IDA \u003d new PersonBuilder().withName(\"Ida Mueller\").withPhone(\"8482131\")"
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(\"hans@example.com\").withAddress(\"chicago ave\").build();"
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    // Manually added - Person\u0027s details found in {@code CommandTestUtil}"
-      },
-      {
-        "lineNumber": 51,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person AMY \u003d new PersonBuilder().withName(VALID_NAME_AMY).withPhone(VALID_PHONE_AMY)"
-      },
-      {
-        "lineNumber": 52,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(VALID_EMAIL_AMY).withAddress(VALID_ADDRESS_AMY).withTags(VALID_TAG_FRIEND).build();"
-      },
-      {
-        "lineNumber": 53,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final Person BOB \u003d new PersonBuilder().withName(VALID_NAME_BOB).withPhone(VALID_PHONE_BOB)"
-      },
-      {
-        "lineNumber": 54,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .withEmail(VALID_EMAIL_BOB).withAddress(VALID_ADDRESS_BOB).withTags(VALID_TAG_HUSBAND, VALID_TAG_FRIEND)"
-      },
-      {
-        "lineNumber": 55,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            .build();"
-      },
-      {
-        "lineNumber": 56,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 57,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static final String KEYWORD_MATCHING_MEIER \u003d \"Meier\"; // A keyword that matches MEIER"
-      },
-      {
-        "lineNumber": 58,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 59,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private TypicalPersons() {} // prevents instantiation"
-      },
-      {
-        "lineNumber": 60,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 61,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public static List\u003cPerson\u003e getTypicalPersons() {"
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        return new ArrayList\u003c\u003e(Arrays.asList(ALICE, BENSON, CARL, DANIEL, ELLE, FIONA, GEORGE));"
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 64,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "}"
-      }
-    ],
-    "authorContributionMap": {
-      "spencertan96": 1,
-      "-": 63
-    }
-  },
-  {
     "path": "src/test/java/seedu/address/ui/MoreDetailsPanelTest.java",
     "lines": [
       {
@@ -124696,1667 +123319,6 @@
     }
   },
   {
-    "path": "src/test/java/systemtests/AddCommandSystemTest.java",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "package systemtests;"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "import static seedu.address.commons.core.Messages.MESSAGE_INVALID_COMMAND_FORMAT;"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.ADDRESS_DESC_AMY;"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.ADDRESS_DESC_BOB;"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.EMAIL_DESC_AMY;"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.EMAIL_DESC_BOB;"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_ADDRESS_DESC;"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_EMAIL_DESC;"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_NAME_DESC;"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_PHONE_DESC;"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.INVALID_TAG_DESC;"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.NAME_DESC_AMY;"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.NAME_DESC_BOB;"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.PHONE_DESC_AMY;"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.PHONE_DESC_BOB;"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.TAG_DESC_FRIEND;"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.TAG_DESC_HUSBAND;"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_ADDRESS_BOB;"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_EMAIL_BOB;"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_NAME_BOB;"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_PHONE_BOB;"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_TAG;"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.ALICE;"
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.AMY;"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.BOB;"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.CARL;"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.HOON;"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.IDA;"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.KEYWORD_MATCHING_MEIER;"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import org.junit.Test;"
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.commons.core.Messages;"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.commons.core.index.Index;"
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.logic.commands.AddCommand;"
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.logic.commands.RedoCommand;"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.logic.commands.UndoCommand;"
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.Model;"
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Address;"
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Email;"
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Name;"
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Person;"
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.person.Phone;"
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.tag.Tag;"
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.testutil.PersonBuilder;"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.testutil.PersonUtil;"
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "public class AddCommandSystemTest extends AddressBookSystemTest {"
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 51,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 52,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void add() {"
-      },
-      {
-        "lineNumber": 53,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Model model \u003d getModel();"
-      },
-      {
-        "lineNumber": 54,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 55,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* ------------------------ Perform add operations on the shown unfiltered list ----------------------------- */"
-      },
-      {
-        "lineNumber": 56,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 57,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a person without tags to a non-empty address book, command with leading spaces and trailing spaces"
-      },
-      {
-        "lineNumber": 58,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "         * -\u003e added"
-      },
-      {
-        "lineNumber": 59,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "         */"
-      },
-      {
-        "lineNumber": 60,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Person toAdd \u003d AMY;"
-      },
-      {
-        "lineNumber": 61,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String command \u003d \"   \" + AddCommand.COMMAND_WORD + \"  \" + NAME_DESC_AMY + \"  \" + PHONE_DESC_AMY + \" \""
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + EMAIL_DESC_AMY + \"   \" + ADDRESS_DESC_AMY + \"   \" + TAG_DESC_FRIEND + \" \";"
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(command, toAdd);"
-      },
-      {
-        "lineNumber": 64,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 65,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: undo adding Amy to the list -\u003e Amy deleted */"
-      },
-      {
-        "lineNumber": 66,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d UndoCommand.COMMAND_WORD;"
-      },
-      {
-        "lineNumber": 67,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String expectedResultMessage \u003d UndoCommand.MESSAGE_SUCCESS;"
-      },
-      {
-        "lineNumber": 68,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(command, model, expectedResultMessage);"
-      },
-      {
-        "lineNumber": 69,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 70,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: redo adding Amy to the list -\u003e Amy added again */"
-      },
-      {
-        "lineNumber": 71,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d RedoCommand.COMMAND_WORD;"
-      },
-      {
-        "lineNumber": 72,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        model.addPerson(toAdd);"
-      },
-      {
-        "lineNumber": 73,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        expectedResultMessage \u003d RedoCommand.MESSAGE_SUCCESS;"
-      },
-      {
-        "lineNumber": 74,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(command, model, expectedResultMessage);"
-      },
-      {
-        "lineNumber": 75,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 76,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a person with all fields same as another person in the address book except name -\u003e added */"
-      },
-      {
-        "lineNumber": 77,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        toAdd \u003d new PersonBuilder(AMY).withName(VALID_NAME_BOB).build();"
-      },
-      {
-        "lineNumber": 78,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d AddCommand.COMMAND_WORD + NAME_DESC_BOB + PHONE_DESC_AMY + EMAIL_DESC_AMY + ADDRESS_DESC_AMY"
-      },
-      {
-        "lineNumber": 79,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + TAG_DESC_FRIEND;"
-      },
-      {
-        "lineNumber": 80,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(command, toAdd);"
-      },
-      {
-        "lineNumber": 81,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 82,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a person with all fields same as another person in the address book except phone and email"
-      },
-      {
-        "lineNumber": 83,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "         * -\u003e added"
-      },
-      {
-        "lineNumber": 84,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "         */"
-      },
-      {
-        "lineNumber": 85,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        toAdd \u003d new PersonBuilder(AMY).withPhone(VALID_PHONE_BOB).withEmail(VALID_EMAIL_BOB).build();"
-      },
-      {
-        "lineNumber": 86,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d PersonUtil.getAddCommand(toAdd);"
-      },
-      {
-        "lineNumber": 87,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(command, toAdd);"
-      },
-      {
-        "lineNumber": 88,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 89,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add to empty address book -\u003e added */"
-      },
-      {
-        "lineNumber": 90,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        deleteAllPersons();"
-      },
-      {
-        "lineNumber": 91,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(ALICE);"
-      },
-      {
-        "lineNumber": 92,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 93,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a person with tags, command with parameters in random order -\u003e added */"
-      },
-      {
-        "lineNumber": 94,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        toAdd \u003d BOB;"
-      },
-      {
-        "lineNumber": 95,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d AddCommand.COMMAND_WORD + TAG_DESC_FRIEND + PHONE_DESC_BOB + ADDRESS_DESC_BOB + NAME_DESC_BOB"
-      },
-      {
-        "lineNumber": 96,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + TAG_DESC_HUSBAND + EMAIL_DESC_BOB;"
-      },
-      {
-        "lineNumber": 97,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(command, toAdd);"
-      },
-      {
-        "lineNumber": 98,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 99,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a person, missing tags -\u003e added */"
-      },
-      {
-        "lineNumber": 100,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(HOON);"
-      },
-      {
-        "lineNumber": 101,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 102,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* -------------------------- Perform add operation on the shown filtered list ------------------------------ */"
-      },
-      {
-        "lineNumber": 103,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 104,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: filters the person list before adding -\u003e added */"
-      },
-      {
-        "lineNumber": 105,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        showPersonsWithName(KEYWORD_MATCHING_MEIER);"
-      },
-      {
-        "lineNumber": 106,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(IDA);"
-      },
-      {
-        "lineNumber": 107,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 108,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* ------------------------ Perform add operation while a person card is selected --------------------------- */"
-      },
-      {
-        "lineNumber": 109,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 110,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: selects first card in the person list, add a person -\u003e added, card selection remains unchanged */"
-      },
-      {
-        "lineNumber": 111,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        selectPerson(Index.fromOneBased(1));"
-      },
-      {
-        "lineNumber": 112,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(CARL);"
-      },
-      {
-        "lineNumber": 113,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 114,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* ----------------------------------- Perform invalid add operations --------------------------------------- */"
-      },
-      {
-        "lineNumber": 115,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 116,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a duplicate person -\u003e rejected */"
-      },
-      {
-        "lineNumber": 117,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d PersonUtil.getAddCommand(HOON);"
-      },
-      {
-        "lineNumber": 118,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandFailure(command, AddCommand.MESSAGE_DUPLICATE_PERSON);"
-      },
-      {
-        "lineNumber": 119,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 120,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a duplicate person except with different phone -\u003e rejected */"
-      },
-      {
-        "lineNumber": 121,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        toAdd \u003d new PersonBuilder(HOON).withPhone(VALID_PHONE_BOB).build();"
-      },
-      {
-        "lineNumber": 122,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d PersonUtil.getAddCommand(toAdd);"
-      },
-      {
-        "lineNumber": 123,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandFailure(command, AddCommand.MESSAGE_DUPLICATE_PERSON);"
-      },
-      {
-        "lineNumber": 124,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 125,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a duplicate person except with different email -\u003e rejected */"
-      },
-      {
-        "lineNumber": 126,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        toAdd \u003d new PersonBuilder(HOON).withEmail(VALID_EMAIL_BOB).build();"
-      },
-      {
-        "lineNumber": 127,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d PersonUtil.getAddCommand(toAdd);"
-      },
-      {
-        "lineNumber": 128,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandFailure(command, AddCommand.MESSAGE_DUPLICATE_PERSON);"
-      },
-      {
-        "lineNumber": 129,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 130,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a duplicate person except with different address -\u003e rejected */"
-      },
-      {
-        "lineNumber": 131,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        toAdd \u003d new PersonBuilder(HOON).withAddress(VALID_ADDRESS_BOB).build();"
-      },
-      {
-        "lineNumber": 132,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d PersonUtil.getAddCommand(toAdd);"
-      },
-      {
-        "lineNumber": 133,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandFailure(command, AddCommand.MESSAGE_DUPLICATE_PERSON);"
-      },
-      {
-        "lineNumber": 134,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 135,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: add a duplicate person except with different tags -\u003e rejected */"
-      },
-      {
-        "lineNumber": 136,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d PersonUtil.getAddCommand(HOON) + \" \" + PREFIX_TAG.getPrefix() + \"friends\";"
-      },
-      {
-        "lineNumber": 137,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandFailure(command, AddCommand.MESSAGE_DUPLICATE_PERSON);"
-      },
-      {
-        "lineNumber": 138,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 139,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        /* Case: missing name -\u003e rejected */"
-      },
-      {
-        "lineNumber": 140,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        command \u003d AddCommand.COMMAND_WORD + PHONE_DESC_AMY + EMAIL_DESC_AMY + ADDRESS_DESC_AMY;"
-      },
-      {
-        "lineNumber": 141,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        assertCommandFailure(command, String.format(MESSAGE_INVALID_COMMAND_FORMAT, AddCommand.MESSAGE_USAGE));"
-      },
-      {
-        "lineNumber": 142,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 143,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        /* Case: invalid keyword -\u003e rejected */"
-      },
-      {
-        "lineNumber": 144,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        command \u003d \"adds \" + PersonUtil.getPersonDetails(toAdd);"
-      },
-      {
-        "lineNumber": 145,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        assertCommandFailure(command, Messages.MESSAGE_UNKNOWN_COMMAND);"
-      },
-      {
-        "lineNumber": 146,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 147,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        /* Case: invalid name -\u003e rejected */"
-      },
-      {
-        "lineNumber": 148,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        command \u003d AddCommand.COMMAND_WORD + INVALID_NAME_DESC + PHONE_DESC_AMY + EMAIL_DESC_AMY + ADDRESS_DESC_AMY;"
-      },
-      {
-        "lineNumber": 149,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        assertCommandFailure(command, Name.MESSAGE_NAME_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 150,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 151,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        /* Case: invalid phone -\u003e rejected */"
-      },
-      {
-        "lineNumber": 152,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        command \u003d AddCommand.COMMAND_WORD + NAME_DESC_AMY + INVALID_PHONE_DESC + EMAIL_DESC_AMY + ADDRESS_DESC_AMY;"
-      },
-      {
-        "lineNumber": 153,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        assertCommandFailure(command, Phone.MESSAGE_PHONE_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 154,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 155,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        /* Case: invalid email -\u003e rejected */"
-      },
-      {
-        "lineNumber": 156,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        command \u003d AddCommand.COMMAND_WORD + NAME_DESC_AMY + PHONE_DESC_AMY + INVALID_EMAIL_DESC + ADDRESS_DESC_AMY;"
-      },
-      {
-        "lineNumber": 157,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        assertCommandFailure(command, Email.MESSAGE_EMAIL_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 158,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 159,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        /* Case: invalid address -\u003e rejected */"
-      },
-      {
-        "lineNumber": 160,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        command \u003d AddCommand.COMMAND_WORD + NAME_DESC_AMY + PHONE_DESC_AMY + EMAIL_DESC_AMY + INVALID_ADDRESS_DESC;"
-      },
-      {
-        "lineNumber": 161,
-        "author": {
-          "gitId": "robertvictoreen"
-        },
-        "content": "        assertCommandFailure(command, Address.MESSAGE_ADDRESS_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 162,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 163,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: invalid tag -\u003e rejected */"
-      },
-      {
-        "lineNumber": 164,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        command \u003d AddCommand.COMMAND_WORD + NAME_DESC_AMY + PHONE_DESC_AMY + EMAIL_DESC_AMY + ADDRESS_DESC_AMY"
-      },
-      {
-        "lineNumber": 165,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                + INVALID_TAG_DESC;"
-      },
-      {
-        "lineNumber": 166,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandFailure(command, Tag.MESSAGE_TAG_CONSTRAINTS);"
-      },
-      {
-        "lineNumber": 167,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 168,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 169,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    /**"
-      },
-      {
-        "lineNumber": 170,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Executes the {@code AddCommand} that adds {@code toAdd} to the model and asserts that the,\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 171,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 1. Command box displays an empty string.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 172,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 2. Command box has the default style class.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 173,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 3. Result display box displays the success message of executing {@code AddCommand} with the details of"
-      },
-      {
-        "lineNumber": 174,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * {@code toAdd}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 175,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 4. {@code Storage} and {@code PersonListPanel} equal to the corresponding components in"
-      },
-      {
-        "lineNumber": 176,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * the current model added with {@code toAdd}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 177,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 5. Browser url and selected card remain unchanged.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 178,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 6. Status bar\u0027s sync status changes.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 179,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Verifications 1, 3 and 4 are performed by"
-      },
-      {
-        "lineNumber": 180,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * {@code AddressBookSystemTest#assertApplicationDisplaysExpected(String, String, Model)}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 181,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * @see AddressBookSystemTest#assertApplicationDisplaysExpected(String, String, Model)"
-      },
-      {
-        "lineNumber": 182,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     */"
-      },
-      {
-        "lineNumber": 183,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private void assertCommandSuccess(Person toAdd) {"
-      },
-      {
-        "lineNumber": 184,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(PersonUtil.getAddCommand(toAdd), toAdd);"
-      },
-      {
-        "lineNumber": 185,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 186,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 187,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    /**"
-      },
-      {
-        "lineNumber": 188,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Performs the same verification as {@code assertCommandSuccess(Person)}. Executes {@code command}"
-      },
-      {
-        "lineNumber": 189,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * instead."
-      },
-      {
-        "lineNumber": 190,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * @see AddCommandSystemTest#assertCommandSuccess(Person)"
-      },
-      {
-        "lineNumber": 191,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     */"
-      },
-      {
-        "lineNumber": 192,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private void assertCommandSuccess(String command, Person toAdd) {"
-      },
-      {
-        "lineNumber": 193,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Model expectedModel \u003d getModel();"
-      },
-      {
-        "lineNumber": 194,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        expectedModel.addPerson(toAdd);"
-      },
-      {
-        "lineNumber": 195,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String expectedResultMessage \u003d String.format(AddCommand.MESSAGE_SUCCESS, toAdd);"
-      },
-      {
-        "lineNumber": 196,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 197,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandSuccess(command, expectedModel, expectedResultMessage);"
-      },
-      {
-        "lineNumber": 198,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 199,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 200,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    /**"
-      },
-      {
-        "lineNumber": 201,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Performs the same verification as {@code assertCommandSuccess(String, Person)} except asserts that"
-      },
-      {
-        "lineNumber": 202,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * the,\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 203,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 1. Result display box displays {@code expectedResultMessage}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 204,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 2. {@code Storage} and {@code PersonListPanel} equal to the corresponding components in"
-      },
-      {
-        "lineNumber": 205,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * {@code expectedModel}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 206,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * @see AddCommandSystemTest#assertCommandSuccess(String, Person)"
-      },
-      {
-        "lineNumber": 207,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     */"
-      },
-      {
-        "lineNumber": 208,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private void assertCommandSuccess(String command, Model expectedModel, String expectedResultMessage) {"
-      },
-      {
-        "lineNumber": 209,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        executeCommand(command);"
-      },
-      {
-        "lineNumber": 210,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertApplicationDisplaysExpected(\"\", expectedResultMessage, expectedModel);"
-      },
-      {
-        "lineNumber": 211,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertSelectedCardUnchanged();"
-      },
-      {
-        "lineNumber": 212,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandBoxShowsDefaultStyle();"
-      },
-      {
-        "lineNumber": 213,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertStatusBarUnchangedExceptSyncStatus();"
-      },
-      {
-        "lineNumber": 214,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 215,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 216,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    /**"
-      },
-      {
-        "lineNumber": 217,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Executes {@code command} and asserts that the,\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 218,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 1. Command box displays {@code command}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 219,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 2. Command box has the error style class.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 220,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 3. Result display box displays {@code expectedResultMessage}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 221,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 4. {@code Storage} and {@code PersonListPanel} remain unchanged.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 222,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * 5. Browser url, selected card and status bar remain unchanged.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 223,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Verifications 1, 3 and 4 are performed by"
-      },
-      {
-        "lineNumber": 224,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * {@code AddressBookSystemTest#assertApplicationDisplaysExpected(String, String, Model)}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 225,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * @see AddressBookSystemTest#assertApplicationDisplaysExpected(String, String, Model)"
-      },
-      {
-        "lineNumber": 226,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     */"
-      },
-      {
-        "lineNumber": 227,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private void assertCommandFailure(String command, String expectedResultMessage) {"
-      },
-      {
-        "lineNumber": 228,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Model expectedModel \u003d getModel();"
-      },
-      {
-        "lineNumber": 229,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 230,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        executeCommand(command);"
-      },
-      {
-        "lineNumber": 231,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertApplicationDisplaysExpected(command, expectedResultMessage, expectedModel);"
-      },
-      {
-        "lineNumber": 232,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertSelectedCardUnchanged();"
-      },
-      {
-        "lineNumber": 233,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandBoxShowsErrorStyle();"
-      },
-      {
-        "lineNumber": 234,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertStatusBarUnchanged();"
-      },
-      {
-        "lineNumber": 235,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 236,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "}"
-      }
-    ],
-    "authorContributionMap": {
-      "robertvictoreen": 24,
-      "-": 212
-    }
-  },
-  {
     "path": "src/test/java/systemtests/AddressBookSystemTest.java",
     "lines": [
       {
@@ -127118,14 +124080,14 @@
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -127818,7 +124780,7 @@
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "        assertEquals(expectedSelectedCardIndex.getZeroBased(), getPersonListPanel().getSelectedCardIndex());"
       },
@@ -128335,9 +125297,9 @@
       }
     ],
     "authorContributionMap": {
-      "spencertan96": 25,
+      "spencertan96": 22,
       "HenryJk": 2,
-      "-": 255
+      "-": 258
     }
   },
   {
@@ -132130,7 +129092,7 @@
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": "        getMainMenu().openHelpWindowUsingAccelerator();"
       },
@@ -132144,7 +129106,7 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "spencertan96"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -132563,8 +129525,8 @@
       }
     ],
     "authorContributionMap": {
-      "spencertan96": 6,
-      "-": 101
+      "spencertan96": 4,
+      "-": 103
     }
   }
 ]

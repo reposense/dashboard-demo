@@ -61,7 +61,7 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "image::docs/images/Ui.png[width\u003d\"600\"]"
       },
@@ -237,8 +237,8 @@
     "authorContributionMap": {
       "alexehrs": 4,
       "Harryqu123": 1,
-      "-": 26,
-      "russellong95": 2
+      "-": 27,
+      "russellong95": 1
     }
   },
   {
@@ -2173,15 +2173,15 @@
       {
         "lineNumber": 249,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "defaultTasks \u0027clean\u0027, \u0027headless\u0027, \u0027allTests\u0027, \u0027coverage\u0027, \u0027asciidoctor\u0027"
       }
     ],
     "authorContributionMap": {
       "alexehrs": 1,
-      "danielkoh94": 2,
-      "-": 238,
+      "danielkoh94": 1,
+      "-": 239,
       "russellong95": 8
     }
   },
@@ -2227,6 +2227,92 @@
     "authorContributionMap": {
       "alexehrs": 3,
       "russellong95": 2
+    }
+  },
+  {
+    "path": "copyright.txt",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "﻿Some code adapted from http://code.makery.ch/library/javafx-8-tutorial/ by Marco Jakob"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Copyright by Susumu Yoshida - http://www.mcdodesign.com/"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "- AddressApp.ico"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Copyright by Jan Jan Kovařík - http://glyphicons.com/"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "- calendar.png"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "- edit.png"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "russellong95"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "russellong95"
+        },
+        "content": "Copyright by dtafalonso - http://www.iconarchive.com/"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "russellong95"
+        },
+        "content": "- learnvocabulary_32.png"
+      }
+    ],
+    "authorContributionMap": {
+      "-": 8,
+      "russellong95": 3
     }
   },
   {
@@ -2473,14 +2559,14 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u0027\u0027\u0027"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2508,7 +2594,7 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2536,9 +2622,9 @@
     ],
     "authorContributionMap": {
       "alexehrs": 2,
-      "danielkoh94": 4,
+      "danielkoh94": 1,
       "Harryqu123": 7,
-      "-": 30
+      "-": 33
     }
   },
   {
@@ -10026,7 +10112,7 @@
       {
         "lineNumber": 1061,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": "[discrete]"
       },
@@ -10040,21 +10126,21 @@
       {
         "lineNumber": 1063,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1064,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": "*MSS*"
       },
       {
         "lineNumber": 1065,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10089,14 +10175,14 @@
       {
         "lineNumber": 1070,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 1071,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
@@ -10110,28 +10196,28 @@
       {
         "lineNumber": 1073,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1074,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": "*Extensions*"
       },
       {
         "lineNumber": 1075,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1076,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": "[none]"
       },
@@ -10145,21 +10231,21 @@
       {
         "lineNumber": 1078,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 1079,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1080,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11159,10 +11245,10 @@
       }
     ],
     "authorContributionMap": {
-      "alexehrs": 41,
+      "alexehrs": 28,
       "danielkoh94": 34,
       "Harryqu123": 112,
-      "-": 970,
+      "-": 983,
       "russellong95": 65
     }
   },
@@ -11412,91 +11498,91 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": ":site-section: UserGuide"
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ":toc:"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ":toc-title:"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ":toc-placement: preamble"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ":sectnums:"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": ":imagesDir: images"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": ":stylesDir: stylesheets"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ":xrefstyle: full"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ":experimental:"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "ifdef::env-github[]"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ":tip-caption: :bulb:"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ":note-caption: :information_source:"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "endif::[]"
       },
@@ -11510,7 +11596,7 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11531,14 +11617,14 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Introduction"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11552,7 +11638,7 @@
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11594,7 +11680,7 @@
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11629,7 +11715,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ".  Double-click the file to start the app. The GUI should appear in a few seconds."
       },
@@ -11657,14 +11743,14 @@
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ".  Refer to \u003c\u003cFeatures\u003e\u003e for details of each command."
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11678,35 +11764,35 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Features"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "*Command Format*"
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11734,21 +11820,21 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Viewing help : `help`"
       },
@@ -11762,14 +11848,14 @@
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `help`"
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11797,7 +11883,7 @@
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11825,7 +11911,7 @@
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "[TIP]"
       },
@@ -11986,21 +12072,21 @@
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12084,14 +12170,14 @@
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `list`"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12112,7 +12198,7 @@
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12133,14 +12219,14 @@
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "****"
       },
@@ -12161,7 +12247,7 @@
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* Existing values will be updated to the input values."
       },
@@ -12182,28 +12268,28 @@
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "****"
       },
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12350,21 +12436,21 @@
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `find KEYWORD [MORE_KEYWORDS]`"
       },
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "****"
       },
@@ -12385,7 +12471,7 @@
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* Only the name is searched."
       },
@@ -12679,28 +12765,28 @@
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "Harryqu123"
+          "gitId": "-"
         },
         "content": "****"
       },
       {
         "lineNumber": 184,
         "author": {
-          "gitId": "Harryqu123"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "Harryqu123"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 186,
         "author": {
-          "gitId": "Harryqu123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12721,7 +12807,7 @@
       {
         "lineNumber": 189,
         "author": {
-          "gitId": "Harryqu123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12735,7 +12821,7 @@
       {
         "lineNumber": 191,
         "author": {
-          "gitId": "Harryqu123"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12861,21 +12947,21 @@
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `delete INDEX`"
       },
       {
         "lineNumber": 210,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 211,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "****"
       },
@@ -12896,49 +12982,49 @@
       {
         "lineNumber": 214,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* The index *must be a positive integer* 1, 2, 3, ..."
       },
       {
         "lineNumber": 215,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "****"
       },
       {
         "lineNumber": 216,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 217,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 218,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 219,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* `list` +"
       },
       {
         "lineNumber": 220,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`delete 2` +"
       },
@@ -12959,7 +13045,7 @@
       {
         "lineNumber": 223,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`delete 1` +"
       },
@@ -12973,7 +13059,7 @@
       {
         "lineNumber": 225,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12987,7 +13073,7 @@
       {
         "lineNumber": 227,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13001,21 +13087,21 @@
       {
         "lineNumber": 229,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `select INDEX`"
       },
       {
         "lineNumber": 230,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 231,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "****"
       },
@@ -13036,49 +13122,49 @@
       {
         "lineNumber": 234,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* The index *must be a positive integer* `1, 2, 3, ...`"
       },
       {
         "lineNumber": 235,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "****"
       },
       {
         "lineNumber": 236,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 237,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 238,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 239,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* `list` +"
       },
       {
         "lineNumber": 240,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`select 2` +"
       },
@@ -13099,7 +13185,7 @@
       {
         "lineNumber": 243,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`select 1` +"
       },
@@ -13554,161 +13640,161 @@
       {
         "lineNumber": 308,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 309,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Listing entered commands : `history`"
       },
       {
         "lineNumber": 310,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 311,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Lists all the commands that you have entered in reverse chronological order. +"
       },
       {
         "lineNumber": 312,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `history`"
       },
       {
         "lineNumber": 313,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 314,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
       {
         "lineNumber": 315,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 316,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Pressing the kbd:[\u0026uarr;] and kbd:[\u0026darr;] arrows will display the previous and next input respectively in the command box."
       },
       {
         "lineNumber": 317,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 318,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 319,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "// tag::undoredo[]"
       },
       {
         "lineNumber": 320,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Undoing previous command : `undo`"
       },
       {
         "lineNumber": 321,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 322,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Restores the address book to the state before the previous _undoable_ command was executed. +"
       },
       {
         "lineNumber": 323,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `undo`"
       },
       {
         "lineNumber": 324,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 325,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
       {
         "lineNumber": 326,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 327,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Undoable commands: those commands that modify the address book\u0027s content (`add`, `delete`, `edit` and `clear`)."
       },
       {
         "lineNumber": 328,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 329,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 330,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
@@ -13722,196 +13808,196 @@
       {
         "lineNumber": 332,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* `delete 1` +"
       },
       {
         "lineNumber": 333,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`list` +"
       },
       {
         "lineNumber": 334,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`undo` (reverses the `delete 1` command) +"
       },
       {
         "lineNumber": 335,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 336,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* `select 1` +"
       },
       {
         "lineNumber": 337,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`list` +"
       },
       {
         "lineNumber": 338,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`undo` +"
       },
       {
         "lineNumber": 339,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "The `undo` command fails as there are no undoable commands executed previously."
       },
       {
         "lineNumber": 340,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 341,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* `delete 1` +"
       },
       {
         "lineNumber": 342,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`clear` +"
       },
       {
         "lineNumber": 343,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`undo` (reverses the `clear` command) +"
       },
       {
         "lineNumber": 344,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`undo` (reverses the `delete 1` command) +"
       },
       {
         "lineNumber": 345,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 346,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Redoing the previously undone command : `redo`"
       },
       {
         "lineNumber": 347,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 348,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Reverses the most recent `undo` command. +"
       },
       {
         "lineNumber": 349,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `redo`"
       },
       {
         "lineNumber": 350,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 351,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 352,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 353,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* `delete 1` +"
       },
       {
         "lineNumber": 354,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`undo` (reverses the `delete 1` command) +"
       },
       {
         "lineNumber": 355,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`redo` (reapplies the `delete 1` command) +"
       },
       {
         "lineNumber": 356,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 357,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* `delete 1` +"
       },
       {
         "lineNumber": 358,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`redo` +"
       },
       {
         "lineNumber": 359,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "The `redo` command fails as there are no `undo` commands executed previously."
       },
@@ -13925,56 +14011,56 @@
       {
         "lineNumber": 361,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "* `delete 1` +"
       },
       {
         "lineNumber": 362,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`clear` +"
       },
       {
         "lineNumber": 363,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`undo` (reverses the `clear` command) +"
       },
       {
         "lineNumber": 364,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`undo` (reverses the `delete 1` command) +"
       },
       {
         "lineNumber": 365,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`redo` (reapplies the `delete 1` command) +"
       },
       {
         "lineNumber": 366,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "`redo` (reapplies the `clear` command) +"
       },
       {
         "lineNumber": 367,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "// end::undoredo[]"
       },
       {
         "lineNumber": 368,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14072,28 +14158,28 @@
       {
         "lineNumber": 382,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Clearing all entries : `clear`"
       },
       {
         "lineNumber": 383,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 384,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Clears all entries from the address book. +"
       },
       {
         "lineNumber": 385,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `clear`"
       },
@@ -14107,35 +14193,35 @@
       {
         "lineNumber": 387,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Exiting the program : `exit`"
       },
       {
         "lineNumber": 388,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 389,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Exits the program. +"
       },
       {
         "lineNumber": 390,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "Format: `exit`"
       },
       {
         "lineNumber": 391,
         "author": {
-          "gitId": "alexehrs"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14407,11 +14493,11 @@
       }
     ],
     "authorContributionMap": {
-      "alexehrs": 22,
-      "danielkoh94": 199,
-      "Harryqu123": 54,
-      "russellong95": 71,
-      "-": 83
+      "alexehrs": 18,
+      "danielkoh94": 84,
+      "Harryqu123": 48,
+      "-": 231,
+      "russellong95": 48
     }
   },
   {
@@ -28774,7 +28860,7 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    CommandResult execute(String commandText) throws CommandException, ParseException;"
       },
@@ -28829,8 +28915,8 @@
       }
     ],
     "authorContributionMap": {
-      "russellong95": 8,
-      "-": 19
+      "russellong95": 7,
+      "-": 20
     }
   },
   {
@@ -32929,13 +33015,15 @@
       },
       {
         "lineNumber": 51,
+        "author": {
+          "gitId": "-"
+        },
         "content": "//@@author"
       }
     ],
     "authorContributionMap": {
-      "null": 1,
       "Harryqu123": 18,
-      "-": 30,
+      "-": 31,
       "russellong95": 2
     }
   },
@@ -37718,7 +37806,7 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -37935,9 +38023,9 @@
     ],
     "authorContributionMap": {
       "alexehrs": 3,
-      "danielkoh94": 5,
+      "danielkoh94": 4,
       "russellong95": 16,
-      "-": 37
+      "-": 38
     }
   },
   {
@@ -40119,7 +40207,7 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "        if (argMultimap.getValue(PREFIX_NAME).isPresent()) {"
       },
@@ -40161,7 +40249,7 @@
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -40189,7 +40277,7 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -40245,7 +40333,7 @@
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -40427,9 +40515,9 @@
     ],
     "authorContributionMap": {
       "alexehrs": 1,
-      "danielkoh94": 16,
+      "danielkoh94": 12,
       "russellong95": 16,
-      "-": 55
+      "-": 59
     }
   },
   {
@@ -42459,7 +42547,7 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    T parse(String userInput) throws ParseException;"
       },
@@ -42472,8 +42560,8 @@
       }
     ],
     "authorContributionMap": {
-      "russellong95": 4,
-      "-": 12
+      "russellong95": 3,
+      "-": 13
     }
   },
   {
@@ -42881,7 +42969,7 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -42923,7 +43011,7 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "        }"
       },
@@ -42937,14 +43025,14 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -43139,9 +43227,9 @@
       }
     ],
     "authorContributionMap": {
-      "danielkoh94": 12,
+      "danielkoh94": 8,
       "russellong95": 8,
-      "-": 74
+      "-": 78
     }
   },
   {
@@ -53241,7 +53329,7 @@
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "danielkoh94"
+          "gitId": "-"
         },
         "content": "            \"Names should only contain alphanumeric characters and spaces, and it should not be blank\";"
       },
@@ -53604,9 +53692,8 @@
       }
     ],
     "authorContributionMap": {
-      "danielkoh94": 1,
       "russellong95": 9,
-      "-": 54
+      "-": 55
     }
   },
   {
@@ -61743,7 +61830,7 @@
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    private void handleCommandEntered() {"
       },
@@ -62092,8 +62179,8 @@
       }
     ],
     "authorContributionMap": {
-      "russellong95": 9,
-      "-": 142
+      "russellong95": 8,
+      "-": 143
     }
   },
   {
@@ -133132,14 +133219,14 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "package systemtests;"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133251,21 +133338,21 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133363,35 +133450,35 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    public void add() {"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        Model model \u003d getModel();"
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133405,7 +133492,7 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133419,14 +133506,14 @@
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         * -\u003e added"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         */"
       },
@@ -133461,63 +133548,63 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, toAdd);"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: undo adding Amy to the list -\u003e Amy deleted */"
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        command \u003d UndoCommand.COMMAND_WORD;"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        String expectedResultMessage \u003d UndoCommand.MESSAGE_SUCCESS;"
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, model, expectedResultMessage);"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: redo adding Amy to the list -\u003e Amy added again */"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        command \u003d RedoCommand.COMMAND_WORD;"
       },
@@ -133531,21 +133618,21 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        expectedResultMessage \u003d RedoCommand.MESSAGE_SUCCESS;"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, model, expectedResultMessage);"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133573,14 +133660,14 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, toAdd);"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133622,7 +133709,7 @@
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133636,7 +133723,7 @@
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133664,7 +133751,7 @@
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133678,7 +133765,7 @@
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133706,7 +133793,7 @@
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133720,7 +133807,7 @@
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133748,7 +133835,7 @@
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -133776,14 +133863,14 @@
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: missing name -\u003e rejected */"
       },
@@ -133797,21 +133884,21 @@
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(command, String.format(MESSAGE_INVALID_COMMAND_FORMAT, AddCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: invalid keyword -\u003e rejected */"
       },
@@ -133825,21 +133912,21 @@
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(command, Messages.MESSAGE_UNKNOWN_COMMAND);"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: invalid name -\u003e rejected */"
       },
@@ -133853,21 +133940,21 @@
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(command, Name.MESSAGE_NAME_CONSTRAINTS);"
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: invalid tag -\u003e rejected */"
       },
@@ -133881,63 +133968,63 @@
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(command, Tag.MESSAGE_TAG_CONSTRAINTS);"
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Executes the {@code AddCommand} that adds {@code toAdd} to the model and asserts that the,\u003cbr\u003e"
       },
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 1. Command box displays an empty string.\u003cbr\u003e"
       },
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 2. Command box has the default style class.\u003cbr\u003e"
       },
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 3. Result display box displays the success message of executing {@code AddCommand} with the details of"
       },
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * {@code toAdd}.\u003cbr\u003e"
       },
@@ -133951,28 +134038,28 @@
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * the current model added with {@code toAdd}.\u003cbr\u003e"
       },
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 5. Browser url and selected card remain unchanged.\u003cbr\u003e"
       },
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 6. Status bar\u0027s sync status changes.\u003cbr\u003e"
       },
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Verifications 1, 3 and 4 are performed by"
       },
@@ -133993,7 +134080,7 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -134014,21 +134101,21 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -134042,7 +134129,7 @@
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * instead."
       },
@@ -134056,7 +134143,7 @@
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -134070,7 +134157,7 @@
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        Model expectedModel \u003d getModel();"
       },
@@ -134084,14 +134171,14 @@
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        String expectedResultMessage \u003d String.format(AddCommand.MESSAGE_SUCCESS, toAdd);"
       },
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -134105,28 +134192,28 @@
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel, expectedResultMessage);"
       },
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 143,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -134140,14 +134227,14 @@
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * the,\u003cbr\u003e"
       },
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 1. Result display box displays {@code expectedResultMessage}.\u003cbr\u003e"
       },
@@ -134161,7 +134248,7 @@
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * {@code expectedModel}.\u003cbr\u003e"
       },
@@ -134175,98 +134262,98 @@
       {
         "lineNumber": 150,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 151,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    private void assertCommandSuccess(String command, Model expectedModel, String expectedResultMessage) {"
       },
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        executeCommand(command);"
       },
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertApplicationDisplaysExpected(\"\", expectedResultMessage, expectedModel);"
       },
       {
         "lineNumber": 154,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandBoxShowsDefaultStyle();"
       },
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertStatusBarUnchangedExceptSyncStatus();"
       },
       {
         "lineNumber": 157,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Executes {@code command} and asserts that the,\u003cbr\u003e"
       },
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 1. Command box displays {@code command}.\u003cbr\u003e"
       },
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 2. Command box has the error style class.\u003cbr\u003e"
       },
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 3. Result display box displays {@code expectedResultMessage}.\u003cbr\u003e"
       },
@@ -134280,14 +134367,14 @@
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 5. Browser url, selected card and status bar remain unchanged.\u003cbr\u003e"
       },
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Verifications 1, 3 and 4 are performed by"
       },
@@ -134308,83 +134395,84 @@
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    private void assertCommandFailure(String command, String expectedResultMessage) {"
       },
       {
         "lineNumber": 171,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        Model expectedModel \u003d getModel();"
       },
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        executeCommand(command);"
       },
       {
         "lineNumber": 174,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertApplicationDisplaysExpected(command, expectedResultMessage, expectedModel);"
       },
       {
         "lineNumber": 175,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandBoxShowsErrorStyle();"
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertStatusBarUnchanged();"
       },
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 179,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "russellong95": 179
+      "-": 101,
+      "russellong95": 78
     }
   },
   {
@@ -136878,28 +136966,28 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "package systemtests;"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertNotEquals;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertTrue;"
       },
@@ -137018,21 +137106,21 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137130,35 +137218,35 @@
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    public void edit() {"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        Model model \u003d getModel();"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137172,28 +137260,28 @@
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: edit all fields, command with leading spaces, trailing spaces and multiple spaces between each field"
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         * -\u003e edited"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         */"
       },
@@ -137256,28 +137344,28 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        command \u003d UndoCommand.COMMAND_WORD;"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        String expectedResultMessage \u003d UndoCommand.MESSAGE_SUCCESS;"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, model, expectedResultMessage);"
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137291,14 +137379,14 @@
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        command \u003d RedoCommand.COMMAND_WORD;"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        expectedResultMessage \u003d RedoCommand.MESSAGE_SUCCESS;"
       },
@@ -137319,14 +137407,14 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, model, expectedResultMessage);"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137424,14 +137512,14 @@
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: clear tags -\u003e cleared */"
       },
@@ -137445,7 +137533,7 @@
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        command \u003d EditCommand.COMMAND_WORD + \" \" + index.getOneBased() + \" \" + PREFIX_TAG.getPrefix();"
       },
@@ -137592,14 +137680,14 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         * -\u003e rejected"
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         */"
       },
@@ -137634,7 +137722,7 @@
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137648,7 +137736,7 @@
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137662,14 +137750,14 @@
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         * browser url changes"
       },
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         */"
       },
@@ -137718,7 +137806,7 @@
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        // this can be misleading: card selection actually remains unchanged but the"
       },
@@ -137746,7 +137834,7 @@
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137760,14 +137848,14 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: invalid index (0) -\u003e rejected */"
       },
@@ -137781,21 +137869,21 @@
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "                String.format(Messages.MESSAGE_INVALID_COMMAND_FORMAT, EditCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: invalid index (-1) -\u003e rejected */"
       },
@@ -137809,21 +137897,21 @@
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "                String.format(Messages.MESSAGE_INVALID_COMMAND_FORMAT, EditCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: invalid index (size + 1) -\u003e rejected */"
       },
@@ -137851,14 +137939,14 @@
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: missing index -\u003e rejected */"
       },
@@ -137872,21 +137960,21 @@
       {
         "lineNumber": 143,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "                String.format(Messages.MESSAGE_INVALID_COMMAND_FORMAT, EditCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 144,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: missing all fields -\u003e rejected */"
       },
@@ -137900,21 +137988,21 @@
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "                EditCommand.MESSAGE_NOT_EDITED);"
       },
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 149,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: invalid name -\u003e rejected */"
       },
@@ -137928,14 +138016,14 @@
       {
         "lineNumber": 151,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "                Name.MESSAGE_NAME_CONSTRAINTS);"
       },
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137963,7 +138051,7 @@
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137977,7 +138065,7 @@
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -138033,14 +138121,14 @@
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 167,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -138075,21 +138163,21 @@
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 174,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -138103,14 +138191,14 @@
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * the browser url and selected card remain unchanged."
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * @param toEdit the index of the current model\u0027s filtered list"
       },
@@ -138124,7 +138212,7 @@
       {
         "lineNumber": 179,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -138145,21 +138233,21 @@
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 184,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -138180,7 +138268,7 @@
       {
         "lineNumber": 187,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 1. Asserts that result display box displays the success message of executing {@code EditCommand}.\u003cbr\u003e"
       },
@@ -138201,21 +138289,21 @@
       {
         "lineNumber": 190,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * @param toEdit the index of the current model\u0027s filtered list."
       },
       {
         "lineNumber": 191,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * @see EditCommandSystemTest#assertCommandSuccess(String, Model, String, Index)"
       },
       {
         "lineNumber": 192,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -138229,14 +138317,14 @@
       {
         "lineNumber": 194,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "            Index expectedSelectedCardIndex) {"
       },
       {
         "lineNumber": 195,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        Model expectedModel \u003d getModel();"
       },
@@ -138257,14 +138345,14 @@
       {
         "lineNumber": 198,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 199,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel,"
       },
@@ -138278,140 +138366,140 @@
       {
         "lineNumber": 201,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 202,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 203,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 204,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Performs the same verification as {@code assertCommandSuccess(String, Model, String, Index)} except that the"
       },
       {
         "lineNumber": 205,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * browser url and selected card remain unchanged."
       },
       {
         "lineNumber": 206,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * @see EditCommandSystemTest#assertCommandSuccess(String, Model, String, Index)"
       },
       {
         "lineNumber": 207,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 208,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    private void assertCommandSuccess(String command, Model expectedModel, String expectedResultMessage) {"
       },
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel, expectedResultMessage, null);"
       },
       {
         "lineNumber": 210,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 211,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 212,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 213,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Executes {@code command} and in addition,\u003cbr\u003e"
       },
       {
         "lineNumber": 214,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 1. Asserts that the command box displays an empty string.\u003cbr\u003e"
       },
       {
         "lineNumber": 215,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 2. Asserts that the result display box displays {@code expectedResultMessage}.\u003cbr\u003e"
       },
       {
         "lineNumber": 216,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 3. Asserts that the browser url and selected card update accordingly depending on the card at"
       },
       {
         "lineNumber": 217,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * {@code expectedSelectedCardIndex}.\u003cbr\u003e"
       },
       {
         "lineNumber": 218,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 4. Asserts that the status bar\u0027s sync status changes.\u003cbr\u003e"
       },
       {
         "lineNumber": 219,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 5. Asserts that the command box has the default style class.\u003cbr\u003e"
       },
       {
         "lineNumber": 220,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Verifications 1 and 2 are performed by"
       },
@@ -138439,28 +138527,28 @@
       {
         "lineNumber": 224,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 225,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    private void assertCommandSuccess(String command, Model expectedModel, String expectedResultMessage,"
       },
       {
         "lineNumber": 226,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "            Index expectedSelectedCardIndex) {"
       },
       {
         "lineNumber": 227,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        executeCommand(command);"
       },
@@ -138474,119 +138562,119 @@
       {
         "lineNumber": 229,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertApplicationDisplaysExpected(\"\", expectedResultMessage, expectedModel);"
       },
       {
         "lineNumber": 230,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandBoxShowsDefaultStyle();"
       },
       {
         "lineNumber": 231,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        if (expectedSelectedCardIndex !\u003d null) {"
       },
       {
         "lineNumber": 232,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "            assertSelectedCardChanged(expectedSelectedCardIndex);"
       },
       {
         "lineNumber": 233,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        } else {"
       },
       {
         "lineNumber": 234,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "            assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 235,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 236,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertStatusBarUnchangedExceptSyncStatus();"
       },
       {
         "lineNumber": 237,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 238,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 239,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 240,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Executes {@code command} and in addition,\u003cbr\u003e"
       },
       {
         "lineNumber": 241,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 1. Asserts that the command box displays {@code command}.\u003cbr\u003e"
       },
       {
         "lineNumber": 242,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 2. Asserts that result display box displays {@code expectedResultMessage}.\u003cbr\u003e"
       },
       {
         "lineNumber": 243,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 3. Asserts that the browser url, selected card and status bar remain unchanged.\u003cbr\u003e"
       },
       {
         "lineNumber": 244,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * 4. Asserts that the command box has the error style.\u003cbr\u003e"
       },
       {
         "lineNumber": 245,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Verifications 1 and 2 are performed by"
       },
@@ -138607,63 +138695,63 @@
       {
         "lineNumber": 248,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 249,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    private void assertCommandFailure(String command, String expectedResultMessage) {"
       },
       {
         "lineNumber": 250,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        Model expectedModel \u003d getModel();"
       },
       {
         "lineNumber": 251,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        executeCommand(command);"
       },
       {
         "lineNumber": 252,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertApplicationDisplaysExpected(command, expectedResultMessage, expectedModel);"
       },
       {
         "lineNumber": 253,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 254,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandBoxShowsErrorStyle();"
       },
       {
         "lineNumber": 255,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertStatusBarUnchanged();"
       },
       {
         "lineNumber": 256,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -138677,13 +138765,14 @@
       {
         "lineNumber": 258,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "russellong95": 258
+      "-": 125,
+      "russellong95": 133
     }
   },
   {
@@ -138939,21 +139028,21 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "package systemtests;"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import static org.junit.Assert.assertFalse;"
       },
@@ -139009,42 +139098,42 @@
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import java.util.ArrayList;"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import java.util.List;"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139100,7 +139189,7 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139114,21 +139203,21 @@
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    public void find() {"
       },
@@ -139149,7 +139238,7 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         */"
       },
@@ -139163,7 +139252,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        Model expectedModel \u003d getModel();"
       },
@@ -139177,21 +139266,21 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139212,7 +139301,7 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         */"
       },
@@ -139226,21 +139315,21 @@
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139268,21 +139357,21 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139310,21 +139399,21 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139345,21 +139434,21 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139380,21 +139469,21 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139415,7 +139504,7 @@
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "         */"
       },
@@ -139429,91 +139518,91 @@
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: undo previous find command -\u003e rejected */"
       },
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        command \u003d UndoCommand.COMMAND_WORD;"
       },
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        String expectedResultMessage \u003d UndoCommand.MESSAGE_FAILURE;"
       },
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(command, expectedResultMessage);"
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: redo previous find command -\u003e rejected */"
       },
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        command \u003d RedoCommand.COMMAND_WORD;"
       },
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        expectedResultMessage \u003d RedoCommand.MESSAGE_FAILURE;"
       },
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(command, expectedResultMessage);"
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139527,7 +139616,7 @@
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        executeCommand(DeleteCommand.COMMAND_WORD + \" 1\");"
       },
@@ -139548,7 +139637,7 @@
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        expectedModel \u003d getModel();"
       },
@@ -139562,21 +139651,21 @@
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139597,21 +139686,21 @@
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139632,28 +139721,28 @@
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        ModelHelper.setFilteredList(expectedModel);"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139674,28 +139763,28 @@
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        ModelHelper.setFilteredList(expectedModel);"
       },
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139716,21 +139805,21 @@
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139751,28 +139840,28 @@
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        command \u003d FindCommand.COMMAND_WORD + \" \" + tags.get(0).tagName;"
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139821,21 +139910,21 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardDeselected();"
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139863,7 +139952,7 @@
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        expectedModel \u003d getModel();"
       },
@@ -139877,28 +139966,28 @@
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        /* Case: mixed case command word -\u003e rejected */"
       },
@@ -139919,35 +140008,35 @@
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(command, MESSAGE_UNKNOWN_COMMAND);"
       },
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 143,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 144,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Executes {@code command} and verifies that the command box displays an empty string, the result display"
       },
@@ -139961,14 +140050,14 @@
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * and the model related components equal to {@code expectedModel}."
       },
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * These verifications are done by"
       },
@@ -139982,14 +140071,14 @@
       {
         "lineNumber": 150,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Also verifies that the status bar remains unchanged, and the command box has the default style class, and the"
       },
       {
         "lineNumber": 151,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * selected card updated accordingly, depending on {@code cardStatus}."
       },
@@ -140003,21 +140092,21 @@
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 154,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    private void assertCommandSuccess(String command, Model expectedModel) {"
       },
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        String expectedResultMessage \u003d String.format("
       },
@@ -140031,77 +140120,77 @@
       {
         "lineNumber": 157,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        executeCommand(command);"
       },
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertApplicationDisplaysExpected(\"\", expectedResultMessage, expectedModel);"
       },
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandBoxShowsDefaultStyle();"
       },
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertStatusBarUnchanged();"
       },
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 164,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Executes {@code command} and verifies that the command box displays {@code command}, the result display"
       },
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * box displays {@code expectedResultMessage} and the model related components equal to the current model."
       },
       {
         "lineNumber": 167,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * These verifications are done by"
       },
@@ -140115,14 +140204,14 @@
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Also verifies that the browser url, selected card and status bar remain unchanged, and the command box has the"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * error style."
       },
@@ -140136,83 +140225,84 @@
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    private void assertCommandFailure(String command, String expectedResultMessage) {"
       },
       {
         "lineNumber": 174,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        Model expectedModel \u003d getModel();"
       },
       {
         "lineNumber": 175,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        executeCommand(command);"
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertApplicationDisplaysExpected(command, expectedResultMessage, expectedModel);"
       },
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 179,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertCommandBoxShowsErrorStyle();"
       },
       {
         "lineNumber": 180,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        assertStatusBarUnchanged();"
       },
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "russellong95": 182
+      "-": 115,
+      "russellong95": 67
     }
   },
   {
@@ -143302,14 +143392,14 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "package systemtests;"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -143323,49 +143413,49 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import java.io.IOException;"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import java.nio.file.Files;"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import java.nio.file.Path;"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -143386,7 +143476,7 @@
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -143421,28 +143511,28 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Returns null to force test app to load data of the file in {@code getDataFileLocation()}."
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -143456,175 +143546,175 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        return null;"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Returns a non-existent file location to force test app to load sample data."
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    protected Path getDataFileLocation() {"
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        Path filePath \u003d TestUtil.getFilePathInSandboxFolder(\"SomeFileThatDoesNotExist1234567890.xml\");"
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        deleteFileIfExists(filePath);"
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        return filePath;"
       },
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     * Deletes the file at {@code filePath} if it exists."
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    private void deleteFileIfExists(Path filePath) {"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        try {"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "            Files.deleteIfExists(filePath);"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        } catch (IOException ioe) {"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(ioe);"
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
@@ -143652,20 +143742,21 @@
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "russellong95"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "russellong95": 52
+      "-": 41,
+      "russellong95": 11
     }
   },
   {

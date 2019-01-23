@@ -26,14 +26,14 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "https://travis-ci.org/CS2103-AY1819S1-W12-1/main[image:https://travis-ci.org/CS2103-AY1819S1-W12-1/main.svg?branch\u003dmaster[Build Status]]"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "https://ci.appveyor.com/project/CS2103-AY1819S1-W12-1/main/branch/master[image:https://ci.appveyor.com/api/projects/status/yvil727ad656xo0d/branch/master?svg\u003dtrue[Build status]]"
       },
@@ -47,7 +47,7 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "https://www.codacy.com/app/CS2103-AY1819S1-W12-1/main?utm_source\u003dgithub.com\u0026amp;utm_medium\u003dreferral\u0026amp;utm_content\u003dCS2103-AY1819S1-W12-1/main\u0026amp;utm_campaign\u003dBadge_Grade[image:https://api.codacy.com/project/badge/Grade/8659d1e101a3438cb1fdcff23080c3b4[Codacy Badge]]"
       },
@@ -229,7 +229,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* This application is based on se-edu\u0027s https://github.com/se-edu/addressbook-level4/[Address Book] application."
       },
@@ -264,8 +264,9 @@
     ],
     "authorContributionMap": {
       "plty": 3,
+      "Bobbie R. Soedirgo": 4,
       "Swiftkage": 6,
-      "-": 28
+      "-": 24
     }
   },
   {
@@ -2034,7 +2035,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ":imagesDir: images"
       },
@@ -2055,7 +2056,7 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "Lost and Found team! +"
       },
@@ -2139,14 +2140,14 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "Responsibilities: UI"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2216,7 +2217,7 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2335,7 +2336,7 @@
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2356,8 +2357,67 @@
     ],
     "authorContributionMap": {
       "plty": 6,
-      "Swiftkage": 20,
-      "-": 23
+      "Bobbie R. Soedirgo": 1,
+      "Swiftkage": 15,
+      "-": 27
+    }
+  },
+  {
+    "path": "docs/ContactUs.adoc",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d Contact Us"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":site-section: ContactUs"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":stylesDir: stylesheets"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "Bobbie R. Soedirgo"
+        },
+        "content": "* *Bug reports, Suggestions* : Post in our https://github.com/CS2103-AY1819S1-W12-1/main/issues[issue tracker] if you noticed bugs or have suggestions on how to improve."
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Contributing* : We welcome pull requests. Follow the process described https://github.com/oss-generic/process[here]"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "Bobbie R. Soedirgo"
+        },
+        "content": "* *Email us* : You can also reach us at `sram-b [at] comp.nus.edu.sg`"
+      }
+    ],
+    "authorContributionMap": {
+      "Bobbie R. Soedirgo": 2,
+      "-": 5
     }
   },
   {
@@ -2457,7 +2517,7 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ":experimental:"
       },
@@ -2716,14 +2776,14 @@
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ".. Due to an ongoing https://youtrack.jetbrains.com/issue/IDEA-189060[issue] with some of the newer versions of IntelliJ, code errors may be detected even if the project can be built and run successfully"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ".. To resolve this, place your cursor over any of the code section highlighted in red. Press kbd:[ALT + ENTER], and select `Add \u0027--add-modules\u003d...\u0027 to module compiler options` for each error"
       },
@@ -5187,7 +5247,7 @@
       {
         "lineNumber": 404,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5411,7 +5471,7 @@
       {
         "lineNumber": 436,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7077,7 +7137,7 @@
       {
         "lineNumber": 674,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7091,7 +7151,7 @@
       {
         "lineNumber": 676,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7105,7 +7165,7 @@
       {
         "lineNumber": 678,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7119,7 +7179,7 @@
       {
         "lineNumber": 680,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7133,7 +7193,7 @@
       {
         "lineNumber": 682,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7147,7 +7207,7 @@
       {
         "lineNumber": 684,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7161,7 +7221,7 @@
       {
         "lineNumber": 686,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7175,7 +7235,7 @@
       {
         "lineNumber": 688,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7189,7 +7249,7 @@
       {
         "lineNumber": 690,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7203,7 +7263,7 @@
       {
         "lineNumber": 692,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7294,7 +7354,7 @@
       {
         "lineNumber": 705,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7329,7 +7389,7 @@
       {
         "lineNumber": 710,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7343,7 +7403,7 @@
       {
         "lineNumber": 712,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7546,7 +7606,7 @@
       {
         "lineNumber": 741,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7574,7 +7634,7 @@
       {
         "lineNumber": 745,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7623,7 +7683,7 @@
       {
         "lineNumber": 752,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7637,7 +7697,7 @@
       {
         "lineNumber": 754,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7693,7 +7753,7 @@
       {
         "lineNumber": 762,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7721,7 +7781,7 @@
       {
         "lineNumber": 766,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7756,7 +7816,7 @@
       {
         "lineNumber": 771,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7770,7 +7830,7 @@
       {
         "lineNumber": 773,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7819,7 +7879,7 @@
       {
         "lineNumber": 780,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7882,7 +7942,7 @@
       {
         "lineNumber": 789,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7896,7 +7956,7 @@
       {
         "lineNumber": 791,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7973,7 +8033,7 @@
       {
         "lineNumber": 802,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8022,7 +8082,7 @@
       {
         "lineNumber": 809,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8036,7 +8096,7 @@
       {
         "lineNumber": 811,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8092,14 +8152,14 @@
       {
         "lineNumber": 819,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 820,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "[discrete]"
       },
@@ -8113,14 +8173,14 @@
       {
         "lineNumber": 822,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "*MSS*"
       },
       {
         "lineNumber": 823,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8155,42 +8215,42 @@
       {
         "lineNumber": 828,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 829,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 830,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 831,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "*Extensions*"
       },
       {
         "lineNumber": 832,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 833,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "[none]"
       },
@@ -8204,14 +8264,14 @@
       {
         "lineNumber": 835,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 836,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
@@ -8225,7 +8285,7 @@
       {
         "lineNumber": 838,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "+"
       },
@@ -8246,7 +8306,7 @@
       {
         "lineNumber": 841,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "[appendix]"
       },
@@ -8568,7 +8628,7 @@
       {
         "lineNumber": 887,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8582,7 +8642,7 @@
       {
         "lineNumber": 889,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8603,14 +8663,14 @@
       {
         "lineNumber": 892,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "   Expected: First contact is deleted from the list. Details of the deleted contact shown in the status message. Timestamp in the status bar is updated."
       },
       {
         "lineNumber": 893,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ".. Test case: `delete 0` +"
       },
@@ -8624,14 +8684,14 @@
       {
         "lineNumber": 895,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ".. Other incorrect delete commands to try: `delete`, `delete x` (where x is larger than the list size) _{give more}_ +"
       },
       {
         "lineNumber": 896,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "   Expected: Similar to previous."
       },
@@ -8728,9 +8788,10 @@
       }
     ],
     "authorContributionMap": {
-      "plty": 147,
-      "Swiftkage": 189,
-      "-": 573
+      "plty": 116,
+      "Swiftkage": 171,
+      "-": 619,
+      "Jun An": 3
     }
   },
   {
@@ -8795,7 +8856,7 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": ":xrefstyle: short"
       },
@@ -8837,7 +8898,7 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": ":repoURL: https://github.com/CS2103-AY1819S1-W12-1/main"
       },
@@ -8851,7 +8912,7 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "By: `Team W12-1`      Since: `Sep 2018`      Licence: `MIT`"
       },
@@ -8886,7 +8947,7 @@
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": ""
       },
@@ -8977,7 +9038,7 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": ".  Ensure you have Java version `9` or later installed in your computer."
       },
@@ -8991,7 +9052,7 @@
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": ".  Copy the file to the folder you want to use as the home folder for your Lost and Found app."
       },
@@ -9054,21 +9115,21 @@
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* *`list`* : list all articles"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* **`delete`**`3` : delete the 3rd article shown in the current list"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* *`exit`* : exit the app"
       },
@@ -9145,28 +9206,28 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* Words in `UPPER_CASE` are the parameters to be supplied by the user e.g. in `add n/NAME`, `NAME` is a parameter which can be used as `add n/Wallet`."
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* Parameters in square brackets are optional e.g `n/NAME [t/TAG]` can be used as `n/Wallet t/brown` or as `n/Wallet`."
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* Parameters with `…` after them can be used multiple times including zero times e.g. `[t/TAG]...` can be used as `{nbsp}` (i.e. 0 times), `t/yellow`, `t/yellow t/empty` etc."
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* Parameters can be in any order e.g. if the command specifies `n/NAME t/TAG`, `t/TAG n/NAME` is also acceptable."
       },
@@ -9201,7 +9262,7 @@
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9376,7 +9437,7 @@
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9404,7 +9465,7 @@
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9425,21 +9486,21 @@
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9453,7 +9514,7 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9481,14 +9542,14 @@
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "Format: `list`"
       },
@@ -9530,7 +9591,7 @@
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9544,21 +9605,21 @@
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "plty"
+          "gitId": "-"
         },
         "content": "* At least one of the optional fields must be provided."
       },
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* When editing tags, the existing tags of the article will be removed i.e. adding of tags is not cumulative."
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* You can remove all the article\u0027s tags by typing t/ without specifying any tags after it."
       },
@@ -9586,7 +9647,7 @@
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* `edit 2 n/Bag t/` edits the name of the second article to be `Bag` and clears all existing tags."
       },
@@ -9635,14 +9696,14 @@
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* Deletes the article at the specified INDEX"
       },
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* The index refers to the index number shown in the displayed article list."
       },
@@ -9677,7 +9738,7 @@
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* `delete 2` deletes the second article in the list"
       },
@@ -9705,7 +9766,7 @@
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9726,14 +9787,14 @@
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* Selects the article and shows a more detailed description of the article at the specified INDEX."
       },
       {
         "lineNumber": 143,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* The index refers to the index number shown in the displayed list."
       },
@@ -9768,7 +9829,7 @@
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* `select 2` selects the second article in the list."
       },
@@ -9852,7 +9913,7 @@
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9908,21 +9969,21 @@
       {
         "lineNumber": 168,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9943,7 +10004,7 @@
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9964,7 +10025,7 @@
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9978,7 +10039,7 @@
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9999,7 +10060,7 @@
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10013,7 +10074,7 @@
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10034,7 +10095,7 @@
       {
         "lineNumber": 186,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10090,21 +10151,21 @@
       {
         "lineNumber": 194,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 195,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 196,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10125,7 +10186,7 @@
       {
         "lineNumber": 199,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10146,7 +10207,7 @@
       {
         "lineNumber": 202,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10160,7 +10221,7 @@
       {
         "lineNumber": 204,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10181,7 +10242,7 @@
       {
         "lineNumber": 207,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10272,21 +10333,21 @@
       {
         "lineNumber": 220,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 221,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 222,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10307,7 +10368,7 @@
       {
         "lineNumber": 225,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10328,7 +10389,7 @@
       {
         "lineNumber": 228,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10342,7 +10403,7 @@
       {
         "lineNumber": 230,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10370,7 +10431,7 @@
       {
         "lineNumber": 234,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10384,7 +10445,7 @@
       {
         "lineNumber": 236,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10412,7 +10473,7 @@
       {
         "lineNumber": 240,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10489,7 +10550,7 @@
       {
         "lineNumber": 251,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "Format: `undo`"
       },
@@ -10517,7 +10578,7 @@
       {
         "lineNumber": 255,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "Format: `redo`"
       },
@@ -10601,7 +10662,7 @@
       {
         "lineNumber": 267,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "There is no need to save manually."
       },
@@ -10629,14 +10690,14 @@
       {
         "lineNumber": 271,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "*Q*: How do I transfer my data to another computer? +"
       },
       {
         "lineNumber": 272,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "*A*: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous Lost and Found folder."
       },
@@ -10664,14 +10725,14 @@
       {
         "lineNumber": 276,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* *Add* `add n/NAME [t/TAG]...` +"
       },
       {
         "lineNumber": 277,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "e.g. `add n/Wallet t/brown t/empty`"
       },
@@ -10699,14 +10760,14 @@
       {
         "lineNumber": 281,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* *Edit* : `edit INDEX [n/NAME] [t/TAG]...` +"
       },
       {
         "lineNumber": 282,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "e.g. `edit 2 n/Jacket t/leather`"
       },
@@ -10720,7 +10781,7 @@
       {
         "lineNumber": 284,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "e.g. `find brown wallet`"
       },
@@ -10775,9 +10836,10 @@
       }
     ],
     "authorContributionMap": {
-      "plty": 7,
-      "Swiftkage": 167,
-      "-": 117
+      "plty": 5,
+      "Bobbie R. Soedirgo": 32,
+      "Swiftkage": 131,
+      "-": 123
     }
   },
   {
@@ -10793,7 +10855,7 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ":site-section: AboutUs"
       },
@@ -10891,21 +10953,21 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* *Major enhancement*: revamp of GUI"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "** What it does: change what was previously the browser panel to show the details of a selected article."
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "** Justification: this allows the user to view further information about the selected article, including the finder and claimer of an article."
       },
@@ -10919,21 +10981,21 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* *Minor enhancement*: remove support for browser panel"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "** What it does: remove every trace of browser panel from the already tightly-coupled source code."
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "** Justification: allows for further development without browser panel support breaking tests or the like."
       },
@@ -10947,7 +11009,7 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* *Code contributed*: [https://nus-cs2103-ay1819s1.github.io/cs2103-dashboard/#\u003dundefined\u0026search\u003ddan-delion\u0026sort\u003ddisplayName\u0026since\u003d2018-09-12\u0026until\u003d2018-11-10\u0026timeframe\u003dday\u0026reverse\u003dfalse\u0026repoSort\u003dtrue[RepoSense Report]]"
       },
@@ -10968,21 +11030,21 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "** Enhancement:"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "*** Changed displayed fields on article cards"
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "*** Allow displaying of images in the GUI"
       },
@@ -10996,7 +11058,7 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "*** Drafted user stories"
       },
@@ -11010,7 +11072,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "*** Updated User Guide, Contact Us, About Us."
       },
@@ -11066,28 +11128,28 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* Introduction: remake for the new app"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "* Features:"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "** Change terms to reflect new app (e.g. persons to articles)"
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "-"
+          "gitId": "Bobbie R. Soedirgo"
         },
         "content": "** Add/remove some features to reflect new app"
       },
@@ -11100,8 +11162,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 1,
       "dan-delion": 3,
-      "-": 42
+      "Bobbie R. Soedirgo": 16,
+      "-": 25
     }
   },
   {
@@ -11588,7 +11652,7 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ":site-section: AboutUs"
       },
@@ -12007,9 +12071,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 1,
       "plty": 24,
       "dan-delion": 2,
-      "-": 35
+      "-": 34
     }
   },
   {
@@ -12025,7 +12090,7 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ":site-section: AboutUs"
       },
@@ -12409,9 +12474,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 1,
       "dan-delion": 1,
       "Swiftkage": 29,
-      "-": 26
+      "-": 25
     }
   },
   {
@@ -24841,7 +24907,7 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "public class AddCommand extends Command {"
       },
@@ -25086,7 +25152,7 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
       },
@@ -25100,7 +25166,7 @@
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -25121,14 +25187,14 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -25218,9 +25284,11 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 4,
       "plty": 23,
       "Swiftkage": 8,
-      "-": 41
+      "-": 36,
+      "Jun An": 1
     }
   },
   {
@@ -26329,7 +26397,7 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "public class EditCommand extends Command {"
       },
@@ -26602,14 +26670,14 @@
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
       },
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        requireNonNull(model);"
       },
@@ -26623,14 +26691,14 @@
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        if (index.getZeroBased() \u003e\u003d lastShownList.size()) {"
       },
@@ -26644,14 +26712,14 @@
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -26707,7 +26775,7 @@
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -26728,14 +26796,14 @@
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -27924,9 +27992,11 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 4,
       "plty": 86,
       "Swiftkage": 18,
-      "-": 158
+      "-": 148,
+      "Jun An": 6
     }
   },
   {
@@ -29500,7 +29570,7 @@
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import static java.util.Objects.requireNonNull;"
       },
@@ -29535,7 +29605,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -29619,14 +29689,14 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public CommandResult execute(Model model, CommandHistory history) {"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        requireNonNull(model);"
       },
@@ -29660,9 +29730,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 4,
       "plty": 4,
       "Swiftkage": 3,
-      "-": 18
+      "-": 14
     }
   },
   {
@@ -31487,21 +31558,21 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        Name name \u003d ParserUtil.parseName(argMultimap.getValue(PREFIX_NAME).get());"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        Phone phone \u003d ParserUtil.parsePhone(argMultimap.getValue(PREFIX_PHONE).get());"
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        Email email \u003d ParserUtil.parseEmail(argMultimap.getValue(PREFIX_EMAIL).get());"
       },
@@ -31668,9 +31739,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 3,
       "plty": 27,
       "Swiftkage": 6,
-      "-": 40
+      "-": 37
     }
   },
   {
@@ -34554,14 +34626,14 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        } catch (ParseException pe) {"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            throw new ParseException(String.format(MESSAGE_INVALID_COMMAND_FORMAT, EditCommand.MESSAGE_USAGE), pe);"
       },
@@ -34589,7 +34661,7 @@
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        if (argMultimap.getValue(PREFIX_NAME).isPresent()) {"
       },
@@ -34603,14 +34675,14 @@
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        if (argMultimap.getValue(PREFIX_PHONE).isPresent()) {"
       },
@@ -34624,14 +34696,14 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        if (argMultimap.getValue(PREFIX_EMAIL).isPresent()) {"
       },
@@ -34645,7 +34717,7 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
@@ -34673,7 +34745,7 @@
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
@@ -34827,7 +34899,7 @@
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private Optional\u003cSet\u003cTag\u003e\u003e parseTagsForEdit(Collection\u003cString\u003e tags) throws ParseException {"
       },
@@ -34903,9 +34975,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 10,
       "plty": 31,
       "Swiftkage": 3,
-      "-": 60
+      "-": 50
     }
   },
   {
@@ -38206,14 +38279,14 @@
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        this();"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        resetData(toBeCopied);"
       },
@@ -38248,7 +38321,7 @@
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    /**"
       },
@@ -38269,7 +38342,7 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     */"
       },
@@ -38381,7 +38454,7 @@
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    /**"
       },
@@ -38395,7 +38468,7 @@
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     */"
       },
@@ -38423,14 +38496,14 @@
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -38807,9 +38880,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 8,
       "plty": 43,
       "dan-delion": 1,
-      "-": 77
+      "-": 69
     }
   },
   {
@@ -38965,7 +39039,7 @@
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    /**"
       },
@@ -38979,7 +39053,7 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     */"
       },
@@ -38993,14 +39067,14 @@
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    /**"
       },
@@ -39021,7 +39095,7 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     */"
       },
@@ -39042,7 +39116,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    /**"
       },
@@ -39063,7 +39137,7 @@
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     */"
       },
@@ -39203,7 +39277,7 @@
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -39217,7 +39291,7 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -39231,14 +39305,14 @@
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -39252,7 +39326,7 @@
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -39266,14 +39340,14 @@
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -39287,7 +39361,7 @@
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -39301,14 +39375,14 @@
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -39322,7 +39396,7 @@
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -39336,14 +39410,14 @@
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -39357,7 +39431,7 @@
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -39377,10 +39451,12 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 7,
       "plty": 31,
       "dan-delion": 1,
       "Swiftkage": 4,
-      "-": 44
+      "-": 23,
+      "Jun An": 14
     }
   },
   {
@@ -39795,7 +39871,7 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Override"
       },
@@ -39823,14 +39899,14 @@
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -40103,21 +40179,21 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    //\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d Undo/Redo \u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Override"
       },
@@ -40138,21 +40214,21 @@
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Override"
       },
@@ -40173,21 +40249,21 @@
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Override"
       },
@@ -40222,21 +40298,21 @@
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Override"
       },
@@ -40271,21 +40347,21 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Override"
       },
@@ -40306,14 +40382,14 @@
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -40452,9 +40528,11 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 3,
       "plty": 57,
       "Swiftkage": 4,
-      "-": 91
+      "-": 71,
+      "Jun An": 17
     }
   },
   {
@@ -49177,7 +49255,7 @@
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public static Set\u003cTag\u003e getTagSet(String... strings) {"
       },
@@ -49225,9 +49303,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 1,
       "plty": 27,
       "Swiftkage": 26,
-      "-": 26
+      "-": 25
     }
   },
   {
@@ -51326,7 +51405,7 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import java.util.Objects;"
       },
@@ -51466,7 +51545,7 @@
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -51655,7 +51734,7 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    /**"
       },
@@ -51669,7 +51748,7 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     */"
       },
@@ -51690,21 +51769,21 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        this.name \u003d name;"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        this.phone \u003d phone;"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        this.email \u003d email;"
       },
@@ -51746,28 +51825,28 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        if (tagged !\u003d null) {"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            this.tagged \u003d new ArrayList\u003c\u003e(tagged);"
       },
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
@@ -51984,28 +52063,28 @@
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        if (name \u003d\u003d null) {"
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "            throw new IllegalValueException(String.format(MISSING_FIELD_MESSAGE_FORMAT, Name.class.getSimpleName()));"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
@@ -52026,42 +52105,42 @@
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        final Name modelName \u003d new Name(name);"
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        if (phone \u003d\u003d null) {"
       },
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "            throw new IllegalValueException(String.format(MISSING_FIELD_MESSAGE_FORMAT, Phone.class.getSimpleName()));"
       },
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
@@ -52082,42 +52161,42 @@
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        final Phone modelPhone \u003d new Phone(phone);"
       },
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        if (email \u003d\u003d null) {"
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "            throw new IllegalValueException(String.format(MISSING_FIELD_MESSAGE_FORMAT, Email.class.getSimpleName()));"
       },
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
@@ -52138,21 +52217,21 @@
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        final Email modelEmail \u003d new Email(email);"
       },
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -52180,7 +52259,7 @@
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
@@ -52201,7 +52280,7 @@
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
@@ -52215,7 +52294,7 @@
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -52439,49 +52518,49 @@
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Override"
       },
       {
         "lineNumber": 167,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 168,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        if (other \u003d\u003d this) {"
       },
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "            return true;"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
       {
         "lineNumber": 171,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -52495,21 +52574,21 @@
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "            return false;"
       },
       {
         "lineNumber": 174,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
       {
         "lineNumber": 175,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -52565,7 +52644,7 @@
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
@@ -52578,9 +52657,11 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 24,
       "plty": 63,
       "Swiftkage": 31,
-      "-": 90
+      "-": 46,
+      "Jun An": 20
     }
   },
   {
@@ -53939,7 +54020,7 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -54023,7 +54104,7 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -54163,7 +54244,7 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -54177,14 +54258,14 @@
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     *"
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     * @throws IllegalValueException if there were any data constraints violated or duplicates in the"
       },
@@ -54198,7 +54279,7 @@
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -54247,7 +54328,7 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            }"
       },
@@ -54261,7 +54342,7 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
@@ -54275,56 +54356,56 @@
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Override"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        if (other \u003d\u003d this) {"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "            return true;"
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -54338,14 +54419,14 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "            return false;"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
@@ -54359,7 +54440,7 @@
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
@@ -54372,8 +54453,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 3,
       "plty": 27,
-      "-": 43
+      "-": 24,
+      "Jun An": 16
     }
   },
   {
@@ -58832,7 +58915,7 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "dan-delion"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -59406,8 +59489,8 @@
     ],
     "authorContributionMap": {
       "plty": 15,
-      "dan-delion": 16,
-      "-": 177
+      "dan-delion": 15,
+      "-": 178
     }
   },
   {
@@ -67326,7 +67409,7 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"yes\"?\u003e"
       },
@@ -67361,14 +67444,14 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone isPrivate\u003d\"false\"\u003e9482424\u003c/phone\u003e"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail isPrivate\u003d\"false\"\u003ehans@example.com\u003c/email\u003e"
       },
@@ -67431,14 +67514,14 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone isPrivate\u003d\"false\"\u003e948asdf2424\u003c/phone\u003e"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail isPrivate\u003d\"false\"\u003ehans@example.com\u003c/email\u003e"
       },
@@ -67488,7 +67571,7 @@
     "authorContributionMap": {
       "plty": 8,
       "Swiftkage": 10,
-      "-": 5
+      "Jun An": 5
     }
   },
   {
@@ -67497,7 +67580,7 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"yes\"?\u003e"
       },
@@ -67532,14 +67615,14 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone isPrivate\u003d\"false\"\u003e9482424\u003c/phone\u003e"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail isPrivate\u003d\"false\"\u003ehans@example.com\u003c/email\u003e"
       },
@@ -67589,7 +67672,7 @@
     "authorContributionMap": {
       "plty": 5,
       "Swiftkage": 5,
-      "-": 3
+      "Jun An": 3
     }
   },
   {
@@ -67598,7 +67681,7 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"yes\"?\u003e"
       },
@@ -67612,7 +67695,7 @@
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -67633,14 +67716,14 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        \u003cphone\u003e94351253\u003c/phone\u003e"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        \u003cemail\u003ealice@example.com\u003c/email\u003e"
       },
@@ -67689,7 +67772,7 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -67717,14 +67800,14 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        \u003cphone\u003e94351253\u003c/phone\u003e"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        \u003cemail\u003epauline@example.com\u003c/email\u003e"
       },
@@ -67766,7 +67849,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -67779,9 +67862,9 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 8,
       "plty": 7,
-      "Swiftkage": 11,
-      "-": 8
+      "Swiftkage": 11
     }
   },
   {
@@ -67790,7 +67873,7 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"yes\"?\u003e"
       },
@@ -67825,14 +67908,14 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone isPrivate\u003d\"false\"\u003e9482424\u003c/phone\u003e"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail isPrivate\u003d\"false\"\u003ehans@exam!32ple\u003c/email\u003e"
       },
@@ -67882,7 +67965,7 @@
     "authorContributionMap": {
       "plty": 5,
       "Swiftkage": 5,
-      "-": 3
+      "Jun An": 3
     }
   },
   {
@@ -67891,7 +67974,7 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"yes\"?\u003e"
       },
@@ -67933,7 +68016,7 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail\u003ealice@example.com\u003c/email\u003e"
       },
@@ -67996,14 +68079,14 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone\u003e98765432\u003c/phone\u003e"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail\u003ejohnd@example.com\u003c/email\u003e"
       },
@@ -68073,14 +68156,14 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone\u003e95352563\u003c/phone\u003e"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail\u003eheinz@example.com\u003c/email\u003e"
       },
@@ -68136,14 +68219,14 @@
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone\u003e87652533\u003c/phone\u003e"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail\u003ecornelia@example.com\u003c/email\u003e"
       },
@@ -68206,14 +68289,14 @@
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone\u003e9482224\u003c/phone\u003e"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail\u003ewerner@example.com\u003c/email\u003e"
       },
@@ -68269,14 +68352,14 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone\u003e9482427\u003c/phone\u003e"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail\u003elydia@example.com\u003c/email\u003e"
       },
@@ -68332,14 +68415,14 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cphone\u003e9482442\u003c/phone\u003e"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        \u003cemail\u003eanna@example.com\u003c/email\u003e"
       },
@@ -68515,7 +68598,8 @@
     "authorContributionMap": {
       "plty": 17,
       "Swiftkage": 57,
-      "-": 15
+      "-": 1,
+      "Jun An": 14
     }
   },
   {
@@ -68524,7 +68608,7 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"yes\"?\u003e"
       },
@@ -68552,14 +68636,14 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    \u003cphone\u003e9482asf424\u003c/phone\u003e"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    \u003cemail\u003ehans@example\u003c/email\u003e"
       },
@@ -68616,7 +68700,7 @@
     "authorContributionMap": {
       "plty": 4,
       "Swiftkage": 6,
-      "-": 3
+      "Jun An": 3
     }
   },
   {
@@ -68625,7 +68709,7 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"yes\"?\u003e"
       },
@@ -68646,14 +68730,14 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    \u003cphone\u003e9482424\u003c/phone\u003e"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    \u003cemail\u003ehans@example\u003c/email\u003e"
       },
@@ -68710,7 +68794,7 @@
     "authorContributionMap": {
       "plty": 4,
       "Swiftkage": 5,
-      "-": 3
+      "Jun An": 3
     }
   },
   {
@@ -68812,7 +68896,7 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"yes\"?\u003e"
       },
@@ -68833,14 +68917,14 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    \u003cphone\u003e9482424\u003c/phone\u003e"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    \u003cemail\u003ehans@example\u003c/email\u003e"
       },
@@ -68897,7 +68981,7 @@
     "authorContributionMap": {
       "plty": 3,
       "Swiftkage": 6,
-      "-": 3
+      "Jun An": 3
     }
   },
   {
@@ -72101,7 +72185,7 @@
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "dan-delion"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -72115,8 +72199,8 @@
     ],
     "authorContributionMap": {
       "plty": 4,
-      "dan-delion": 5,
-      "-": 42
+      "dan-delion": 4,
+      "-": 43
     }
   },
   {
@@ -79473,14 +79557,14 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import java.util.Collections;"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import java.util.List;"
       },
@@ -79501,7 +79585,7 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import javax.xml.bind.annotation.XmlRootElement;"
       },
@@ -79676,14 +79760,14 @@
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    private static final String INVALID_PHONE \u003d \"9482asf424\";"
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -79704,14 +79788,14 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    private static final String VALID_PHONE \u003d \"9482424\";"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    private static final String VALID_EMAIL \u003d \"hans@example\";"
       },
@@ -79746,7 +79830,7 @@
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -80005,7 +80089,7 @@
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -80061,21 +80145,21 @@
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -80131,21 +80215,21 @@
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -80201,14 +80285,14 @@
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -80383,7 +80467,7 @@
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        assertEquals(dataToWrite, dataFromFile);"
       },
@@ -80439,7 +80523,7 @@
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        assertEquals(dataToWrite, dataFromFile);"
       },
@@ -80453,14 +80537,14 @@
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 149,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -80474,14 +80558,14 @@
       {
         "lineNumber": 151,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     * objects."
       },
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -80510,7 +80594,8 @@
     "authorContributionMap": {
       "plty": 48,
       "Swiftkage": 11,
-      "-": 96
+      "-": 73,
+      "Jun An": 23
     }
   },
   {
@@ -83346,7 +83431,7 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private CommandHistory commandHistory \u003d new CommandHistory();"
       },
@@ -83534,8 +83619,9 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 1,
       "plty": 22,
-      "-": 27
+      "-": 26
     }
   },
   {
@@ -85086,14 +85172,14 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private CommandHistory commandHistory \u003d new CommandHistory();"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -85142,7 +85228,7 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new ClearCommand(), model, commandHistory, ClearCommand.MESSAGE_SUCCESS, expectedModel);"
       },
@@ -85212,7 +85298,7 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new ClearCommand(), model, commandHistory, ClearCommand.MESSAGE_SUCCESS, expectedModel);"
       },
@@ -85239,8 +85325,9 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 4,
       "plty": 15,
-      "-": 22
+      "-": 18
     }
   },
   {
@@ -85270,7 +85357,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import static org.junit.Assert.assertTrue;"
       },
@@ -85879,14 +85966,14 @@
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     * - the {@code actualModel} matches {@code expectedModel} \u003cbr\u003e"
       },
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     * - the {@code actualCommandHistory} remains unchanged."
       },
@@ -85900,21 +85987,21 @@
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public static void assertCommandSuccess(Command command, Model actualModel, CommandHistory actualCommandHistory,"
       },
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            String expectedMessage, Model expectedModel) {"
       },
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        CommandHistory expectedCommandHistory \u003d new CommandHistory(actualCommandHistory);"
       },
@@ -85928,7 +86015,7 @@
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            CommandResult result \u003d command.execute(actualModel, actualCommandHistory);"
       },
@@ -85949,7 +86036,7 @@
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            assertEquals(expectedCommandHistory, actualCommandHistory);"
       },
@@ -86026,7 +86113,7 @@
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     * - {@code actualCommandHistory} remains unchanged."
       },
@@ -86040,14 +86127,14 @@
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public static void assertCommandFailure(Command command, Model actualModel, CommandHistory actualCommandHistory,"
       },
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            String expectedMessage) {"
       },
@@ -86089,14 +86176,14 @@
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        CommandHistory expectedCommandHistory \u003d new CommandHistory(actualCommandHistory);"
       },
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -86110,14 +86197,14 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            command.execute(actualModel, actualCommandHistory);"
       },
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            throw new AssertionError(\"The expected CommandException was not thrown.\");"
       },
@@ -86152,7 +86239,7 @@
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            assertEquals(expectedCommandHistory, actualCommandHistory);"
       },
@@ -86222,7 +86309,7 @@
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -86334,7 +86421,7 @@
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -86347,9 +86434,11 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 15,
       "plty": 34,
       "Swiftkage": 45,
-      "-": 78
+      "-": 60,
+      "Jun An": 3
     }
   },
   {
@@ -86379,7 +86468,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import static org.junit.Assert.assertNotEquals;"
       },
@@ -86519,14 +86608,14 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": " * Contains integration tests (interaction with the Model, UndoCommand and RedoCommand) and unit tests for"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": " * {@code DeleteCommand}."
       },
@@ -86561,7 +86650,7 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private CommandHistory commandHistory \u003d new CommandHistory();"
       },
@@ -86582,7 +86671,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void execute_validIndexUnfilteredList_success() {"
       },
@@ -86652,7 +86741,7 @@
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(deleteCommand, model, commandHistory, expectedMessage, expectedModel);"
       },
@@ -86680,7 +86769,7 @@
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void execute_invalidIndexUnfilteredList_throwsCommandException() {"
       },
@@ -86694,7 +86783,7 @@
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        DeleteCommand deleteCommand \u003d new DeleteCommand(outOfBoundIndex);"
       },
@@ -86736,7 +86825,7 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void execute_validIndexFilteredList_success() {"
       },
@@ -86827,7 +86916,7 @@
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(deleteCommand, model, commandHistory, expectedMessage, expectedModel);"
       },
@@ -86904,7 +86993,7 @@
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        DeleteCommand deleteCommand \u003d new DeleteCommand(outOfBoundIndex);"
       },
@@ -86939,14 +87028,14 @@
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void executeUndoRedo_validIndexUnfilteredList_success() throws Exception {"
       },
@@ -86988,7 +87077,7 @@
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -87002,14 +87091,14 @@
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        deleteCommand.execute(model, commandHistory);"
       },
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -87030,14 +87119,14 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -87058,35 +87147,35 @@
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new RedoCommand(), model, commandHistory, RedoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void executeUndoRedo_invalidIndexUnfilteredList_failure() {"
       },
@@ -87100,14 +87189,14 @@
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        DeleteCommand deleteCommand \u003d new DeleteCommand(outOfBoundIndex);"
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -87128,7 +87217,7 @@
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -87142,35 +87231,35 @@
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandFailure(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_FAILURE);"
       },
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandFailure(new RedoCommand(), model, commandHistory, RedoCommand.MESSAGE_FAILURE);"
       },
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -87184,7 +87273,7 @@
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     * 2. Undo the deletion."
       },
@@ -87198,7 +87287,7 @@
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     * unfiltered list is different from the index at the filtered list."
       },
@@ -87212,7 +87301,7 @@
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -87247,7 +87336,7 @@
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -87282,7 +87371,7 @@
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -87296,14 +87385,14 @@
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        deleteCommand.execute(model, commandHistory);"
       },
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -87324,14 +87413,14 @@
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -87359,35 +87448,35 @@
       {
         "lineNumber": 144,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new RedoCommand(), model, commandHistory, RedoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void equals() {"
       },
@@ -87596,8 +87685,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 18,
       "plty": 73,
-      "-": 104
+      "-": 59,
+      "Jun An": 27
     }
   },
   {
@@ -88085,7 +88176,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import static org.junit.Assert.assertNotEquals;"
       },
@@ -88302,7 +88393,7 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": " * Contains integration tests (interaction with the Model, UndoCommand and RedoCommand) and unit tests for EditCommand."
       },
@@ -88337,7 +88428,7 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private CommandHistory commandHistory \u003d new CommandHistory();"
       },
@@ -88358,7 +88449,7 @@
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void execute_allFieldsSpecifiedUnfilteredList_success() {"
       },
@@ -88435,7 +88526,7 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(editCommand, model, commandHistory, expectedMessage, expectedModel);"
       },
@@ -88463,7 +88554,7 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void execute_someFieldsSpecifiedUnfilteredList_success() {"
       },
@@ -88603,7 +88694,7 @@
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(editCommand, model, commandHistory, expectedMessage, expectedModel);"
       },
@@ -88708,7 +88799,7 @@
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(editCommand, model, commandHistory, expectedMessage, expectedModel);"
       },
@@ -88736,7 +88827,7 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void execute_filteredList_success() {"
       },
@@ -88834,7 +88925,7 @@
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(editCommand, model, commandHistory, expectedMessage, expectedModel);"
       },
@@ -89030,7 +89121,7 @@
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        EditCommand editCommand \u003d new EditCommand(outOfBoundIndex, descriptor);"
       },
@@ -89142,7 +89233,7 @@
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        EditCommand editCommand \u003d new EditCommand(outOfBoundIndex,"
       },
@@ -89184,14 +89275,14 @@
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void executeUndoRedo_validIndexUnfilteredList_success() throws Exception {"
       },
@@ -89247,7 +89338,7 @@
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -89261,14 +89352,14 @@
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        editCommand.execute(model, commandHistory);"
       },
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -89289,14 +89380,14 @@
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -89317,35 +89408,35 @@
       {
         "lineNumber": 180,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new RedoCommand(), model, commandHistory, RedoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 184,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void executeUndoRedo_invalidIndexUnfilteredList_failure() {"
       },
@@ -89366,14 +89457,14 @@
       {
         "lineNumber": 187,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        EditCommand editCommand \u003d new EditCommand(outOfBoundIndex, descriptor);"
       },
       {
         "lineNumber": 188,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -89394,7 +89485,7 @@
       {
         "lineNumber": 191,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -89408,35 +89499,35 @@
       {
         "lineNumber": 193,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandFailure(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_FAILURE);"
       },
       {
         "lineNumber": 194,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandFailure(new RedoCommand(), model, commandHistory, RedoCommand.MESSAGE_FAILURE);"
       },
       {
         "lineNumber": 195,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 196,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 197,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -89450,7 +89541,7 @@
       {
         "lineNumber": 199,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     * 2. Undo the edit."
       },
@@ -89464,7 +89555,7 @@
       {
         "lineNumber": 201,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     * unfiltered list is different from the index at the filtered list."
       },
@@ -89478,7 +89569,7 @@
       {
         "lineNumber": 203,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -89527,7 +89618,7 @@
       {
         "lineNumber": 210,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -89562,7 +89653,7 @@
       {
         "lineNumber": 215,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -89576,14 +89667,14 @@
       {
         "lineNumber": 217,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        editCommand.execute(model, commandHistory);"
       },
       {
         "lineNumber": 218,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -89604,14 +89695,14 @@
       {
         "lineNumber": 221,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
       {
         "lineNumber": 222,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -89639,35 +89730,35 @@
       {
         "lineNumber": 226,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new RedoCommand(), model, commandHistory, RedoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
       {
         "lineNumber": 227,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 228,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 229,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 230,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void equals() {"
       },
@@ -89841,9 +89932,11 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 20,
       "plty": 100,
       "Swiftkage": 27,
-      "-": 127
+      "-": 81,
+      "Jun An": 26
     }
   },
   {
@@ -91303,7 +91396,7 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private CommandHistory commandHistory \u003d new CommandHistory();"
       },
@@ -91387,7 +91480,7 @@
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new ListCommand(), model, commandHistory, ListCommand.MESSAGE_SUCCESS, expectedModel);"
       },
@@ -91436,7 +91529,7 @@
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new ListCommand(), model, commandHistory, ListCommand.MESSAGE_SUCCESS, expectedModel);"
       },
@@ -91456,9 +91549,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 3,
       "plty": 12,
       "Swiftkage": 4,
-      "-": 29
+      "-": 26
     }
   },
   {
@@ -91600,7 +91694,7 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private final CommandHistory commandHistory \u003d new CommandHistory();"
       },
@@ -91621,14 +91715,14 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void setUp() {"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // set up of both models\u0027 undo/redo history"
       },
@@ -91663,7 +91757,7 @@
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -91726,7 +91820,7 @@
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // multiple redoable states in model"
       },
@@ -91740,7 +91834,7 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new RedoCommand(), model, commandHistory, RedoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
@@ -91754,7 +91848,7 @@
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // single redoable state in model"
       },
@@ -91768,7 +91862,7 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new RedoCommand(), model, commandHistory, RedoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
@@ -91782,14 +91876,14 @@
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // no redoable state in model"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandFailure(new RedoCommand(), model, commandHistory, RedoCommand.MESSAGE_FAILURE);"
       },
@@ -91809,8 +91903,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 4,
       "plty": 21,
-      "-": 28
+      "-": 18,
+      "Jun An": 6
     }
   },
   {
@@ -92787,7 +92883,7 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private final CommandHistory commandHistory \u003d new CommandHistory();"
       },
@@ -92815,7 +92911,7 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // set up of models\u0027 undo/redo history"
       },
@@ -92836,7 +92932,7 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -92878,14 +92974,14 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void execute() {"
       },
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // multiple undoable states in model"
       },
@@ -92899,7 +92995,7 @@
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
@@ -92913,7 +93009,7 @@
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // single undoable state in model"
       },
@@ -92927,7 +93023,7 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandSuccess(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_SUCCESS, expectedModel);"
       },
@@ -92941,14 +93037,14 @@
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // no undoable states in model"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        assertCommandFailure(new UndoCommand(), model, commandHistory, UndoCommand.MESSAGE_FAILURE);"
       },
@@ -92968,8 +93064,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 4,
       "plty": 17,
-      "-": 28
+      "-": 18,
+      "Jun An": 6
     }
   },
   {
@@ -95798,14 +95896,14 @@
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -96316,8 +96414,8 @@
     ],
     "authorContributionMap": {
       "plty": 36,
-      "Swiftkage": 12,
-      "-": 106
+      "Swiftkage": 10,
+      "-": 108
     }
   },
   {
@@ -101080,28 +101178,28 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import static org.junit.Assert.assertEquals;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import static org.junit.Assert.assertFalse;"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import static org.junit.Assert.assertTrue;"
       },
@@ -101129,84 +101227,84 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import java.util.Arrays;"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import java.util.Collection;"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import java.util.Collections;"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import java.util.List;"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import org.junit.Rule;"
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import org.junit.rules.ExpectedException;"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import javafx.collections.FXCollections;"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import javafx.collections.ObservableList;"
       },
@@ -101234,7 +101332,7 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -101248,28 +101346,28 @@
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Rule"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public ExpectedException thrown \u003d ExpectedException.none();"
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -101283,21 +101381,21 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void constructor() {"
       },
@@ -101311,21 +101409,21 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -101353,21 +101451,21 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -101402,21 +101500,21 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -101465,7 +101563,7 @@
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -101486,21 +101584,21 @@
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -101514,7 +101612,7 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        thrown.expect(NullPointerException.class);"
       },
@@ -101528,21 +101626,21 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -101563,21 +101661,21 @@
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -101605,21 +101703,21 @@
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -101654,14 +101752,14 @@
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -101710,7 +101808,7 @@
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    /**"
       },
@@ -101724,7 +101822,7 @@
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "     */"
       },
@@ -101745,7 +101843,7 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -101766,21 +101864,21 @@
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        @Override"
       },
@@ -101801,36 +101899,37 @@
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 59,
       "plty": 33,
       "Swiftkage": 9,
-      "-": 66
+      "-": 7
     }
   },
   {
@@ -101895,7 +101994,7 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import java.nio.file.Paths;"
       },
@@ -101993,21 +102092,21 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private ModelManager modelManager \u003d new ModelManager();"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -102021,7 +102120,7 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        thrown.expect(NullPointerException.class);"
       },
@@ -102035,21 +102134,21 @@
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -102070,21 +102169,21 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -102112,14 +102211,14 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -102426,9 +102525,10 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 13,
       "plty": 18,
       "Swiftkage": 9,
-      "-": 57
+      "-": 44
     }
   },
   {
@@ -102444,35 +102544,35 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import static org.junit.Assert.assertEquals;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import static org.junit.Assert.assertFalse;"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import static org.junit.Assert.assertTrue;"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import static org.junit.jupiter.api.Assertions.assertThrows;"
       },
@@ -102500,49 +102600,49 @@
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import java.util.Arrays;"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import java.util.Collections;"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import java.util.List;"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -102556,7 +102656,7 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -102570,7 +102670,7 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -102605,14 +102705,14 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -102633,7 +102733,7 @@
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -102668,28 +102768,28 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "                Collections.emptyList());"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -102752,28 +102852,28 @@
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "                Collections.emptyList());"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -102843,28 +102943,28 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "                Collections.emptyList());"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -102892,7 +102992,7 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -102906,21 +103006,21 @@
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -102955,7 +103055,7 @@
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -102969,21 +103069,21 @@
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103004,7 +103104,7 @@
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103018,21 +103118,21 @@
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103067,7 +103167,7 @@
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103081,21 +103181,21 @@
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103130,7 +103230,7 @@
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103144,21 +103244,21 @@
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103193,7 +103293,7 @@
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103207,21 +103307,21 @@
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103242,7 +103342,7 @@
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103256,21 +103356,21 @@
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103298,7 +103398,7 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103312,21 +103412,21 @@
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103396,21 +103496,21 @@
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103445,7 +103545,7 @@
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103466,7 +103566,7 @@
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "                Collections.emptyList(),"
       },
@@ -103487,21 +103587,21 @@
       {
         "lineNumber": 151,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103522,7 +103622,7 @@
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103536,21 +103636,21 @@
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103585,7 +103685,7 @@
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103599,21 +103699,21 @@
       {
         "lineNumber": 167,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 168,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103683,28 +103783,28 @@
       {
         "lineNumber": 179,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "                Collections.emptyList());"
       },
       {
         "lineNumber": 180,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103781,21 +103881,21 @@
       {
         "lineNumber": 193,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 194,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 195,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103816,7 +103916,7 @@
       {
         "lineNumber": 198,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103830,21 +103930,21 @@
       {
         "lineNumber": 200,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 201,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 202,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -103872,7 +103972,7 @@
       {
         "lineNumber": 206,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -103886,28 +103986,28 @@
       {
         "lineNumber": 208,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 210,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 211,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void equals() {"
       },
@@ -103921,14 +104021,14 @@
       {
         "lineNumber": 213,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 214,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // same values -\u003e returns true"
       },
@@ -103949,14 +104049,14 @@
       {
         "lineNumber": 217,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 218,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // same object -\u003e returns true"
       },
@@ -103970,14 +104070,14 @@
       {
         "lineNumber": 220,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 221,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // null -\u003e returns false"
       },
@@ -103991,14 +104091,14 @@
       {
         "lineNumber": 223,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 224,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // different types -\u003e returns false"
       },
@@ -104012,14 +104112,14 @@
       {
         "lineNumber": 226,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 227,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // different state list -\u003e returns false"
       },
@@ -104040,14 +104140,14 @@
       {
         "lineNumber": 230,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 231,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // different current pointer index -\u003e returns false"
       },
@@ -104082,21 +104182,21 @@
       {
         "lineNumber": 236,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 237,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 238,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -104124,7 +104224,7 @@
       {
         "lineNumber": 242,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -104159,7 +104259,7 @@
       {
         "lineNumber": 247,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // check state currently pointing at is correct"
       },
@@ -104173,14 +104273,14 @@
       {
         "lineNumber": 249,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 250,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // shift pointer to start of state list"
       },
@@ -104201,21 +104301,21 @@
       {
         "lineNumber": 253,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
       {
         "lineNumber": 254,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 255,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // check states before pointer are correct"
       },
@@ -104243,21 +104343,21 @@
       {
         "lineNumber": 259,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
       {
         "lineNumber": 260,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 261,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // check states after pointer are correct"
       },
@@ -104285,21 +104385,21 @@
       {
         "lineNumber": 265,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
       {
         "lineNumber": 266,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 267,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // check that there are no more states after pointer"
       },
@@ -104313,14 +104413,14 @@
       {
         "lineNumber": 269,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 270,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        // revert pointer to original position"
       },
@@ -104334,21 +104434,21 @@
       {
         "lineNumber": 272,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 273,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 274,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -104369,7 +104469,7 @@
       {
         "lineNumber": 277,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -104390,7 +104490,7 @@
       {
         "lineNumber": 280,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -104425,14 +104525,14 @@
       {
         "lineNumber": 285,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
       {
         "lineNumber": 286,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -104446,21 +104546,21 @@
       {
         "lineNumber": 288,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 289,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 290,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    /**"
       },
@@ -104474,7 +104574,7 @@
       {
         "lineNumber": 292,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "     */"
       },
@@ -104488,7 +104588,7 @@
       {
         "lineNumber": 294,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        for (int i \u003d 0; i \u003c count; i++) {"
       },
@@ -104502,21 +104602,21 @@
       {
         "lineNumber": 296,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        }"
       },
       {
         "lineNumber": 297,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 298,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "}"
       }
@@ -104524,7 +104624,7 @@
     "authorContributionMap": {
       "plty": 154,
       "Swiftkage": 6,
-      "-": 138
+      "Jun An": 138
     }
   },
   {
@@ -107045,7 +107145,7 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -107066,77 +107166,77 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void constructor_null_throwsNullPointerException() {"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        Assert.assertThrows(NullPointerException.class, () -\u003e new Email(null));"
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void constructor_invalidEmail_throwsIllegalArgumentException() {"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        String invalidEmail \u003d \"\";"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        Assert.assertThrows(IllegalArgumentException.class, () -\u003e new Email(invalidEmail));"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -107157,7 +107257,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        // null email"
       },
@@ -107171,7 +107271,7 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -107422,8 +107522,9 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 14,
       "plty": 29,
-      "-": 33
+      "-": 19
     }
   },
   {
@@ -108570,7 +108671,7 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -108591,77 +108692,77 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void constructor_null_throwsNullPointerException() {"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        Assert.assertThrows(NullPointerException.class, () -\u003e new Name(null));"
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void constructor_invalidName_throwsIllegalArgumentException() {"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        String invalidName \u003d \"\";"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        Assert.assertThrows(IllegalArgumentException.class, () -\u003e new Name(invalidName));"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -108682,7 +108783,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        // null name"
       },
@@ -108696,7 +108797,7 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -108800,8 +108901,9 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 14,
       "plty": 12,
-      "-": 29
+      "-": 15
     }
   },
   {
@@ -114458,14 +114560,14 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import static org.junit.Assert.assertEquals;"
       },
@@ -114486,49 +114588,49 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import java.util.ArrayList;"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import java.util.List;"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import java.util.stream.Collectors;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -114577,7 +114679,7 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -114605,7 +114707,7 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private static final String INVALID_PHONE \u003d \"+651234\";"
       },
@@ -114619,21 +114721,21 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private static final String INVALID_EMAIL \u003d \"example.com\";"
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    private static final String INVALID_TAG \u003d \"#friend\";"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -114689,21 +114791,21 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            .map(XmlAdaptedTag::new)"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            .collect(Collectors.toList());"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
@@ -114731,7 +114833,7 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -114759,28 +114861,28 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void toModelType_invalidName_throwsIllegalValueException() {"
       },
@@ -114822,28 +114924,28 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void toModelType_nullName_throwsIllegalValueException() {"
       },
@@ -114871,7 +114973,7 @@
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        String expectedMessage \u003d String.format(MISSING_FIELD_MESSAGE_FORMAT, Name.class.getSimpleName());"
       },
@@ -114885,28 +114987,28 @@
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void toModelType_invalidPhone_throwsIllegalValueException() {"
       },
@@ -114948,28 +115050,28 @@
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void toModelType_nullPhone_throwsIllegalValueException() {"
       },
@@ -114990,7 +115092,7 @@
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        String expectedMessage \u003d String.format(MISSING_FIELD_MESSAGE_FORMAT, Phone.class.getSimpleName());"
       },
@@ -115004,28 +115106,28 @@
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void toModelType_invalidEmail_throwsIllegalValueException() {"
       },
@@ -115067,28 +115169,28 @@
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public void toModelType_nullEmail_throwsIllegalValueException() {"
       },
@@ -115109,7 +115211,7 @@
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        String expectedMessage \u003d String.format(MISSING_FIELD_MESSAGE_FORMAT, Email.class.getSimpleName());"
       },
@@ -115123,21 +115225,21 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -115186,21 +115288,21 @@
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -115242,42 +115344,42 @@
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    public void toModelType_invalidTags_throwsIllegalValueException() {"
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        List\u003cXmlAdaptedTag\u003e invalidTags \u003d new ArrayList\u003c\u003e(VALID_TAGS);"
       },
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        invalidTags.add(new XmlAdaptedTag(INVALID_TAG));"
       },
@@ -115312,29 +115414,30 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 42,
       "plty": 43,
       "Swiftkage": 23,
-      "-": 60
+      "Jun An": 18
     }
   },
   {
@@ -115784,7 +115887,7 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -115798,7 +115901,7 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        thrown.expect(DataConversionException.class);"
       },
@@ -115812,21 +115915,21 @@
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -115840,7 +115943,7 @@
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        thrown.expect(DataConversionException.class);"
       },
@@ -115854,14 +115957,14 @@
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -116233,7 +116336,8 @@
     "authorContributionMap": {
       "plty": 38,
       "Swiftkage": 6,
-      "-": 83
+      "-": 75,
+      "Jun An": 8
     }
   },
   {
@@ -116249,7 +116353,7 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -116284,35 +116388,35 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import org.junit.Rule;"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "import org.junit.rules.ExpectedException;"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -116347,7 +116451,7 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -116361,7 +116465,7 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -116396,28 +116500,28 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Rule"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    public ExpectedException thrown \u003d ExpectedException.none();"
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
@@ -116473,7 +116577,7 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
@@ -116487,7 +116591,7 @@
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    @Test"
       },
@@ -116515,35 +116619,35 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        thrown.expect(IllegalValueException.class);"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "        dataFromFile.toModelType();"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "    }"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": ""
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    @Test"
       },
@@ -116571,7 +116675,7 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        thrown.expect(IllegalValueException.class);"
       },
@@ -116585,36 +116689,38 @@
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        dataFromFile.toModelType();"
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": ""
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "-"
+          "gitId": "Jun An"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 5,
       "plty": 21,
       "Swiftkage": 6,
-      "-": 26
+      "-": 2,
+      "Jun An": 19
     }
   },
   {
@@ -124811,35 +124917,35 @@
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        guiRobot.interact(() -\u003e {"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            Stage temporaryStage \u003d new Stage();"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            temporaryStage.show();"
       },
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "            temporaryStage.requestFocus();"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "-"
+          "gitId": "Paul Tan"
         },
         "content": "        });"
       },
@@ -124887,8 +124993,9 @@
       }
     ],
     "authorContributionMap": {
+      "Paul Tan": 5,
       "plty": 2,
-      "-": 71
+      "-": 66
     }
   },
   {
@@ -130376,7 +130483,7 @@
       {
         "lineNumber": 197,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -130902,8 +131009,8 @@
     "authorContributionMap": {
       "plty": 68,
       "dan-delion": 3,
-      "Swiftkage": 76,
-      "-": 124
+      "Swiftkage": 75,
+      "-": 125
     }
   },
   {
@@ -136616,7 +136723,7 @@
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -137541,8 +137648,8 @@
     "authorContributionMap": {
       "plty": 80,
       "dan-delion": 7,
-      "Swiftkage": 79,
-      "-": 141
+      "Swiftkage": 78,
+      "-": 142
     }
   },
   {
@@ -138253,21 +138360,21 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -138295,21 +138402,21 @@
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -138330,21 +138437,21 @@
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -138365,21 +138472,21 @@
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -138400,21 +138507,21 @@
       {
         "lineNumber": 87,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "Swiftkage"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -139170,8 +139277,8 @@
     ],
     "authorContributionMap": {
       "plty": 40,
-      "Swiftkage": 48,
-      "-": 108
+      "Swiftkage": 33,
+      "-": 123
     }
   },
   {

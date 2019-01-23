@@ -3241,35 +3241,35 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ":site-section: DeveloperGuide"
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ":toc:"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ":toc-title:"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ":sectnums:"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ":imagesDir: images"
       },
@@ -3374,7 +3374,7 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Setting up"
       },
@@ -3388,7 +3388,7 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Prerequisites"
       },
@@ -3458,7 +3458,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Setting up the project in your computer"
       },
@@ -3598,7 +3598,7 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "This will generate all resources required by the application and tests."
       },
@@ -3668,7 +3668,7 @@
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Verifying the setup"
       },
@@ -3703,14 +3703,14 @@
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Configurations to do before writing code"
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d Configuring the coding style"
       },
@@ -3913,7 +3913,7 @@
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "Coverage reporting could be useful for a team repository that hosts the final version but it is not that useful for your personal fork."
       },
@@ -3934,28 +3934,28 @@
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "Having both Travis and AppVeyor ensures your App works on both Unix-based platforms and Windows-based platforms (Travis is Unix-based and AppVeyor is Windows-based)"
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d Getting started with coding"
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "When you are ready to start coding,"
       },
@@ -3997,7 +3997,7 @@
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Design"
       },
@@ -4039,14 +4039,14 @@
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4081,14 +4081,14 @@
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4102,7 +4102,7 @@
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4116,7 +4116,7 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4130,14 +4130,14 @@
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4158,7 +4158,7 @@
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4312,7 +4312,7 @@
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4326,14 +4326,14 @@
       {
         "lineNumber": 157,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4431,7 +4431,7 @@
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4445,7 +4445,7 @@
       {
         "lineNumber": 174,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4459,7 +4459,7 @@
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4473,7 +4473,7 @@
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4487,7 +4487,7 @@
       {
         "lineNumber": 180,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4501,14 +4501,14 @@
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4522,7 +4522,7 @@
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4585,7 +4585,7 @@
       {
         "lineNumber": 194,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5082,7 +5082,7 @@
       {
         "lineNumber": 265,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5096,7 +5096,7 @@
       {
         "lineNumber": 267,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5124,7 +5124,7 @@
       {
         "lineNumber": 271,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5138,7 +5138,7 @@
       {
         "lineNumber": 273,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5152,7 +5152,7 @@
       {
         "lineNumber": 275,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5194,7 +5194,7 @@
       {
         "lineNumber": 281,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5229,7 +5229,7 @@
       {
         "lineNumber": 286,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5243,7 +5243,7 @@
       {
         "lineNumber": 288,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5257,7 +5257,7 @@
       {
         "lineNumber": 290,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5278,7 +5278,7 @@
       {
         "lineNumber": 293,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5292,7 +5292,7 @@
       {
         "lineNumber": 295,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5313,7 +5313,7 @@
       {
         "lineNumber": 298,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5327,7 +5327,7 @@
       {
         "lineNumber": 300,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5348,7 +5348,7 @@
       {
         "lineNumber": 303,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5362,7 +5362,7 @@
       {
         "lineNumber": 305,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5383,7 +5383,7 @@
       {
         "lineNumber": 308,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5411,7 +5411,7 @@
       {
         "lineNumber": 312,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5488,7 +5488,7 @@
       {
         "lineNumber": 323,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5698,14 +5698,14 @@
       {
         "lineNumber": 353,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 354,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
@@ -5887,7 +5887,7 @@
       {
         "lineNumber": 380,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5901,7 +5901,7 @@
       {
         "lineNumber": 382,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5915,7 +5915,7 @@
       {
         "lineNumber": 384,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5943,7 +5943,7 @@
       {
         "lineNumber": 388,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5971,7 +5971,7 @@
       {
         "lineNumber": 392,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5985,7 +5985,7 @@
       {
         "lineNumber": 394,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6013,7 +6013,7 @@
       {
         "lineNumber": 398,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6048,7 +6048,7 @@
       {
         "lineNumber": 403,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6069,7 +6069,7 @@
       {
         "lineNumber": 406,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6118,7 +6118,7 @@
       {
         "lineNumber": 413,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6286,7 +6286,7 @@
       {
         "lineNumber": 437,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
@@ -6307,7 +6307,7 @@
       {
         "lineNumber": 440,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6321,7 +6321,7 @@
       {
         "lineNumber": 442,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6335,7 +6335,7 @@
       {
         "lineNumber": 444,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6356,7 +6356,7 @@
       {
         "lineNumber": 447,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6405,7 +6405,7 @@
       {
         "lineNumber": 454,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6454,7 +6454,7 @@
       {
         "lineNumber": 461,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6503,7 +6503,7 @@
       {
         "lineNumber": 468,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6524,21 +6524,21 @@
       {
         "lineNumber": 471,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 472,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 473,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6566,7 +6566,7 @@
       {
         "lineNumber": 477,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6587,7 +6587,7 @@
       {
         "lineNumber": 480,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6601,7 +6601,7 @@
       {
         "lineNumber": 482,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6615,7 +6615,7 @@
       {
         "lineNumber": 484,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6629,14 +6629,14 @@
       {
         "lineNumber": 486,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 487,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6650,7 +6650,7 @@
       {
         "lineNumber": 489,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6664,7 +6664,7 @@
       {
         "lineNumber": 491,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6713,7 +6713,7 @@
       {
         "lineNumber": 498,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6727,7 +6727,7 @@
       {
         "lineNumber": 500,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6741,7 +6741,7 @@
       {
         "lineNumber": 502,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6755,14 +6755,14 @@
       {
         "lineNumber": 504,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 505,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6776,21 +6776,21 @@
       {
         "lineNumber": 507,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 508,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 509,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7007,7 +7007,7 @@
       {
         "lineNumber": 540,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7035,7 +7035,7 @@
       {
         "lineNumber": 544,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7070,7 +7070,7 @@
       {
         "lineNumber": 549,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7091,7 +7091,7 @@
       {
         "lineNumber": 552,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7105,7 +7105,7 @@
       {
         "lineNumber": 554,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7119,7 +7119,7 @@
       {
         "lineNumber": 556,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7133,7 +7133,7 @@
       {
         "lineNumber": 558,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7147,7 +7147,7 @@
       {
         "lineNumber": 560,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7161,7 +7161,7 @@
       {
         "lineNumber": 562,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7182,7 +7182,7 @@
       {
         "lineNumber": 565,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7217,7 +7217,7 @@
       {
         "lineNumber": 570,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7231,7 +7231,7 @@
       {
         "lineNumber": 572,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7259,7 +7259,7 @@
       {
         "lineNumber": 576,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7280,7 +7280,7 @@
       {
         "lineNumber": 579,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7294,7 +7294,7 @@
       {
         "lineNumber": 581,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7329,7 +7329,7 @@
       {
         "lineNumber": 586,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7350,7 +7350,7 @@
       {
         "lineNumber": 589,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7364,7 +7364,7 @@
       {
         "lineNumber": 591,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7378,7 +7378,7 @@
       {
         "lineNumber": 593,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7392,7 +7392,7 @@
       {
         "lineNumber": 595,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7420,7 +7420,7 @@
       {
         "lineNumber": 599,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7434,7 +7434,7 @@
       {
         "lineNumber": 601,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7469,7 +7469,7 @@
       {
         "lineNumber": 606,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7483,7 +7483,7 @@
       {
         "lineNumber": 608,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7504,7 +7504,7 @@
       {
         "lineNumber": 611,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7525,7 +7525,7 @@
       {
         "lineNumber": 614,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7539,7 +7539,7 @@
       {
         "lineNumber": 616,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7560,7 +7560,7 @@
       {
         "lineNumber": 619,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7574,7 +7574,7 @@
       {
         "lineNumber": 621,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7588,7 +7588,7 @@
       {
         "lineNumber": 623,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7616,7 +7616,7 @@
       {
         "lineNumber": 627,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7644,7 +7644,7 @@
       {
         "lineNumber": 631,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7693,7 +7693,7 @@
       {
         "lineNumber": 638,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7707,7 +7707,7 @@
       {
         "lineNumber": 640,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7742,7 +7742,7 @@
       {
         "lineNumber": 645,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7777,7 +7777,7 @@
       {
         "lineNumber": 650,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7791,7 +7791,7 @@
       {
         "lineNumber": 652,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7805,7 +7805,7 @@
       {
         "lineNumber": 654,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7819,7 +7819,7 @@
       {
         "lineNumber": 656,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7833,7 +7833,7 @@
       {
         "lineNumber": 658,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7854,7 +7854,7 @@
       {
         "lineNumber": 661,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7875,7 +7875,7 @@
       {
         "lineNumber": 664,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7889,7 +7889,7 @@
       {
         "lineNumber": 666,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8078,7 +8078,7 @@
       {
         "lineNumber": 693,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8232,7 +8232,7 @@
       {
         "lineNumber": 715,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9065,7 +9065,7 @@
       {
         "lineNumber": 834,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9184,7 +9184,7 @@
       {
         "lineNumber": 851,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9205,7 +9205,7 @@
       {
         "lineNumber": 854,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9219,7 +9219,7 @@
       {
         "lineNumber": 856,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9457,7 +9457,7 @@
       {
         "lineNumber": 890,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9485,7 +9485,7 @@
       {
         "lineNumber": 894,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9520,7 +9520,7 @@
       {
         "lineNumber": 899,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9618,7 +9618,7 @@
       {
         "lineNumber": 913,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9653,7 +9653,7 @@
       {
         "lineNumber": 918,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9779,7 +9779,7 @@
       {
         "lineNumber": 936,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10360,7 +10360,7 @@
       {
         "lineNumber": 1019,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10388,7 +10388,7 @@
       {
         "lineNumber": 1023,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10402,7 +10402,7 @@
       {
         "lineNumber": 1025,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10423,21 +10423,21 @@
       {
         "lineNumber": 1028,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1029,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1030,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10465,14 +10465,14 @@
       {
         "lineNumber": 1034,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1035,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10514,7 +10514,7 @@
       {
         "lineNumber": 1041,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10584,7 +10584,7 @@
       {
         "lineNumber": 1051,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10612,7 +10612,7 @@
       {
         "lineNumber": 1055,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10808,14 +10808,14 @@
       {
         "lineNumber": 1083,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1084,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "[appendix]"
       },
@@ -10843,14 +10843,14 @@
       {
         "lineNumber": 1088,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1089,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11039,105 +11039,105 @@
       {
         "lineNumber": 1116,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1117,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "[appendix]"
       },
       {
         "lineNumber": 1118,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Instructions for Manual Testing"
       },
       {
         "lineNumber": 1119,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1120,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "Given below are instructions to test the app manually."
       },
       {
         "lineNumber": 1121,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1122,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
       {
         "lineNumber": 1123,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "These instructions only provide a starting point for testers to work on; testers are expected to do more _exploratory_ testing."
       },
       {
         "lineNumber": 1124,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1125,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Launch and Shutdown"
       },
       {
         "lineNumber": 1126,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1127,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ". Initial launch"
       },
       {
         "lineNumber": 1128,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1129,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ".. Download the jar file and copy into an empty folder"
       },
       {
         "lineNumber": 1130,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ".. Double-click the jar file +"
       },
@@ -11151,49 +11151,49 @@
       {
         "lineNumber": 1132,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1133,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ". Saving window preferences"
       },
       {
         "lineNumber": 1134,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1135,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ".. Resize the window to an optimum size. Move the window to a different location. Close the window."
       },
       {
         "lineNumber": 1136,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ".. Re-launch the app by double-clicking the jar file. +"
       },
       {
         "lineNumber": 1137,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "   Expected: The most recent window size and location is retained."
       },
       {
         "lineNumber": 1138,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12250,7 +12250,7 @@
       {
         "lineNumber": 1289,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12327,7 +12327,7 @@
       {
         "lineNumber": 1300,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12383,7 +12383,7 @@
       {
         "lineNumber": 1308,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ".. Test case: `delete 1` +"
       },
@@ -12663,7 +12663,7 @@
       {
         "lineNumber": 1348,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12677,7 +12677,7 @@
       {
         "lineNumber": 1350,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12698,7 +12698,7 @@
       {
         "lineNumber": 1353,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12733,7 +12733,7 @@
       {
         "lineNumber": 1358,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12754,7 +12754,7 @@
       {
         "lineNumber": 1361,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14216,12 +14216,12 @@
       }
     ],
     "authorContributionMap": {
-      "remo5000": 89,
-      "chikchengyao": 246,
-      "pengnam": 578,
-      "-": 162,
-      "unsatisfiedpopcorn": 286,
-      "jiaxiu11": 208
+      "remo5000": 87,
+      "chikchengyao": 207,
+      "pengnam": 490,
+      "-": 358,
+      "unsatisfiedpopcorn": 234,
+      "jiaxiu11": 193
     }
   },
   {
@@ -16108,28 +16108,28 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":site-section: UserGuide"
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":toc:"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":toc-title:"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":toc-placement: preamble"
       },
@@ -16143,63 +16143,63 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":sectnums:"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":imagesDir: images"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":stylesDir: stylesheets"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":xrefstyle: full"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":experimental:"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "ifdef::env-github[]"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":tip-caption: :bulb:"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ":note-caption: :information_source:"
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "endif::[]"
       },
@@ -16213,7 +16213,7 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16227,21 +16227,21 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Introduction"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16255,28 +16255,28 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Quick Start"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ".  Ensure you have Java version `9` or later installed in your Computer."
       },
@@ -16297,7 +16297,7 @@
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ".  Double-click the file to start the app. The GUI should appear in a few seconds."
       },
@@ -16311,7 +16311,7 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "+"
       },
@@ -16325,35 +16325,35 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ".  Type the command in the command box and press kbd:[Enter] to execute it. +"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "e.g. typing *`help`* and pressing kbd:[Enter] will open the help window."
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ".  Some example commands you can try:"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16381,7 +16381,7 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "* *`exit`* : exits the app"
       },
@@ -16402,63 +16402,63 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ".  Refer to \u003c\u003cFeatures\u003e\u003e for details of each command."
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "[[Features]]"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Features"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "*Command Format*"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16500,14 +16500,14 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16542,7 +16542,7 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16738,7 +16738,7 @@
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "Format: `help`"
       },
@@ -16955,7 +16955,7 @@
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17039,14 +17039,14 @@
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "[TIP]"
       },
@@ -17067,14 +17067,14 @@
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17088,7 +17088,7 @@
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17207,7 +17207,7 @@
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17256,7 +17256,7 @@
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17277,7 +17277,7 @@
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17298,7 +17298,7 @@
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17326,14 +17326,14 @@
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17361,7 +17361,7 @@
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17375,7 +17375,7 @@
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17389,7 +17389,7 @@
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17403,7 +17403,7 @@
       {
         "lineNumber": 187,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17417,7 +17417,7 @@
       {
         "lineNumber": 189,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17431,7 +17431,7 @@
       {
         "lineNumber": 191,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18215,14 +18215,14 @@
       {
         "lineNumber": 303,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 304,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "****"
       },
@@ -18271,14 +18271,14 @@
       {
         "lineNumber": 311,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "****"
       },
       {
         "lineNumber": 312,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18313,7 +18313,7 @@
       {
         "lineNumber": 317,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18327,21 +18327,21 @@
       {
         "lineNumber": 319,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "Format: `select INDEX`"
       },
       {
         "lineNumber": 320,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 321,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "****"
       },
@@ -18362,49 +18362,49 @@
       {
         "lineNumber": 324,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "* The index *must be a positive integer* `1, 2, 3, ...`"
       },
       {
         "lineNumber": 325,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "****"
       },
       {
         "lineNumber": 326,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 327,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 328,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 329,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "* `list` +"
       },
       {
         "lineNumber": 330,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "`select 2` +"
       },
@@ -18425,7 +18425,7 @@
       {
         "lineNumber": 333,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "`select 1` +"
       },
@@ -18439,7 +18439,7 @@
       {
         "lineNumber": 335,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18474,7 +18474,7 @@
       {
         "lineNumber": 340,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18523,21 +18523,21 @@
       {
         "lineNumber": 347,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 348,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
       {
         "lineNumber": 349,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
@@ -18558,7 +18558,7 @@
       {
         "lineNumber": 352,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18586,21 +18586,21 @@
       {
         "lineNumber": 356,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 357,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
       {
         "lineNumber": 358,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
@@ -18635,14 +18635,14 @@
       {
         "lineNumber": 363,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 364,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18719,7 +18719,7 @@
       {
         "lineNumber": 375,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18768,7 +18768,7 @@
       {
         "lineNumber": 382,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18796,7 +18796,7 @@
       {
         "lineNumber": 386,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18810,7 +18810,7 @@
       {
         "lineNumber": 388,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18845,7 +18845,7 @@
       {
         "lineNumber": 393,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18873,7 +18873,7 @@
       {
         "lineNumber": 397,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18887,7 +18887,7 @@
       {
         "lineNumber": 399,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18929,7 +18929,7 @@
       {
         "lineNumber": 405,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18943,7 +18943,7 @@
       {
         "lineNumber": 407,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18971,7 +18971,7 @@
       {
         "lineNumber": 411,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18985,7 +18985,7 @@
       {
         "lineNumber": 413,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -18999,7 +18999,7 @@
       {
         "lineNumber": 415,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -19097,7 +19097,7 @@
       {
         "lineNumber": 429,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -19111,7 +19111,7 @@
       {
         "lineNumber": 431,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -19132,7 +19132,7 @@
       {
         "lineNumber": 434,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -19146,7 +19146,7 @@
       {
         "lineNumber": 436,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -19384,28 +19384,28 @@
       {
         "lineNumber": 470,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 471,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "\u003d\u003d FAQ"
       },
       {
         "lineNumber": 472,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 473,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "*Q*: How do I transfer my data to another Computer? +"
       },
@@ -19426,7 +19426,7 @@
       {
         "lineNumber": 476,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Command Summary"
       },
@@ -19733,12 +19733,12 @@
       }
     ],
     "authorContributionMap": {
-      "remo5000": 47,
-      "chikchengyao": 73,
-      "pengnam": 95,
-      "-": 20,
+      "remo5000": 45,
+      "chikchengyao": 61,
+      "-": 128,
+      "pengnam": 72,
       "unsatisfiedpopcorn": 81,
-      "jiaxiu11": 203
+      "jiaxiu11": 132
     }
   },
   {
@@ -31041,7 +31041,7 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -31117,10 +31117,10 @@
       }
     ],
     "authorContributionMap": {
-      "-": 23,
+      "-": 24,
       "pengnam": 10,
       "unsatisfiedpopcorn": 1,
-      "jiaxiu11": 10
+      "jiaxiu11": 9
     }
   },
   {
@@ -31395,7 +31395,7 @@
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "            return command.execute(model, history);"
       },
@@ -31493,14 +31493,14 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -31576,10 +31576,10 @@
       }
     ],
     "authorContributionMap": {
-      "-": 44,
-      "pengnam": 12,
+      "-": 47,
+      "pengnam": 11,
       "unsatisfiedpopcorn": 1,
-      "jiaxiu11": 7
+      "jiaxiu11": 5
     }
   },
   {
@@ -32136,7 +32136,7 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_NAME;"
       },
@@ -32612,9 +32612,9 @@
     ],
     "authorContributionMap": {
       "chikchengyao": 1,
-      "-": 40,
+      "-": 41,
       "pengnam": 17,
-      "unsatisfiedpopcorn": 12,
+      "unsatisfiedpopcorn": 11,
       "jiaxiu11": 4
     }
   },
@@ -32880,14 +32880,14 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "     * Executes the command and returns the result message."
       },
@@ -32901,7 +32901,7 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "     *"
       },
@@ -32915,28 +32915,28 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "     * @param history {@code CommandHistory} which the command should operate on."
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "     * @return feedback message of the operation result for display"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "     * @throws CommandException If an error occurs during command execution."
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -32992,7 +32992,7 @@
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -33075,8 +33075,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 19,
-      "pengnam": 20
+      "-": 27,
+      "pengnam": 12
     }
   },
   {
@@ -39201,14 +39201,14 @@
       {
         "lineNumber": 243,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 244,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -39384,8 +39384,8 @@
     "authorContributionMap": {
       "remo5000": 2,
       "chikchengyao": 2,
-      "-": 138,
-      "pengnam": 33,
+      "-": 140,
+      "pengnam": 31,
       "unsatisfiedpopcorn": 72,
       "jiaxiu11": 21
     }
@@ -40465,7 +40465,7 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -40864,7 +40864,7 @@
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -40983,7 +40983,7 @@
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -40996,8 +40996,8 @@
       }
     ],
     "authorContributionMap": {
-      "remo5000": 76,
-      "-": 19,
+      "remo5000": 73,
+      "-": 22,
       "pengnam": 1,
       "unsatisfiedpopcorn": 2,
       "jiaxiu11": 1
@@ -42991,7 +42991,7 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_NAME;"
       },
@@ -43250,7 +43250,7 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -43391,9 +43391,9 @@
     "authorContributionMap": {
       "remo5000": 1,
       "chikchengyao": 3,
-      "-": 41,
-      "pengnam": 8,
-      "unsatisfiedpopcorn": 9,
+      "-": 43,
+      "pengnam": 7,
+      "unsatisfiedpopcorn": 8,
       "jiaxiu11": 1
     }
   },
@@ -46242,7 +46242,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_NAME;"
       },
@@ -46789,9 +46789,9 @@
     "authorContributionMap": {
       "remo5000": 9,
       "chikchengyao": 4,
-      "-": 55,
+      "-": 56,
       "pengnam": 1,
-      "unsatisfiedpopcorn": 14,
+      "unsatisfiedpopcorn": 13,
       "jiaxiu11": 2
     }
   },
@@ -49785,21 +49785,21 @@
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.AddCommand;"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.ClearCommand;"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.Command;"
       },
@@ -49813,7 +49813,7 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.DeleteCommand;"
       },
@@ -49827,42 +49827,42 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.EditCommand;"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.ExitCommand;"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.FindCommand;"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.HelpCommand;"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.HistoryCommand;"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.ListCommand;"
       },
@@ -49876,14 +49876,14 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.RedoCommand;"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.SelectCommand;"
       },
@@ -49897,7 +49897,7 @@
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.UndoCommand;"
       },
@@ -50506,8 +50506,8 @@
     ],
     "authorContributionMap": {
       "remo5000": 1,
-      "chikchengyao": 21,
-      "-": 77,
+      "chikchengyao": 8,
+      "-": 90,
       "pengnam": 7,
       "unsatisfiedpopcorn": 3,
       "jiaxiu11": 3
@@ -52228,7 +52228,7 @@
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -52284,14 +52284,14 @@
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -52305,7 +52305,7 @@
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -52319,14 +52319,14 @@
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -52354,7 +52354,7 @@
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -52368,14 +52368,14 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -52403,7 +52403,7 @@
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -52417,14 +52417,14 @@
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -52438,7 +52438,7 @@
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -52452,7 +52452,7 @@
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -52711,14 +52711,14 @@
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -52739,7 +52739,7 @@
       {
         "lineNumber": 150,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -52753,14 +52753,14 @@
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -52774,7 +52774,7 @@
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -52788,14 +52788,14 @@
       {
         "lineNumber": 157,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -52809,7 +52809,7 @@
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -52823,14 +52823,14 @@
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -52844,7 +52844,7 @@
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -52871,11 +52871,11 @@
       }
     ],
     "authorContributionMap": {
-      "chikchengyao": 20,
-      "-": 45,
-      "pengnam": 14,
-      "unsatisfiedpopcorn": 21,
-      "jiaxiu11": 68
+      "chikchengyao": 11,
+      "-": 71,
+      "pengnam": 8,
+      "unsatisfiedpopcorn": 15,
+      "jiaxiu11": 63
     }
   },
   {
@@ -53227,7 +53227,7 @@
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -53248,21 +53248,21 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -53283,14 +53283,14 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -53514,14 +53514,14 @@
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -53920,14 +53920,14 @@
       {
         "lineNumber": 149,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 150,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -53955,14 +53955,14 @@
       {
         "lineNumber": 154,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -53997,14 +53997,14 @@
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -54116,7 +54116,7 @@
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -54487,7 +54487,7 @@
       {
         "lineNumber": 230,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -54522,14 +54522,14 @@
       {
         "lineNumber": 235,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 236,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -54550,7 +54550,7 @@
       {
         "lineNumber": 239,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -54571,14 +54571,14 @@
       {
         "lineNumber": 242,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 243,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -54739,14 +54739,14 @@
       {
         "lineNumber": 266,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 267,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -54801,11 +54801,11 @@
       }
     ],
     "authorContributionMap": {
-      "chikchengyao": 41,
-      "-": 96,
-      "pengnam": 15,
-      "unsatisfiedpopcorn": 25,
-      "jiaxiu11": 97
+      "chikchengyao": 35,
+      "-": 119,
+      "pengnam": 12,
+      "unsatisfiedpopcorn": 14,
+      "jiaxiu11": 94
     }
   },
   {
@@ -88768,7 +88768,7 @@
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -89300,9 +89300,9 @@
     ],
     "authorContributionMap": {
       "remo5000": 5,
-      "-": 188,
+      "-": 189,
       "pengnam": 4,
-      "jiaxiu11": 10
+      "jiaxiu11": 9
     }
   },
   {
@@ -101346,14 +101346,14 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -101492,8 +101492,8 @@
       }
     ],
     "authorContributionMap": {
-      "remo5000": 7,
-      "-": 60,
+      "remo5000": 5,
+      "-": 62,
       "pengnam": 11,
       "jiaxiu11": 1
     }
@@ -107636,7 +107636,7 @@
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "    @Test"
       },
@@ -107671,14 +107671,14 @@
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "        thrown.expect(CommandException.class);"
       },
@@ -108301,7 +108301,7 @@
       {
         "lineNumber": 151,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "        @Override"
       },
@@ -108315,28 +108315,28 @@
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(\"This method should not be called.\");"
       },
       {
         "lineNumber": 154,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "        @Override"
       },
@@ -108350,28 +108350,28 @@
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(\"This method should not be called.\");"
       },
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "        @Override"
       },
@@ -108385,28 +108385,28 @@
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(\"This method should not be called.\");"
       },
       {
         "lineNumber": 164,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "        @Override"
       },
@@ -108420,28 +108420,28 @@
       {
         "lineNumber": 168,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(\"This method should not be called.\");"
       },
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 171,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "        @Override"
       },
@@ -108455,21 +108455,21 @@
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(\"This method should not be called.\");"
       },
       {
         "lineNumber": 174,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 175,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -108511,7 +108511,7 @@
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "        @Override"
       },
@@ -108525,21 +108525,21 @@
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "            throw new AssertionError(\"This method should not be called.\");"
       },
       {
         "lineNumber": 184,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "jiaxiu11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -109245,11 +109245,11 @@
       }
     ],
     "authorContributionMap": {
-      "chikchengyao": 14,
-      "-": 149,
-      "pengnam": 27,
+      "chikchengyao": 4,
+      "-": 176,
+      "pengnam": 24,
       "unsatisfiedpopcorn": 48,
-      "jiaxiu11": 47
+      "jiaxiu11": 33
     }
   },
   {
@@ -109568,7 +109568,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "unsatisfiedpopcorn"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_NAME;"
       },
@@ -110779,7 +110779,7 @@
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -110800,7 +110800,7 @@
       {
         "lineNumber": 184,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -110814,7 +110814,7 @@
       {
         "lineNumber": 186,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -110899,9 +110899,9 @@
     "authorContributionMap": {
       "remo5000": 7,
       "chikchengyao": 16,
-      "-": 84,
-      "pengnam": 30,
-      "unsatisfiedpopcorn": 50,
+      "-": 88,
+      "pengnam": 27,
+      "unsatisfiedpopcorn": 49,
       "jiaxiu11": 10
     }
   },
@@ -117040,7 +117040,7 @@
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_NAME_BOB;"
       },
@@ -118733,9 +118733,9 @@
       }
     ],
     "authorContributionMap": {
-      "remo5000": 4,
+      "remo5000": 3,
       "chikchengyao": 3,
-      "-": 136,
+      "-": 137,
       "pengnam": 30,
       "unsatisfiedpopcorn": 52,
       "jiaxiu11": 26
@@ -123270,7 +123270,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_NAME_BOB;"
       },
@@ -124102,9 +124102,9 @@
       }
     ],
     "authorContributionMap": {
-      "remo5000": 18,
+      "remo5000": 17,
       "chikchengyao": 34,
-      "-": 79,
+      "-": 80,
       "pengnam": 10,
       "unsatisfiedpopcorn": 1,
       "jiaxiu11": 1
@@ -126328,7 +126328,7 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "chikchengyao"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.commands.CommandTestUtil.VALID_NAME_AMY;"
       },
@@ -127742,8 +127742,8 @@
     ],
     "authorContributionMap": {
       "remo5000": 21,
-      "chikchengyao": 38,
-      "-": 134,
+      "chikchengyao": 37,
+      "-": 135,
       "pengnam": 21,
       "unsatisfiedpopcorn": 4,
       "jiaxiu11": 7
@@ -128885,14 +128885,14 @@
       {
         "lineNumber": 87,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -129901,8 +129901,8 @@
     "authorContributionMap": {
       "remo5000": 25,
       "chikchengyao": 15,
-      "-": 145,
-      "pengnam": 46
+      "-": 147,
+      "pengnam": 44
     }
   },
   {
@@ -164482,7 +164482,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "import guitests.guihandles.ResultDisplayHandle;"
       },
@@ -164929,8 +164929,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 49,
-      "pengnam": 22
+      "-": 50,
+      "pengnam": 21
     }
   },
   {
@@ -176411,35 +176411,35 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "import guitests.guihandles.CommandBoxHandle;"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "import guitests.guihandles.MainMenuHandle;"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "import guitests.guihandles.MainWindowHandle;"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "import guitests.guihandles.ResultDisplayHandle;"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "pengnam"
+          "gitId": "-"
         },
         "content": "import guitests.guihandles.StatusBarFooterHandle;"
       },
@@ -176544,7 +176544,7 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "remo5000"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -178153,9 +178153,9 @@
       }
     ],
     "authorContributionMap": {
-      "remo5000": 9,
-      "-": 228,
-      "pengnam": 20,
+      "remo5000": 8,
+      "-": 234,
+      "pengnam": 15,
       "unsatisfiedpopcorn": 2,
       "jiaxiu11": 10
     }

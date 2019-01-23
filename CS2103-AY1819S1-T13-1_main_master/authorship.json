@@ -75,7 +75,7 @@
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "chenlu-chua"
+          "gitId": "-"
         },
         "content": "image::docs/images/Ui.png[width\u003d\"600\"]"
       },
@@ -103,7 +103,7 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "chenlu-chua"
+          "gitId": "-"
         },
         "content": "image::images/Ui.png[width\u003d\"600\"]"
       },
@@ -279,8 +279,8 @@
     "authorContributionMap": {
       "hrxiong": 4,
       "junjiee": 2,
-      "-": 23,
-      "chenlu-chua": 10
+      "-": 25,
+      "chenlu-chua": 8
     }
   },
   {
@@ -2560,7 +2560,7 @@
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2630,7 +2630,7 @@
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2657,10 +2657,10 @@
       }
     ],
     "authorContributionMap": {
-      "hrxiong": 24,
+      "hrxiong": 22,
       "junjiee": 1,
       "LZYAndy": 2,
-      "-": 30,
+      "-": 32,
       "chenlu-chua": 3
     }
   },
@@ -14663,7 +14663,7 @@
       {
         "lineNumber": 1708,
         "author": {
-          "gitId": "chenlu-chua"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15258,7 +15258,7 @@
       {
         "lineNumber": 1793,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15314,7 +15314,7 @@
       {
         "lineNumber": 1801,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15378,10 +15378,10 @@
     "authorContributionMap": {
       "hrxiong": 146,
       "CJuanvip": 166,
-      "junjiee": 183,
+      "junjiee": 181,
       "LZYAndy": 86,
-      "-": 919,
-      "chenlu-chua": 309
+      "-": 922,
+      "chenlu-chua": 308
     }
   },
   {
@@ -15817,7 +15817,7 @@
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
@@ -16083,7 +16083,7 @@
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16104,7 +16104,7 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16265,7 +16265,7 @@
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17756,7 +17756,7 @@
       {
         "lineNumber": 339,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -19093,70 +19093,70 @@
       {
         "lineNumber": 530,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Listing entered commands : `history`"
       },
       {
         "lineNumber": 531,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 532,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "Lists all the commands that you have entered in reverse chronological order. +"
       },
       {
         "lineNumber": 533,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "Format: `history`"
       },
       {
         "lineNumber": 534,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 535,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
       {
         "lineNumber": 536,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 537,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "Pressing the kbd:[\u0026uarr;] and kbd:[\u0026darr;] arrows will display the previous and next input respectively in the command box."
       },
       {
         "lineNumber": 538,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 539,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -20877,11 +20877,11 @@
       }
     ],
     "authorContributionMap": {
-      "hrxiong": 104,
+      "hrxiong": 95,
       "CJuanvip": 91,
       "junjiee": 20,
-      "LZYAndy": 265,
-      "-": 208,
+      "LZYAndy": 259,
+      "-": 223,
       "chenlu-chua": 96
     }
   },
@@ -32778,14 +32778,14 @@
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -33967,10 +33967,10 @@
       }
     ],
     "authorContributionMap": {
-      "hrxiong": 35,
+      "hrxiong": 33,
       "junjiee": 40,
       "LZYAndy": 1,
-      "-": 223,
+      "-": 225,
       "chenlu-chua": 10
     }
   },
@@ -40845,7 +40845,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_ADDRESS;"
       },
@@ -40859,7 +40859,7 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_EMAIL;"
       },
@@ -40873,21 +40873,21 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_NAME;"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_PHONE;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_TAG;"
       },
@@ -41335,8 +41335,8 @@
     ],
     "authorContributionMap": {
       "hrxiong": 6,
-      "junjiee": 16,
-      "-": 51
+      "junjiee": 11,
+      "-": 56
     }
   },
   {
@@ -46575,126 +46575,126 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "package seedu.address.logic.parser;"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "import static seedu.address.commons.core.Messages.MESSAGE_INVALID_COMMAND_FORMAT;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "import java.util.Arrays;"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.commands.FindCommand;"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "import seedu.address.logic.parser.exceptions.ParseException;"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "import seedu.address.model.person.NameContainsKeywordsPredicate;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "/**"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": " * Parses input arguments and creates a new FindCommand object"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": " */"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "public class FindCommandParser implements Parser\u003cFindCommand\u003e {"
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "     * Parses the given {@code String} of arguments in the context of the FindCommand"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "     * and returns an FindCommand object for execution."
       },
@@ -46708,104 +46708,105 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "     * @throws ParseException if the user input does not conform the expected format"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "    public FindCommand parse(String args) throws ParseException {"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "        String trimmedArgs \u003d args.trim();"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "        if (trimmedArgs.isEmpty()) {"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "            throw new ParseException("
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "                    String.format(MESSAGE_INVALID_COMMAND_FORMAT, FindCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "        String[] nameKeywords \u003d trimmedArgs.split(\"\\\\s+\");"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "        return new FindCommand(new NameContainsKeywordsPredicate(Arrays.asList(nameKeywords)));"
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "CJuanvip"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "CJuanvip": 33
+      "CJuanvip": 1,
+      "-": 32
     }
   },
   {
@@ -51868,14 +51869,14 @@
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -52505,7 +52506,7 @@
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -52518,8 +52519,8 @@
       }
     ],
     "authorContributionMap": {
-      "junjiee": 16,
-      "-": 149,
+      "junjiee": 13,
+      "-": 152,
       "chenlu-chua": 5
     }
   },
@@ -60536,7 +60537,7 @@
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -60781,8 +60782,8 @@
     ],
     "authorContributionMap": {
       "hrxiong": 21,
-      "junjiee": 26,
-      "-": 47,
+      "junjiee": 25,
+      "-": 48,
       "chenlu-chua": 2
     }
   },
@@ -61584,7 +61585,7 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -62620,8 +62621,8 @@
     ],
     "authorContributionMap": {
       "hrxiong": 24,
-      "junjiee": 30,
-      "-": 133,
+      "junjiee": 29,
+      "-": 134,
       "chenlu-chua": 8
     }
   },
@@ -69593,14 +69594,14 @@
       {
         "lineNumber": 366,
         "author": {
-          "gitId": "chenlu-chua"
+          "gitId": "-"
         },
         "content": "    -fx-text-fill: white;"
       },
       {
         "lineNumber": 367,
         "author": {
-          "gitId": "chenlu-chua"
+          "gitId": "-"
         },
         "content": "    -fx-background-color: #3e7b91;"
       },
@@ -69705,44 +69706,44 @@
       {
         "lineNumber": 382,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    -fx-padding: 1 3 1 3;"
       },
       {
         "lineNumber": 383,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    -fx-border-radius: 2;"
       },
       {
         "lineNumber": 384,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    -fx-background-radius: 2;"
       },
       {
         "lineNumber": 385,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    -fx-font-size: 11;"
       },
       {
         "lineNumber": 386,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "hrxiong": 13,
+      "hrxiong": 8,
       "LZYAndy": 17,
-      "-": 346,
-      "chenlu-chua": 10
+      "-": 353,
+      "chenlu-chua": 8
     }
   },
   {
@@ -77959,14 +77960,14 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "import seedu.address.storage.XmlAdaptedPerson;"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "import seedu.address.storage.XmlAdaptedTag;"
       },
@@ -77980,7 +77981,7 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "import seedu.address.storage.XmlSerializableAddressBook;"
       },
@@ -78939,8 +78940,8 @@
     ],
     "authorContributionMap": {
       "hrxiong": 4,
-      "junjiee": 16,
-      "-": 139
+      "junjiee": 13,
+      "-": 142
     }
   },
   {
@@ -91105,7 +91106,7 @@
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        assertParseSuccess(parser, NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB + ADDRESS_DESC_BOB"
       },
@@ -91623,7 +91624,7 @@
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "                String.format(MESSAGE_INVALID_COMMAND_FORMAT, AddCommand.MESSAGE_USAGE));"
       },
@@ -91644,8 +91645,8 @@
     ],
     "authorContributionMap": {
       "hrxiong": 9,
-      "junjiee": 24,
-      "-": 125
+      "junjiee": 22,
+      "-": 127
     }
   },
   {
@@ -96028,1471 +96029,6 @@
     ],
     "authorContributionMap": {
       "LZYAndy": 37
-    }
-  },
-  {
-    "path": "src/test/java/seedu/address/logic/parser/ParserUtilTest.java",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "package seedu.address.logic.parser;"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import static org.junit.Assert.assertEquals;"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import static org.junit.Assert.assertTrue;"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import static seedu.address.logic.parser.ParserUtil.MESSAGE_INVALID_INDEX;"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import static seedu.address.testutil.TypicalIndexes.INDEX_FIRST_PERSON;"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import java.util.Arrays;"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import java.util.Collections;"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import java.util.HashSet;"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import java.util.Set;"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import org.junit.Rule;"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import org.junit.Test;"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import org.junit.rules.ExpectedException;"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import seedu.address.logic.parser.exceptions.ParseException;"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import seedu.address.model.person.Address;"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import seedu.address.model.person.Email;"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import seedu.address.model.person.Name;"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import seedu.address.model.person.Phone;"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import seedu.address.model.tag.Tag;"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": "import seedu.address.testutil.Assert;"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "CJuanvip"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "public class ParserUtilTest {"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String INVALID_NAME \u003d \"R@chel\";"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String INVALID_PHONE \u003d \"+651234\";"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String INVALID_ADDRESS \u003d \" \";"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String INVALID_EMAIL \u003d \"example.com\";"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String INVALID_TAG \u003d \"#friend\";"
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String VALID_NAME \u003d \"Rachel Walker\";"
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String VALID_PHONE \u003d \"123456\";"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String VALID_ADDRESS \u003d \"123 Main Street #0505\";"
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String VALID_EMAIL \u003d \"rachel@example.com\";"
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String VALID_TAG_1 \u003d \"friend\";"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String VALID_TAG_2 \u003d \"neighbour\";"
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private static final String WHITESPACE \u003d \" \\t\\r\\n\";"
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Rule"
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public final ExpectedException thrown \u003d ExpectedException.none();"
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseIndex_invalidInput_throwsParseException() throws Exception {"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        thrown.expect(ParseException.class);"
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ParserUtil.parseIndex(\"10 a\");"
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 51,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 52,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseIndex_outOfRangeInput_throwsParseException() throws Exception {"
-      },
-      {
-        "lineNumber": 53,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        thrown.expect(ParseException.class);"
-      },
-      {
-        "lineNumber": 54,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        thrown.expectMessage(MESSAGE_INVALID_INDEX);"
-      },
-      {
-        "lineNumber": 55,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ParserUtil.parseIndex(Long.toString(Integer.MAX_VALUE + 1));"
-      },
-      {
-        "lineNumber": 56,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 57,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 58,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 59,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseIndex_validInput_success() throws Exception {"
-      },
-      {
-        "lineNumber": 60,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // No whitespaces"
-      },
-      {
-        "lineNumber": 61,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(INDEX_FIRST_PERSON, ParserUtil.parseIndex(\"1\"));"
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        // Leading and trailing whitespaces"
-      },
-      {
-        "lineNumber": 64,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(INDEX_FIRST_PERSON, ParserUtil.parseIndex(\"  1  \"));"
-      },
-      {
-        "lineNumber": 65,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 66,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 67,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 68,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseName_null_throwsNullPointerException() {"
-      },
-      {
-        "lineNumber": 69,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Assert.assertThrows(NullPointerException.class, () -\u003e ParserUtil.parseName((String) null));"
-      },
-      {
-        "lineNumber": 70,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 71,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 72,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 73,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseName_invalidValue_throwsParseException() {"
-      },
-      {
-        "lineNumber": 74,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Assert.assertThrows(ParseException.class, () -\u003e ParserUtil.parseName(INVALID_NAME));"
-      },
-      {
-        "lineNumber": 75,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 76,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 77,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 78,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseName_validValueWithoutWhitespace_returnsName() throws Exception {"
-      },
-      {
-        "lineNumber": 79,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Name expectedName \u003d new Name(VALID_NAME);"
-      },
-      {
-        "lineNumber": 80,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedName, ParserUtil.parseName(VALID_NAME));"
-      },
-      {
-        "lineNumber": 81,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 82,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 83,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 84,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseName_validValueWithWhitespace_returnsTrimmedName() throws Exception {"
-      },
-      {
-        "lineNumber": 85,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String nameWithWhitespace \u003d WHITESPACE + VALID_NAME + WHITESPACE;"
-      },
-      {
-        "lineNumber": 86,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Name expectedName \u003d new Name(VALID_NAME);"
-      },
-      {
-        "lineNumber": 87,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedName, ParserUtil.parseName(nameWithWhitespace));"
-      },
-      {
-        "lineNumber": 88,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 89,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 90,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 91,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parsePhone_null_throwsNullPointerException() {"
-      },
-      {
-        "lineNumber": 92,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Assert.assertThrows(NullPointerException.class, () -\u003e ParserUtil.parsePhone((String) null));"
-      },
-      {
-        "lineNumber": 93,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 94,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 95,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 96,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parsePhone_invalidValue_throwsParseException() {"
-      },
-      {
-        "lineNumber": 97,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Assert.assertThrows(ParseException.class, () -\u003e ParserUtil.parsePhone(INVALID_PHONE));"
-      },
-      {
-        "lineNumber": 98,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 99,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 100,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 101,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parsePhone_validValueWithoutWhitespace_returnsPhone() throws Exception {"
-      },
-      {
-        "lineNumber": 102,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Phone expectedPhone \u003d new Phone(VALID_PHONE);"
-      },
-      {
-        "lineNumber": 103,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedPhone, ParserUtil.parsePhone(VALID_PHONE));"
-      },
-      {
-        "lineNumber": 104,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 105,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 106,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 107,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parsePhone_validValueWithWhitespace_returnsTrimmedPhone() throws Exception {"
-      },
-      {
-        "lineNumber": 108,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String phoneWithWhitespace \u003d WHITESPACE + VALID_PHONE + WHITESPACE;"
-      },
-      {
-        "lineNumber": 109,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Phone expectedPhone \u003d new Phone(VALID_PHONE);"
-      },
-      {
-        "lineNumber": 110,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedPhone, ParserUtil.parsePhone(phoneWithWhitespace));"
-      },
-      {
-        "lineNumber": 111,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 112,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 113,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 114,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseAddress_null_throwsNullPointerException() {"
-      },
-      {
-        "lineNumber": 115,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Assert.assertThrows(NullPointerException.class, () -\u003e ParserUtil.parseAddress((String) null));"
-      },
-      {
-        "lineNumber": 116,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 117,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 118,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 119,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseAddress_invalidValue_throwsParseException() {"
-      },
-      {
-        "lineNumber": 120,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Assert.assertThrows(ParseException.class, () -\u003e ParserUtil.parseAddress(INVALID_ADDRESS));"
-      },
-      {
-        "lineNumber": 121,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 122,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 123,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 124,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseAddress_validValueWithoutWhitespace_returnsAddress() throws Exception {"
-      },
-      {
-        "lineNumber": 125,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Address expectedAddress \u003d new Address(VALID_ADDRESS);"
-      },
-      {
-        "lineNumber": 126,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedAddress, ParserUtil.parseAddress(VALID_ADDRESS));"
-      },
-      {
-        "lineNumber": 127,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 128,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 129,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 130,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseAddress_validValueWithWhitespace_returnsTrimmedAddress() throws Exception {"
-      },
-      {
-        "lineNumber": 131,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String addressWithWhitespace \u003d WHITESPACE + VALID_ADDRESS + WHITESPACE;"
-      },
-      {
-        "lineNumber": 132,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Address expectedAddress \u003d new Address(VALID_ADDRESS);"
-      },
-      {
-        "lineNumber": 133,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedAddress, ParserUtil.parseAddress(addressWithWhitespace));"
-      },
-      {
-        "lineNumber": 134,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 135,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 136,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 137,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseEmail_null_throwsNullPointerException() {"
-      },
-      {
-        "lineNumber": 138,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Assert.assertThrows(NullPointerException.class, () -\u003e ParserUtil.parseEmail((String) null));"
-      },
-      {
-        "lineNumber": 139,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 140,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 141,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 142,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseEmail_invalidValue_throwsParseException() {"
-      },
-      {
-        "lineNumber": 143,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Assert.assertThrows(ParseException.class, () -\u003e ParserUtil.parseEmail(INVALID_EMAIL));"
-      },
-      {
-        "lineNumber": 144,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 145,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 146,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 147,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseEmail_validValueWithoutWhitespace_returnsEmail() throws Exception {"
-      },
-      {
-        "lineNumber": 148,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Email expectedEmail \u003d new Email(VALID_EMAIL);"
-      },
-      {
-        "lineNumber": 149,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedEmail, ParserUtil.parseEmail(VALID_EMAIL));"
-      },
-      {
-        "lineNumber": 150,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 151,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 152,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 153,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseEmail_validValueWithWhitespace_returnsTrimmedEmail() throws Exception {"
-      },
-      {
-        "lineNumber": 154,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String emailWithWhitespace \u003d WHITESPACE + VALID_EMAIL + WHITESPACE;"
-      },
-      {
-        "lineNumber": 155,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Email expectedEmail \u003d new Email(VALID_EMAIL);"
-      },
-      {
-        "lineNumber": 156,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedEmail, ParserUtil.parseEmail(emailWithWhitespace));"
-      },
-      {
-        "lineNumber": 157,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 158,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 159,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 160,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseTag_null_throwsNullPointerException() throws Exception {"
-      },
-      {
-        "lineNumber": 161,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        thrown.expect(NullPointerException.class);"
-      },
-      {
-        "lineNumber": 162,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ParserUtil.parseTag(null);"
-      },
-      {
-        "lineNumber": 163,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 164,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 165,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 166,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseTag_invalidValue_throwsParseException() throws Exception {"
-      },
-      {
-        "lineNumber": 167,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        thrown.expect(ParseException.class);"
-      },
-      {
-        "lineNumber": 168,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ParserUtil.parseTag(INVALID_TAG);"
-      },
-      {
-        "lineNumber": 169,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 170,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 171,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 172,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseTag_validValueWithoutWhitespace_returnsTag() throws Exception {"
-      },
-      {
-        "lineNumber": 173,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Tag expectedTag \u003d new Tag(VALID_TAG_1);"
-      },
-      {
-        "lineNumber": 174,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedTag, ParserUtil.parseTag(VALID_TAG_1));"
-      },
-      {
-        "lineNumber": 175,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 176,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 177,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 178,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseTag_validValueWithWhitespace_returnsTrimmedTag() throws Exception {"
-      },
-      {
-        "lineNumber": 179,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String tagWithWhitespace \u003d WHITESPACE + VALID_TAG_1 + WHITESPACE;"
-      },
-      {
-        "lineNumber": 180,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Tag expectedTag \u003d new Tag(VALID_TAG_1);"
-      },
-      {
-        "lineNumber": 181,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedTag, ParserUtil.parseTag(tagWithWhitespace));"
-      },
-      {
-        "lineNumber": 182,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 183,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 184,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 185,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseTags_null_throwsNullPointerException() throws Exception {"
-      },
-      {
-        "lineNumber": 186,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        thrown.expect(NullPointerException.class);"
-      },
-      {
-        "lineNumber": 187,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ParserUtil.parseTags(null);"
-      },
-      {
-        "lineNumber": 188,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 189,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 190,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 191,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseTags_collectionWithInvalidTags_throwsParseException() throws Exception {"
-      },
-      {
-        "lineNumber": 192,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        thrown.expect(ParseException.class);"
-      },
-      {
-        "lineNumber": 193,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ParserUtil.parseTags(Arrays.asList(VALID_TAG_1, INVALID_TAG));"
-      },
-      {
-        "lineNumber": 194,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 195,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 196,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 197,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseTags_emptyCollection_returnsEmptySet() throws Exception {"
-      },
-      {
-        "lineNumber": 198,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertTrue(ParserUtil.parseTags(Collections.emptyList()).isEmpty());"
-      },
-      {
-        "lineNumber": 199,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 200,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 201,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 202,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void parseTags_collectionWithValidTags_returnsTagSet() throws Exception {"
-      },
-      {
-        "lineNumber": 203,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Set\u003cTag\u003e actualTagSet \u003d ParserUtil.parseTags(Arrays.asList(VALID_TAG_1, VALID_TAG_2));"
-      },
-      {
-        "lineNumber": 204,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Set\u003cTag\u003e expectedTagSet \u003d new HashSet\u003cTag\u003e(Arrays.asList(new Tag(VALID_TAG_1), new Tag(VALID_TAG_2)));"
-      },
-      {
-        "lineNumber": 205,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 206,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertEquals(expectedTagSet, actualTagSet);"
-      },
-      {
-        "lineNumber": 207,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 208,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "}"
-      }
-    ],
-    "authorContributionMap": {
-      "CJuanvip": 12,
-      "-": 196
     }
   },
   {
@@ -104908,7 +103444,7 @@
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    public static final Person CARL \u003d new PersonBuilder().withName(\"Carl Kurz\").withPhone(\"95352563\")"
       },
@@ -104929,7 +103465,7 @@
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    public static final Person DANIEL \u003d new PersonBuilder().withName(\"Daniel Meier\").withPhone(\"87652533\")"
       },
@@ -104957,7 +103493,7 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    public static final Person ELLE \u003d new PersonBuilder().withName(\"Elle Meyer\").withPhone(\"9482224\")"
       },
@@ -104978,7 +103514,7 @@
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    public static final Person FIONA \u003d new PersonBuilder().withName(\"Fiona Kunz\").withPhone(\"9482427\")"
       },
@@ -104999,7 +103535,7 @@
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    public static final Person GEORGE \u003d new PersonBuilder().withName(\"George Best\").withPhone(\"9482442\")"
       },
@@ -105041,7 +103577,7 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    public static final Person HOON \u003d new PersonBuilder().withName(\"Hoon Meier\").withPhone(\"8482424\")"
       },
@@ -105062,7 +103598,7 @@
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "    public static final Person IDA \u003d new PersonBuilder().withName(\"Ida Mueller\").withPhone(\"8482131\")"
       },
@@ -105397,9 +103933,9 @@
       }
     ],
     "authorContributionMap": {
-      "hrxiong": 45,
+      "hrxiong": 38,
       "junjiee": 13,
-      "-": 57,
+      "-": 64,
       "chenlu-chua": 1
     }
   },
@@ -108644,7 +107180,7 @@
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "        command \u003d AddCommand.COMMAND_WORD + NAME_DESC_BOB + PHONE_DESC_AMY + EMAIL_DESC_AMY + ADDRESS_DESC_AMY"
       },
@@ -109197,14 +107733,14 @@
       {
         "lineNumber": 199,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(command, String.format(MESSAGE_INVALID_COMMAND_FORMAT, AddCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 200,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -109421,7 +107957,7 @@
       {
         "lineNumber": 231,
         "author": {
-          "gitId": "hrxiong"
+          "gitId": "-"
         },
         "content": "        command \u003d AddCommand.COMMAND_WORD + NAME_DESC_AMY + PHONE_DESC_AMY + EMAIL_DESC_AMY + ADDRESS_DESC_AMY"
       },
@@ -110085,9 +108621,9 @@
       }
     ],
     "authorContributionMap": {
-      "hrxiong": 71,
+      "hrxiong": 67,
       "junjiee": 22,
-      "-": 232
+      "-": 236
     }
   },
   {
@@ -112575,126 +111111,126 @@
       {
         "lineNumber": 200,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 201,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "     * Asserts that the previously selected card is now deselected and the browser\u0027s url remains displaying the details"
       },
       {
         "lineNumber": 202,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "     * of the previously selected person."
       },
       {
         "lineNumber": 203,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 204,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "    protected void assertSelectedCardDeselected() {"
       },
       {
         "lineNumber": 205,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "        assertFalse(getPersonListPanel().isAnyCardSelected());"
       },
       {
         "lineNumber": 206,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 207,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 208,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "     * Asserts that the browser\u0027s url is changed to display the details of the person in the person list panel at"
       },
       {
         "lineNumber": 210,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "     * {@code expectedSelectedCardIndex}, and only the card at {@code expectedSelectedCardIndex} is selected."
       },
       {
         "lineNumber": 211,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "     * @see PersonListPanelHandle#isSelectedPersonCardChanged()"
       },
       {
         "lineNumber": 212,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 213,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "    protected void assertSelectedCardChanged(Index expectedSelectedCardIndex) {"
       },
       {
         "lineNumber": 214,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "        getPersonListPanel().navigateToCard(getPersonListPanel().getSelectedCardIndex());"
       },
       {
         "lineNumber": 215,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "        assertEquals(expectedSelectedCardIndex.getZeroBased(), getPersonListPanel().getSelectedCardIndex());"
       },
       {
         "lineNumber": 216,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 217,
         "author": {
-          "gitId": "LZYAndy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -113134,8 +111670,8 @@
       }
     ],
     "authorContributionMap": {
-      "LZYAndy": 44,
-      "-": 235
+      "LZYAndy": 26,
+      "-": 253
     }
   },
   {
@@ -116102,7 +114638,7 @@
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        command \u003d EditCommand.COMMAND_WORD + \" \" + index.getOneBased() + NAME_DESC_BOB + PHONE_DESC_BOB + EMAIL_DESC_BOB"
       },
@@ -116158,7 +114694,7 @@
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        command \u003d EditCommand.COMMAND_WORD + \" \" + index.getOneBased() + NAME_DESC_AMY + PHONE_DESC_BOB + EMAIL_DESC_BOB"
       },
@@ -116221,7 +114757,7 @@
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        command \u003d EditCommand.COMMAND_WORD + \" \" + index.getOneBased() + NAME_DESC_BOB + PHONE_DESC_AMY + EMAIL_DESC_AMY"
       },
@@ -116494,7 +115030,7 @@
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        command \u003d EditCommand.COMMAND_WORD + \" \" + index.getOneBased() + NAME_DESC_AMY + PHONE_DESC_AMY + EMAIL_DESC_AMY"
       },
@@ -116704,14 +115240,14 @@
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(EditCommand.COMMAND_WORD + \" \" + INDEX_FIRST_PERSON.getOneBased() + INVALID_NAME_DESC,"
       },
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "                Name.MESSAGE_NAME_CONSTRAINTS);"
       },
@@ -116732,14 +115268,14 @@
       {
         "lineNumber": 186,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(EditCommand.COMMAND_WORD + \" \" + INDEX_FIRST_PERSON.getOneBased() + INVALID_PHONE_DESC,"
       },
       {
         "lineNumber": 187,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "                Phone.MESSAGE_PHONE_CONSTRAINTS);"
       },
@@ -116760,14 +115296,14 @@
       {
         "lineNumber": 190,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(EditCommand.COMMAND_WORD + \" \" + INDEX_FIRST_PERSON.getOneBased() + INVALID_EMAIL_DESC,"
       },
       {
         "lineNumber": 191,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "                Email.MESSAGE_EMAIL_CONSTRAINTS);"
       },
@@ -116788,14 +115324,14 @@
       {
         "lineNumber": 194,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(EditCommand.COMMAND_WORD + \" \" + INDEX_FIRST_PERSON.getOneBased() + INVALID_ADDRESS_DESC,"
       },
       {
         "lineNumber": 195,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "                Address.MESSAGE_ADDRESS_CONSTRAINTS);"
       },
@@ -116816,14 +115352,14 @@
       {
         "lineNumber": 198,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(EditCommand.COMMAND_WORD + \" \" + INDEX_FIRST_PERSON.getOneBased() + INVALID_TAG_DESC,"
       },
       {
         "lineNumber": 199,
         "author": {
-          "gitId": "junjiee"
+          "gitId": "-"
         },
         "content": "                Tag.MESSAGE_TAG_CONSTRAINTS);"
       },
@@ -117894,459 +116430,8 @@
     ],
     "authorContributionMap": {
       "hrxiong": 56,
-      "junjiee": 26,
-      "-": 269
-    }
-  },
-  {
-    "path": "src/test/java/systemtests/FindCommandSystemTest.java",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "package systemtests;"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.commons.core.Messages.MESSAGE_PERSONS_LISTED_OVERVIEW;"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.BENSON;"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.DANIEL;"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import static seedu.address.testutil.TypicalPersons.KEYWORD_MATCHING_MEIER;"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import org.junit.Test;"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "hrxiong"
-        },
-        "content": "import seedu.address.logic.commands.FindCommand;"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "import seedu.address.model.Model;"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "hrxiong"
-        },
-        "content": "public class FindCommandSystemTest extends AddressBookSystemTest {"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Test"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void find() {"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        /* Case: find multiple persons in address book, command with leading spaces and trailing spaces"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "         * -\u003e 2 persons found"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "         */"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String command \u003d \"   \" + FindCommand.COMMAND_WORD + \" \" + KEYWORD_MATCHING_MEIER + \"   \";"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Model expectedModel \u003d getModel();"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ModelHelper.setFilteredList(expectedModel, BENSON, DANIEL); // first names of Benson and Daniel are \"Meier\""
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    /**"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Executes {@code command} and verifies that the command box displays an empty string, the result display"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * box displays {@code Messages#MESSAGE_PERSONS_LISTED_OVERVIEW} with the number of people in the filtered list,"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * and the model related components equal to {@code expectedModel}."
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * These verifications are done by"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * {@code AddressBookSystemTest#assertApplicationDisplaysExpected(String, String, Model)}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Also verifies that the status bar remains unchanged, and the command box has the default style class, and the"
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * selected card updated accordingly, depending on {@code cardStatus}."
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * @see AddressBookSystemTest#assertApplicationDisplaysExpected(String, String, Model)"
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     */"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private void assertCommandSuccess(String command, Model expectedModel) {"
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        String expectedResultMessage \u003d String.format("
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                MESSAGE_PERSONS_LISTED_OVERVIEW, expectedModel.getFilteredPersonList().size());"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        executeCommand(command);"
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "LZYAndy"
-        },
-        "content": "        assertApplicationDisplaysExpected(\"\", expectedResultMessage, expectedModel);"
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandBoxShowsDefaultStyle();"
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertStatusBarUnchanged();"
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    /**"
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Executes {@code command} and verifies that the command box displays {@code command}, the result display"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * box displays {@code expectedResultMessage} and the model related components equal to the current model."
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * These verifications are done by"
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * {@code AddressBookSystemTest#assertApplicationDisplaysExpected(String, String, Model)}.\u003cbr\u003e"
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Also verifies that the browser url, selected card and status bar remain unchanged, and the command box has the"
-      },
-      {
-        "lineNumber": 51,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * error style."
-      },
-      {
-        "lineNumber": 52,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * @see AddressBookSystemTest#assertApplicationDisplaysExpected(String, String, Model)"
-      },
-      {
-        "lineNumber": 53,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     */"
-      },
-      {
-        "lineNumber": 54,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    private void assertCommandFailure(String command, String expectedResultMessage) {"
-      },
-      {
-        "lineNumber": 55,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Model expectedModel \u003d getModel();"
-      },
-      {
-        "lineNumber": 56,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 57,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        executeCommand(command);"
-      },
-      {
-        "lineNumber": 58,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertApplicationDisplaysExpected(command, expectedResultMessage, expectedModel);"
-      },
-      {
-        "lineNumber": 59,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertSelectedCardUnchanged();"
-      },
-      {
-        "lineNumber": 60,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertCommandBoxShowsErrorStyle();"
-      },
-      {
-        "lineNumber": 61,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        assertStatusBarUnchanged();"
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "}"
-      }
-    ],
-    "authorContributionMap": {
-      "hrxiong": 2,
-      "LZYAndy": 1,
-      "-": 60
+      "junjiee": 12,
+      "-": 283
     }
   }
 ]

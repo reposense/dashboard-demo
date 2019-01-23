@@ -40,7 +40,7 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -54,7 +54,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "image::docs/images/Ui.png[width\u003d\"600\"]"
       },
@@ -82,7 +82,7 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "image::images/Ui.png[width\u003d\"600\"]"
       },
@@ -312,9 +312,9 @@
       }
     ],
     "authorContributionMap": {
-      "keenlok": 2,
-      "YuPeiHenry": 17,
-      "-": 25
+      "keenlok": 1,
+      "YuPeiHenry": 15,
+      "-": 28
     }
   },
   {
@@ -2920,7 +2920,7 @@
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3683,7 +3683,7 @@
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6609,28 +6609,28 @@
       {
         "lineNumber": 560,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "// tag::undoredo[]"
       },
       {
         "lineNumber": 561,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Undo/Redo feature"
       },
       {
         "lineNumber": 562,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
       {
         "lineNumber": 563,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6651,14 +6651,14 @@
       {
         "lineNumber": 566,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "Additionally, it implements the following operations:"
       },
       {
         "lineNumber": 567,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6686,7 +6686,7 @@
       {
         "lineNumber": 571,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6700,21 +6700,21 @@
       {
         "lineNumber": 573,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 574,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "Given below is an example usage scenario and how the undo/redo mechanism behaves at each step."
       },
       {
         "lineNumber": 575,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6728,21 +6728,21 @@
       {
         "lineNumber": 577,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 578,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "image::UndoRedoStartingStateListDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 579,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6756,21 +6756,21 @@
       {
         "lineNumber": 581,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 582,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "image::UndoRedoNewCommand1StateListDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 583,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6784,28 +6784,28 @@
       {
         "lineNumber": 585,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 586,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "image::UndoRedoNewCommand2StateListDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 587,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 588,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
@@ -6819,7 +6819,7 @@
       {
         "lineNumber": 590,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6833,28 +6833,28 @@
       {
         "lineNumber": 592,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 593,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "image::UndoRedoExecuteUndoStateListDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 594,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 595,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
@@ -6868,35 +6868,35 @@
       {
         "lineNumber": 597,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 598,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "The following sequence diagram shows how the undo operation works:"
       },
       {
         "lineNumber": 599,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 600,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "image::UndoRedoSequenceDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 601,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6910,14 +6910,14 @@
       {
         "lineNumber": 603,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 604,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
@@ -6931,7 +6931,7 @@
       {
         "lineNumber": 606,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6945,21 +6945,21 @@
       {
         "lineNumber": 608,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 609,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "image::UndoRedoNewCommand3StateListDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 610,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6973,35 +6973,35 @@
       {
         "lineNumber": 612,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 613,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "image::UndoRedoNewCommand4StateListDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 614,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 615,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "The following activity diagram summarizes what happens when a user executes a new command:"
       },
       {
         "lineNumber": 616,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7015,35 +7015,35 @@
       {
         "lineNumber": 618,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 619,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d Design Considerations"
       },
       {
         "lineNumber": 620,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 621,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d\u003d Aspect: How undo \u0026 redo executes"
       },
       {
         "lineNumber": 622,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7057,21 +7057,21 @@
       {
         "lineNumber": 624,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "** Pros: Easy to implement."
       },
       {
         "lineNumber": 625,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "** Cons: May have performance issues in terms of memory usage."
       },
       {
         "lineNumber": 626,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "* **Alternative 2:** Individual command knows how to undo/redo by itself."
       },
@@ -7085,28 +7085,28 @@
       {
         "lineNumber": 628,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "** Cons: We must ensure that the implementation of each individual command are correct."
       },
       {
         "lineNumber": 629,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 630,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d\u003d Aspect: Data structure to support the undo/redo commands"
       },
       {
         "lineNumber": 631,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7120,7 +7120,7 @@
       {
         "lineNumber": 633,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "** Pros: Easy for new Computer Science student undergraduates to understand, who are likely to be the new incoming developers of our project."
       },
@@ -7134,175 +7134,175 @@
       {
         "lineNumber": 635,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "* **Alternative 2:** Use `HistoryManager` for undo/redo"
       },
       {
         "lineNumber": 636,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "** Pros: We do not need to maintain a separate list, and just reuse what is already in the codebase."
       },
       {
         "lineNumber": 637,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "** Cons: Requires dealing with commands that have already been undone: We must remember to skip these commands. Violates Single Responsibility Principle and Separation of Concerns as `HistoryManager` now needs to do two different things."
       },
       {
         "lineNumber": 638,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "// end::undoredo[]"
       },
       {
         "lineNumber": 639,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 640,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Logging"
       },
       {
         "lineNumber": 641,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 642,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "We are using `java.util.logging` package for logging. The `LogsCenter` class is used to manage the logging levels and logging destinations."
       },
       {
         "lineNumber": 643,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 644,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "* The logging level can be controlled using the `logLevel` setting in the configuration file (See \u003c\u003cImplementation-Configuration\u003e\u003e)"
       },
       {
         "lineNumber": 645,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "* The `Logger` for a class can be obtained using `LogsCenter.getLogger(Class)` which will log messages according to the specified logging level"
       },
       {
         "lineNumber": 646,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "* Currently log messages are output through: `Console` and to a `.log` file."
       },
       {
         "lineNumber": 647,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 648,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "*Logging Levels*"
       },
       {
         "lineNumber": 649,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 650,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "* `SEVERE` : Critical problem detected which may possibly cause the termination of the application"
       },
       {
         "lineNumber": 651,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "* `WARNING` : Can continue, but with caution"
       },
       {
         "lineNumber": 652,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "* `INFO` : Information showing the noteworthy actions by the App"
       },
       {
         "lineNumber": 653,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "* `FINE` : Details that is not usually noteworthy but may be useful in debugging e.g. print the actual list instead of just its size"
       },
       {
         "lineNumber": 654,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 655,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "[[Implementation-Configuration]]"
       },
       {
         "lineNumber": 656,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Configuration"
       },
       {
         "lineNumber": 657,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 658,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": "Certain properties of the application can be controlled (e.g App name, logging level) through the configuration file (default: `config.json`)."
       },
       {
         "lineNumber": 659,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10067,21 +10067,21 @@
       {
         "lineNumber": 1054,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1055,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1056,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10907,14 +10907,14 @@
       {
         "lineNumber": 1174,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1175,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": "[discrete]"
       },
@@ -11054,7 +11054,7 @@
       {
         "lineNumber": 1195,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11313,7 +11313,7 @@
       {
         "lineNumber": 1232,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11355,7 +11355,7 @@
       {
         "lineNumber": 1238,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11390,7 +11390,7 @@
       {
         "lineNumber": 1243,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11404,7 +11404,7 @@
       {
         "lineNumber": 1245,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11460,7 +11460,7 @@
       {
         "lineNumber": 1253,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11516,7 +11516,7 @@
       {
         "lineNumber": 1261,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11558,7 +11558,7 @@
       {
         "lineNumber": 1267,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11593,7 +11593,7 @@
       {
         "lineNumber": 1272,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11607,7 +11607,7 @@
       {
         "lineNumber": 1274,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11621,7 +11621,7 @@
       {
         "lineNumber": 1276,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11663,7 +11663,7 @@
       {
         "lineNumber": 1282,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11698,7 +11698,7 @@
       {
         "lineNumber": 1287,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11712,7 +11712,7 @@
       {
         "lineNumber": 1289,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11726,7 +11726,7 @@
       {
         "lineNumber": 1291,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11768,7 +11768,7 @@
       {
         "lineNumber": 1297,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11803,7 +11803,7 @@
       {
         "lineNumber": 1302,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11866,7 +11866,7 @@
       {
         "lineNumber": 1311,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11915,14 +11915,14 @@
       {
         "lineNumber": 1318,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1319,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11964,7 +11964,7 @@
       {
         "lineNumber": 1325,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12013,7 +12013,7 @@
       {
         "lineNumber": 1332,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12027,7 +12027,7 @@
       {
         "lineNumber": 1334,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12083,7 +12083,7 @@
       {
         "lineNumber": 1342,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12279,7 +12279,7 @@
       {
         "lineNumber": 1370,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -12299,11 +12299,11 @@
       }
     ],
     "authorContributionMap": {
-      "keenlok": 102,
-      "jiajunteo": 117,
-      "YuPeiHenry": 584,
-      "leongengsea": 77,
-      "-": 492
+      "keenlok": 98,
+      "jiajunteo": 87,
+      "YuPeiHenry": 509,
+      "leongengsea": 75,
+      "-": 603
     }
   },
   {
@@ -13016,7 +13016,7 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13072,7 +13072,7 @@
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13317,7 +13317,7 @@
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d\u003d"
       },
@@ -13331,7 +13331,7 @@
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13359,7 +13359,7 @@
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13464,21 +13464,21 @@
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13534,7 +13534,7 @@
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13555,7 +13555,7 @@
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13569,7 +13569,7 @@
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13590,21 +13590,21 @@
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13632,7 +13632,7 @@
       {
         "lineNumber": 143,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13737,21 +13737,21 @@
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -13989,7 +13989,7 @@
       {
         "lineNumber": 194,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14010,7 +14010,7 @@
       {
         "lineNumber": 197,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14031,7 +14031,7 @@
       {
         "lineNumber": 200,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14045,7 +14045,7 @@
       {
         "lineNumber": 202,
         "author": {
-          "gitId": "leongengsea"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14458,14 +14458,14 @@
       {
         "lineNumber": 261,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 262,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14605,7 +14605,7 @@
       {
         "lineNumber": 282,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14619,7 +14619,7 @@
       {
         "lineNumber": 284,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14633,7 +14633,7 @@
       {
         "lineNumber": 286,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14661,7 +14661,7 @@
       {
         "lineNumber": 290,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15172,14 +15172,14 @@
       {
         "lineNumber": 363,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 364,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15235,7 +15235,7 @@
       {
         "lineNumber": 372,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15291,7 +15291,7 @@
       {
         "lineNumber": 380,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
@@ -15452,14 +15452,14 @@
       {
         "lineNumber": 403,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 404,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "// tag::undoredo[]"
       },
@@ -15844,7 +15844,7 @@
       {
         "lineNumber": 459,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15872,7 +15872,7 @@
       {
         "lineNumber": 463,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15893,7 +15893,7 @@
       {
         "lineNumber": 466,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16530,7 +16530,7 @@
       {
         "lineNumber": 557,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16544,7 +16544,7 @@
       {
         "lineNumber": 559,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16558,7 +16558,7 @@
       {
         "lineNumber": 561,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -16586,7 +16586,7 @@
       {
         "lineNumber": 565,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17468,7 +17468,7 @@
       {
         "lineNumber": 691,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17510,7 +17510,7 @@
       {
         "lineNumber": 697,
         "author": {
-          "gitId": "jiajunteo"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17832,10 +17832,10 @@
     ],
     "authorContributionMap": {
       "keenlok": 70,
-      "jiajunteo": 203,
-      "YuPeiHenry": 274,
-      "leongengsea": 99,
-      "-": 96
+      "jiajunteo": 196,
+      "YuPeiHenry": 256,
+      "leongengsea": 81,
+      "-": 139
     }
   },
   {
@@ -83059,7 +83059,7 @@
       {
         "lineNumber": 248,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "    }"
       },
@@ -83072,8 +83072,8 @@
       }
     ],
     "authorContributionMap": {
-      "YuPeiHenry": 63,
-      "-": 186
+      "YuPeiHenry": 62,
+      "-": 187
     }
   },
   {
@@ -93494,43 +93494,43 @@
       {
         "lineNumber": 377,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "    -fx-padding: 1 3 1 3;"
       },
       {
         "lineNumber": 378,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "    -fx-border-radius: 2;"
       },
       {
         "lineNumber": 379,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "    -fx-background-radius: 2;"
       },
       {
         "lineNumber": 380,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "    -fx-font-size: 11;"
       },
       {
         "lineNumber": 381,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
       "jiajunteo": 1,
-      "YuPeiHenry": 82,
-      "-": 298
+      "YuPeiHenry": 77,
+      "-": 303
     }
   },
   {
@@ -100572,7 +100572,7 @@
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "import org.controlsfx.control.StatusBar;"
       },
@@ -101068,8 +101068,8 @@
       }
     ],
     "authorContributionMap": {
-      "keenlok": 2,
-      "-": 71
+      "keenlok": 1,
+      "-": 72
     }
   },
   {
@@ -154687,14 +154687,14 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "import org.junit.Before;"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "import org.junit.Test;"
       },
@@ -155757,10 +155757,10 @@
       }
     ],
     "authorContributionMap": {
-      "keenlok": 9,
+      "keenlok": 7,
       "jiajunteo": 1,
       "YuPeiHenry": 1,
-      "-": 148
+      "-": 150
     }
   },
   {
@@ -156163,7 +156163,7 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -156575,9 +156575,9 @@
       }
     ],
     "authorContributionMap": {
-      "keenlok": 2,
+      "keenlok": 1,
       "YuPeiHenry": 3,
-      "-": 70
+      "-": 71
     }
   },
   {
@@ -163038,7 +163038,7 @@
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -163570,7 +163570,7 @@
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -163976,7 +163976,7 @@
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "        /* Case: invalid name -\u003e rejected */"
       },
@@ -163997,14 +163997,14 @@
       {
         "lineNumber": 175,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "        assertCommandFailure(command, Name.MESSAGE_NAME_CONSTRAINTS);"
       },
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -164633,10 +164633,10 @@
       }
     ],
     "authorContributionMap": {
-      "keenlok": 108,
+      "keenlok": 103,
       "YuPeiHenry": 20,
       "leongengsea": 12,
-      "-": 125
+      "-": 130
     }
   },
   {
@@ -165861,7 +165861,7 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -167142,9 +167142,9 @@
     ],
     "authorContributionMap": {
       "keenlok": 36,
-      "YuPeiHenry": 25,
+      "YuPeiHenry": 24,
       "leongengsea": 5,
-      "-": 130
+      "-": 131
     }
   },
   {
@@ -167251,7 +167251,7 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -167397,8 +167397,8 @@
       }
     ],
     "authorContributionMap": {
-      "keenlok": 7,
-      "-": 28
+      "keenlok": 6,
+      "-": 29
     }
   },
   {
@@ -169096,21 +169096,21 @@
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -169215,7 +169215,7 @@
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "        command \u003d FindCommand.COMMAND_WORD + \" \" + tags.get(0).tagName;"
       },
@@ -169229,21 +169229,21 @@
       {
         "lineNumber": 144,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "        assertCommandSuccess(command, expectedModel);"
       },
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": "        assertSelectedCardUnchanged();"
       },
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "keenlok"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -169711,9 +169711,9 @@
       }
     ],
     "authorContributionMap": {
-      "keenlok": 86,
+      "keenlok": 79,
       "YuPeiHenry": 4,
-      "-": 122
+      "-": 129
     }
   },
   {
@@ -169792,7 +169792,7 @@
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "YuPeiHenry"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -170800,8 +170800,8 @@
     ],
     "authorContributionMap": {
       "keenlok": 7,
-      "YuPeiHenry": 58,
-      "-": 89
+      "YuPeiHenry": 57,
+      "-": 90
     }
   },
   {
