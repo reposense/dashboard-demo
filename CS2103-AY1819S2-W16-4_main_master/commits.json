@@ -1,0 +1,2150 @@
+{
+  "authorDailyContributionsMap": {
+    "barisbatuhan": [
+      {
+        "insertions": 458,
+        "deletions": 21,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "e5f2cb67ae1be620c605b93ff218782609707d66",
+            "message": "- Filter command is added. It has the options: fiter and, filter or, filter clear. - User Guide is updated with the addition of fiter command explanation. - The necessary methods for filtering to take place are added in the AddressBook.java, Model.java and ModelManager.java classes - A size returning function is created in the UniquePersonList.java class - Instead of having only one person list in the addressbook, a second person list is created and implemented for every single method. It is necessary because when one list holds every contact information and the other list holds the filtered contacts to be showed. - TODO: filtering is not working well with undo and redo operations. This will be implemented. - TODO: a command remove-filtered-contacts will be added to remove all the filtered contacts at once.",
+            "insertions": 458,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 21,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": [
+          {
+            "hash": "8d46979e0ccb81ccf5401ec757420fc3ec4ca090",
+            "message": "- For testing purposes, the missing methods are added. - For undo and redo commands, filtering processes are cleared.",
+            "insertions": 21,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 2113,
+        "deletions": 2115,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "fe439724f4d315da1bf8121efe740f45563010db",
+            "message": "Line endings are changed for the Developer Guide",
+            "insertions": 1054,
+            "deletions": 1054
+          },
+          {
+            "hash": "0c64badcf5b4a8bcb846b817501a0483881f6f3a",
+            "message": "User guide format for filtering is updated.",
+            "insertions": 5,
+            "deletions": 7
+          },
+          {
+            "hash": "7c98f744cb4d030ff7b734b53d1ce8dfbf2538dd",
+            "message": "Revert \"Line endings are changed for the Developer Guide\"",
+            "insertions": 1054,
+            "deletions": 1054
+          }
+        ]
+      },
+      {
+        "insertions": 216,
+        "deletions": 78,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "47a8deb5b2947bc820d9a3f138acd10671aca02f",
+            "message": "Changes: - UI image is again updated to .png extension - Filtering option for tags are updated - Filtering is made compatible with all the processes (undo, redo, add, delete especially) - Sorting method is updated in order to be used with filtering at the same time - Code flexibility is improved in filtering processes - In Person class, a new method is implemented in order to compare the tags with the String list that maintains tag names inside - Deletions caused by filterings are prevented. This error is fixed.",
+            "insertions": 216,
+            "deletions": 78
+          }
+        ]
+      },
+      {
+        "insertions": 21,
+        "deletions": 29,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "8ba8cd3cb43edcf201710d6f9ebff2b0d6f4a2a9",
+            "message": "Editing and filtering are working together without a problem",
+            "insertions": 2,
+            "deletions": 12
+          },
+          {
+            "hash": "f7500a6f9f160943ec20f89c684dc473547000d6",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6c2538ffafbd9a5c21b7ee585b4b436f2c0b760b",
+            "message": "- User guide is updated - Deleting became compatible with filtering - Addition is blocked if filter is active",
+            "insertions": 18,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 175,
+        "deletions": 58,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "a1f21b68eb9861c9c4e28b17de4347c458a8e49d",
+            "message": "- Adding person is activated when filtering is active - An arrayList is implemented to hold previous and next phases of filteringExist (to work undo and redo correctly) - Commit code place is changed in FilterCommand in order to make the process commit in correct times",
+            "insertions": 23,
+            "deletions": 18
+          },
+          {
+            "hash": "f04349e3b85f5f6f19b8a0a2083fd4877d205bf4",
+            "message": "- A small error in versionedAdressBook is corrected",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "4ff228e374bf7e7229d7c26b76b1a88684e8b806",
+            "message": "Developer guide is updated for the filtering process.",
+            "insertions": 110,
+            "deletions": 1
+          },
+          {
+            "hash": "0ffa6f5485f9f98d7eed144f18c8cdd376d05e1c",
+            "message": "Developer Guide is updated for styling",
+            "insertions": 28,
+            "deletions": 28
+          },
+          {
+            "hash": "bc6a16c25416821c6256862651c2365f4febf224",
+            "message": "PNG name is updated in Developer Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "86f9555f7ffa896d111626d1f651a9e47340ef16",
+            "message": "Developer Guide is updated for user stories",
+            "insertions": 13,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 22,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "31e551acb982a35e2882ea18410499ec9b14a8ac",
+            "message": "Filtering is updated according to skills and position property changes. Initial sample AdressBook is updated",
+            "insertions": 22,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 972,
+        "deletions": 660,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "35257942b9225cd88db0e110346bb0166dc619a8",
+            "message": "- Position, GPA and education categories are added for filtering - GPA - Education works for editing now - static variables are changed to in-class variables -Developer Guide is updated",
+            "insertions": 266,
+            "deletions": 90
+          },
+          {
+            "hash": "51275932ef795f1feea1aa3bf235634b7652eac7",
+            "message": "- Travis Format errors are fixed",
+            "insertions": 444,
+            "deletions": 379
+          },
+          {
+            "hash": "9bb29bbcddb410a69ede946375437972b3120bf7",
+            "message": "Travis Error correction v2",
+            "insertions": 157,
+            "deletions": 126
+          },
+          {
+            "hash": "9313ea9bba22551bb5917d22535dd38830dd2833",
+            "message": "Travis error fix v3",
+            "insertions": 25,
+            "deletions": 24
+          },
+          {
+            "hash": "8157b3331e0a9d59f628b9c272374032b8604132",
+            "message": "Travis fix v4",
+            "insertions": 32,
+            "deletions": 31
+          },
+          {
+            "hash": "e5fe12308285e2546b0f01d3a32f45d78e673483",
+            "message": "Filtering related tests are fixed",
+            "insertions": 48,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 1671,
+        "deletions": 1098,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "e61129fa0371d8f12f64781f869822abf31a55f0",
+            "message": "- Developer Guide, User Guide and Readme Documents are Improved",
+            "insertions": 100,
+            "deletions": 15
+          },
+          {
+            "hash": "88e0a6c180c876892e19a8338f6146cad112616d",
+            "message": "no message",
+            "insertions": 31,
+            "deletions": 29
+          },
+          {
+            "hash": "1f25864bfb97ebd09f46bb93833b37e5f882d050",
+            "message": "no message",
+            "insertions": 8,
+            "deletions": 12
+          },
+          {
+            "hash": "77f7efe707b788824780de9394f66374bfa6bb75",
+            "message": "no message",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "bf59e513e627cbd17218fb58c0b88bec2a4329c2",
+            "message": "no message",
+            "insertions": 22,
+            "deletions": 24
+          },
+          {
+            "hash": "188860b9776b2c3f165f9d1ce96e0e0c55e5fda2",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "8aaaf54dc7ff65e949b1dc908e512351a0e273f7",
+            "message": "no message",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "8cd264735916c0f72b62be26e89beef55b7fcef0",
+            "message": "no message",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "a4abea925acb2eada4a1e829902a4e83b00157bf",
+            "message": "no message",
+            "insertions": 491,
+            "deletions": 48
+          },
+          {
+            "hash": "7b405e51c294c5e629d35b41e041bb204cd5a22b",
+            "message": "no message",
+            "insertions": 36,
+            "deletions": 5
+          },
+          {
+            "hash": "4deeb8474035a2fbacd3d155500729ce13439a5a",
+            "message": "- Some changes in tests are made",
+            "insertions": 955,
+            "deletions": 955
+          }
+        ]
+      },
+      {
+        "insertions": 1624,
+        "deletions": 1484,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "30237dbd7811451f882f462041737b7f0e23fe0e",
+            "message": "CheckStyle for main is fixed",
+            "insertions": 45,
+            "deletions": 37
+          },
+          {
+            "hash": "3fa256a0b9a604df7d86e13854ac8b143a1b4968",
+            "message": "StyleCheck error fixes v2 and Filtering input style is changed",
+            "insertions": 98,
+            "deletions": 86
+          },
+          {
+            "hash": "ccb62b3e93067c616e376e5e7920e861525785c9",
+            "message": "- Filter command is rearranged according to the changes in skills and positions - Filtering according to endorsement numbers is added - Filte reverse command is added",
+            "insertions": 174,
+            "deletions": 53
+          },
+          {
+            "hash": "b93322c7c7b1ab3fbeeb4f257d133bb10d1f8dea",
+            "message": "- Filter Command Updates",
+            "insertions": 123,
+            "deletions": 67
+          },
+          {
+            "hash": "11418a7b13201043ed7252f83b8d742eed1d3c4b",
+            "message": "- CheckStyle Main errors fixed",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "f204cce7a1170496418cfb66aa306721e8eadbe6",
+            "message": "- styleCheck Errors are fixed for testing",
+            "insertions": 1092,
+            "deletions": 1071
+          },
+          {
+            "hash": "3e91783814a44b4ba69761ea07be1f20274b373c",
+            "message": "checkStyle for Tests are updated again",
+            "insertions": 13,
+            "deletions": 31
+          },
+          {
+            "hash": "6589dcb38b4c72edd672952d5fc3a910f86f17f4",
+            "message": "- checkStyle updates for testing v3",
+            "insertions": 0,
+            "deletions": 79
+          },
+          {
+            "hash": "cb66f57a76961f61370e7b17459bdc9dcfcf5fad",
+            "message": "User Guide is updated",
+            "insertions": 30,
+            "deletions": 14
+          },
+          {
+            "hash": "6f5bfa0f45acf97c475fdc68f9f88cac8566e76a",
+            "message": "Userguide",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "4cd4c19aafa1dac89558bacf0f0420bca9476193",
+            "message": "UserGuide",
+            "insertions": 16,
+            "deletions": 17
+          },
+          {
+            "hash": "783c2164bc17ebe7c94f3dc313ecca696335db0d",
+            "message": "UserGuide",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "845d75cfba9140fe6d7a24df92aec5d4e7296449",
+            "message": "no message",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 402,
+        "deletions": 50,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "9c1582fecbbb3308c7de1416bd7f7c4f5c1099e4",
+            "message": "- Unit tests for FilterCommand and FilterCommandParser are updated",
+            "insertions": 378,
+            "deletions": 43
+          },
+          {
+            "hash": "88be7e6a82c6d14de9c7de3a16bfd31df2db04f1",
+            "message": "-checkstyle errors are fixed",
+            "insertions": 22,
+            "deletions": 5
+          },
+          {
+            "hash": "a92f8b2948b3479210e7f3400aa70bc13fc36ad3",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 42,
+        "deletions": 48,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "01a7df4c0d6dd89f8dcc455a87905dfdf88f5005",
+            "message": "- Failing Edit tests are fixed. Since Editing process is changed (Before: with using filteredPersonsList from model class / after: using persons list from AddressBook class), the unnecessary tests are excluded",
+            "insertions": 41,
+            "deletions": 46
+          },
+          {
+            "hash": "1cc5dfcc7c35079fbe7bccf1687d8222efaec928",
+            "message": "checkStyleFixes",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 427,
+        "deletions": 81,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "e9420c04dd79bc81bef9db730d9277e11c5a8f51",
+            "message": "- For filtering, new tests are added",
+            "insertions": 378,
+            "deletions": 52
+          },
+          {
+            "hash": "65f3d1660da1d02a305309a37d8ce4d4130c846e",
+            "message": "Systemtest changes",
+            "insertions": 20,
+            "deletions": 18
+          },
+          {
+            "hash": "f5422594c30b90958bab1f4a42626f86ea0a15cb",
+            "message": " Checkstyle fixes",
+            "insertions": 29,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 1347,
+        "deletions": 333,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "59857b11b27fe0e8adae0f26f48e0deb308a535e",
+            "message": "Filter command is updated Unit tests and Integration tests are written for Filter Command",
+            "insertions": 488,
+            "deletions": 35
+          },
+          {
+            "hash": "3bc43141cca1dd86e0d8dd2db9c61670c498b77f",
+            "message": "checkStyle Errors",
+            "insertions": 21,
+            "deletions": 15
+          },
+          {
+            "hash": "e788bd0cfb8c5987e0aac4184c9fd9f45887065f",
+            "message": "checkStyle Fixes",
+            "insertions": 5,
+            "deletions": 7
+          },
+          {
+            "hash": "7248d2a4b350f3ee16e2b1d813062b4a87f956de",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "918d5d6b31af2116605bb4fa1e43dd6e713e9674",
+            "message": "CV showing is implemented, Filtering Integration tests are finished, Filter command is updated",
+            "insertions": 412,
+            "deletions": 39
+          },
+          {
+            "hash": "97e6bc4490f56fe0a51983304fe46e2d29b6f17d",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "294bf4e64c83e4d842f8191c5461dff83c759263",
+            "message": "Codacy Badge",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "9e3d1646aaaf1ad87f09fb6135698460f676f11f",
+            "message": "Codacy Badge",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "31826d67a9fe26649429500ea1a66ac1f86bcb94",
+            "message": "Coveralls",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "83f300a928bba496e21d6e7643d62d9b162416b7",
+            "message": "Coveralls",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b72d21db9876141938f6b519a6671996078ab95f",
+            "message": "Ui image is changed",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "94c15fc889f730596ad7476f3bc212275bcf6587",
+            "message": "README file informations are updated",
+            "insertions": 13,
+            "deletions": 4
+          },
+          {
+            "hash": "5f7c31cfe51592f29b3712384f4ad2c85d750198",
+            "message": "UserGuide Updated",
+            "insertions": 47,
+            "deletions": 27
+          },
+          {
+            "hash": "ee4f8fb548d7b9ebf44f9f72c47dffbdf83b251c",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "091c19962d1f9800f5e349f9d98207ae1e720e86",
+            "message": "no message",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "ac8acd3916016db6f602fcec13d0006cd9f509cf",
+            "message": "UserGuide Update with CV information",
+            "insertions": 42,
+            "deletions": 1
+          },
+          {
+            "hash": "6ae3dd099ead0e5cf8a745daf880b65604ea4113",
+            "message": "no message",
+            "insertions": 10,
+            "deletions": 8
+          },
+          {
+            "hash": "275cbd896c28f06540100e547a77e3c7b7a6303c",
+            "message": "UserGuide Updates",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "c87aa98a7464a7376f52a8167280944e607b600c",
+            "message": "- Tests are Fixed - UI image is updated",
+            "insertions": 58,
+            "deletions": 18
+          },
+          {
+            "hash": "919360b9fb3c28482fa96b54a8992cbaf4c2e9e8",
+            "message": "checkStyleErrors",
+            "insertions": 80,
+            "deletions": 61
+          },
+          {
+            "hash": "47b1aa4a52c1a70c2ba1a827d9cea7b5906f0217",
+            "message": "checkStyle Errors",
+            "insertions": 65,
+            "deletions": 59
+          },
+          {
+            "hash": "a94028623127f6a4b62b00128ffa47e84f398a7a",
+            "message": "checkStyle",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c31ae3c0dc1a9ba88d279630d8fe8b658c809d82",
+            "message": "checkStyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "d76783028f4084bb9150bb3be53706639b47bb04",
+            "message": "checkStyle test",
+            "insertions": 74,
+            "deletions": 27
+          },
+          {
+            "hash": "835c26d292a892abb46bd8e842f1095bc06f1a79",
+            "message": "checkStyle Test fixes",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 782,
+        "deletions": 426,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "3623ea03f4a8d792fdccb09d6446db15d75f4e7f",
+            "message": "Degree filtering is added, test cases are arranged according to that",
+            "insertions": 349,
+            "deletions": 112
+          },
+          {
+            "hash": "c5795870a80c6bd12a28b53bd0ff2afb50bb79dc",
+            "message": "checkStyle errors",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "4b1fd74cbbc4a6fa9a2d64c39a4bf2a08ae58e6c",
+            "message": "Code Quality Arrangements",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "f3252717ec2c18056ae464780ed658dcf5e6912a",
+            "message": "Process fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2676e975e3494091cfcc209e7b0bce1ef00f7fbd",
+            "message": "System tests are fixed",
+            "insertions": 176,
+            "deletions": 147
+          },
+          {
+            "hash": "b310888686f627032b6244e37d00324310f96ff3",
+            "message": "CHECKsTYLE TEST FIXES",
+            "insertions": 27,
+            "deletions": 17
+          },
+          {
+            "hash": "97d91a334a685e67de0b340d090d235e35afe913",
+            "message": "Document updates",
+            "insertions": 52,
+            "deletions": 39
+          },
+          {
+            "hash": "7b455a6eccfc3c3b2bb440010c1e8fa5f70fa0d7",
+            "message": "no message",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e55ef1a75cc158fe0b5c4a0511aecafc4741ba95",
+            "message": "no message",
+            "insertions": 36,
+            "deletions": 4
+          },
+          {
+            "hash": "bc741dea316aeec58b0257465866bae31b87f038",
+            "message": "no message",
+            "insertions": 18,
+            "deletions": 5
+          },
+          {
+            "hash": "200e1ced6dedd9192928e741a4b7180960bb7614",
+            "message": "no message",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "48fae5b57d251d45f84e5c942ef2c9b05fad6018",
+            "message": "no message",
+            "insertions": 5,
+            "deletions": 11
+          },
+          {
+            "hash": "df9a2f35cb93c87a933e8dc8a37ea527944450a4",
+            "message": "no message",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "8316f733fea2994e250b853c5f53d7ed0d475e2a",
+            "message": "no message",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "8b6e1b99f3bf78778901007972db89217f8e133d",
+            "message": "no message",
+            "insertions": 34,
+            "deletions": 9
+          },
+          {
+            "hash": "470cbceaf7ac50ff9c553962e8e0c9ec436c78be",
+            "message": "no message",
+            "insertions": 32,
+            "deletions": 34
+          },
+          {
+            "hash": "f47d673edf7ef66d90f49bd10dc097036bfaaad3",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8ab8040445457eca6dbfb1f2ba426e7f47ecdd54",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 367,
+        "deletions": 353,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "196f6c20062edf0f2e9a6aecec1b4b53d75cd80a",
+            "message": "Developer Guide Update",
+            "insertions": 60,
+            "deletions": 3
+          },
+          {
+            "hash": "9f665196c9cbe4cc0ec35886b8a8f5fdb8112696",
+            "message": "no message",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "2853c757c7565cf9428a83f62056f7cae267da87",
+            "message": "no message",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "9f33781879110ff2225f250665fa09461fd910da",
+            "message": "no message",
+            "insertions": 98,
+            "deletions": 110
+          },
+          {
+            "hash": "082a5814c89dff23602c8a01e05004e4db9e9bb5",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7054221d3b9bcc722fda86082147d23acb9f5ce1",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "dac31271e3cf600e3849cefe3a57a9f0c84facea",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "48e7e4e2e37c1c82258fc18b4f543cd142b41239",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5edc79b8e1aced98331c925115e3add723f23ba4",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bdc841b79e1c41815b285ba5ae12efcbd538fcf2",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d6b81c21ac45698fbdbd2cb2698df800049442d6",
+            "message": "no message",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "2de799c2c62aed0e31877ef4114d2f4f3f49bf77",
+            "message": "no message",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "81ec3fad28627bd33233cfdb94842d7d859cfca6",
+            "message": "no message",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "791b8b8a308954745bf3616eab74f3718d09c09d",
+            "message": "no message",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "9ee464f3f5f53a4f9adff6100916f67b402fc520",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "e8f0db666a031b3d4a89144fb9111789c4ceccf9",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "baab5790824482e38d4fa4b0089a09520ea109cc",
+            "message": "no message",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "3e1a55bd1d2bc6f22219762d16d36413b3818968",
+            "message": "no message",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "e404b7be887ef997b5ac2b8338277d6f6e7e43d3",
+            "message": "no message",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "c4328900f80cb7fa999faf2727b882de65554987",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 30
+          },
+          {
+            "hash": "f102c9d80efbd8e026d0aba3c7ba4f64a874e20b",
+            "message": "no message",
+            "insertions": 8,
+            "deletions": 34
+          },
+          {
+            "hash": "bc25c9273255c76a0d56c1414454ac92d197d4cb",
+            "message": "no message",
+            "insertions": 14,
+            "deletions": 31
+          },
+          {
+            "hash": "58f1a979f5fbfae7871b6b3a5de56e65b7423635",
+            "message": "no message",
+            "insertions": 23,
+            "deletions": 21
+          },
+          {
+            "hash": "e7ee74f7692734c365e24c0d8256f70547f491dc",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "7dcfd4da98841545ac9707d5dee747572a20f135",
+            "message": "no message",
+            "insertions": 4,
+            "deletions": 26
+          },
+          {
+            "hash": "98cba5d0a6ef547d94826a6d1b564ab2a59aaac7",
+            "message": "no message",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "fb22220ca4f7527f86ad61c291e868c5e88fa923",
+            "message": "no message",
+            "insertions": 71,
+            "deletions": 17
+          },
+          {
+            "hash": "c11efac795be06addc5b6d7e956a05fb8f622e77",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "06214295ea0b707d4e3834a708f1b57fa7404127",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "charnixon": [
+      {
+        "insertions": 16,
+        "deletions": 10,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "00e511919623c2bb923fd55d8a0a8c595005f2ae",
+            "message": "New README for Recruit Me application",
+            "insertions": 14,
+            "deletions": 8
+          },
+          {
+            "hash": "6e6b88ce04e90264e1fd70645f1185293dfe6fd3",
+            "message": "update to fit jpg format",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 304,
+        "deletions": 39,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "22a606e07414e26f2319a784da7e7c4b755634a4",
+            "message": "Including Education and GPA parameters",
+            "insertions": 278,
+            "deletions": 29
+          },
+          {
+            "hash": "72de968598885dc318fde0d95b3e42721da70979",
+            "message": "change prefix for GPA and EDUCATION",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d239c1564966c048a2a36a6140c468dc17889a5c",
+            "message": "Add and Sort command made compatible with GPA and education",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "c7eac784b93cc808d3dc25d52883e1392115fcc8",
+            "message": "A newline added to Education class",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d2eeac47c032697e09e2a95adea73e0ab526b75b",
+            "message": "Developer Guide updated to include Education and GPA",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "7210261b525a2bed1f58830604834783e28b6a49",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 9,
+        "deletions": 6,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "1628969ac3fe202d61c4ce0a4aa785e3e9147069",
+            "message": "Updated profile",
+            "insertions": 9,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 460,
+        "deletions": 183,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "47d7c6ed1041c6b5c620da638a91ac9ffb770a5b",
+            "message": "addition of the Degree and usability in ui",
+            "insertions": 427,
+            "deletions": 167
+          },
+          {
+            "hash": "47a01d82e119c949f8a2570e9b13cc7c675ae0ec",
+            "message": "style",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "d35b26d2241295521aa3e6211ecc635d8b39d49f",
+            "message": "style fixes",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "7558c13db2329b56daa1b6b4300bf9c814ee11a5",
+            "message": "correctForm for gpa",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "5aac0f0ae4a13c88bdb9f4793e81fda5b49660cc",
+            "message": "reassigned input parameter to gpa",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 5,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "5e5ef04d99c6cb2ff8c8f198e60f236d55579b10",
+            "message": "PPP",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "c70b9498d60e5c00019dd9841316c00d3a3999d0",
+            "message": "Fixes to the PPP",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "abwilli": [
+      {
+        "insertions": 157,
+        "deletions": 153,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "7ee9076300ec2ffd32ef61c00e3b193fdb3341f8",
+            "message": "Update ContactUs.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e802533aaeb6ef0887862d32df56b569aa5a8382",
+            "message": "Refactor Tag to SkillsTag change prefix from t/ to skill/",
+            "insertions": 76,
+            "deletions": 76
+          },
+          {
+            "hash": "3f8d360bf05be70b1b0550c9a3255819a2d936e9",
+            "message": "user guide updates",
+            "insertions": 36,
+            "deletions": 36
+          },
+          {
+            "hash": "38fb0d7517a5185fde54a56ee677cd49e8ece251",
+            "message": "Updating my v1.1 accomplishments",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c9344c11ab6960bd24246bc43bac36b27046ba2b",
+            "message": "recommit",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "660e84d9a4003527c3ced4e7203ce4aedac73207",
+            "message": "overwriting changes",
+            "insertions": 35,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 1334,
+        "deletions": 1253,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "6f5799b4c28ab871fd140cb46005bf83cb8234bc",
+            "message": "V1.2 Colored Tags and seperation of skills and position prefixes",
+            "insertions": 132,
+            "deletions": 50
+          },
+          {
+            "hash": "fb48db8ee606c32855923a3e5f0c4e806cab9108",
+            "message": "new line remove",
+            "insertions": 1184,
+            "deletions": 1184
+          },
+          {
+            "hash": "2012c58c1d53c3d009b771a5af0ebfd8879629c1",
+            "message": "check style bs",
+            "insertions": 18,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 71,
+        "deletions": 42,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "5d0fb4254b9701d86709788448e739ce1a9e0dc1",
+            "message": "small changes",
+            "insertions": 4,
+            "deletions": 8
+          },
+          {
+            "hash": "93e8e9cf8b3ccbdaa3abfb9e49d67fb4a1954699",
+            "message": "ParserUtil test updates",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "b9b8954e770c7dffa016fb9a32f6aa494edc8d54",
+            "message": "SampleDataUtil update",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "cc8c70355acb99664588c33e8ef9cbc6e305daf3",
+            "message": "checkstyle error fixes",
+            "insertions": 48,
+            "deletions": 18
+          },
+          {
+            "hash": "708ed8998ad4102f6fa23ae1c8187b1aa92e1bc2",
+            "message": "more checkstyle errors",
+            "insertions": 4,
+            "deletions": 6
+          },
+          {
+            "hash": "df0377b2479ed1d51e0b03955a21a1c9194fddb9",
+            "message": "Last check errors",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 169,
+        "deletions": 29,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "12b44669700af2aab815cc2901128221c62288d6",
+            "message": "Refactoring Tag definition, Skill and Position accept more than just alphanumeric characters, Endorse command created with format \"endorse (index) n/(employee name)\" -\u003e cannot endorse a candidate twice, editing a person replaces all current tags except endorsements",
+            "insertions": 169,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 111,
+        "deletions": 27,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "3316ec1a795305aea35b6b77792edec937b996ed",
+            "message": "Additional Sample Data for better filtering",
+            "insertions": 61,
+            "deletions": 11
+          },
+          {
+            "hash": "4e1169232d632b4b318f33d7d6563f23eb10438b",
+            "message": "Update project portfolio",
+            "insertions": 14,
+            "deletions": 7
+          },
+          {
+            "hash": "9a3d34ef73ed008ae68adb3019cfffd1f6f81aac",
+            "message": "slight adjustment",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4123daabbedf552bd13c5ee5adad04db12dc4a90",
+            "message": "small tag bug",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ada3ebbfdff8308bc6b27bb1723cd816989340a3",
+            "message": "User guide updates",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "dc8ea8b43ea1e1ad2b07c5fcf23a690932b16e12",
+            "message": "Update User guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3395c4c68f20d3e6f946ff1ab126fe286c3816b8",
+            "message": "Endorse Command Addition, Developer Guide",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "54c14661ea11c70df8bc31c900de179ced254c56",
+            "message": "MainApp v1.3 updated",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "168729bac8ef3c95157f268a77afe99716b38594",
+            "message": "Updated README",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 4,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "f2b75ee3392ff62197966488e3a09e3d6736f5f6",
+            "message": "Colors save to json file",
+            "insertions": 15,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 63,
+        "deletions": 20,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "a33776a55a433f060bdbae88a9a4bf7171d9eead",
+            "message": "Enhanced Endorse Command with Clear function",
+            "insertions": 51,
+            "deletions": 9
+          },
+          {
+            "hash": "a1aeb16df23ef7197d4fe1699c1d7d44b904848f",
+            "message": "Checkstyle issues",
+            "insertions": 12,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 171,
+        "deletions": 20,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "0010300334aef17e8c66c96203e202e4580f2f93",
+            "message": "user guide and developer guide changes",
+            "insertions": 16,
+            "deletions": 3
+          },
+          {
+            "hash": "4c899932d93ca88375d0330722c2c321739d55ad",
+            "message": "Endorse command test",
+            "insertions": 54,
+            "deletions": 0
+          },
+          {
+            "hash": "3aee6086299bb6c49308fb30a8a6aa857c8312df",
+            "message": "checkstyle tests",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "685e1fc75839c8cbabdcde375b1cb417b6f46caa",
+            "message": "check style fixes again",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "6ea6a4bf57501040db21631fe23e548fb47deb7d",
+            "message": "checkstyle again",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "a9931b5919d849543683625a35b938a6e146722f",
+            "message": "kill me check style",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2878f4cb1945412d5267b6c963b85845d39c8ada",
+            "message": "test error",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "cd48968b1fb6155498760a15b44b997fda92ce89",
+            "message": "test passing",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "9450ea233fd03d4ddd60b57ee02c14da99988a8b",
+            "message": "endorse/filtering bug fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d9de626d1ed17e5c418f7efd30cdee9dd8a9f846",
+            "message": "endorse clear test",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "09206ba31bb91f111f5f1092b70af09bbe187fcc",
+            "message": "check style",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "8fdf6c7821a30076f35f3d71b69dba011d4e5ca1",
+            "message": "endorse duplicate test",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "cea5bb00d9ac1c8f5a58f98a69c296b268c067ba",
+            "message": "more endorse command tests",
+            "insertions": 19,
+            "deletions": 1
+          },
+          {
+            "hash": "72d7aecee0ae10d2ce53f65a672ad9e7282ba9ea",
+            "message": "edit command test",
+            "insertions": 26,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 345,
+        "deletions": 36,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "df5cd9b3113b1072303df65febbabfecf9f67b52",
+            "message": "Developer and User Guide changes",
+            "insertions": 153,
+            "deletions": 19
+          },
+          {
+            "hash": "1d2d95e3fc58a106ac3235647af0f50612609800",
+            "message": "developer changes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "16a77519da379cd5ef7c8d5028d319cd265a8f2f",
+            "message": "Typos and PPP",
+            "insertions": 181,
+            "deletions": 15
+          },
+          {
+            "hash": "ea4c9dfc81dd2f4eb1ca6f2b0e960fc7b54dbd6f",
+            "message": "PPP updates",
+            "insertions": 9,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "DMGreenhouse": [
+      {
+        "insertions": 129,
+        "deletions": 2,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "bb359c8ac4d81ebedf5dc91b802ca51d638dd6a7",
+            "message": "Add class in \\logic\\commands called SortCommand Used to provide sort command",
+            "insertions": 32,
+            "deletions": 1
+          },
+          {
+            "hash": "b1efb570e959cdfc97d3a42658705f78104bea6c",
+            "message": "Add command word to AddressBookParser to give room for the sort command to be used",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "91108230f94b4034e320164d2f46543ac064667d",
+            "message": "Add a SortWord class to deal with sorting keywords (similar to the Prefix class used by the add/edit person)",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "f122e10a3029e9083ba7b57d8d81007a288b988b",
+            "message": "Add a SortCommandParser to deal with cli input. Ensure ParseException is thrown with a spelling error or non-keyword as with style for other Parser classes",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "87b9cc4dabe1b1ef957f2a5d8140611967f5bb69",
+            "message": "Ensure parser can deal with SortWord objects and trim cli input by removing whitespace",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "b55dfcd7504daf9ec6cabe66553bce657419c1b6",
+            "message": "Define the new sortword cli commands (only a couple are currently provided)",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "b8944fee8b72121e30cb3594a1407db22c6fe6da",
+            "message": "Correct the AddressBookParser to ensure the \"sort\" cli keyword enacts the SortCommandParser",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 543,
+        "deletions": 271,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "b42c5358ffd597a8e5752ea9da4a5adf87dfff73",
+            "message": "Add method for alphabetical sorting within a new folder. This should be properly written with an abstract class with more time",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "e9a705bdc01811ee52fe862683e371c51cbf81a0",
+            "message": "Allow sort command to read a newly sorted list of people. Temporarily delete addressbook and then re-add people in the new order",
+            "insertions": 42,
+            "deletions": 4
+          },
+          {
+            "hash": "37a81413f5261f0b89dc24a4c51418081d6b6838",
+            "message": "Updated UserGuide to include new command \u0027Sort\u0027",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "027b2e84415d787625c003bcc679791c9c441258",
+            "message": "Revert \"Updated UserGuide to include new command \u0027Sort\u0027\"",
+            "insertions": 0,
+            "deletions": 20
+          },
+          {
+            "hash": "9f3752e1ba9b38b31bdac73e00d8724833c39985",
+            "message": "Revert \"Allow sort command to read a newly sorted list of people. Temporarily delete addressbook and then re-add people in the new order\"",
+            "insertions": 4,
+            "deletions": 42
+          },
+          {
+            "hash": "393e5b4cd5dc580ed0bb62ac884f32501dc5a9cf",
+            "message": "Revert \"Add method for alphabetical sorting within a new folder. This should be properly written with an abstract class with more time\"",
+            "insertions": 0,
+            "deletions": 35
+          },
+          {
+            "hash": "b2a80f2633281bfbf9bcc3f3e5597dfaa15b981c",
+            "message": "Revert \"Correct the AddressBookParser to ensure the \"sort\" cli keyword enacts the SortCommandParser\"",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3dbf762e2e04e2a384f595899bb3135977536855",
+            "message": "Revert \"Define the new sortword cli commands (only a couple are currently provided)\"",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "131e76d4b251d7406643500da352f705f2f9baa9",
+            "message": "Revert \"Ensure parser can deal with SortWord objects and trim cli input by removing whitespace\"",
+            "insertions": 0,
+            "deletions": 11
+          },
+          {
+            "hash": "862d599edc2487f44158cb74033a338e11a43ad9",
+            "message": "Revert \"Add a SortCommandParser to deal with cli input. Ensure ParseException is thrown with a spelling error or non-keyword as with style for other Parser classes\"",
+            "insertions": 0,
+            "deletions": 39
+          },
+          {
+            "hash": "3d325e06c468dcb4ce8ccadf74ea6c1046d01559",
+            "message": "Revert \"Add a SortWord class to deal with sorting keywords (similar to the Prefix class used by the add/edit person)\"",
+            "insertions": 0,
+            "deletions": 39
+          },
+          {
+            "hash": "6b4830cafb3a643d61caa6291524fdf2273a96de",
+            "message": "Revert \"Add command word to AddressBookParser to give room for the sort command to be used\"",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "d71b90f171cf6313b7c8601c1b5e9c106a194ee3",
+            "message": "Revert \"Add class in \\logic\\commands called SortCommand\"",
+            "insertions": 1,
+            "deletions": 32
+          },
+          {
+            "hash": "73302d4d84ca8bdb42ce75842b63cfa00900deb5",
+            "message": "Addition of sort method including \u0027alphabetical\u0027 sort method. Sort class added and AddressBookParser updated to accept sort command. SortCommandParser added to allow for cli input and deals with the different types of sorting methods as a SortWord object to allow for easy future modifications (e.g. changing from cli input to GUI button). Specific \u0027alphabetical\u0027 sort method added and working.",
+            "insertions": 201,
+            "deletions": 1
+          },
+          {
+            "hash": "6fa0f53b35893bb13a5e20d671c3fc3c83ca4bc6",
+            "message": "Update to UserGuide noting the addition of the sort command",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "abbc5980007e39c7bbcd13bf673df787fb630502",
+            "message": "Update to the AboutUs document to replace placeholders with our names.",
+            "insertions": 20,
+            "deletions": 27
+          },
+          {
+            "hash": "b9a6eaf33f8de6e91a14868ade54420864b26718",
+            "message": "Updates to the AboutUs document to include initial details for us and our project. Photos also updated to include \".png\" despite being of jpeg form to comply with marking scripts.",
+            "insertions": 200,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 113,
+        "deletions": 26,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "7a86b3c5b3e2a9530401a4c6a6658a203d2647fe",
+            "message": "Addition of skills tag sorting method. Will sort by multiple tags, ordering them alphabetically. Accessed by \"sort skills\" in the cli.",
+            "insertions": 111,
+            "deletions": 11
+          },
+          {
+            "hash": "4f552927437d77b8a3d0b00a3c59a8111060fef9",
+            "message": "Update and simplification of the alphabetical sort methods, utilising stream and comparator.",
+            "insertions": 2,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 80,
+        "deletions": 22,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "ba2ce4d10861b65736d05690d264605cd52972f4",
+            "message": "Modifications to sort command to allow for compatability with filter command. For this purpose an extra Model constructor was used to delete all persons stored at once and one to add persons without clearing the filter.",
+            "insertions": 67,
+            "deletions": 19
+          },
+          {
+            "hash": "13e9b0f31b618387cab90d33906bf82ac9489ace",
+            "message": "Update to User Guide describing the updated sort command",
+            "insertions": 13,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 96,
+        "deletions": 57,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "9998eeb3a60a78409e7774249bcc6687fd27ef46",
+            "message": "Sort command added to implementation",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "a482ac24badc4096cf20c3b3ff511b84e047cc77",
+            "message": "Solving conflict between filter and updated sort",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "51263dc32ce392cdda972fe8784c6ab120bddac4",
+            "message": "DO NOT USE",
+            "insertions": 24,
+            "deletions": 27
+          },
+          {
+            "hash": "37df91a8f870f87a5c78414f104223599a11d54d",
+            "message": "Mid-Change",
+            "insertions": 27,
+            "deletions": 24
+          },
+          {
+            "hash": "42e53678f9080ea59060ed1c4ddbb6552e42b117",
+            "message": "Sort command implementation addition, not complete",
+            "insertions": 18,
+            "deletions": 5
+          },
+          {
+            "hash": "0e306bedb617e9ce3d08ba5fdc095d193c39444b",
+            "message": "Publishing correction",
+            "insertions": 6,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 153,
+        "deletions": 14,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "124218b6bd7e3fc55a3cc90e01c1e4f262ae6e31",
+            "message": "Implementation of gpa and education sort methods as well as reverse sort method for all. Still todo: update developer guide and tests",
+            "insertions": 153,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 64,
+        "deletions": 32,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "1e066a45eaee969978b8dc08cd42e5a08d68b71c",
+            "message": "Addition of education and gpa to typical persons. Removal of tags to allow system to pass until bug is fixed.",
+            "insertions": 64,
+            "deletions": 32
+          }
+        ]
+      },
+      {
+        "insertions": 502,
+        "deletions": 293,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "6c7488325b48de8d3e851cf2010b5f74348e1c07",
+            "message": "Implementation of sort name and sort surname commands",
+            "insertions": 58,
+            "deletions": 13
+          },
+          {
+            "hash": "c8c35da808974912bbc239dd3a898664a2abef87",
+            "message": "Bug fix - demand exact match for a sort word rather than just containing the word",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "5018e726cf7ac1f6c4ceb5277e44dfa85f04bffb",
+            "message": "Addition of sort name, surname, education, gpa (including reverse) success cases",
+            "insertions": 154,
+            "deletions": 12
+          },
+          {
+            "hash": "4433648ec866334159ca9244ea131c4896d50c48",
+            "message": "Updated user guide with new sort methods",
+            "insertions": 24,
+            "deletions": 10
+          },
+          {
+            "hash": "d7a7cf23830f6c2cc94310b1b9bb1bd77f6ccab5",
+            "message": "Completed sort command user guide for v1.3",
+            "insertions": 32,
+            "deletions": 29
+          },
+          {
+            "hash": "31297ce1846c31f8ae958fa0d9b4425742d829d3",
+            "message": "Developer Guide formatting",
+            "insertions": 29,
+            "deletions": 31
+          },
+          {
+            "hash": "962f0a7c48541ffd182da705bd1508f6da5790dc",
+            "message": "Style alteration in Developer guide",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "b7330d624b04cae21385d3e2a779fccc2c27f762",
+            "message": "Travis Style error corrections",
+            "insertions": 10,
+            "deletions": 7
+          },
+          {
+            "hash": "a4013a358ce2f62aad5715a1974eaebc6f896be9",
+            "message": "Travis style error correction",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "16113bb63c313b04b79789d8d37c128787472e75",
+            "message": "Change to sort command test for new typical person information",
+            "insertions": 18,
+            "deletions": 25
+          },
+          {
+            "hash": "2bbdb36bec18d1e294da8aff393d0c28ee5c3a23",
+            "message": "Travis Style check",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "08b3870b77db9f2e2608aeed5ff12405033b7544",
+            "message": "Yet another Travis...",
+            "insertions": 44,
+            "deletions": 57
+          },
+          {
+            "hash": "f807abfe46b77ea615ddb8a1e507a7db0eb9e111",
+            "message": "Hello again Travis",
+            "insertions": 71,
+            "deletions": 71
+          },
+          {
+            "hash": "5432463d1c6828f8581b412b7e9fdb443362f77f",
+            "message": "Developer guide for v1.3",
+            "insertions": 25,
+            "deletions": 10
+          },
+          {
+            "hash": "d975ae32dc6c39d2c939d8d740ee75e003ba70e3",
+            "message": "Developer guide style alteration",
+            "insertions": 18,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 238,
+        "deletions": 86,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "76e5e46b594ce696b5b915cd08fda766901a45c7",
+            "message": "Implementation of sort skill number; sort position number; sort endorsement number methods",
+            "insertions": 177,
+            "deletions": 35
+          },
+          {
+            "hash": "0f9a735d17f924b479a60304e192dd5f9ac8648f",
+            "message": "Documentation update and sort reverse [KEYWORD] number bug fix",
+            "insertions": 61,
+            "deletions": 51
+          }
+        ]
+      },
+      {
+        "insertions": 147,
+        "deletions": 65,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "299122c360bbdb824590cbe74ee35066a7e3b9f5",
+            "message": "Fix bug: education, skills, positions, endorsements are now not case sensitive",
+            "insertions": 17,
+            "deletions": 5
+          },
+          {
+            "hash": "e10e6d6a72e9c7112424f6ec08e352dd39ee5d11",
+            "message": "Rewriting of sort methods to utilise abstraction",
+            "insertions": 34,
+            "deletions": 32
+          },
+          {
+            "hash": "886e4b7ac45a7412a892c1e3892ca108a99e25f5",
+            "message": "Updates to user guide specifying lower case sorting ability for endorsements, positions and skills",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "7556eb14ed547e5b136f974c27ebd01aac925097",
+            "message": "Addition of position and endorsement tag attributes to persons in the PersonBuilder for testing purposes",
+            "insertions": 93,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 344,
+        "deletions": 193,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "4d0576ab10d1705ae5e265d0ba5f2ed87e4c85af",
+            "message": "Additional methods to person class: firstNameToString and getPositionString",
+            "insertions": 24,
+            "deletions": 0
+          },
+          {
+            "hash": "45c35dd7cb9219c696d9013a6e33155618a5edb5",
+            "message": "Changes to browser panel to include linked in page. 5 different searching methods are used and all temporarily kept here for the purpose of the upcoming deadline",
+            "insertions": 68,
+            "deletions": 2
+          },
+          {
+            "hash": "8769021c3f2766674eade353769fc8f75e6ed6f5",
+            "message": "Changes to the tests to allow for different tags. In general previous tags were changed to skills and there is now room for seperate skill, position and endorsement tags. These are all utilised by the PersonBuilder.",
+            "insertions": 91,
+            "deletions": 88
+          },
+          {
+            "hash": "7552f3d830b8ac49c07bde80ce90490d4eaaac8a",
+            "message": "Typical persons updated to include the new skill, endorsement and position fields. FilterCommand tests are updated accordingly",
+            "insertions": 18,
+            "deletions": 17
+          },
+          {
+            "hash": "d4b1793cdf196de811b4d574af7af205a327df16",
+            "message": "Update to the AddCommand error message to suit the new product",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "8954468f0c7c8bcdc04aa28d662f830c22f84166",
+            "message": "Added to SortCommandTest to test the new sorting methods (by skills, positions, endorsements, skill number, position number, endorsement number)",
+            "insertions": 83,
+            "deletions": 13
+          },
+          {
+            "hash": "b14319b9c119f6090dac408241f1f215d0debd65",
+            "message": "Re-include default webpage for testing purposes",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "bf3668fc2b51ca335ff5be7371148324127a906c",
+            "message": "Fix SkillsTag calls (sometimes the type was not being recorded while other times it was)",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "7f571dae061c228ed3c842153515830e09a9a0e3",
+            "message": "Check Style Errors",
+            "insertions": 19,
+            "deletions": 9
+          },
+          {
+            "hash": "c1c371f9502414a718dcbff18d4d0e92cd987dc6",
+            "message": "Check Style Changes",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "76b3a59fd4d9c99e920e4ba161bb7f97b299ba1a",
+            "message": "Bug fix for adapted tag and updates to browser panel and test to include the linked in panel",
+            "insertions": 24,
+            "deletions": 51
+          },
+          {
+            "hash": "fba3ecfd4c19a24acb6852cb8803d355c616a0c4",
+            "message": "Bug fix",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 43,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "46c68d182eb3ddd635c507a72a61524b7bdb06e0",
+            "message": "PersonListPanelTest Test fix: the issue was with the new tags, so additional persons with no tags are added and used for the test",
+            "insertions": 31,
+            "deletions": 2
+          },
+          {
+            "hash": "873578bc7cd4940ca32418055219fba9c4f78fe0",
+            "message": "Test fixes: JsonAdaptedPersonTest -\u003e solution: use a person without tags to circumvent issue Update Json typical persons to match the new typical persons",
+            "insertions": 20,
+            "deletions": 19
+          },
+          {
+            "hash": "caf2ec42290f9cec19635ae8eb880ea9250c20b5",
+            "message": "Check Style error alterations",
+            "insertions": 14,
+            "deletions": 19
+          },
+          {
+            "hash": "c5d5f7184f1200770c6447c6d7864c93aa546d41",
+            "message": "More check style error corrections",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 160,
+        "deletions": 48,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "8e49be995001794b859606359111290c208ddc51",
+            "message": "Secondary sorting for persons of matching surnames",
+            "insertions": 39,
+            "deletions": 1
+          },
+          {
+            "hash": "9883707ccdb011e590a599a22af2cc52c327eb7c",
+            "message": "Rewriting of sort methods to include a SortMethod Interface.",
+            "insertions": 121,
+            "deletions": 47
+          }
+        ]
+      },
+      {
+        "insertions": 323,
+        "deletions": 167,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "5ef4bba1d49872d8fc9852c290864ab4f92e1069",
+            "message": "Implementation of \u0027Intelligent Sorting\u0027. The sort methods go through a second round of sorting if they returned matching person paramaters on the first sorting method. The choice of this secondary sorting method is chosen to be most useful for the user (e.g. if skill number is the first sort, then the second sort shall be by skills alphabetically)",
+            "insertions": 126,
+            "deletions": 132
+          },
+          {
+            "hash": "a6149202b3382e461341cff0870b64de8c676efe",
+            "message": "Sort command test updated as per new sorting methods",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "f90c29b815e2e6ecad7d77e1832991925458f199",
+            "message": "Updates to sort method and initial blind implementation of degree sort. Commited now to retieve Charlotte\u0027s latest PR",
+            "insertions": 190,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 168,
+        "deletions": 160,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "caea8c98b68aca2a9c738afd66f2b75da4a1f8dc",
+            "message": "Full implementation of sort degree",
+            "insertions": 108,
+            "deletions": 128
+          },
+          {
+            "hash": "5e47ff9d63399d6c26f972b11dd55b098165daed",
+            "message": "Checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "7aff0b221f2f349cd619485652ba417ea625a6c7",
+            "message": "Remove print statement",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2db24ad16860f8d3f5322f22dd190efa6188f106",
+            "message": "Checkstyle",
+            "insertions": 60,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 451,
+        "deletions": 272,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "147ee74d4d6650e170bd34feb4e59d47a729d8f2",
+            "message": "FilterCommandIntegrationTest change to new sorting method interface",
+            "insertions": 29,
+            "deletions": 36
+          },
+          {
+            "hash": "fe18ba21dd61ca47d928275f1b8c27597ea223fa",
+            "message": "Conflict res",
+            "insertions": 5,
+            "deletions": 13
+          },
+          {
+            "hash": "c88e130cfda325e66c468f156bcd8f2a66edc4bd",
+            "message": "Conflict res",
+            "insertions": 11,
+            "deletions": 5
+          },
+          {
+            "hash": "572880fc3fd0ea74a148e7fbd410ff67158f8f32",
+            "message": "filter sort integration conflict",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "6a2bd5a322895c454eb2ec55cddb9772d61826d8",
+            "message": "Filter -sort-reverse testing corrected and passing",
+            "insertions": 4,
+            "deletions": 10
+          },
+          {
+            "hash": "7aa810a023cb1bdeaa2c5780ac44a2b5fb42aae7",
+            "message": "Addition of sort degree test",
+            "insertions": 88,
+            "deletions": 66
+          },
+          {
+            "hash": "e6c60183de60997bdc045863ff127a9b29660d6f",
+            "message": "Check Style",
+            "insertions": 9,
+            "deletions": 11
+          },
+          {
+            "hash": "e0e9ce7a4659a9508ecef3f1fcbffeb3eaf9e11e",
+            "message": "Check Style",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "fb4284b10fffce48860e4aea4031b3ed32283572",
+            "message": "Code Quality update",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "2b0de67c880953dcf8c0217a6c9732be5f1dfb08",
+            "message": "Code quality update",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "bc0716da7f71c7aec485f2cd53345c92910093a0",
+            "message": "Coding standard change and PPP update",
+            "insertions": 22,
+            "deletions": 7
+          },
+          {
+            "hash": "57ceee034677e80cc1967a9c4b96e23bd51c22b7",
+            "message": "Removal of user guide/ developer guide links",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "bce37b54be288c01ea67bbeff18d3dc3d9955c52",
+            "message": "User Guide update",
+            "insertions": 91,
+            "deletions": 35
+          },
+          {
+            "hash": "1022060d4357c93613e5ec239d494d4a1332f88f",
+            "message": "Style checking",
+            "insertions": 21,
+            "deletions": 15
+          },
+          {
+            "hash": "a0b0764857e89026df3062584c8bc08121651c65",
+            "message": "Documentation update",
+            "insertions": 39,
+            "deletions": 20
+          },
+          {
+            "hash": "00b15728d11f9bb18d432499c2aa7e72c61a5908",
+            "message": "Final Developer Guide",
+            "insertions": 85,
+            "deletions": 16
+          },
+          {
+            "hash": "65141f1f605b650968f373d23483ec6f8495f359",
+            "message": "PPP update",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "0114f8d9c6657d1d572611bb657fd9d6327ccb54",
+            "message": "Checkstyle change",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "barisbatuhan": 4242,
+    "charnixon": 557,
+    "abwilli": 904,
+    "DMGreenhouse": 1964
+  },
+  "authorFileFormatContributionMap": {
+    "barisbatuhan": {
+      "adoc": 466,
+      "cs": 0,
+      "css": 0,
+      "fxml": 2,
+      "gradle": 0,
+      "html": 55,
+      "java": 3709,
+      "js": 0,
+      "json": 10,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "charnixon": {
+      "adoc": 28,
+      "cs": 0,
+      "css": 0,
+      "fxml": 3,
+      "gradle": 0,
+      "html": 0,
+      "java": 516,
+      "js": 0,
+      "json": 10,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "abwilli": {
+      "adoc": 382,
+      "cs": 0,
+      "css": 22,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 500,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "DMGreenhouse": {
+      "adoc": 460,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1487,
+      "js": 0,
+      "json": 17,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "barisbatuhan": 596797.75,
+    "charnixon": 7931.445,
+    "abwilli": 104614.73,
+    "DMGreenhouse": 35834.586
+  },
+  "authorDisplayNameMap": {
+    "barisbatuhan": "TOP...HAN",
+    "charnixon": "NIX...INE",
+    "abwilli": "WIL...ANN",
+    "DMGreenhouse": "GRE...AEL"
+  }
+}

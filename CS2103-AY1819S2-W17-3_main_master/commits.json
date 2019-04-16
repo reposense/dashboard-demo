@@ -1,0 +1,4489 @@
+{
+  "authorDailyContributionsMap": {
+    "geezlouisee": [
+      {
+        "insertions": 68,
+        "deletions": 13,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "aeb2fa5de8ba1aa18593aaf450c03b1deffceed8",
+            "message": "Updated Developer Guide - Appendices A, B and C",
+            "insertions": 68,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 185,
+        "deletions": 54,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "419a40a5af9131b638ca2a907476160a56601787",
+            "message": "Updated Developer Guide - User Stories Table",
+            "insertions": 23,
+            "deletions": 4
+          },
+          {
+            "hash": "d2c13fc0125739a7eed990becfd43b5bbbc6f7eb",
+            "message": "Updated Developer Guide - User Stories Table",
+            "insertions": 0,
+            "deletions": 21
+          },
+          {
+            "hash": "b31bd8faa7658795e0faa065a05c2f8fda5371e3",
+            "message": "Added colors for different tags",
+            "insertions": 141,
+            "deletions": 7
+          },
+          {
+            "hash": "8c2250d6ce6ce968ed7e6a2b4bc34e9af51d2b1d",
+            "message": "Made edits to DarkTheme.css",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "753070734e62cd169f7cd21ffc471fc50f2cb803",
+            "message": "Made edits to indentations",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "57647b0266055853fe338637f1901d7365aaeb0b",
+            "message": "Edited indentation in PersonCard.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "78de7a96cdf13de072f4b38452466459291d50bb",
+            "message": "Edited indentation in GuiTestAssert.java",
+            "insertions": 15,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 30,
+        "deletions": 16,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "f6ea30c0cfe0482b26d8adbbbf33e59f0e0ed69f",
+            "message": "Added more colors and edited GuiTestAssert.java accordingly",
+            "insertions": 14,
+            "deletions": 12
+          },
+          {
+            "hash": "8a713c9ce6cb61589cdb2f297bb72340fc2194cf",
+            "message": "Added credits to reused work",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "5b217ba59b16fa0d6ed03579920f6d3593c597cb",
+            "message": "Edited credits to solve checkstyle errors",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "30c2057f9015bb6a97f339fd963eb4adb5d212ef",
+            "message": "Edited PersonCardHandle.java to resolve compilation error",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 4,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "a11cc777036ba6daff9138d07e508273f1eefe25",
+            "message": "Edited GuiTestAssert.java switch case",
+            "insertions": 21,
+            "deletions": 3
+          },
+          {
+            "hash": "7c5ca9a8cd70c3c4cc8d1cddf49b4b17a0bc36e0",
+            "message": "Edited GuiTestAssert.java switch case",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 454,
+        "deletions": 452,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "17b4e1d24fce9d757e04ad824158c2ca19ad0b5c",
+            "message": "Refactored Tags to Categories, edited tests accordingly",
+            "insertions": 436,
+            "deletions": 436
+          },
+          {
+            "hash": "d4889b9b665d63ef77ef802fb4e1e534969f6e30",
+            "message": "Attempt to resolve Checkstyle errors",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "8aa27492f8df07ca7f04b735205b98efe8aaace5",
+            "message": "Attempt to resolve Checkstyle errors #2",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "902a52d58fbdaa66fbc1b68df698615face49e0e",
+            "message": "Resolve CheckStyleMain in EditCommand.java and SampleDataUtil.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1285b91542c818ce586d409ff4fae1de10435ab3",
+            "message": "Resolve CheckStyleMain error attempt #4",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 79,
+        "deletions": 64,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "998ab196387cf1dbd5dfa974385b1200e7e5f6da",
+            "message": "Resolve CheckStyleMain error attempt #4",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "ea2f9b66c0e8147f60b51c162b53191c98c36b2c",
+            "message": "Resolve CheckStyleTest errors for import statements and line length",
+            "insertions": 70,
+            "deletions": 55
+          },
+          {
+            "hash": "b40fca7735a6b5ab8c242ae41104f90c6c0ff4e3",
+            "message": "Resolve CheckStyleTest error for EditCommandParserTest.java",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 331,
+        "deletions": 252,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "c0de423080a2c245176a00a1f35e9d98591d87bb",
+            "message": "Added _response\\config.json to fix duplicate names in RepoSense",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "c2a30a924445a7fa4f94e181235c93eaeeb09ae2",
+            "message": "Added more pre-defined colours for tags #20",
+            "insertions": 34,
+            "deletions": 10
+          },
+          {
+            "hash": "27904e3bf211b45756a76da07014cefdac2e9f3a",
+            "message": "Edited test cases for pre-defined colours for tags #20",
+            "insertions": 232,
+            "deletions": 236
+          },
+          {
+            "hash": "27e8211e6e063439ee5fdb432eb9bf9e595466a4",
+            "message": "Resolved errors",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "4921a67e54721b4f1eca629174a5487d18c73312",
+            "message": "Resolved checkstyle errors",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "f4f6542e7dd40adc348ef8ecd20b589a184ab90f",
+            "message": "Edited Developer Guide - Added Summary feature",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "936ef93a8350df509f2eec3ff128b8ca775ba90b",
+            "message": "Scaled diagram to be smaller",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "cff019c04215b64119573fa2a4479a432d30cfd9",
+            "message": "Rescaled width of asterPlot diagram",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "921941ab04d7c7c2e2abd50d18c4b673a86031fd",
+            "message": "Updated Developer Guide - Added summary feature",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 67,
+        "deletions": 6,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "6a819a032d36915511cd26e42bf21748c2ae169a",
+            "message": "Added dummy command for Summary feature",
+            "insertions": 63,
+            "deletions": 0
+          },
+          {
+            "hash": "436181ab22ab88993270395e06dfe7ca97d87ae9",
+            "message": "Resolved CheckStyle Errors",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "7721056a36d440c1b8a4f872e99e2d41de43f8cd",
+            "message": "Resolved CheckStyle Errors",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 423,
+        "deletions": 16,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "98423507a6bd3251bc57139eb2105f05003603c1",
+            "message": "Added d3 files and files for graphPanel",
+            "insertions": 420,
+            "deletions": 14
+          },
+          {
+            "hash": "f133355af23c17d1cde306cc00f9695ff57f5c63",
+            "message": "Resolved checkstyle errors",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 173,
+        "deletions": 162,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "aad4ea5ea60b7f3a355d47f22663f05ca1ca3915",
+            "message": "Edited page url",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "8e3984c475e7a5d1b49ecaa03f4e5ea75de56cb3",
+            "message": "Edited page url",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "efbc2dcaa1c67bc91b57fc39ad174c12f876dce6",
+            "message": "Edited User Guide",
+            "insertions": 133,
+            "deletions": 139
+          },
+          {
+            "hash": "e9ac7227d1d9351ae5e80fca816473104a4e4710",
+            "message": "Edited User Guide and updated Portfolio",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "437e4c72dbb8c85ccbcec1e22a4cbefc96fe900d",
+            "message": "Updated Project Portfolio Page - v1.3 ready",
+            "insertions": 30,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 40,
+        "deletions": 29,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "7c0da29319a1e6d1066c0ee6dded4bb955803d55",
+            "message": "Resolved PPP tag problem",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "cb6bafde6b960f01b5766e4185ddcce82c6211d9",
+            "message": "Changed file name so it links to the AboutUs page",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "a73535844af09dadde68a8482a3bbd057e42fde1",
+            "message": "Made updates to DG and PPP",
+            "insertions": 26,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 40,
+        "deletions": 10,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "3d60388a9a0baa8249142ecb8aeb3d0914a9a542",
+            "message": "Edited MainWindow and CommandResult",
+            "insertions": 32,
+            "deletions": 3
+          },
+          {
+            "hash": "934a4502f90ad9f08c40fb310372bc36362e988a",
+            "message": "Edited README.adoc to link to Coveralls",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "9d83b1eb037c2f70380aba19fa839a67deaf1f99",
+            "message": "Minor edit to display coveralls badge",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "c5697bea154a87f258e1827a24751bb43dd1ad2f",
+            "message": "Minor edits to README.adoc",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 652,
+        "deletions": 139,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "1568769f9cba8ad0ca0e7fb6f54e07958de602e8",
+            "message": "Edited SummaryCommand and SummaryCommandParser",
+            "insertions": 254,
+            "deletions": 17
+          },
+          {
+            "hash": "c664f62926f52d206a6ef22214bb952fafc76220",
+            "message": "Edited Model and ModelManager",
+            "insertions": 111,
+            "deletions": 8
+          },
+          {
+            "hash": "699282b6ab1f9ee326603916914866181a30905a",
+            "message": "Updated Tests",
+            "insertions": 50,
+            "deletions": 3
+          },
+          {
+            "hash": "6639ee70255eb3edce0fa7118d97e6a5b2d21d10",
+            "message": "Edited UI stuffs, Resolved NullPointerException",
+            "insertions": 237,
+            "deletions": 111
+          }
+        ]
+      },
+      {
+        "insertions": 195,
+        "deletions": 10,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "5850821b8d72381bc5dd45cb7d093692a0c864d3",
+            "message": "Edited FinanceTrackerParser",
+            "insertions": 11,
+            "deletions": 10
+          },
+          {
+            "hash": "a6672c57c75e087e7158f579462afe297a06e550",
+            "message": "Edited MainWindow and MainWindowHandle",
+            "insertions": 92,
+            "deletions": 0
+          },
+          {
+            "hash": "8380ac8236b88c1cfb6bf43f558d79bf29ea5aae",
+            "message": "Edited MainWindow and MainWindowHandle",
+            "insertions": 92,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 297,
+        "deletions": 97,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "a255c648b1ccbc429aea8257400afa1844e85bfe",
+            "message": "resolved checkStyleMain errors",
+            "insertions": 13,
+            "deletions": 23
+          },
+          {
+            "hash": "415112baa79b4c969e0b8c99a387899b31ab2dca",
+            "message": "resolved Date issue",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "c947ac0eea08954f732bcdcd2b79e8a948be4a29",
+            "message": "resolved compilation error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "10dc390bdcff1d68047cce3afb5c81674c2c638a",
+            "message": "resolved checkStyleMain errors",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "3de1f35364215fdd542db0332705f9e82fc8c751",
+            "message": "resolved checkstyleTest errors",
+            "insertions": 15,
+            "deletions": 5
+          },
+          {
+            "hash": "8ef16490f6f8cce7f01b18ce39195111f069479d",
+            "message": "resolved summaryCommandTest, still have some unresolved",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "6165f02e1faea223135d1ce5241c6296288adb0d",
+            "message": "resolved the 2 failing tests",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "598495351afad04b7984c197cc715f410f868897",
+            "message": "Attempt to have switch between browser and summary panel",
+            "insertions": 255,
+            "deletions": 62
+          }
+        ]
+      },
+      {
+        "insertions": 149,
+        "deletions": 115,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "7a5e0ec020422bb5993d0a914871810c3f4a9df2",
+            "message": "Resolved checkstyleMain errors",
+            "insertions": 71,
+            "deletions": 38
+          },
+          {
+            "hash": "3a18ca3cbd809ffddd3d1a7909117ddb9b441e20",
+            "message": "Resolved checkstyleMain and checkstyleTest errors",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "13b67148b973db67b0a443dac452b008ad4fee76",
+            "message": "Resolved failed tests in SummaryCommandParserTest",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "be39129124fa844e4b0975ab0afd801187a95a3c",
+            "message": "Resolved swapping of browserpanel and summarypanel, updated UG",
+            "insertions": 63,
+            "deletions": 60
+          },
+          {
+            "hash": "25fc507c224ac23e74508a78704d4d2364c12332",
+            "message": "Removed unused imports",
+            "insertions": 1,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 144,
+        "deletions": 47,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "00af18caadd4684ad98a70a1bd9ca98f52d4a773",
+            "message": "Added more colors, still have to update GuiTestAssert",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "ed7814c6cd89af56da6616837e7cde5975c84760",
+            "message": "Edited summaryPanel",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "f9eda475bc08bfd6969efe458e730cdeaf3d3f65",
+            "message": "Edited GuiTestAssert.java",
+            "insertions": 34,
+            "deletions": 37
+          }
+        ]
+      },
+      {
+        "insertions": 103,
+        "deletions": 229,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "0f0e9b0be16ef0ba7d9bd2dfa85def47756068ad",
+            "message": "updated User Guide - Summary Feature",
+            "insertions": 12,
+            "deletions": 6
+          },
+          {
+            "hash": "632fe91e8f1acfd703cd8395a61004fc75d2fec5",
+            "message": "updated User Guide - v2.0",
+            "insertions": 17,
+            "deletions": 9
+          },
+          {
+            "hash": "b79865f54345585f9c56af59846d999e8bd56c39",
+            "message": "Removed D3.js related files since not needed anymore",
+            "insertions": 11,
+            "deletions": 176
+          },
+          {
+            "hash": "0f6cc649125df6ef64399b538825438b403b2718",
+            "message": "Updated DG - Summary Feature",
+            "insertions": 50,
+            "deletions": 27
+          },
+          {
+            "hash": "e06e7ecabcd69fd2cfb802d5fb55c8b5170580d8",
+            "message": "Minor edits and formatting to UG and DG",
+            "insertions": 13,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 108,
+        "deletions": 91,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "2c4d05b93c04ef0ad11ee10f47de789cebd52057",
+            "message": "Updated PPP",
+            "insertions": 24,
+            "deletions": 43
+          },
+          {
+            "hash": "66048a0dfe88a3edba867f79555c63a4f47fa696",
+            "message": "Added more colors for category tags",
+            "insertions": 37,
+            "deletions": 32
+          },
+          {
+            "hash": "4ce7cdec71a295200a9044acd461b55ef97b2548",
+            "message": "Resolved checkstyleMain errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6995f7d5f2c64405fddf1acd5110e4e7f2b2eb3f",
+            "message": "Resolved checkstyleMain errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fc78b6ef9f4dea989a13e0af0ff983839b9229ad",
+            "message": "Minor edits to UG, updated DG - Manual Testing for Summary",
+            "insertions": 32,
+            "deletions": 1
+          },
+          {
+            "hash": "19a12ba85dbf89c7d2dc01c891f100d6d662261a",
+            "message": "minor formatting issues",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "e5b39824729f63717a256db5d3242e2af6625058",
+            "message": "Reformatted PPP to adhere to page limit",
+            "insertions": 11,
+            "deletions": 9
+          },
+          {
+            "hash": "5fe00f30c0df1b5b3f523f04df247dc37f04c8ef",
+            "message": "Edited README.adoc - removed aster plot",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 56,
+        "deletions": 80,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "17d386ffc1af15643c77830599b15022e5b68d3a",
+            "message": "Minor formatting \u0026 Added v2.0 stuffs for summary (UG \u0026 DG)",
+            "insertions": 28,
+            "deletions": 15
+          },
+          {
+            "hash": "8105da12ad1b21daafbf72abb2530ff1c8ed89ec",
+            "message": "Minor formatting for DG",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "9546dc21441a2f4082d8faf86c80da7f6a6d8bfa",
+            "message": "Reformatted diagrams and table size (DG appendix B)",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c24c9be50ba9aea01df7a4d9791681173cbce976",
+            "message": "PPP - final version",
+            "insertions": 18,
+            "deletions": 12
+          },
+          {
+            "hash": "614d5e1e66fcdeadae4842016e7287e1f650cde9",
+            "message": "Cleaned up summaryCommand related tests",
+            "insertions": 1,
+            "deletions": 14
+          },
+          {
+            "hash": "d714a00f7b43be2b866db2f3939c7f72602d24da",
+            "message": "Removed some redundant lines of code",
+            "insertions": 0,
+            "deletions": 24
+          },
+          {
+            "hash": "37bcb6bac7c02252b46fd9823c624c8c6899da0d",
+            "message": "Removed unused import statements",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "220388e2f6fc046aeb016e287767bc629f18024b",
+            "message": "Resolved month bug",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "JeremyLoye": [
+      {
+        "insertions": 28,
+        "deletions": 35,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "0e6f16a2e34797dbcf69c2d05c5d6c7d95a43c64",
+            "message": "Updated AboutUs.adoc and ContactUs.adoc to reflect team",
+            "insertions": 25,
+            "deletions": 30
+          },
+          {
+            "hash": "e1b6f7da04a54353e3646d035f90e73d55a04a55",
+            "message": "Updated badges in README.adoc and changed title",
+            "insertions": 3,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 102,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "a0fbc804cb5b939e725947f927b837ffef19a564",
+            "message": "Created Amount and Date classes for person fields",
+            "insertions": 102,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 142,
+        "deletions": 53,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "9ac177311aa195c66eb17ac71f828b453c6a5e39",
+            "message": "Added amount and date fields in instructions for add.",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "158ccf0b5e8ad16d28c4773cc503ed05d1de66a7",
+            "message": "Implemented extra fields amount and date in add command with \"/s\" and \"/d\" prefix",
+            "insertions": 12,
+            "deletions": 2
+          },
+          {
+            "hash": "9ce851cada599faf750561bf65d72ba4923ad9b9",
+            "message": "minor edits",
+            "insertions": 39,
+            "deletions": 10
+          },
+          {
+            "hash": "59c5cf1ed263c62a4c7d22f06bb1c3d92de67b22",
+            "message": "Changed UI to reflect fields amount and date",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "98ccf5fa04126bd886fbfdbc6070d167a1587a35",
+            "message": "Added logic and changes to accomodate updated Person object with fields Amount and Date",
+            "insertions": 78,
+            "deletions": 26
+          },
+          {
+            "hash": "4d73a623862e3cb34e028128d4af4f5147fccd14",
+            "message": "Changed value field in Amount to String",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 600,
+        "deletions": 293,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "d901f9a2db5a33a131b90cd144acd129871c5fc9",
+            "message": "Modified test files to reflect changes in Person fields",
+            "insertions": 318,
+            "deletions": 216
+          },
+          {
+            "hash": "df2a31cff80439c146b1a86911bd5a5783f011da",
+            "message": "Checkstyle fixes",
+            "insertions": 106,
+            "deletions": 53
+          },
+          {
+            "hash": "c7a89da78e7891fba3bc42ad63bd3ea317fcccb0",
+            "message": "Checkstyle fixes",
+            "insertions": 165,
+            "deletions": 19
+          },
+          {
+            "hash": "b9a5a7f504de5f2378b1cbe8a18b6cb8de00ceee",
+            "message": "Checkstyle fixes",
+            "insertions": 11,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "ef5073f4b4a629d5510ee864a356a8760d594fe1",
+            "message": "Trigger Travis documentation regeneration",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 431,
+        "deletions": 1317,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "47240f490a7fb55d30659afd4abcf33fba55fcda",
+            "message": "Removed Address, Email and Phone fields",
+            "insertions": 317,
+            "deletions": 1174
+          },
+          {
+            "hash": "8c75c29f563116bfcaa7fe04614d946b892175c6",
+            "message": "Checkstyle fixes",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "83fd237f7fd1da627e0e2f66f30a4289fd47079c",
+            "message": "Checkstyle fixes",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "91a030b565199b6d5c6f39229085eed27077c3aa",
+            "message": "Fixed failed test cases",
+            "insertions": 61,
+            "deletions": 76
+          },
+          {
+            "hash": "284d727915b55c30da1fbde7a4acb9b49e0e3f40",
+            "message": "Fixed Indentation errors",
+            "insertions": 27,
+            "deletions": 27
+          },
+          {
+            "hash": "d0b0f965436d2dbd2a11d261b401fdc41b7691d8",
+            "message": "Removed empty java files",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "bb412b6211a3b313ac0414092906d2c6485b5bdf",
+            "message": "Removed empty java files",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "46b1dfe1a8e9243a6a75e372a0fa3b9b31a2216e",
+            "message": "Fixes for failed test cases",
+            "insertions": 16,
+            "deletions": 30
+          },
+          {
+            "hash": "e449d060272cc88106b8305a0844d1202dbda0f1",
+            "message": "Checkstyle Fixes",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "f4626c599ba5c867f5a212fb3b052fe8c8eab296",
+            "message": "Fixed Discrepancy in data",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 320,
+        "deletions": 14,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "e2c2abaed9fc972261ee681b0f27e99e33820c7a",
+            "message": "Added Set Command and Budget field for Finance Tracker. UI now reflects budget set",
+            "insertions": 278,
+            "deletions": 8
+          },
+          {
+            "hash": "5c1fcce677fd16fe24bc167a1956eb40a965fa6e",
+            "message": "Temporary Fix for Test Cases",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "39afdeedc8500e2fa68a700f6f7065cffac078b2",
+            "message": "Temporary Fixes for Test Case",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "e7e5ec0cea368239705e8fa1f4e2bc0e494ec62a",
+            "message": "Updated Developer Guide to include Implementation of budget features",
+            "insertions": 36,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 85,
+        "deletions": 33,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "727e306216673c55e2355c2534d9a1557688509c",
+            "message": "Added logic to add Budget to Storage component",
+            "insertions": 85,
+            "deletions": 33
+          }
+        ]
+      },
+      {
+        "insertions": 121,
+        "deletions": 60,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "aa8228f52709a85817f8b87662fdcdc96b7ac673",
+            "message": "Changed Implementation of Budget class. Added logic to maintain currentBudget and display it.",
+            "insertions": 121,
+            "deletions": 60
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 12,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "a6f97d38b5b066fbe2cd53416325e760c02c6629",
+            "message": "Added logic of setfile command to enable changing of files for data storage",
+            "insertions": 19,
+            "deletions": 11
+          },
+          {
+            "hash": "8b705a26e673a98c30be27304532a2e19636edc2",
+            "message": "Updated user guide commands set and setfile",
+            "insertions": 10,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 221,
+        "deletions": 71,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "ac64b47c415747f9b24d7d2470706efabb254472",
+            "message": "Added Sequence Diagram for setCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "aba70272def546b55b78dca538b53751bf9acca8",
+            "message": "Updated developer guide for set budget",
+            "insertions": 122,
+            "deletions": 64
+          },
+          {
+            "hash": "5391cd21f3ed5bedcb4949f85ff7186abd816f65",
+            "message": "Fixed formatting in UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "c68a5e892c751121e37c24b70e50210f54b034dd",
+            "message": "Fixed formmatting in UserGuide.adoc",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "4bec2d23fa627fd9a99b8ebc47ea8662c0647f4f",
+            "message": "Restored startUi.png in UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3163fab346a3d474b7ef5e1f72d9656dc983adc7",
+            "message": "Add first draft of JeremyLoye PPP",
+            "insertions": 87,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 102,
+        "deletions": 31,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "48fe572e35f8e94c3585e817d9e61ec2434412ed",
+            "message": "Added BudgetTest and extra check methods in Budget",
+            "insertions": 69,
+            "deletions": 4
+          },
+          {
+            "hash": "6dbe321e2558c3626240805ba3b23165ca9b1a88",
+            "message": "Made budget take into account records added before it was set, streamlined logic for increasing and decreasing current budget",
+            "insertions": 3,
+            "deletions": 9
+          },
+          {
+            "hash": "83562199d50fbaa55c4003679adfab2fbbf87c31",
+            "message": "Made statusbar reflect change in data file when setfile is called",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "5a84367fe199089c2d5df5c27cc90eba0da3497d",
+            "message": "Fixed undo/redo commands to work for set and setfile command",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "de007c5d250fa7254bdec89120c81b6d5c427a8d",
+            "message": "Implemented undo/redo support for allocate function",
+            "insertions": 13,
+            "deletions": 6
+          },
+          {
+            "hash": "073e6172ceda3493abb207b7b507e7e162f5258e",
+            "message": "Checkstyle fixes",
+            "insertions": 9,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 28,
+        "deletions": 8,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "e3487efea3600677959eeb6c8d7e3ae762d414d3",
+            "message": "Fixed bugs to get Summary command to swap between BrowserPanel and SummaryPanel",
+            "insertions": 28,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 831,
+        "deletions": 800,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "9c90ad5980270450e21157c6de3a649716e382f4",
+            "message": "Updates Summary Pie Chart when records changed",
+            "insertions": 831,
+            "deletions": 800
+          }
+        ]
+      },
+      {
+        "insertions": 510,
+        "deletions": 248,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "678b479f42c24f5f96c5a28e2a2face628f7a5ef",
+            "message": "Merge https://github.com/CS2103-AY1819S2-W17-3/main into week12",
+            "insertions": 252,
+            "deletions": 60
+          },
+          {
+            "hash": "168dfd6dba9579c984b3eb4f68f4a6651330bcba",
+            "message": "Fixed storing of allocated category budgets in json.",
+            "insertions": 160,
+            "deletions": 149
+          },
+          {
+            "hash": "8b41d082728d63c37d184bedc55b64b88d88e60c",
+            "message": "Minor Checkstyle and Test case fixes",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "b6e3a774c09533bdddf54e2fe9d556c4e0254954",
+            "message": "Fixed SetFileCommand and some javadocs comments",
+            "insertions": 27,
+            "deletions": 22
+          },
+          {
+            "hash": "10a4e0310afee5a94d23ca929ff97248b2891623",
+            "message": "Added SetFileCommandParserTest",
+            "insertions": 60,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 76,
+        "deletions": 12,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "2255ffb954913b71856a7903ff8928a3c268b28d",
+            "message": "Partial implementation of SetFileCommandTest, checkstyle fixes",
+            "insertions": 67,
+            "deletions": 4
+          },
+          {
+            "hash": "0fccf948f5cada583d880f2fd48c638d82ed7116",
+            "message": "More Checkstyle Fixes",
+            "insertions": 9,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 626,
+        "deletions": 147,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "f1ddba26374903a6a82e0e77b1731f42d1fd76f1",
+            "message": "Amount can now only contain positive numbers (\u003e0)",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "2ba6a6fd3d1a1ad04a1945de78d85fe6340e865b",
+            "message": "Fixed bug of spend data not being updated before allocate is set. Made set function able to set budget multiple times.",
+            "insertions": 33,
+            "deletions": 13
+          },
+          {
+            "hash": "5178ee7f5f887881e4dae395fbc2fa2ce982f0f5",
+            "message": "Added support for undo/redo of SetFileCommand",
+            "insertions": 201,
+            "deletions": 61
+          },
+          {
+            "hash": "73f353dd4412b01952919b565a7a101847cdd2ec",
+            "message": "Updated support for undo/redo of SpendCommand to work with allocated budgets",
+            "insertions": 21,
+            "deletions": 4
+          },
+          {
+            "hash": "f16b2681812f03300b160a55e3afca2c617a8d66",
+            "message": "Changed logic of Budget to reflect changes to CategoryBudget in EditCommand",
+            "insertions": 29,
+            "deletions": 1
+          },
+          {
+            "hash": "9590d2cb33bae5d42a9e0cbcec0da30f3cb1a19b",
+            "message": "Merge https://github.com/CS2103-AY1819S2-W17-3/main into week12",
+            "insertions": 292,
+            "deletions": 53
+          },
+          {
+            "hash": "c0d806a3c9ccdcaaad90367fb37c214731e484d4",
+            "message": "Merge https://github.com/CS2103-AY1819S2-W17-3/main into week12",
+            "insertions": 46,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 55,
+        "deletions": 11,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "6eaf5e1f3aa7a737cb26e2206012c1db3b82099f",
+            "message": "Made changes to set, setfile and undo sections of UserGuide.adoc",
+            "insertions": 48,
+            "deletions": 8
+          },
+          {
+            "hash": "3acb20f550506049117be2add01e3fc19c9f2338",
+            "message": "Made setfile only accept filenames that are 250 chars or lesser to conform to filename length limit",
+            "insertions": 7,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 389,
+        "deletions": 116,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "c71f5e24d3f2797e2bdf0ea466edf0edba81adf1",
+            "message": "Major revamp of JeremyLoye PPP and minor example edit in UserGuide",
+            "insertions": 119,
+            "deletions": 59
+          },
+          {
+            "hash": "33ad24c228d58dd83246c51e781ab590ef93ecec",
+            "message": "Limit filenames to 250 characters and under",
+            "insertions": 1,
+            "deletions": 7
+          },
+          {
+            "hash": "44f1ccad94f3c18ebfa82a0f95c43b6dcec249b4",
+            "message": "Checkstyle fixes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b7cd2a33dfc1e787f479aff7c7fe52606a9fa521",
+            "message": "Fully implemented SetFileCommandTest logic",
+            "insertions": 117,
+            "deletions": 10
+          },
+          {
+            "hash": "920d7ce43dd01719c6a77d83d87b9ab151495550",
+            "message": "Minor fixes",
+            "insertions": 1,
+            "deletions": 12
+          },
+          {
+            "hash": "1d3b3796f66ef2552b06e160ae136c4c5b64ca97",
+            "message": "Added BudgetTest implementation",
+            "insertions": 142,
+            "deletions": 19
+          },
+          {
+            "hash": "5b328e68ad351aa8c0e8b920a78e446526b6e0d9",
+            "message": "CheckStyle Fixes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "bf10afb7b888770dc44efcb7b1564a9fbcf65fce",
+            "message": "Fixes for failing tests",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 89,
+        "deletions": 39,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "a69061f1e1cc64a0c2f9600f0bee0318e73e3c8b",
+            "message": "Revamp of Budget Set section of developer Guide, added BudgetUIupdate section",
+            "insertions": 79,
+            "deletions": 37
+          },
+          {
+            "hash": "06a8f53506c641a0b436c887e5d3c813ae02de9a",
+            "message": "Fixed BudgetPanel data not appearing on start-up",
+            "insertions": 10,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 98,
+        "deletions": 85,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "80ee1b69e02bb40f27789a0856c02403bdc79b2e",
+            "message": "Update User Guide, Developer Guide, PPP",
+            "insertions": 92,
+            "deletions": 80
+          },
+          {
+            "hash": "c3dd80521067d2837336a4d4f7e0db2ac2e0a855",
+            "message": "minor fixes",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "5747b915bb4ec5344c1e8d41ce34ccc7278fbfdb",
+            "message": "Updated PPP",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      }
+    ],
+    "Jackimaru96": [
+      {
+        "insertions": 117,
+        "deletions": 118,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "c7ff209a9395429b4910193b0b085436601a69db",
+            "message": "Updated UserGuide for In-Credit-Ble",
+            "insertions": 117,
+            "deletions": 118
+          }
+        ]
+      },
+      {
+        "insertions": 137,
+        "deletions": 17,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "dd4f8e89477a89c2f0e0755d6d8ea7b750ed31ce",
+            "message": "Updated Use Cases (Appendix C)",
+            "insertions": 137,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 554,
+        "deletions": 185,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "9747f896317d0347869d1fd972a78c2aa537dfdf",
+            "message": "Add new description prefix",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "42307e51a99fe39b10d2415eab52212196054ad7",
+            "message": "Logic: \u0027description\u0027 command which does nothing",
+            "insertions": 117,
+            "deletions": 54
+          },
+          {
+            "hash": "7ed987dbe3f604566a8ef5376c02df61f6e909f8",
+            "message": "Logic: \u0027description\u0027 command takes in two parameters",
+            "insertions": 149,
+            "deletions": 6
+          },
+          {
+            "hash": "f6bde90eef6bb57c7fbf441a5104a2b3ebd529ca",
+            "message": "checkStyle edits",
+            "insertions": 65,
+            "deletions": 58
+          },
+          {
+            "hash": "8541a5b6befbc9c1f66e157d040e77c14ee98f92",
+            "message": "checkStyle edit",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d3ef51a280dd64ca9ee8dff480fe4fa6d01e71bf",
+            "message": "UI: Add placeholder for description in PersonCard GUI",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "d3fec9a853c5bd0f850ab0e90e08fd7e22788a7b",
+            "message": "Model: Add Description class",
+            "insertions": 81,
+            "deletions": 12
+          },
+          {
+            "hash": "0b5d7114565c2442a387e55ead1b439a84e9cfc7",
+            "message": "checkStyle edits: Description class",
+            "insertions": 15,
+            "deletions": 7
+          },
+          {
+            "hash": "d0fbd378c5658f94af5eb7d44a6ea836b4fae521",
+            "message": "Model: Modify \u0027Person\u0027 to support a \u0027Description\u0027 field",
+            "insertions": 34,
+            "deletions": 11
+          },
+          {
+            "hash": "c37ed6b7449a1fcd0912b6001bea6044b58eff4d",
+            "message": "checkStyle edits: Model: Modfy \u0027Person\u0027 to support a \u0027Description\u0027 field",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b6d58a7c69c2b4ca248c336db74d9b45655f9b7d",
+            "message": "Bug fix",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "389ee944643fb68374fb05d4fb3b61be56f053a5",
+            "message": "Add Description field to JsonAdaptedPerson class",
+            "insertions": 25,
+            "deletions": 6
+          },
+          {
+            "hash": "cd2f845f3e740d2ab4896a73e3e5bb7854166e33",
+            "message": "Bug fix: JsonAdaptedPerson class",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "342f76cd62b38216c97649febc169da3284a17d4",
+            "message": "Bug fix",
+            "insertions": 31,
+            "deletions": 9
+          },
+          {
+            "hash": "b8ebf067e51527c50feec32a65e08eed826655cf",
+            "message": "Bug fix",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "39f4ef9fa36d9a41351e73298a4bca552973f5e8",
+            "message": "Bug fix",
+            "insertions": 15,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 226,
+        "deletions": 24,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "3938b56ce2e2c76714f7e74931a43d15d3f8ede7",
+            "message": "Bug fix: Unused import",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "a1abc10ec8fcdbf4160b9018e71009bf74f28afa",
+            "message": "Bug Fix: JsonSerializableAddressBookTest",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "122f204dcd19a938190a3ba95bc09012be81ec83",
+            "message": "Bug fix: duplicatePersonAddressBook and invalidPersonAddressBook",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "5e80585d50fd6173362e0a35eefdb198375414ec",
+            "message": "Bug fix: duplicatePersonAddressBook invalidPersonAddressBook syntax",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "3b776e6485b3f15d1367d6d610fbd24556f6bc41",
+            "message": "UI: Connect Description field to PersonCard",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "0fc7321295cdbe726cbcf5e09f524ab9290ce154",
+            "message": "Test fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d8f11397d85f89553d52621b462c9dbcc9f24694",
+            "message": "Logic: implement DescriptionCommand execute() logic",
+            "insertions": 34,
+            "deletions": 2
+          },
+          {
+            "hash": "048f36562bc22f993ba4efec47c132493a965474",
+            "message": "Logic: Implement DescriptionCommand execute() logic with tests",
+            "insertions": 162,
+            "deletions": 7
+          },
+          {
+            "hash": "45388a676e45e5356e88bf7a27bb73a0a512b59f",
+            "message": "checkStyle edits",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "cf5bfd8527aacea6cf2cfb7e928445e6f2d37dd7",
+            "message": "checkstyle edit: import statement",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cecb2f9b41ad7b671d97025241bcfdd0af32ecae",
+            "message": "DescriptionCommand: Updated UserGuide",
+            "insertions": 16,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 1,
+        "date": "2019-03-08",
+        "commitResults": [
+          {
+            "hash": "5043c85b09ecc6525f49ab584e7fb472958b072b",
+            "message": "README: Removed `Learning Outcomes`",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 78,
+        "deletions": 10,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "d29cdb148e1d8c5e9b9f6aa85e93b08356a11f6e",
+            "message": "Fixed syntax in UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "635293c425c029a8eb6413bf612ebb7dd8ac83b6",
+            "message": "Syntax: Changed PREFIX and description of command",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "917fc622e0714d1f6b2438cd4ebabdd6a7f1bed8",
+            "message": "Logic: Accept \u0027increase\u0027 but do nothing\u0027",
+            "insertions": 67,
+            "deletions": 7
+          },
+          {
+            "hash": "c1a94374f6d31cd688ada11a22911d8fa421bce3",
+            "message": "checkStyle edit: IncreaseCommand",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "362bad3c36525806c577a7365728706779c4efa1",
+            "message": "checkStyle edit: IncreaseCommand",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "5cbd9cda71fa18c79cd87ba52510a93495da353a",
+            "message": "checkStyle edit: added newline at EOF in IncreaseCommand",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 79,
+        "deletions": 12,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "8b72a0646f0a2f98013f7b67688e0ffdee582a36",
+            "message": "Logic: Teach app to accept `increase` with argument",
+            "insertions": 73,
+            "deletions": 6
+          },
+          {
+            "hash": "948ff7829972777a0d9e96ced76ed53fb55f1b56",
+            "message": "checkStyle fixes + collapse catch block",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 66,
+        "deletions": 36,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "f4a21bbdb0618a60323106b5418368bab26d0a09",
+            "message": "Tests: IncreaseCommand",
+            "insertions": 65,
+            "deletions": 34
+          },
+          {
+            "hash": "bb092ffec1be75310f8ce11bde8ff9d5883f9306",
+            "message": "checkStyle edit: Removed unused import, trailing whitespace",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 259,
+        "deletions": 37,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "34b1565ef0f0b5031fa5931bda59e428379e306b",
+            "message": "`allocate` command",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "b4ca52f9018d2bb4077e1c6584c19bba27e8ac87",
+            "message": "`allocate` command",
+            "insertions": 190,
+            "deletions": 3
+          },
+          {
+            "hash": "8d43b052beb1ac300d3954f8d7ffa086909d2f79",
+            "message": "checkStyle: AllocateCommandTest FinanceTrackerParserTest",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "cd8f86a82b0dfd774190d471d09a91fa4b0b198a",
+            "message": "Changed AllocoteCommand to accept only one category",
+            "insertions": 53,
+            "deletions": 31
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "f6dfb8519a6defed4f95409f2212aaed3815e7ff",
+            "message": "Changed App Icon and Title",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 10,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "c726cc070c972599f39120997117225d25122286",
+            "message": "AllocateCommandTest: Changed amount to include `$`",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "fca0b204c901e102bfae471fe00e2e7195acd929",
+            "message": "Tests: include `$` in amounts`",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "21216ca3ab4cd5e6cc03e9e3d075ae7cd16d9f33",
+            "message": "checkStyle: AllocateCommandTest",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "e6b3b7686d4bee7268d408fd68228cec343656b0",
+            "message": "Updated DeveloperGuide with planned Security implementation",
+            "insertions": 26,
+            "deletions": 4
+          },
+          {
+            "hash": "e6080b4eddd071db834ff983e663e9e5e21e38f2",
+            "message": "DeveloperGuide: Security",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "a16333a507044cf9f31bbe486e7ced5160383f6d",
+            "message": "v1.2 tag",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1347,
+        "deletions": 41,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "30762b5b0fe36951e127c12baa6cea01f5db427e",
+            "message": "Added new Themes",
+            "insertions": 1103,
+            "deletions": 2
+          },
+          {
+            "hash": "60f5da3a60c091937aa945c0e3fcf4bfdc6ddb59",
+            "message": "Added command to switch theme `theme`/`colour`",
+            "insertions": 182,
+            "deletions": 14
+          },
+          {
+            "hash": "6d9ef776ba1c111640f0b0f38070d73f443ebdd4",
+            "message": "Theme command",
+            "insertions": 28,
+            "deletions": 5
+          },
+          {
+            "hash": "8d27e573ce4df463e9ae843a60f60616e3da338a",
+            "message": "checkStyle edits",
+            "insertions": 33,
+            "deletions": 19
+          },
+          {
+            "hash": "bd59c84abff5a2554d4d8e87708e6309e332e177",
+            "message": "Update FinanceTrackerParser.java",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 480,
+        "deletions": 195,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "01b06a3c7e7b7d44cd6a9035d2883020a7bf4f7c",
+            "message": "Allocate Command and CategoryBudget class implementation",
+            "insertions": 480,
+            "deletions": 195
+          }
+        ]
+      },
+      {
+        "insertions": 1187,
+        "deletions": 556,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "6de332675cc0cd00988e1404b6a07fd1f3f97f6b",
+            "message": "Updated Tests to suit Budget implementation change",
+            "insertions": 886,
+            "deletions": 488
+          },
+          {
+            "hash": "3319ff70625539caa29e3cf3ffda93cd9babe127",
+            "message": "Added PPP `jackimaru96.adoc`",
+            "insertions": 112,
+            "deletions": 0
+          },
+          {
+            "hash": "8e2b0a1b563d54179be51f1b2aabc5500ef784fd",
+            "message": "Updated UserGuide and PPP",
+            "insertions": 154,
+            "deletions": 51
+          },
+          {
+            "hash": "4db6e91c195c4269d938b134b89a2c2d2e9d1d19",
+            "message": "Minor edits to UG tagging and `spend` command",
+            "insertions": 35,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 98,
+        "deletions": 72,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "43c97908b38ad5b261f31672024d79d8ffbaafd4",
+            "message": "changed PPP name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f720781eb4e576bf97833430eff1f638a5779c4f",
+            "message": "Fixed PPP bug",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "1fe9e769f44e3e11c2025814ba7ac69da37c4011",
+            "message": "Update to DG and PPP",
+            "insertions": 86,
+            "deletions": 57
+          },
+          {
+            "hash": "4f2e38cb0ca36be44d1918f521a61694fe6488e0",
+            "message": "PPP formatting",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "29685d74800485f6ec465a47d07172fb6aa27801",
+            "message": "Updated Ui.png",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "222506a1ad9eb47d48faba6af79f7717a92a6b7a",
+            "message": "Updated PPP",
+            "insertions": 9,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 285,
+        "deletions": 10,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "d3967d6f2b66aa8e71bd664217cdf094ad7b4ca2",
+            "message": "Updated UI and duplicate record bug",
+            "insertions": 285,
+            "deletions": 9
+          },
+          {
+            "hash": "2ebd83f3fb369c5d0e6f2483e24e119fff565e8e",
+            "message": "Checkstyle edit",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 23,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "b77d2549df6c17e0885f708b67ecbe75689c8dd2",
+            "message": "Updated startUI and userguide",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "ca335c30f0d9c35381c7b028b685021210194a07",
+            "message": "Quick Start + StartUI update",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "1895ba09e67a1d8f154c41e1be0f9be86e22a265",
+            "message": "Updated DG and PPP",
+            "insertions": 41,
+            "deletions": 20
+          },
+          {
+            "hash": "d41394a36f809e99c47867ebdfa35f27d5638205",
+            "message": "Edited `theme` command section in UG`",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 312,
+        "deletions": 157,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "ee403ac6788a0b5cc606bab029a556a9605f5d8e",
+            "message": "Changed UI to look better",
+            "insertions": 28,
+            "deletions": 19
+          },
+          {
+            "hash": "b77ee2d7510fb320e1d2fd1a3fe4f67dc79d1b9d",
+            "message": "Added one more UI photo in README.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "fde85f4e4ce674d489ab23a0ecb8d1d1f9f3d80f",
+            "message": "README",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "56fe9fc77b763cb98776fcec17269fd663c26db9",
+            "message": "Ui.png",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "c93a224a3e65c5c4958da570c54f835fe59bf697",
+            "message": "Updated Ui + README",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b317a576fbf21e50a471edca01cd32e168902c06",
+            "message": "README",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ad09964428c8ab5cddaa67762cd2d6b74c5bb32f",
+            "message": "Updated AllocateCommand \u0026 CategoryBudget",
+            "insertions": 273,
+            "deletions": 121
+          },
+          {
+            "hash": "250cc375e1ff435c62d56027a45a1d5cc81bdd9f",
+            "message": "Checkstyle edits",
+            "insertions": 3,
+            "deletions": 12
+          },
+          {
+            "hash": "6d8d8068f44a5b73fdd9581e092f134f59667f15",
+            "message": "Make summary work again",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "7b8b9678682af0e3d0fbff6adb84cd19a6f5035c",
+            "message": "Make `spend` update summary table",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 231,
+        "deletions": 23,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "7b26384b39a92a8da94a27282f16bc8a05a1d243",
+            "message": "Updated `show` command in userguide",
+            "insertions": 38,
+            "deletions": 0
+          },
+          {
+            "hash": "b30d2ad5661e1183b0c5a4722e475df8964994ff",
+            "message": "Updated GUI Intro in UG and PPP",
+            "insertions": 182,
+            "deletions": 16
+          },
+          {
+            "hash": "ccca1873656754374931a8cba1d4a318a4948003",
+            "message": "Added Caption below each image",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "4c1eef5d17583003d948435824a8c7d8f49b41d8",
+            "message": "Fixed images not showing in UG",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "65ded42cd4e11a4ca7b15ea0b669e7c5c63bd4a9",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "82959da58c0264663af7ccc8e89e3de543374b4c",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "b4a0dd2d786c7868fce995218d0c9f4020bfdd44",
+            "message": "UserGuide updated",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 331,
+        "deletions": 74,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "2ed96d8d7d9a7df494d43f0ec4501fb052fbce31",
+            "message": "Added tests",
+            "insertions": 282,
+            "deletions": 39
+          },
+          {
+            "hash": "0589183e8eac3446a4b39ef0fd4bad897df64630",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bfda9484d700b7483e4bab54d11d9a69d5768cf8",
+            "message": "Edit PPP + add `show` in DG",
+            "insertions": 18,
+            "deletions": 7
+          },
+          {
+            "hash": "2c2f84bcd648998b65d250e20a3e9f803d3f492a",
+            "message": "Coveralls badge",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e7f1ea25bd73f5498699201e2e26f069121f493b",
+            "message": "Updated GUI Intro to make images smaller",
+            "insertions": 27,
+            "deletions": 23
+          },
+          {
+            "hash": "8c035dcbd91604dc84f051c8e82c651d1c73911a",
+            "message": "Updated image size in UG and DG",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 89,
+        "deletions": 119,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "1105453021c455c33e2198069066fa161cb83cfe",
+            "message": "Updated UG, DG, PPP",
+            "insertions": 70,
+            "deletions": 76
+          },
+          {
+            "hash": "71308a8cabb25d8de2fd68655dd48c330a5978e7",
+            "message": "Updated UG and PPP",
+            "insertions": 19,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 223,
+        "deletions": 214,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "cf5c65714269a88b7936f13e44f494ab924d34cc",
+            "message": "Updated UG for theme and PPP",
+            "insertions": 29,
+            "deletions": 14
+          },
+          {
+            "hash": "7317d29e19e6b7fd6e9cc7dc8cd735694f71a788",
+            "message": "Updated DG and PPP",
+            "insertions": 29,
+            "deletions": 8
+          },
+          {
+            "hash": "1e18fcf79ef7567b380860e97e38391ef0c14a2c",
+            "message": "Updated DG",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "f4e3a4f45e7949184790d7c25bb4614287bf49f7",
+            "message": "UG updated",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "67d721543d5adfedfca8c71de0c672131aa5d6ae",
+            "message": "Removed IncreaseCommands and associated files",
+            "insertions": 10,
+            "deletions": 173
+          },
+          {
+            "hash": "2dcfe01a48333886362ef21583c37e9629c91a82",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "699cde0c7408de0188a2d640662a4872c9dcd66e",
+            "message": "Updated Storage Tests",
+            "insertions": 84,
+            "deletions": 0
+          },
+          {
+            "hash": "ba6f29edfb1eb3699c089b9f05f0fee9eaab5f08",
+            "message": "Checkstyle fixes",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "2c6b23672412a4522eec705073679e652351266c",
+            "message": "Updated PPP to include less GUI Intro part",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "df80169abfe41e6f29a25152d8aaa0870e61c2ba",
+            "message": "Updated Record tests",
+            "insertions": 54,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 183,
+        "deletions": 118,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "c8e4df4f726995410f1f4b4ec1127b7a34dee4b8",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0b5073e64b7feeab2f1635b794236f72e6df12d6",
+            "message": "Updated UG, PPP, DG",
+            "insertions": 102,
+            "deletions": 51
+          },
+          {
+            "hash": "0fbaf83626e0f77b53904fa1e106114ad4892e48",
+            "message": "Updated UG, DG, PPP",
+            "insertions": 15,
+            "deletions": 38
+          },
+          {
+            "hash": "c2bd23f5cdd9f89734c06959c068135a944534de",
+            "message": "Updated PPP",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "664b5f3eedf5e2b3e72fb7db4c46b5e26a2062fe",
+            "message": "Update UG, PPP",
+            "insertions": 24,
+            "deletions": 16
+          },
+          {
+            "hash": "5dbd607c435671b5c7657ee5373dad86c6e36747",
+            "message": "Update UG, DG, PPP",
+            "insertions": 20,
+            "deletions": 11
+          },
+          {
+            "hash": "4156085ca5415bcff8ad6a78fa150721e717fee5",
+            "message": "Update DG",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "28d9dd1c61ac628a52377ec61bf6b3307daaf7ff",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ef68bad6955565d197dd00efa91aa3165e2dd816",
+            "message": "Update DG",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "f015442a70ec4a04560715f8e9a306a4b55d28c5",
+            "message": "Update PPP",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 66,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "c1a4c2831b571c8b80d12be7581c0070c18fab7d",
+            "message": "Updated PPP",
+            "insertions": 67,
+            "deletions": 53
+          },
+          {
+            "hash": "1fbd3fd294cdd13c3c21b608c21b526bc4ec08a0",
+            "message": "Updated AboutUs.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b15c3ef8ebb1af407543736e8a09638adf4e9e57",
+            "message": "Updated README.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "be035df1dda127e79d6d83848891eb0d294fde16",
+            "message": "Update UG + PPP",
+            "insertions": 13,
+            "deletions": 6
+          },
+          {
+            "hash": "748b825a54d873c0c4c47f2254d839a06e638311",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "b686dc5564dbda0445d10e1618e35fda35858473",
+            "message": "Updated PPP",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "cbc255966af661b515ea3333112f5f7e9df835bd",
+            "message": "PPP",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "eugeneyl": [
+      {
+        "insertions": 15,
+        "deletions": 10,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "ee0aeee7b71fe58020ed76097569261df5c0127d",
+            "message": "Updated README.adoc",
+            "insertions": 14,
+            "deletions": 9
+          },
+          {
+            "hash": "612e17964ec5e4969b5251cb042e50ea966b6aae",
+            "message": "Updated fig3 in DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "3085edeab4e2130676027087ac7b0f91c83eed50",
+            "message": "Updated UI and Logic Component of developer guide (excl fig.6)",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "211cb9197221bd8640131b4cbf18452548cd74ff",
+            "message": "Updated Model Component of Developer Guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6b50d88e9d251421adc17d2804dd5afbab1f0747",
+            "message": "Updated Storage Component of Developer Guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 172,
+        "deletions": 172,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "6481a33e1f3a5c9538f6d4a73d0cf29a5e5675e0",
+            "message": "Change \u0027find\u0027 command to \u0027search\u0027 and \u0027add\u0027 command to \u0027spend\u0027 as per userguide",
+            "insertions": 139,
+            "deletions": 139
+          },
+          {
+            "hash": "13456e00ef8370b70c0bcd2a50f963d9f6f256d8",
+            "message": "Edited order of import in AddressBookParser",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "5482ac6ace693a52e510e65c05639357ff469ce4",
+            "message": "Minor bugfix",
+            "insertions": 25,
+            "deletions": 25
+          },
+          {
+            "hash": "a7dd79d4ba0fe532dbec329f6d62a7321fddb2ea",
+            "message": "Minor bugfix in testutil",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e33ccb35589ec33f2d2835e897a6a0d1388a6749",
+            "message": "Reordered import lines by lexicographical order",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 2214,
+        "deletions": 2204,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "a1fd7d4a327ce56d84fbccd95bed3cabd4cd4b1d",
+            "message": "Change all instances of person to record",
+            "insertions": 2121,
+            "deletions": 2166
+          },
+          {
+            "hash": "372378cf4595c190c2966fe0269430f0da554cd2",
+            "message": "Undo unwanted changes in LICENSE, UserGuide and README",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "b31d65f742a670e688700b43a7e29c735e0c29a0",
+            "message": "Checkstyle fixes",
+            "insertions": 29,
+            "deletions": 4
+          },
+          {
+            "hash": "78c74b71db138228dd78686eb0361ca09ca79b50",
+            "message": "Checkstyle fixes",
+            "insertions": 46,
+            "deletions": 16
+          },
+          {
+            "hash": "c3f9c3d23245989587a85acfbf95461b50414191",
+            "message": "Checkstyle fixes",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 62,
+        "deletions": 60,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "77d0dfd6bf81e6967e989bf8ab9878c617960d53",
+            "message": "Amount will only allow 2 decimal place or no decimals at all",
+            "insertions": 14,
+            "deletions": 12
+          },
+          {
+            "hash": "252336b1fda52285b5c4de3ee55556be8f9140a0",
+            "message": "Amount will start with a $",
+            "insertions": 45,
+            "deletions": 45
+          },
+          {
+            "hash": "fe37e5c8342a7f790336789f66d05112106f34ca",
+            "message": "Checkstyle fix",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9ad1476fcacb0a4afbac88e75b72771761db4446",
+            "message": "Correct comments on INVALID_AMOUNT_DESC",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 40,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "beecfd5465ae799d3351c61525e185be2afd4216",
+            "message": "Updated DeveloperGuide with search by tag implementation.",
+            "insertions": 40,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 55,
+        "deletions": 55,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "24cf65fabf2b32b46f82bb70cb9f64e9209e2629",
+            "message": "Remove $ for amount.",
+            "insertions": 51,
+            "deletions": 51
+          },
+          {
+            "hash": "938d6682cc4e0f5de6edc80735a3a0fef26a3f81",
+            "message": "Checkstyle fix.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f7ff694da410c9d076f0b5feab6b4eb4a3fb493e",
+            "message": "Added dollar sign prefix in record card before amount value.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 104,
+        "deletions": 37,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "5cd1dd28b421738978d5a25cd596d587eefc792f",
+            "message": "Bug fixed.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "407b7299f05ebc80c3e28f77a6767d357d1a3c8f",
+            "message": "Checkstyle fixed.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "57ed160f8bd28ec18646ba4acd273ecb00a3895e",
+            "message": "Slight correction of comments",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c98decdbf14a1d2f22f197dbfbb2e2321e29f71f",
+            "message": "Added flag to search function to search by tag",
+            "insertions": 91,
+            "deletions": 29
+          },
+          {
+            "hash": "bb4963c69ee40a1134640ecf23f44e7ff4b81f78",
+            "message": "Updated user guider to reflect flag for search command",
+            "insertions": 8,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 19,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "ea37f523340329667520373a3ba6365ac6d4d3d5",
+            "message": "Checkstyle fix",
+            "insertions": 16,
+            "deletions": 13
+          },
+          {
+            "hash": "23e257bbd4161496a0a52ed466523abeba8084c5",
+            "message": "Checkstyle fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "40f70cb5994d9bb9d5e80c89833b5934a56fb1be",
+            "message": "Checkstyle fix \u0026 change in message usage string for SearchCommand",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 477,
+        "deletions": 129,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "24fc0543929a67cbe511448e23c81112f7cb7ac2",
+            "message": "Added CategoryContainsKeywordsPredicate test.",
+            "insertions": 137,
+            "deletions": 52
+          },
+          {
+            "hash": "5d985bd62ea2b7bf402ae56c2fca31a266ff2646",
+            "message": "Added search by date function and relevant tests",
+            "insertions": 137,
+            "deletions": 6
+          },
+          {
+            "hash": "553cb9e34f1020147b68219f401eee34a1cb4063",
+            "message": "Taught application to display total sum of searched records and updated test.",
+            "insertions": 16,
+            "deletions": 3
+          },
+          {
+            "hash": "92198e7392a422a6028ec4cfbd50528f48ba431b",
+            "message": "Checkstyle fix",
+            "insertions": 36,
+            "deletions": 33
+          },
+          {
+            "hash": "ae8e67057160aaac075bf4cb981e763960ea30ea",
+            "message": "Checkstyle fix",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "2dcfb516770ee66e013f38e28ed9eef54a25f77f",
+            "message": "Updated user guide to reflect changes in search function",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "0f875914c7541a1a3a660e9640768ed63567b18a",
+            "message": "Updated developer guide for search command.",
+            "insertions": 28,
+            "deletions": 17
+          },
+          {
+            "hash": "29c2d5a848039fe8ba950edc8209042c1338d10e",
+            "message": "Change version number in mainApp",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "86a3f53dde2a7f8d1553f66855ee79b77bd27b4a",
+            "message": "Created PPP for eugeneyl",
+            "insertions": 96,
+            "deletions": 1
+          },
+          {
+            "hash": "5612e6a19431f7fcf1af231b497924b757cc4b0e",
+            "message": "Updated eugeneyl PPP",
+            "insertions": 9,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 20,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "accc13e3dfdcf7c3953eb1ec3e097a966dd8b9a1",
+            "message": "Application to take local date if date not inputted for spend",
+            "insertions": 18,
+            "deletions": 2
+          },
+          {
+            "hash": "72d0b6e942027350fce8eabf17a6643a94d8c4e7",
+            "message": "Updated user guide.",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "0d7b4971da570645fb08259d3bea1b5e57e69367",
+            "message": "Spend command takes description parameter.",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "c7dcdb9262812e5235fe9851af2a1e42aaa33acc",
+            "message": "Updated user guide to reflect change for spend function",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "67efcba190fe0912318c7c470ad279ee7b2fc706",
+            "message": "Checkstyle fix",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "a7ae39853e42e42adcc3d82d7735c25a4997ff44",
+            "message": "Checkstyle fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "33033cbe129dd675c7d7b30adc43fc09e810381b",
+            "message": "Bug fix",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "108aa024ffd0f6333d0bc0bb963b4ec301c20b4c",
+            "message": "Bug fix",
+            "insertions": 5,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "10887553e88de9ab524eeae119df2b2d2ebd065e",
+            "message": "Minor change to output of search command.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 80,
+        "deletions": 56,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "93a7dd084e4397b3090f3dedead48a0958b10da1",
+            "message": "Updated user guide.",
+            "insertions": 74,
+            "deletions": 49
+          },
+          {
+            "hash": "ed55ac60a6bbc867c5146f77cc27b9a201ef3a80",
+            "message": "Updated set file command to create new finance tracker when file is not found.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d1ed41004c6b1b4dccc6869561ba2a89ba9025ff",
+            "message": "Updated user guide to reflect changes to set file command.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3c2e845bc223390129a6254cf63f1c53b41aa7e5",
+            "message": "Checkstyle fix",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9c3df7cba93617fe8f0d9b80da1f1c66aa3d79bc",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 8,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "0eae312fa045dbc24ac139385cf00ae50fef3a9b",
+            "message": "Updated search command system test.",
+            "insertions": 60,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 153,
+        "deletions": 38,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "cdec69318fba3476c60c262117798ee11ee50c8b",
+            "message": "Taught search command to only take in 1 flag",
+            "insertions": 45,
+            "deletions": 0
+          },
+          {
+            "hash": "ff1f7de66b42326ae5b0dfd7610cd76077ad4a6e",
+            "message": "Updated test cases for search command",
+            "insertions": 22,
+            "deletions": 2
+          },
+          {
+            "hash": "85ecce7a76d418ad280868fd2dcfefb3ece5388f",
+            "message": "Updated test cases for spend command parser",
+            "insertions": 12,
+            "deletions": 29
+          },
+          {
+            "hash": "d2d4413d3ac8d5f943e98771b1a6e6d5b44ece68",
+            "message": "Updated test cases for command result and command flag",
+            "insertions": 48,
+            "deletions": 1
+          },
+          {
+            "hash": "e807d84f59badb16dc33931251b1a87e25772543",
+            "message": "Checkstyle fix",
+            "insertions": 25,
+            "deletions": 5
+          },
+          {
+            "hash": "39be8ce898eae42168da9c9a54e762b9015b6231",
+            "message": "Checkstyle fix",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 531,
+        "deletions": 680,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "292cdf0f8a0a07232b1cf29b52e774f1145de5ab",
+            "message": "Taught Edit command to take in description field and updated test cases.",
+            "insertions": 96,
+            "deletions": 79
+          },
+          {
+            "hash": "8a006a4ed6d3827574bd8c316436bd4aadec0865",
+            "message": "Updated user guide to show change in edit",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9d221d257b1ee33e4a8ce5f995f618c4a6578d56",
+            "message": "Remove description command and all relevant tests",
+            "insertions": 16,
+            "deletions": 465
+          },
+          {
+            "hash": "a6743112fbf50606f0372979ab05f0aec93cedb2",
+            "message": "Updated userguide to show deletion in description command",
+            "insertions": 0,
+            "deletions": 28
+          },
+          {
+            "hash": "e5d985f1ea24395b8161281951df011df4ec4e9e",
+            "message": "Restrict description to 40 characters and updated test cases",
+            "insertions": 80,
+            "deletions": 39
+          },
+          {
+            "hash": "a8293431fa66ffb9d090175a176b6254918e6dc8",
+            "message": "Updated userguide to reflect changes for limitation of description",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "3ebc00d434b3b38011cc30bd921352941499df23",
+            "message": "Checkstyle fix",
+            "insertions": 21,
+            "deletions": 4
+          },
+          {
+            "hash": "5b1a32e41d6c8393d58cfb3d0a9d71893d91a30e",
+            "message": "Checkstyle fix",
+            "insertions": 139,
+            "deletions": 30
+          },
+          {
+            "hash": "6a672fdf9692cd14d789e5b4e81915f4fa0cc132",
+            "message": "Change date to not accept future dates",
+            "insertions": 25,
+            "deletions": 1
+          },
+          {
+            "hash": "ca4caeb49f53053ec914c77956f6f4118d17c2da",
+            "message": "Bug fix: Changed test cases to dates before today",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "5399a58ff0ffa3c21750a8eaffeb68cca89e8755",
+            "message": "Corrected Date\u0027s message constraints",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "71853462e502dacfeb099d22c4c54cc253622309",
+            "message": "Corrected Set Command usage message and implemented SetCommandTest",
+            "insertions": 75,
+            "deletions": 2
+          },
+          {
+            "hash": "a516bb10b497c836128d17f1806f9d9a39b5b283",
+            "message": "Implemented SetCommandParserTest",
+            "insertions": 29,
+            "deletions": 0
+          },
+          {
+            "hash": "29cd3b31b7bb3852fd998eb0e4a848cb4fbf1238",
+            "message": "Removed check print statement",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "68defdbe79a16ec1e838486bc1918893e6d708ab",
+            "message": "Corrected AllocateCommandParserTest",
+            "insertions": 20,
+            "deletions": 7
+          },
+          {
+            "hash": "b4a3e1fbf7825b1df7e29c4f53c0e3833681623e",
+            "message": "Checkstyle fix",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "c0b843d8a3107428454aadd8dbae6773743ece0f",
+            "message": "Checkstyle fix",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "d6f96599971884267b4b40efef8c2fcb84b0a5ac",
+            "message": "Added javadoc for setCommandTest",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "6bfa3e2342e91bb437c9cfb0c5f77e1373a82c82",
+            "message": "Checkstyle fix",
+            "insertions": 13,
+            "deletions": 6
+          },
+          {
+            "hash": "b9afd95ffe1f245eb46f28fef4570a96a0187f7a",
+            "message": "Updated the UI class diagram of developer guide",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "dab3fa25973c158d87bc98279e12ede3cfedd04c",
+            "message": "Updated the logic class diagram of developer guide",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "485d018c6c640bd78fcb49f2a268e48f3b68a7f6",
+            "message": "Updated the model class diagram of developer guide",
+            "insertions": 3,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 164,
+        "deletions": 55,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "5e4574f2b8849580910c7bec1e845bf9bd6c2589",
+            "message": "Updated UG and DG",
+            "insertions": 66,
+            "deletions": 21
+          },
+          {
+            "hash": "4f1e04653d6e854ec8295c87c89267503ff3b1fe",
+            "message": "Updated PPP",
+            "insertions": 98,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 31,
+        "deletions": 27,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "67ad18d5aabd488e2b8d8874749e2011c3a80d00",
+            "message": "Reduce pages for PPP",
+            "insertions": 31,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 270,
+        "deletions": 158,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "5760a572778efc1fc843cb27fc62b20862fe54a0",
+            "message": "Edit documentations and added manual test cases.",
+            "insertions": 158,
+            "deletions": 59
+          },
+          {
+            "hash": "10bd92b249c9725b69fbce3a55adf0fd83dc449d",
+            "message": "Minor edits to documentation",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "1a57755f9e9b9a8c2617739f229a0655e14d8d8b",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3f98024af4de183cec9e04f78071e3627728203e",
+            "message": "Checkstyle fix",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d6aff891f24e9beeaf3e95cabf5fa62863d0ce72",
+            "message": "Updated user guide",
+            "insertions": 76,
+            "deletions": 67
+          },
+          {
+            "hash": "f0e0869c980b8ffc81a2deaff6ca099107a7ba9b",
+            "message": "Minor edits to introduction of user guide",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "922efdaecf92aead685ec856482a18a94bea6ab4",
+            "message": "Minor edits to introduction of user guide",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "d9119c9aaba6114329642f48bb52d61231dd2308",
+            "message": "Edited PPP",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "f5ad01ce710d7cf52439c49d1c60dba3134b8e3c",
+            "message": "Change version in main app",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "kjiaxuan": [
+      {
+        "insertions": 63,
+        "deletions": 10,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "360efdbc2d6fe71d409088ecc3591ce4ec33a0ca",
+            "message": "Updated Non Functional Requirements",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "7fd92fcc2ad6ddfa4f9a445c40c20009368e4032",
+            "message": "Updated glossary",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "7b484a16fa3383bacb5a23adbab3b8420b715277",
+            "message": "Updated product survey",
+            "insertions": 48,
+            "deletions": 6
+          },
+          {
+            "hash": "359d79b40d9403edbe3b42fa63968a6e7baef629",
+            "message": "Made minor formatting changes",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 277,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "aae3ea00666f6740e082502acc74305a011d9fb2",
+            "message": "Removed old Appendix A - Suggested Programming Tasks to Get Started",
+            "insertions": 0,
+            "deletions": 277
+          }
+        ]
+      },
+      {
+        "insertions": 89,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": [
+          {
+            "hash": "361fca96d340f4aa06344e31153ea32370b5a90e",
+            "message": "Updated logic/commands to include alias function",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "e79fa508bf8f456b44d189babf8bf2c15e2e8e5f",
+            "message": "Updated logic/parser to include alias function",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "0492bd703b3ebad81ca5f2ce9b48c2797ec1ff1c",
+            "message": "Updated AddressBookParserTest.java to include alias tests",
+            "insertions": 69,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 114,
+        "deletions": 72,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "b391142f2b6367e7b4515f7b2f070007fe23bfba",
+            "message": "Adjusted indentations in AddressBookParser.java",
+            "insertions": 26,
+            "deletions": 27
+          },
+          {
+            "hash": "c69887bef72f4abaa7c3d27c6592f490db52ce72",
+            "message": "Updated indentations in AddressBookParser.java",
+            "insertions": 36,
+            "deletions": 36
+          },
+          {
+            "hash": "f2b377ba13037df57ed6fad3cd8c91426d2a0687",
+            "message": "Updated formatting in AddressBookParserTest.java",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "0fa2dc98aedd61ea33012ec28b22c7088b272a1d",
+            "message": "Updated Logic component to add in more aliases",
+            "insertions": 46,
+            "deletions": 4
+          },
+          {
+            "hash": "3928995cb79b067409941e40228fabae3e2dc496",
+            "message": "debugged an error in AddressBookParserTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "03f24c5c1af2b5a74de473ff520f094d481e74e3",
+            "message": "Edited a method name in AddressBookParserTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e06efd8c76bde407ee463ff3549e44011e9d00d3",
+            "message": "Updated AddressBookParser.java to support case sensitivity in command words",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 691,
+        "deletions": 673,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "cb71a91fa22cf65a5ae59fdfa563e8ef8503a291",
+            "message": "Minor edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "289798778b258f2c47f9fcb337c78527ff5ea1a5",
+            "message": "Included an introduction section",
+            "insertions": 19,
+            "deletions": 2
+          },
+          {
+            "hash": "6f4c6c3d23e0798ab6f5387e8576f9f422e17418",
+            "message": "Updated links in introduction",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "18d15dab535499f5d9e9a7870b0d5d7475bae5f5",
+            "message": "commons: renamed directories",
+            "insertions": 670,
+            "deletions": 669
+          }
+        ]
+      },
+      {
+        "insertions": 1480,
+        "deletions": 1467,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "446c11521d1a3c9e3430dc20c5da8a807c9ede6e",
+            "message": "logic: renamed directories",
+            "insertions": 171,
+            "deletions": 167
+          },
+          {
+            "hash": "66c8d5d7f4b3452b8ea676732d1bea3c34bcdec6",
+            "message": "model: renamed directories",
+            "insertions": 155,
+            "deletions": 156
+          },
+          {
+            "hash": "01ade8892b5da5cfc601eb20c9cb20f1528610f5",
+            "message": "storage: renamed directories",
+            "insertions": 65,
+            "deletions": 65
+          },
+          {
+            "hash": "409020b5663ae9288fb1518fe9da1a209e28c15f",
+            "message": "ui: renamed directories",
+            "insertions": 27,
+            "deletions": 27
+          },
+          {
+            "hash": "849a3df5a6e56f0f7c7a40e4fbb52bb158ecb091",
+            "message": "test/data and test/java/guitests: renamed directories",
+            "insertions": 76,
+            "deletions": 81
+          },
+          {
+            "hash": "65c2f68bde95cbd35aaf9874ffe78043202017bb",
+            "message": "test/..../commons: renamed directories",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "6d2100c4a7d3de9043c1d4d6d83204756dc2c07d",
+            "message": "test/..../logic: Renamed directories",
+            "insertions": 375,
+            "deletions": 361
+          },
+          {
+            "hash": "345c22254f4d71c26ab422e878b2316e4b29eb87",
+            "message": "test/..../model: Renamed directories",
+            "insertions": 213,
+            "deletions": 213
+          },
+          {
+            "hash": "9133e444293eea0eca845b9d3de2b937308c3bf0",
+            "message": "test/..../storage: Renamed Directories",
+            "insertions": 67,
+            "deletions": 67
+          },
+          {
+            "hash": "777d3e5ec92a49e3319da5ef450f09a93f0319f5",
+            "message": "test/..../testutil: renamed directories",
+            "insertions": 17,
+            "deletions": 16
+          },
+          {
+            "hash": "0f0d600a4a9083e14ae031e21b59d56e635e5f17",
+            "message": "test/..../ui: renamed directories",
+            "insertions": 34,
+            "deletions": 34
+          },
+          {
+            "hash": "d86df3d5da6b1743b49230b7570b7a700ed26c88",
+            "message": "test/java/systemtests: Renamed directories",
+            "insertions": 255,
+            "deletions": 255
+          },
+          {
+            "hash": "5de1c5e4ebaa550a92a2fbb154d5fdd0f6e4a2f3",
+            "message": "test/resources/view/UiPartTest: Renamed directories",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "2a14f07be4afa760d53da3648c0e6ca74ea0a472",
+            "message": "renamed addressbook.log to financetracker.log",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 107,
+        "deletions": 76,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "1b34b093f615d31f2eec29f2dc141350e661d01c",
+            "message": "checkstyle fix",
+            "insertions": 17,
+            "deletions": 10
+          },
+          {
+            "hash": "11bfe3c69fdf27c2196217ae205ed3306d10990f",
+            "message": "checkStyleMain fix 1",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "3cbd45a0ce3cee4badecd4ee081aab6d4b98c4f6",
+            "message": "checkStyleTest fix 1",
+            "insertions": 48,
+            "deletions": 25
+          },
+          {
+            "hash": "f51aacc0835ae3e48620ec482dad54afc843f6be",
+            "message": "FinanceTrackerTest: formatted import statements",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "94e7c9496863724bf7e2422291704407d9ab0f98",
+            "message": "Updated person to record in fxml files",
+            "insertions": 33,
+            "deletions": 30
+          },
+          {
+            "hash": "ad868872685fc18adbf97504a2b509f1bc342e13",
+            "message": "Checkstyle fix",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "f7958d4389206f31842f5a921337298cde019f17",
+            "message": "resolve JsonSerializableFinanceTrackerTest error",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 75,
+        "deletions": 29,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "f515c50b7f32013094811eec31d9a8e76a143a8e",
+            "message": "Changed PREFIX_CATEGORY from t/ to c/",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f546647b4cc27f61bc6cbd38ab3fee60615c25c7",
+            "message": "Updated FinanceTrackerParser to accept case insensitive commands",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c520b048922d4575c12ac858422b06d4b2aa54a1",
+            "message": "Updated commandsystemtests to accept mixed case commands",
+            "insertions": 14,
+            "deletions": 10
+          },
+          {
+            "hash": "a314ef1fcb4d75142ff942d5cc55ebdbaf9d86f8",
+            "message": "Deleted unused import statements",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "8833266127942cedd31d6aae834d5a25cb6e4ab4",
+            "message": "Travis fix",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "cc37a41ac3c0ad571f47c2a61f97557322eafb4b",
+            "message": "Updated implementation section for sort feature",
+            "insertions": 40,
+            "deletions": 1
+          },
+          {
+            "hash": "c51e8f1cd6cb43ef40eb0a9e2adf304b891d143e",
+            "message": "Updated glossary sections of both doc to correspond",
+            "insertions": 15,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 221,
+        "deletions": 108,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "5882f1ca1619f4f6f7bb86ab9c4fa38d14c3a911",
+            "message": "UserGuide: updated",
+            "insertions": 217,
+            "deletions": 105
+          },
+          {
+            "hash": "ea03e41a95d7165fa9ed17ca6e76ada0a9074e1e",
+            "message": "UG: minor formatting edits",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 95,
+        "deletions": 31,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "823095e2299bee3f52d02d61dab25ef2183530b3",
+            "message": "Included a DateTimeFormatter formatter and LocalDate date",
+            "insertions": 45,
+            "deletions": 15
+          },
+          {
+            "hash": "dfdbbc15c4d3a3e2d82f230b5a5bf69aa6954e80",
+            "message": "Created a ListReverseCommand class",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "cfa42e0f4017d2ea9efdc6017fc28444870b2a0f",
+            "message": "Removed validation regex in Date.java",
+            "insertions": 9,
+            "deletions": 15
+          },
+          {
+            "hash": "69fa189070e85abb6d16ea73c623551cb51a3a9f",
+            "message": "Updated DateTest.java",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 133,
+        "deletions": 26,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "cc121a520c703f863cf584cb5d3a679991e3ff0b",
+            "message": "Implemented ReverseCommand, can only work on general list",
+            "insertions": 37,
+            "deletions": 12
+          },
+          {
+            "hash": "7223354b7182997423d48e5f902b90ff5472c087",
+            "message": "Added tests related to Reverse Command",
+            "insertions": 80,
+            "deletions": 0
+          },
+          {
+            "hash": "8b6e487799cc4a8473d2090c7ae4e6b757934f6f",
+            "message": "Checkstyle Fixes",
+            "insertions": 16,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 292,
+        "deletions": 7,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "e981af24aa171189d9695faa971058d09e6657f2",
+            "message": "Added command logic for SortCommand",
+            "insertions": 223,
+            "deletions": 1
+          },
+          {
+            "hash": "c4cf58689bdf1ec91e0b516bb388133a5a98c1ee",
+            "message": "Implemented parsing of sort commands",
+            "insertions": 69,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 205,
+        "deletions": 14,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "69e0a7a5edb4fc606ccea49429109b859fcf9703",
+            "message": "Edited SortCommandParser so that it will not accept -category just because -cat is inside",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "078ecb14396dd231133f35838c08610ded7ff177",
+            "message": "Added SortCommandTest, SortCommandParserTest and updated FinanceTrackerParserTest",
+            "insertions": 195,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 10,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "a8348cc03661bf693247760fdd39a9545dd91e30",
+            "message": "Updated introduction in dg",
+            "insertions": 7,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 333,
+        "deletions": 269,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "499ef99ea0213b90ee6b2918495e5fc2795dd0a2",
+            "message": "AboutUs: Updated roles and responsibilities",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "e4a12fcf1f0fbedceb45791c8c55dde1477201ce",
+            "message": "UG: reordered features, added sort and reverse",
+            "insertions": 176,
+            "deletions": 122
+          },
+          {
+            "hash": "0ff054899afb491f89f8c78b466016d8f52e2f46",
+            "message": "Allow TOC in userguide to show smaller headings in features",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "413e607f863d05f01ed01a514b16e8a94d0d7707",
+            "message": "Checking if menus and buttons working",
+            "insertions": 11,
+            "deletions": 8
+          },
+          {
+            "hash": "4f6640e003c91016a9a412788e507a62900fb9bf",
+            "message": "Experiementing with menu",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "0bc73294ba222028cadd3c39a328131c636152ec",
+            "message": "Experiement with menus",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bc0d1cbbcee93b5e62357e03cdd4da204aa164e8",
+            "message": "Updated url and setting up section",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "47ab16d7783b5434220f8c5278dea47bdeff32f0",
+            "message": "DG: updated 2.4.1 and 2.4.2",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "6c1c8fd687ed16c45e82d13b3bb09263bd0d04dc",
+            "message": "DG: updated 3.1",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "8ab34102253db8ca5c159b5e629ff4cab8a8544b",
+            "message": "UG: updated 3.2 UI component",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "aede8a5c8b31389cfa99ca45894641d718baa7e0",
+            "message": "DG: updated logic, model, and storage sections",
+            "insertions": 10,
+            "deletions": 8
+          },
+          {
+            "hash": "0fa6bcb5d2662e241e0d6f821ed2eb456413709c",
+            "message": "DG: updated Implementation Undo/Redo Steps 1 - 4",
+            "insertions": 22,
+            "deletions": 16
+          },
+          {
+            "hash": "feaaaad2f76b5829096b20aa91a8b6fbc70577e7",
+            "message": "DG: updated sections before documentation",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "ede59fc0ea4efb4114cbc3aed397c24c2f77dc29",
+            "message": "Updated dg",
+            "insertions": 58,
+            "deletions": 67
+          },
+          {
+            "hash": "04ca2ef033e0a7b05dbd6946d10a693d8c44ffbd",
+            "message": "minor edits to dg",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 215,
+        "deletions": 115,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "0f9dbdf66fe227591ac1f684936f59e1c69ce8c5",
+            "message": "Removed previous sort implementation text in dg",
+            "insertions": 0,
+            "deletions": 23
+          },
+          {
+            "hash": "e7257c1e64a9a2530420ffc8d70f88dccf2324bc",
+            "message": "Allowing duplicate records in spend command",
+            "insertions": 29,
+            "deletions": 25
+          },
+          {
+            "hash": "6ce01c7c07391d5f7d9d6eef2a4ee9b33f77c617",
+            "message": "Updated SpendCommandTest",
+            "insertions": 15,
+            "deletions": 13
+          },
+          {
+            "hash": "ced47f0c5e0f14c310b31e77d664cdecb3352a82",
+            "message": "Fix checkstyle error",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "e54b4e81ce49e84872bc6282e00c7e49d723fc43",
+            "message": "Fixed tests",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "e98a6c802f6bff923545d1ecebb0bd8d67b3fe9d",
+            "message": "Removed redundant comparator in RecordCategoryComparator",
+            "insertions": 0,
+            "deletions": 10
+          },
+          {
+            "hash": "5431f1f104dfbacd0fcd9e0f4d29d57175c72ad6",
+            "message": "Updated edit command to allow duplicate records",
+            "insertions": 18,
+            "deletions": 29
+          },
+          {
+            "hash": "ddcad6f9290703a491d4156d22ee48027dd77b6a",
+            "message": "Updated Implementation section: Sort Feature",
+            "insertions": 50,
+            "deletions": 1
+          },
+          {
+            "hash": "2a5811cef99ac791d395f8f3849e5f230ecc21cb",
+            "message": "DG: updated implementation section\u0027s reverse feature",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "653d480c1ab8743480bf6a73fb047ed36b314f04",
+            "message": "Added template for ppp",
+            "insertions": 15,
+            "deletions": 0
+          },
+          {
+            "hash": "9b5ea12119cf35b572d950c06a836233791524e4",
+            "message": "ppp edits",
+            "insertions": 52,
+            "deletions": 0
+          },
+          {
+            "hash": "ea0ab1858dc3384ebdd03a79d56e5494881271be",
+            "message": "newline",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 27,
+        "deletions": 18,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "8cb4a64fc752bd8ef0267c621d05dd2510a1c7bc",
+            "message": "Fixed category display",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f7e4201147c2796e01647dc43fb8bb23f9cba303",
+            "message": "Enhanced search command to be more flexible",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "20171dd4048794da64d60fa3eac0746222e7b32c",
+            "message": "Edited message usage in the two commands to correspond",
+            "insertions": 21,
+            "deletions": 15
+          },
+          {
+            "hash": "9f2d358271d08164222b86e7c0d74557fc853021",
+            "message": "minor edits",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 235,
+        "deletions": 125,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "cba53e6a03d5dca7a501bbc685710b57a83448b0",
+            "message": "Enhanced search command to deal with invalid keywords supplied in search -date keywords",
+            "insertions": 55,
+            "deletions": 29
+          },
+          {
+            "hash": "45b017116cbde3e399fa2d24ce9870fe46927095",
+            "message": "Checkstyle fix",
+            "insertions": 9,
+            "deletions": 30
+          },
+          {
+            "hash": "93310ae8f9412cf0162c2fd59e1e257ea2b2cffe",
+            "message": "Added a tip on rev command in sort command\u0027s message usage",
+            "insertions": 19,
+            "deletions": 10
+          },
+          {
+            "hash": "6f1afe07df26579e190b7b5c6278e13f3a83b961",
+            "message": "Allow reverse command to take a flag to specify order",
+            "insertions": 134,
+            "deletions": 46
+          },
+          {
+            "hash": "515d08d8a36037f61f2dfbb27f73ecf49cc73949",
+            "message": "Updated user guide",
+            "insertions": 17,
+            "deletions": 9
+          },
+          {
+            "hash": "8e4ef0997f610df58ce2991e98591274e185b5ea",
+            "message": "Minor formatting edits to UG",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 231,
+        "deletions": 246,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "061bb3c8206e37fcff322f0fd510643817ebd39d",
+            "message": "Undid comments for clearcommandsystemtest",
+            "insertions": 138,
+            "deletions": 150
+          },
+          {
+            "hash": "b1f67458a217e98e78f4e9c2a703f649e0f5c8ca",
+            "message": "Allowed ClearCommandSystemTest to run a little",
+            "insertions": 6,
+            "deletions": 18
+          },
+          {
+            "hash": "f873906c8c1ab51c806b06ac750845f6309b6f22",
+            "message": "Updated, colour of tags not working yet",
+            "insertions": 31,
+            "deletions": 21
+          },
+          {
+            "hash": "e7e5adbc2ed2038fbb26d52279ce8cb777a540bc",
+            "message": "Updated css files, colours still not working",
+            "insertions": 56,
+            "deletions": 57
+          }
+        ]
+      },
+      {
+        "insertions": 470,
+        "deletions": 471,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "aaa10b0f6bea7b4e7db1a96c243afef409e882a4",
+            "message": "ClearCommandSystemTest passed",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f19eff8f226da9b5de4aebd9849d11019c558520",
+            "message": "Tags are coloured again",
+            "insertions": 56,
+            "deletions": 56
+          },
+          {
+            "hash": "157b8f7d72cf6b72d4c561fa93615f127f07cb63",
+            "message": "Update colours",
+            "insertions": 60,
+            "deletions": 56
+          },
+          {
+            "hash": "e2b5782d28e26eec2ff38cfb6ed5720cbc9bf99b",
+            "message": "ClearCommandSystemTest pass with tags colour tested",
+            "insertions": 24,
+            "deletions": 21
+          },
+          {
+            "hash": "8d5ab505c26b0f25fcbc0cb5460338cb994ba026",
+            "message": "Checkstyle fixes",
+            "insertions": 4,
+            "deletions": 8
+          },
+          {
+            "hash": "9076816e816bf8c7b03eca3bde44752e5ffe6e80",
+            "message": "updated deletecommandsystemtest",
+            "insertions": 60,
+            "deletions": 57
+          },
+          {
+            "hash": "a54cf39ce881dfc2c4e66cd60d16b378814a4df8",
+            "message": "updated EditCommandSystemTest",
+            "insertions": 110,
+            "deletions": 107
+          },
+          {
+            "hash": "f64a9af240bb7b4d6e8360df0111aa0c87c61f35",
+            "message": "Updated HelpCommandSystemTest",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "6a3625fa416c0e404b05cb2c6268380faaf6a399",
+            "message": "Updated SamplDataTest.java",
+            "insertions": 10,
+            "deletions": 13
+          },
+          {
+            "hash": "587996b48422de69d904f060e86a2fc9ae0f1eda",
+            "message": "Updated SearchCommandSystemTest",
+            "insertions": 80,
+            "deletions": 90
+          },
+          {
+            "hash": "be68f3c0e926b5165d33df8ed958df06a5e1ed2d",
+            "message": "Updated selectcommandsystemtest",
+            "insertions": 53,
+            "deletions": 48
+          }
+        ]
+      },
+      {
+        "insertions": 192,
+        "deletions": 122,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "3c2b060456a575f53b49221d7c05cf6d19dbef4f",
+            "message": "Updated spendcommandsystemtest",
+            "insertions": 140,
+            "deletions": 101
+          },
+          {
+            "hash": "1336ae6b403fc906736b0a248be6622e99f55268",
+            "message": "Added alias tests",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "dfbfb781f3bfd6da8d694445ed9c5ef6a610ab2e",
+            "message": "Checkstyle fixes",
+            "insertions": 13,
+            "deletions": 19
+          },
+          {
+            "hash": "fa4d5eb684c92be2d0060225ac97ae5a23ae21b9",
+            "message": "Bug fix",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 137,
+        "deletions": 8,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "2f880d27635bc409dcb813156055a8acb4fb5eb2",
+            "message": "Added sort and reverse sections of UG and DG to my PPP",
+            "insertions": 14,
+            "deletions": 1
+          },
+          {
+            "hash": "206248f13d1e0fee3c90c6b38b9186d7fe9733a4",
+            "message": "Updated PPP other contributions section",
+            "insertions": 29,
+            "deletions": 1
+          },
+          {
+            "hash": "eeefd97e0ea169a34860ac688f559dd24a810349",
+            "message": "Updated ppp",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "a37d42fcfae1c5d387beab8bc29f71185a30a950",
+            "message": "Updated formatting",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "6f4a5784d89f3612c044489020dfa42fc0e89459",
+            "message": "PPP: Added newline at EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bbbb78badf8965e684c3434aa019b5bb1ebbd496",
+            "message": "Added ReverseCommandSystemTest skeleton",
+            "insertions": 45,
+            "deletions": 0
+          },
+          {
+            "hash": "f87fb1e3767049cd75b81c15e0c80b4acfd3afb6",
+            "message": "Added test cases in ReverseCommandSystemTest",
+            "insertions": 46,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 400,
+        "deletions": 58,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "67239517121c55cb06e17ba6a14358a8591e2c35",
+            "message": "Updated reversecommandsystemtest",
+            "insertions": 55,
+            "deletions": 1
+          },
+          {
+            "hash": "839b4e732b1e74497a11b23b39a9575862b1f49c",
+            "message": "Reverse and Sort commands: included case when list is empty",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "eec2fe2bc1591285e24466f3ec550d09ca1dfa56",
+            "message": "Added tests for empty list case for reverse and sort commands",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "8dff2c6218f44d0abac1b4c26f48952409f9ea73",
+            "message": "Updated reversecommandsystemtest to include empty list case",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "8759ad663e5a5634613571304787bb0a2cf6ef0b",
+            "message": "Enhanced sort command to be more stringent",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "dadcb3d30dfd233553023a75b0d8f4e4548f803a",
+            "message": "Added sortcommandsystemtest skeleton",
+            "insertions": 57,
+            "deletions": 1
+          },
+          {
+            "hash": "9bf9a8c3353001a794172c818965b090ca061b88",
+            "message": "Updated sortcommandsystemtest",
+            "insertions": 85,
+            "deletions": 0
+          },
+          {
+            "hash": "ff04521387cbde97c10f293d5c308c61b6881f43",
+            "message": "Updated SortCommandSystemTest.java",
+            "insertions": 44,
+            "deletions": 3
+          },
+          {
+            "hash": "d16b7d68aee0f9b4860c77a70b347bc032a81ccf",
+            "message": "Updated reverse command to throw command exception",
+            "insertions": 43,
+            "deletions": 6
+          },
+          {
+            "hash": "f812fefc65970215ceadf8a85ddb00c1c2a7dde4",
+            "message": "Updated sort command to throw commandexception",
+            "insertions": 13,
+            "deletions": 8
+          },
+          {
+            "hash": "77e4e153e54c7907edf5473add525c54ed77a6ae",
+            "message": "Updated formating in SortCommandSystemTest",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "435e3938f3b7dedd6e461b7e470d783a521eead2",
+            "message": "Checkstyle fixes",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "b4bbe05a34c93115f1f130dd980b29be714b2614",
+            "message": "Edited colour of labels in summary pie chart",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "01e81ce97b8ac462e2af6519dbae8229383131fd",
+            "message": "Allowed piechart colours to correspond with category colours",
+            "insertions": 12,
+            "deletions": 16
+          },
+          {
+            "hash": "2ab801c31ad3a810eef8158c838cc425e09f6e5b",
+            "message": "Checkstyle fixes",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 118,
+        "deletions": 85,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "d0b889e2e4e045408af9b3702ffda0e2d24d9456",
+            "message": "Added some tests related to future date and updated user guide",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "4557e73b8dfa09ca599b76dee65b740564036540",
+            "message": "Legend colours correspond with pie chart colours",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "79905185eb55dc79a861eb542fcefd5585176351",
+            "message": "Edited formatting of code",
+            "insertions": 7,
+            "deletions": 11
+          },
+          {
+            "hash": "f9935e1b99436a997e9f803caaa52aa597e43765",
+            "message": "Checkstyle Fixes",
+            "insertions": 8,
+            "deletions": 9
+          },
+          {
+            "hash": "5f59381fb9a83335f792432aca41e31e5a455841",
+            "message": "Updated TODO sections in editcommandparsertest",
+            "insertions": 14,
+            "deletions": 21
+          },
+          {
+            "hash": "e357c2610f8922f43ea418331af8bbb9729d16ed",
+            "message": "updated todo test in jsonfinancetrackerstoragetest",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "9a5e9f97b5c2d670db3f033c69474299466eb429",
+            "message": "Updated TODO in jsonserializablefinancetrackertest",
+            "insertions": 38,
+            "deletions": 23
+          },
+          {
+            "hash": "eb1ead32cf33e54cfb0c79ff286551644b6c324a",
+            "message": "Updated TODO in RecordCardTest",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "48003ae8b60eab78f56521de2fdbd4ac970e17a0",
+            "message": "Updated TODO in RecordListPanelTest",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "c50903577b15108effcf0c2fa4281e014c48283c",
+            "message": "Checkstyle Fixes",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 23,
+        "deletions": 9,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "1a59aa29bf6aae8afbd8ff2d1a04869ee8a977f4",
+            "message": "Included diagrams in user guide",
+            "insertions": 12,
+            "deletions": 3
+          },
+          {
+            "hash": "a4ae25777f3a1102f750062fc0dc242d527e673e",
+            "message": "Added diagram for reverse command",
+            "insertions": 11,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 141,
+        "deletions": 99,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "db452a74b49a6ebd6301cac9e985893765ce8b34",
+            "message": "Updated lifelines in the two diagrams",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "3567e725da6733b5ede2ce0d1f36504f5667115d",
+            "message": "Updated sort implementation in dg",
+            "insertions": 45,
+            "deletions": 6
+          },
+          {
+            "hash": "38550debe6b0c3bcf2bbc21f462928ef96e68eda",
+            "message": "Removed design considerations for reverse command",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "e5f4d3639843308ef4ae726840ecd5dc50d0ce19",
+            "message": "Updated DG manual testing section (spend and sort)",
+            "insertions": 56,
+            "deletions": 9
+          },
+          {
+            "hash": "9d6b65cb0c929d30c7e19fb904fdce24efab7942",
+            "message": "Updated ppp enhancements made section",
+            "insertions": 29,
+            "deletions": 28
+          },
+          {
+            "hash": "1c7d406f285c6d5984545476c30e40c17f5ac55b",
+            "message": "Updated ppp",
+            "insertions": 5,
+            "deletions": 8
+          },
+          {
+            "hash": "2b7b4b2a9dec7ca237f839e676519d7f4f6e0029",
+            "message": "Formatting edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c11ae779e362400f84fe394d1ad88cd2d85a1b40",
+            "message": "Formatting edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "dc5946ff1bd0be7f36e8ac45d66342bf44250581",
+            "message": "formatting edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4c06f32cc8c2ccd90cde12525d7bc89d8d6085fa",
+            "message": "Deleted DuplicateRecordException",
+            "insertions": 0,
+            "deletions": 11
+          },
+          {
+            "hash": "2d31f8c21c31e1bbb2da1bb842b3786e6ecb1706",
+            "message": "deleted componentmanager.java",
+            "insertions": 0,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 406,
+        "deletions": 365,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "067f09adba83037444c5b187455f19d45f4856ab",
+            "message": "Minor edits to formatting",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "2f1b2abb1488e45be767e5f4490af02702ac5dc3",
+            "message": "Edited sort and rev effect on empty filtered list",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "e6fa7962e141dfd0ac8de918fd27dfe31a16b73b",
+            "message": "Updated formatting",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "b38aeb6b6f1c153866bc4afa1ea683a3e16495f3",
+            "message": "Commented out select in UG\u0027s command summary section",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c95fde5887c870df6efc01d72e8defb74792e10a",
+            "message": "Added $ in SetCommand\u0027s message_success message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d04e917536a4c8d48648a46521d076638558b3e7",
+            "message": "Updated UG\u0027s summary command format",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b83936436104e039f74b440cc4cb42f685933d00",
+            "message": "Formatting errors updated",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "db39793f7974ea6c702867c49fa1a2eed0c73970",
+            "message": "Added max amount allowed constraint for Amount",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "bda156b27813952eea537cd86c746fde3460ea1c",
+            "message": "Updated Amount constraints",
+            "insertions": 5,
+            "deletions": 15
+          },
+          {
+            "hash": "c049ec2b6f7d13db2a119c062897119a3fe18e67",
+            "message": "Added max characters constraint for name",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "a3ec15fb0cc923806c0d18fbe181548540a7c504",
+            "message": "Added max characters constraint for category names",
+            "insertions": 23,
+            "deletions": 3
+          },
+          {
+            "hash": "045ce91bdab815ec6fb78255bcbc9606cce53732",
+            "message": "Updated UG on input constraints",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "bfd9e3693ed291f04c82e7159528c4a8fbc57f74",
+            "message": "Updated amount constraints in set and allocate for UG",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "7aad96e0f4f8c14e2dbcdf76c6294564125893e1",
+            "message": "Added colours to UG",
+            "insertions": 35,
+            "deletions": 33
+          },
+          {
+            "hash": "3e0353992258d832ad0322f4d9e541bfb024af2d",
+            "message": "Updated till 4.1",
+            "insertions": 54,
+            "deletions": 54
+          },
+          {
+            "hash": "05919b6df62a54a1d3857fbca0eaee5bbc82a90f",
+            "message": "added till theme",
+            "insertions": 166,
+            "deletions": 166
+          },
+          {
+            "hash": "159a20253e5b707cf91222cf07dc73cb3945ee8f",
+            "message": "Make more updates to UG (color)",
+            "insertions": 23,
+            "deletions": 23
+          },
+          {
+            "hash": "1523b2eaed46c746b1fda1e49fa500b677cfcf35",
+            "message": "Minor format edits",
+            "insertions": 36,
+            "deletions": 34
+          },
+          {
+            "hash": "57e349ac67f46f263ad97a8e8b0482f528a46e67",
+            "message": "Coloured UG",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 945,
+        "deletions": 544,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "d89cac2b05441ced0599490cc8755a89372613ac",
+            "message": "Updated sections 1 and 2 of DG",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "701a96e67a0b8392f2f1edd7f019f68377ef49da",
+            "message": "Coloured links blue in DG",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "7c5da5ca25c0c769aadf78426d281ffb2c1162a9",
+            "message": "Finalised sections 1 and 2 of DG",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "9b74b5f3217058ca7c9db289e574085bb11907b0",
+            "message": "Updated section 3 of DG",
+            "insertions": 39,
+            "deletions": 39
+          },
+          {
+            "hash": "a518b5813efd4502b42cc024730e9090599f4d18",
+            "message": "Updated till sort",
+            "insertions": 55,
+            "deletions": 55
+          },
+          {
+            "hash": "849191cddc45b113c7ed3aa04e94640e9f487f28",
+            "message": "Updated till Budget management",
+            "insertions": 30,
+            "deletions": 30
+          },
+          {
+            "hash": "79ee1f3d47ab632bd591e6e88153a6cc38e17157",
+            "message": "Finished updating till section 5",
+            "insertions": 101,
+            "deletions": 99
+          },
+          {
+            "hash": "b80e89fbf65a061c63a3fefbbabcae7464719b4a",
+            "message": "Updated till Appendix in DG",
+            "insertions": 47,
+            "deletions": 47
+          },
+          {
+            "hash": "3877af74d2729a171ddb94bc724080d56d7f5262",
+            "message": "Updated till Manual testing section",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "866e6068775f2b38a851ecdd41ab040e33814527",
+            "message": "Added colours to manual testing section",
+            "insertions": 78,
+            "deletions": 86
+          },
+          {
+            "hash": "0185274ab35a6c41f614b12555df41a76860725b",
+            "message": "added navy colour for e.g.",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "09c4a18ab9b9f9348af2760c3fddcdcd230b813d",
+            "message": "Added colours to ppp",
+            "insertions": 20,
+            "deletions": 19
+          },
+          {
+            "hash": "28768bcc01dcb8b9ec8a0b81a0def92b4a612241",
+            "message": "Updated colours in both documents",
+            "insertions": 10,
+            "deletions": 15
+          },
+          {
+            "hash": "6ccc15851fd0e496a2a990b7d0230318827b3421",
+            "message": "Added blank lines section 1 -3 in UG",
+            "insertions": 48,
+            "deletions": 13
+          },
+          {
+            "hash": "8612a469f2f7585d0e3cfef0592e56df95184acd",
+            "message": "Added blank lines to whole document",
+            "insertions": 77,
+            "deletions": 2
+          },
+          {
+            "hash": "f2129527ada79de9c6619dcf46e31531feb2d129",
+            "message": "UG: text justified",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "b27ac57959f9f3f7312feba674e80bec56968eea",
+            "message": "Updated sections 1 to 3 of DG",
+            "insertions": 61,
+            "deletions": 9
+          },
+          {
+            "hash": "4c45f2acc96229b9e0c500890097f8f912985bc6",
+            "message": "Formatted DG",
+            "insertions": 216,
+            "deletions": 27
+          },
+          {
+            "hash": "4e28fb16ac3b5149f62d2b703cf7fc44046d989b",
+            "message": "Allowed blank lines in all ppp",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "86eea8b59d4a83a07527827d371680170e2a1299",
+            "message": "Added page breaks to UG",
+            "insertions": 26,
+            "deletions": 6
+          },
+          {
+            "hash": "a18bae1e91b31d9c738edc2da2fbaf7f5cb48e9c",
+            "message": "Added page breaks in DG",
+            "insertions": 44,
+            "deletions": 28
+          },
+          {
+            "hash": "d53fa4e1493ac516c4d5891ce8d747051b6493d0",
+            "message": "Minor edits",
+            "insertions": 11,
+            "deletions": 16
+          },
+          {
+            "hash": "822a1ae7ce59be85e05656499d5aba239c9fc66b",
+            "message": "Added a blank line",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "23e9e81e107d1f8d160f904ed0ee5072d1611a81",
+            "message": "Added another blank line",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "cb4c514c9069c07b4c13de33fd99e781860fec77",
+            "message": "Added a line in UG",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "516435b6dda24ef41fb757845f69c06bb67c1c14",
+            "message": "shifted diagram above text explanation",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "6a2db0e80b5de68b6dcc109081df530c15100244",
+            "message": "Edited ppp formatting",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "geezlouisee": 1950,
+    "JeremyLoye": 2119,
+    "Jackimaru96": 3709,
+    "eugeneyl": 2669,
+    "kjiaxuan": 5320
+  },
+  "authorFileFormatContributionMap": {
+    "geezlouisee": {
+      "adoc": 293,
+      "cs": 0,
+      "css": 156,
+      "fxml": 30,
+      "gradle": 0,
+      "html": 0,
+      "java": 1434,
+      "js": 0,
+      "json": 37,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "JeremyLoye": {
+      "adoc": 340,
+      "cs": 0,
+      "css": 0,
+      "fxml": 8,
+      "gradle": 0,
+      "html": 0,
+      "java": 1704,
+      "js": 0,
+      "json": 67,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "Jackimaru96": {
+      "adoc": 582,
+      "cs": 0,
+      "css": 963,
+      "fxml": 62,
+      "gradle": 0,
+      "html": 1,
+      "java": 2089,
+      "js": 0,
+      "json": 12,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "eugeneyl": {
+      "adoc": 421,
+      "cs": 0,
+      "css": 0,
+      "fxml": 1,
+      "gradle": 0,
+      "html": 0,
+      "java": 2236,
+      "js": 0,
+      "json": 11,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "kjiaxuan": {
+      "adoc": 1472,
+      "cs": 0,
+      "css": 143,
+      "fxml": 6,
+      "gradle": 4,
+      "html": 0,
+      "java": 3650,
+      "js": 0,
+      "json": 45,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "geezlouisee": 33798.48,
+    "JeremyLoye": 111793.56,
+    "Jackimaru96": 92374.05,
+    "eugeneyl": 319626.75,
+    "kjiaxuan": 206855.5
+  },
+  "authorDisplayNameMap": {
+    "geezlouisee": "LOUISE LEE HUI LING",
+    "JeremyLoye": "LOYE HEAN WEI JEREMY",
+    "Jackimaru96": "JACK CHEN YU JIE",
+    "eugeneyl": "YONG LE EUGENE",
+    "kjiaxuan": "KOK JIA XUAN"
+  }
+}

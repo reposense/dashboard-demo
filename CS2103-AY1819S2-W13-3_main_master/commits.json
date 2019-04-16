@@ -1,0 +1,5472 @@
+{
+  "authorDailyContributionsMap": {
+    "suriruhani": [
+      {
+        "insertions": 56,
+        "deletions": 24,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "d1ea651b7dcc2116e5feeb5e3244eae6423073e3",
+            "message": "Update AboutUs.adoc",
+            "insertions": 47,
+            "deletions": 21
+          },
+          {
+            "hash": "ac93c0f0d1759acf92ba3748578cbdbdcdf483e8",
+            "message": "Update ContactUs.adoc",
+            "insertions": 9,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 19,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "0ffa9103cde0ee9206f8bfcb0aa2440a4e85d030",
+            "message": "Added pictures to AboutUs.adoc",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "c12600798ff5e2d451eea893131b6a94ce2d019c",
+            "message": "Updated AboutUs.adoc",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "9018433e4e4ca898dfe7798b0327f2526c009624",
+            "message": "minor bug fixes",
+            "insertions": 1,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 10,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "38585f8d71230129c4c95813061fdb908e56d27f",
+            "message": "Edit ListCommand.java success message",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "87c75d82b6fb46bc2b522aa5c712192b5c175bcb",
+            "message": "Accept \u0027greet\u0027 command and display success message",
+            "insertions": 24,
+            "deletions": 0
+          },
+          {
+            "hash": "7327663f0f76db72369c4ac5ef5d2e34b1b4aac5",
+            "message": "Update MESSAGE_SUCCESS to display the greeting",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "eb747fb7b0a37f06e40d38c87af5168dd934b037",
+            "message": "Minor checkstyle fixes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "df4710606b9d0fd10ea801ad998d663559a2efc9",
+            "message": "Revert changes to ListCommand.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "290a79473c3eb93b8763e5912e9822378d0ac89c",
+            "message": "Checkstyle fixes",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d6bf14bff49bd74d07f526ea72678edfd980a933",
+            "message": "Checkstyle fixes yet again",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 55,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "acfe0bef904ea6659110541b931bad1fe8ed71a8",
+            "message": "update Storage.java and SourceDatabaseStorage.java interfaces",
+            "insertions": 10,
+            "deletions": 55
+          }
+        ]
+      },
+      {
+        "insertions": 313,
+        "deletions": 262,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "4822484b0acc11b292a731aa1d2d997082db89d5",
+            "message": "update JsonSourceDatabaseStorage.java interface",
+            "insertions": 0,
+            "deletions": 80
+          },
+          {
+            "hash": "2a02d86288c35fed9de2ea92c920f070413e30f3",
+            "message": "update classes JsonSourceDatabaseStorage.java and JsonSerializableSourceDatabase.java",
+            "insertions": 0,
+            "deletions": 60
+          },
+          {
+            "hash": "a57f52186d781c65f95aca489965e632a082d948",
+            "message": "update class JsonAdaptedSource.java",
+            "insertions": 0,
+            "deletions": 109
+          },
+          {
+            "hash": "e784077fdc7effd00be0256786d878be3c8d7aa0",
+            "message": "update class StorageManager.java",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "98f3b3c5efeb1f2982ede1e9ef25a7245a6d374a",
+            "message": "add class JsonAdaptedSource.java",
+            "insertions": 113,
+            "deletions": 0
+          },
+          {
+            "hash": "3eca4288b661148fdae65e96b60ee8b8cab68f98",
+            "message": "add class JsonSerializableSourceDatabase.java",
+            "insertions": 61,
+            "deletions": 0
+          },
+          {
+            "hash": "5cd1e0ee8e9b8a6cc1e89b01457489e7e6f5b86a",
+            "message": "add class JsonSourceDatabaseStorage.java",
+            "insertions": 80,
+            "deletions": 0
+          },
+          {
+            "hash": "b5cd04cd829e588f17c11a36cfe82fa1bc357e48",
+            "message": "add class SourceDatabaseStorage.java",
+            "insertions": 46,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 194,
+        "deletions": 89,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "696a6ca95d5ef83e99a40b0afa9cc27282f9dfa4",
+            "message": "Edit and tested working of List Command post integration [ListCommand.java]",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "03568ae985bf47124771f5bde7ab577c28cd7052",
+            "message": "Edit and tested working of Find Command post integration [FindCommand.java]",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "80f7eb9eff0121cb6163b6ba3cce0e65a7571c0b",
+            "message": "Refactor FindCommand.java into SearchCommand.java; parser and tests updated too. Tested, working as per the default logic",
+            "insertions": 24,
+            "deletions": 24
+          },
+          {
+            "hash": "899a4d5567eeb5baa39141710c91c0af2209e9bf",
+            "message": "Update UserGuide.adoc for Search and List Command",
+            "insertions": 11,
+            "deletions": 10
+          },
+          {
+            "hash": "ed73543ef978665777a7c57bb7f227e0620195b7",
+            "message": "Update UserGuide.adoc for Search and List Command [minor fixes]",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "63aa6cde8d3c42a69e4595499d109d218789d6ed",
+            "message": "Update DeveloperGuide.adoc for Search Command (without pictures)",
+            "insertions": 125,
+            "deletions": 0
+          },
+          {
+            "hash": "578a8748ca4a65a19c445f4c2a638943986855ab",
+            "message": "Update DeveloperGuide.adoc for List Command (without pictures)",
+            "insertions": 21,
+            "deletions": 48
+          }
+        ]
+      },
+      {
+        "insertions": 152,
+        "deletions": 59,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "db3514be161f628a124a9d06e33ac9c98f0d07e1",
+            "message": "Update ListCommand.java to take in optional argument",
+            "insertions": 19,
+            "deletions": 3
+          },
+          {
+            "hash": "65528f4355b1714f95c0a6e85a4d4cd9b3367a58",
+            "message": "Add ListCommandParser.java to accept user input",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "a21419dc1fbbe5c06c50666c09422162c041f2ec",
+            "message": "Implement ListCommandParser logic",
+            "insertions": 19,
+            "deletions": 2
+          },
+          {
+            "hash": "a85be8f3f34c6c3721259fcbd7383716d9dec534",
+            "message": "Modify ListCommand.java logic to accept an optional argument",
+            "insertions": 40,
+            "deletions": 6
+          },
+          {
+            "hash": "8a586df9f278a746994de5e3c241bc479349c739",
+            "message": "Modified to add optional argument logic in ListCommandParser.java",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "f4d0eac7725d8d800eb47bf6fb803777da6519a2",
+            "message": "checkstyle fixes",
+            "insertions": 17,
+            "deletions": 13
+          },
+          {
+            "hash": "d573f38259ab3b97dc7b3b223f9f86c6308b9214",
+            "message": "more checkstyle fixes",
+            "insertions": 9,
+            "deletions": 10
+          },
+          {
+            "hash": "434dae233c54040e76d17ba9091767144fc4f327",
+            "message": "Updated User Guide and Developer Guide (with minor checkstyle fixes)",
+            "insertions": 14,
+            "deletions": 8
+          },
+          {
+            "hash": "38b1a9a077cf7e8f0a1d36cb1a445156c8009135",
+            "message": "edit ListCommand tests",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "c2647e0bcebed8128bf74008bebefd7397fe97a6",
+            "message": "checkstyle fixes",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "a2b42be806538c705bb529a8d9c3b3522f8626d3",
+            "message": "comment test cases relating to list command[temporary]",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "03c6aa4e0de79a93d775c229f8da50bf8c194552",
+            "message": "even more checkstyle fixes",
+            "insertions": 0,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 996,
+        "deletions": 146,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "ada7aa419d5a8f245792cc1a4b81a33f73fcbfb9",
+            "message": "Implement list n command logic",
+            "insertions": 996,
+            "deletions": 146
+          }
+        ]
+      },
+      {
+        "insertions": 564,
+        "deletions": 413,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "98f63e7bb8863c3c47628adf6b121cd491b0fe41",
+            "message": "Fixing ListCommandTest.java",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "88382518d77097b562d2d144f76d6fa8cb0f2081",
+            "message": "Clean up code and checkstyle fixes",
+            "insertions": 16,
+            "deletions": 36
+          },
+          {
+            "hash": "1fe5c9c0007687bb4a12b0e875fc97e199fa250c",
+            "message": "Update docs",
+            "insertions": 24,
+            "deletions": 22
+          },
+          {
+            "hash": "a79a1c8e4c825147f1e645efd0422a8791140dae",
+            "message": "Refactor TitleContainsKeywordsPredicate to SourceContainsKeywordsPredicate",
+            "insertions": 53,
+            "deletions": 51
+          },
+          {
+            "hash": "06b19f711a2935a42b41bff1dbd9227682c10a75",
+            "message": "update search command usage to accommodate complex search feature",
+            "insertions": 21,
+            "deletions": 6
+          },
+          {
+            "hash": "d544c1b1a0d6c852d89914fbefd76aaef82960d4",
+            "message": "refactor SourceContainsKeywordsPredicate to take in parameter of time ArgumentMultimap",
+            "insertions": 15,
+            "deletions": 7
+          },
+          {
+            "hash": "a988c3779d1b72283d1856e8bf9b680641088fd1",
+            "message": "modify SourceContainsKeywordsPredicate to split parameters into title, detail, type, source and tags",
+            "insertions": 54,
+            "deletions": 1
+          },
+          {
+            "hash": "ec24c5132f3a29d0c1b83f344c9524eb9625a650",
+            "message": "implement matchTitleKeywords in SourceContainsKeywordsPredicate.java",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "6a52435f7ac1d598c3a124f30ab9fac021bce4af",
+            "message": "implement matchTypeKeywords in SourceContainsKeywordsPredicate.java",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "59ae27510b48bfc06d85d3c915414f004e8c3c3d",
+            "message": "implement matchDetailKeywords in SourceContainsKeywordsPredicate.java",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "912be1ec211fe6edd9d759ee384afd9987360091",
+            "message": "implement matchTagKeywords in SourceContainsKeywordsPredicate.java",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "7c0ab62f242918b6da422d8a52d7d725a4398f5d",
+            "message": "modify matchTagKeywords in SourceContainsKeywordsPredicate.java to allow conjunction of multiple tags",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "b88cba41f10e8dd4b42fd6a8f7b21564026b0a56",
+            "message": "add javadoc comments to all methods in SourceContainsKeywordsPredicate",
+            "insertions": 36,
+            "deletions": 8
+          },
+          {
+            "hash": "514d2a5ba1bc0fab8f1c6126d73b73d507ac95a5",
+            "message": "update UG and DG; minor checkstyle fixes",
+            "insertions": 216,
+            "deletions": 237
+          },
+          {
+            "hash": "d8845a6e9bdd7d12808aa0c5f908d31c23fd2013",
+            "message": "add ruhanisuri.adoc PPP",
+            "insertions": 76,
+            "deletions": 2
+          },
+          {
+            "hash": "34f7168333658e93b4ea6b2a730cabdb3463f57f",
+            "message": "commenting out tests",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "053dc752c8144bad59adfb3875582f9b986f4939",
+            "message": "commenting out tests",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "c3faca95b91e8aba1825336b6ee009bbbdca453f",
+            "message": "edit PPP ruhanisuri.adoc",
+            "insertions": 3,
+            "deletions": 11
+          },
+          {
+            "hash": "e9ec995d33fc6e4247de1cdd49c6cad58981a687",
+            "message": "edit PPP ruhanisuri.adoc and minor checkstyle fixes",
+            "insertions": 13,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 82,
+        "deletions": 32,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "c0303652b27030b1296241650623de1a129eb0c9",
+            "message": "add @Ignore tags to failing system tests [temporary]",
+            "insertions": 17,
+            "deletions": 7
+          },
+          {
+            "hash": "f4366aed79e4135ee0903aaa03842c5badf4698b",
+            "message": "edit README.adoc",
+            "insertions": 13,
+            "deletions": 2
+          },
+          {
+            "hash": "5804761878f16562d09b11d766a5d4a3578d1bd6",
+            "message": "edit ContactUs.adoc",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "b55185987d95aca0019341890a1cf4d6c6c44e82",
+            "message": "edit AboutUs.adoc",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "d2e8a1eaacf4f9b09b139c402a70e8046f731aef",
+            "message": "edit ruhanisuri.adoc",
+            "insertions": 39,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 260,
+        "deletions": 73,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "98f5b058d6f3a9568eb4dcb3c6217314b0a692b0",
+            "message": "edit ruhanisuri.adoc",
+            "insertions": 163,
+            "deletions": 45
+          },
+          {
+            "hash": "edacc1d1bfa17109c7eaf28d313e761d67ca2e94",
+            "message": "fix #160",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a498dcc6f69d92e2c02adf79c3a6147d17a6122c",
+            "message": "fix #167",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "e7ab4457b3ad4ed82cb5ed907f8acce0200cbc0c",
+            "message": "edit UG and fix #168",
+            "insertions": 17,
+            "deletions": 22
+          },
+          {
+            "hash": "cc7413f87b2a4e962090cc9c52f26659ea5ff3a0",
+            "message": "edit DG",
+            "insertions": 79,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 375,
+        "deletions": 139,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "0865146535b1c8edc6a9d8914f1b56476d7142a7",
+            "message": "update SourceContainsKeywordPredicate.java checker methods",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "4b8598bf529e76c785f5a52554f38a0205af0e40",
+            "message": "refactor listKeyword names",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c44874d6454d6395bd29e70ce5d579460514c7e6",
+            "message": "update javadoc to include new description",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "f2ad8afa739dd507eb214fd503c339e2bc17c694",
+            "message": "update UG",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "f93af628a79cc88e1cd0afcb066673ce6da19c1e",
+            "message": "update DG",
+            "insertions": 21,
+            "deletions": 16
+          },
+          {
+            "hash": "8c045367bc7d97e61b3f682a53b54693cf9a2b56",
+            "message": "update PPP",
+            "insertions": 22,
+            "deletions": 4
+          },
+          {
+            "hash": "b83b76fc126bc710a037a9662c6a680b601f00d8",
+            "message": "fixed SearchCommandTest and added zero keywords tests",
+            "insertions": 120,
+            "deletions": 52
+          },
+          {
+            "hash": "fde98392590e9cd857ee67e0853898aad5293211",
+            "message": "update SourceContainsKeywordsPredicate to allow multiple title, type, detail fields",
+            "insertions": 65,
+            "deletions": 27
+          },
+          {
+            "hash": "402e4cb8600a714dcb109709841641087a214e53",
+            "message": "add multiple keywords tests and minor edit to search logic",
+            "insertions": 121,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 265,
+        "deletions": 114,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "d629e03a630bb46fb6ba0921ec4593a4337312d6",
+            "message": "fix emptyArg parser test",
+            "insertions": 42,
+            "deletions": 4
+          },
+          {
+            "hash": "92aa026da3a5037396ec56fd25fcff01ac93b285",
+            "message": "implement parser tests with other combination of args [TEMP @IGNORE]",
+            "insertions": 63,
+            "deletions": 18
+          },
+          {
+            "hash": "fe8758d6f20acef76700be8a3553e9977e142608",
+            "message": "fix SourceManagerParserTest for search [TEMP @IGNORE]",
+            "insertions": 13,
+            "deletions": 18
+          },
+          {
+            "hash": "cfb487c327428494112ec6e4d56e01386b747276",
+            "message": "update tests\u0027 argMultimap formation",
+            "insertions": 20,
+            "deletions": 18
+          },
+          {
+            "hash": "7fd132d475e1e81517278deda46e8d5ccb329cfc",
+            "message": "fix all tests and remove @IGNORE",
+            "insertions": 14,
+            "deletions": 5
+          },
+          {
+            "hash": "745fa3efa3c3b84408a8b06d24223b59a4341ebd",
+            "message": "implement .equals() method in ArgumentMultimap and fix all tests (minor checkstyle fixes too)",
+            "insertions": 31,
+            "deletions": 14
+          },
+          {
+            "hash": "89dceb77e2b32cd08a556236ae93e8d9940ea4e4",
+            "message": "override hashcode methods for search command related classes and simplify equals method implementation of ArgumentMultimap",
+            "insertions": 16,
+            "deletions": 14
+          },
+          {
+            "hash": "d4ce7e93c950d2b57db839d5dc63a3614efbe743",
+            "message": "update UG",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "891ff1b2a66dd2e9cb0135b86884eba990def964",
+            "message": "update DG",
+            "insertions": 26,
+            "deletions": 7
+          },
+          {
+            "hash": "4e0fc5b2a57de5eb3cc915509d1adb9095907a33",
+            "message": "update PPP",
+            "insertions": 34,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 27,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "0dfca1c913a9bcc81e7f275cefb04d015f82be00",
+            "message": "implement Levenshtien Distance check for autocorrect feature",
+            "insertions": 58,
+            "deletions": 6
+          },
+          {
+            "hash": "c2689ccb63ed129f9717cb0c877ade37233e224b",
+            "message": "fix current tests",
+            "insertions": 14,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 9,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "10bf86b0bb67eda64d485d895f57f08d94a9308e",
+            "message": "update tests for new enhancement",
+            "insertions": 15,
+            "deletions": 8
+          },
+          {
+            "hash": "da9a410864fde1d208515b9b7024fae5bf9a85ca",
+            "message": "enhance tests",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 92,
+        "deletions": 37,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "78912a163decfc4a1fccdd6a6789556dd2fe55f8",
+            "message": "rename PPP to github id",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "46a29bd4790fe108877b836177457b2d98f91c88",
+            "message": "edit reposense link in PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2557b9095ce4e1ddb252949f77189b3895390fb5",
+            "message": "update PPP",
+            "insertions": 25,
+            "deletions": 6
+          },
+          {
+            "hash": "750915430fc5f88209b71c300a8b20bc42a61050",
+            "message": "fix PPP typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f33a62b9470bafa6dd6794c010e62ee0b80fac12",
+            "message": "update DG",
+            "insertions": 28,
+            "deletions": 2
+          },
+          {
+            "hash": "c6fef5ea87ddb890e973edadadb97ca69b1a7e4a",
+            "message": "update UG",
+            "insertions": 15,
+            "deletions": 4
+          },
+          {
+            "hash": "26e173163c931ee31f9aad486dc509899c8b86b5",
+            "message": "updates javadoc",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "e6b07ba2c9c060050e94543550ce92408f792481",
+            "message": "update doc",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "d07d37c9d3aa11a1bf25e3ef9e2dd8b183dcab1d",
+            "message": "fix SearchCommandTest.java",
+            "insertions": 9,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 153,
+        "deletions": 74,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "d5c950005347666659085fcb793c190ba9c6544b",
+            "message": "modify TypicalSources for search logic",
+            "insertions": 78,
+            "deletions": 44
+          },
+          {
+            "hash": "806a228f0b7752fa1add5fc46702aad79a84f5c8",
+            "message": "temp tests fix [with temp functions]",
+            "insertions": 32,
+            "deletions": 22
+          },
+          {
+            "hash": "90e9aa950fe718c61ca58347842e5e68f9b12309",
+            "message": "implement list 2 arguments logic",
+            "insertions": 39,
+            "deletions": 4
+          },
+          {
+            "hash": "bacbba8f02882680b2d2d083368bf557255005ad",
+            "message": "add all member porfolio links to aboutus",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 472,
+        "deletions": 266,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "405ef9fb331b5607d83f7432a355da38cb65789e",
+            "message": "implement negative list argument",
+            "insertions": 59,
+            "deletions": 11
+          },
+          {
+            "hash": "92dc26b24e96edd728e0c574b74bd9312ebcf9db",
+            "message": "minor fixes",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "9dd52d492dde8f890372f9dfec9db572eaad9d11",
+            "message": "implement list tests",
+            "insertions": 58,
+            "deletions": 7
+          },
+          {
+            "hash": "255c0667e1d47ae5b6838dc09c74774a0af516cb",
+            "message": "modify list tests",
+            "insertions": 20,
+            "deletions": 2
+          },
+          {
+            "hash": "8d6e0850028c5850719ff12b7e0180689d5f5b8d",
+            "message": "fix list command tests",
+            "insertions": 46,
+            "deletions": 50
+          },
+          {
+            "hash": "f16c51bb3bd9433e1a54cbda4b9ece83a7f27451",
+            "message": "create ListCommandParserTest",
+            "insertions": 74,
+            "deletions": 2
+          },
+          {
+            "hash": "5e4395bd1e36db45d6612408ea202403e21e57f6",
+            "message": "fix search test",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "cfde7c4ac2cbb5c70292fed8acded84ff4722d4d",
+            "message": "update listcommand equals",
+            "insertions": 34,
+            "deletions": 10
+          },
+          {
+            "hash": "95d2e0383c366eb54c5f634810d1ae40167868f4",
+            "message": "fix listcommand tests",
+            "insertions": 9,
+            "deletions": 11
+          },
+          {
+            "hash": "b25fd3c621150377554adf17a00f68ecbc6b2f45",
+            "message": "fix listcommandparser tests",
+            "insertions": 3,
+            "deletions": 43
+          },
+          {
+            "hash": "b41e2493400d3321b94208a1632b1d921b6044f2",
+            "message": "mid-PR travis check",
+            "insertions": 87,
+            "deletions": 62
+          },
+          {
+            "hash": "b1c6d57e4aa7fa307f826f275792bc7e0277fbab",
+            "message": "updated UG with list",
+            "insertions": 47,
+            "deletions": 9
+          },
+          {
+            "hash": "04e434504381bfcf728ada513515925ec150f760",
+            "message": "update list command tests",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "64248c26bb490e08d48ac0d84b91f16cc56cca86",
+            "message": "update PPP intro",
+            "insertions": 4,
+            "deletions": 56
+          }
+        ]
+      },
+      {
+        "insertions": 273,
+        "deletions": 136,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "201da217e52df1369aa7d966cafbbc6ddc29d5a2",
+            "message": "update DG and rename variables in ListCommand",
+            "insertions": 125,
+            "deletions": 47
+          },
+          {
+            "hash": "dcf9b9f2a6b8238e7ab0593f14acf31e09fd9a33",
+            "message": "update PPP",
+            "insertions": 26,
+            "deletions": 89
+          },
+          {
+            "hash": "6298c66d55dd6cc38493d5d702668e642c85b4e6",
+            "message": "add ListCommandSystemTest",
+            "insertions": 122,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 753,
+        "deletions": 557,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "0540cbb30e5a4388d4121152257ad6de878024d1",
+            "message": "minor change to search logic and DG update",
+            "insertions": 74,
+            "deletions": 24
+          },
+          {
+            "hash": "9da3fdb0bd4fd82680afd7935151b5dda8a13980",
+            "message": "add MT to PPP",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "e0b7516ec925a7edfaf25370ff2d9c036a9be81a",
+            "message": "update DG",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "ac7f62fa49e58683c672ee41833473512a44de3d",
+            "message": "update tests",
+            "insertions": 24,
+            "deletions": 51
+          },
+          {
+            "hash": "fff43e066e382ed66fc2f53d34bb2de5083fb1bf",
+            "message": "add search command seq. diagram",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "6ee4ac25f55563445630700c6779e5b7c4372ab6",
+            "message": "add pic to PPP",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "538ee32dc897d6352e6446e6ed68ed491cff6a2c",
+            "message": "add ListCommand seq. diagram",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "48f62475d5ea28c66f8d1b0083a675e303b37eac",
+            "message": "delete dummy command greet",
+            "insertions": 0,
+            "deletions": 25
+          },
+          {
+            "hash": "261a534ac4da4f28d2d419657a2465a8df932661",
+            "message": "add typical sources",
+            "insertions": 49,
+            "deletions": 3
+          },
+          {
+            "hash": "206d67e9d12cad7c72c760580fd769b6c7daca5c",
+            "message": "fixed breaking tests",
+            "insertions": 107,
+            "deletions": 28
+          },
+          {
+            "hash": "ea5aa45cfc01e18ecd100cebbee9f733deeb4fb0",
+            "message": "fixed breaking tests",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "310419f0ab838b4095a4556b32fa3a93df74a87c",
+            "message": "ignore failing json serializable source manager test",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "2d0401bed309599b8e10a602a983a7118e5d7baf",
+            "message": "clean list command",
+            "insertions": 23,
+            "deletions": 13
+          },
+          {
+            "hash": "9d129cc7911572ff14e3a1b253a7b6eec4bfa46e",
+            "message": "clean list command parser",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "b5d8abdc7f7baba81c7c0411d501a7cf6201c453",
+            "message": "clean search command",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "471e874794cad898ac3f233a91845e79b1f2f7dc",
+            "message": "no author name msg",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "f4c593e0958283d88cea3b300f816bd8e9c81707",
+            "message": "clean SCKP",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "f2aa850facd7caf9c6edf05b88bc778e6a3ea071",
+            "message": "clean list command test",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6fb1b30aea8235af0e67daf3c9f56986afefa757",
+            "message": "clean list command parser",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "727f7ec51c281d9161392b0bf104ffcd7f09cf33",
+            "message": "clean list command test",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "898ab840033504d7345aa3d5fd4d787f316aed6b",
+            "message": "clean search command parser test",
+            "insertions": 29,
+            "deletions": 2
+          },
+          {
+            "hash": "c0dffa1f2a9d52b9350c0b8ae20eb3ce77880682",
+            "message": "clean aboutus",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "70014f5dd8bb0278d395b0363a5936c1b4e76303",
+            "message": "clean contact us",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "f2af0548698b3b88e95f01f87af706256494322d",
+            "message": "clean README",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "203a36522c6271fc68e19d1acb9c2ec7ae6c2605",
+            "message": "clean PPP",
+            "insertions": 20,
+            "deletions": 13
+          },
+          {
+            "hash": "9293ccde70e2fc47aa0f050cb1693a6ac97d8429",
+            "message": "clean UG",
+            "insertions": 26,
+            "deletions": 9
+          },
+          {
+            "hash": "a310a91b9f4276d53e6d28540c16a979b6bcf34d",
+            "message": "Merge branch \u0027master\u0027 of /Users/suriruhani/Desktop/CS2103/main with conflicts.",
+            "insertions": 86,
+            "deletions": 99
+          },
+          {
+            "hash": "5fefd2e512450853f889be17fe2e096c136e1f14",
+            "message": "fixes",
+            "insertions": 103,
+            "deletions": 125
+          },
+          {
+            "hash": "70ddbeca4856ed8d229e707124c068162bad1094",
+            "message": "restored DG",
+            "insertions": 57,
+            "deletions": 32
+          },
+          {
+            "hash": "c0471bb7ae37c164ba676b1529ca2fa2cda68e4d",
+            "message": "restored DG",
+            "insertions": 3,
+            "deletions": 28
+          },
+          {
+            "hash": "a8c94578344bc4d79a9711a4d7846d994e08b36f",
+            "message": "update",
+            "insertions": 69,
+            "deletions": 80
+          }
+        ]
+      }
+    ],
+    "DoItTomorrow": [
+      {
+        "insertions": 54,
+        "deletions": 4,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "9acd1bc279df685c97f96374cb5cc62bce9cf6af",
+            "message": "Added biblio command",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "86bbbdce3a566d696aa5385b87dddc2006ec9923",
+            "message": "Fixed syntax error in BiblioCommand",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "91d60a79b1382cbc833624539ec11c9e5351a126",
+            "message": "no message",
+            "insertions": 10,
+            "deletions": 1
+          },
+          {
+            "hash": "1b3eac2bf9bb7baf211f7463545fdf1da79364ae",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f80a45db3a83740a6a50cd6833dd823b741e681a",
+            "message": "Added BiblioCommand",
+            "insertions": 25,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 107,
+        "deletions": 46,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "69afbf2af204ed857c4d198d65207937fe48878a",
+            "message": "Update UserGuide.adoc",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "c0dda86de022ada49ee3fb2cdb741df073a0f7e0",
+            "message": "Added support for calling biblio command Added BiblioCommandParser to Parser module Added reference to BiblioCommandParser in SourceManagerParser Basic functionality implemented for BiblioCommand",
+            "insertions": 66,
+            "deletions": 24
+          },
+          {
+            "hash": "d34e8c388157aa569a2c0f94399daa4132976b1d",
+            "message": "Update SourceManagerParser.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "80340fda35f29a6a669a9a75b243803afc2b13ae",
+            "message": "Update SourceManagerParser.java",
+            "insertions": 19,
+            "deletions": 1
+          },
+          {
+            "hash": "e0e54f95146d00bc39409dd1435fc421fae02726",
+            "message": "Update BiblioCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fb88b079b5cde31aaec3b205121abb1147fe54b0",
+            "message": "Update SourceManagerParser.java",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "136578e0147441cb4faa535d965f9b7388a5d1a1",
+            "message": "Update BiblioCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "913671046f850e83702c5cedb2bda01b188bd15f",
+            "message": "Reordered imports for styling in BiblioCommand",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "84d4bde34d0fba955c2bfc201388f40d5b0f25da",
+            "message": "Update BiblioCommand.java",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "b17d22aec492708bb82a5a3da365e74b09570b9b",
+            "message": "Update BiblioCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "12ee605e39e5dd30354729f3a779104aebf3662e",
+            "message": "Update BiblioCommand.java",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "c52f85001c014a64cccc5bdf290bb44590796760",
+            "message": "Update BiblioCommand.java",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 129,
+        "deletions": 14,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "f0556c5b379dedc55f247355d7524adfafa51c9b",
+            "message": "Updated Developer Guide entry for Biblio",
+            "insertions": 21,
+            "deletions": 0
+          },
+          {
+            "hash": "15c9e0ebe38d5084517e34914a1d73e18ad834ee",
+            "message": "Updated Biblio command to accept format argument",
+            "insertions": 40,
+            "deletions": 7
+          },
+          {
+            "hash": "341abddea15b6192c5ed1150f9961602f32d0464",
+            "message": "Removed unnecessary initialization value in BiblioCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d24642a4c16b2d7ef5ee7c233ce650d18f0e0b2d",
+            "message": "Added tests for BiblioCommand",
+            "insertions": 62,
+            "deletions": 0
+          },
+          {
+            "hash": "7cced3e91758a56dfebe64df0548f2f86e4554a6",
+            "message": "Style edit in BiblioCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cf61638da153c2fd8c6a6ecb9a8393e15bdda667",
+            "message": "Minor styling change in BiblioCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "49258d8427f8896346fc962e4703d2809a6e4f3a",
+            "message": "Minor styling change in BiblioCommandTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d3188fae0461400255922fc07dee9b3ff064ab28",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "8c8171f9e713ab1bc2cf2727c66f2629f9d7d4d6",
+            "message": "Update BiblioCommandParser.java",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 55,
+        "deletions": 47,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "4c6f9c56f602ed33e82d2ab7a1a83b17d8ad862d",
+            "message": "Update BiblioCommandParser.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7c8d1d50dcff6235f26fce3b42e29315c33e046c",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "093b40c01145912e207287e5cb962c932d085212",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e563f52951e04d514b5377d0d0d357c03c1cdad1",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b5d1e7c0ede01515778d478026f04b2e6c38fb79",
+            "message": "Update BiblioCommand.java",
+            "insertions": 17,
+            "deletions": 11
+          },
+          {
+            "hash": "aaa4738eeb4ab00a3d99ac32e5190a6492c0c9a6",
+            "message": "Update BiblioCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8a32cf108f49b9146c348df70d5d71d157644a18",
+            "message": "Update BiblioCommandParser.java",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "9d7951b5f5f466909ab406d277c084b6846f951a",
+            "message": "Update BiblioCommand.java",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "8f7fdf5004a83bc3b812ee8dcc75626871949145",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "6ec617bafe73f4ddbf7519cf6891b39bd5c8b909",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "ae04a2116204c6806571211e919247e4b3fbc665",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4662c27fd4dfaadcb9e0922b94bc479ba4fef8e4",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "83cce404639fcb1224416425c204c7214959f43e",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "1618bee6684cedeecb670cfe152f6d0d31fd3d13",
+            "message": "Update BiblioCommandTest.java",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 209,
+        "deletions": 42,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "7a3fd6d8dc78ec0a860fca95b59aae61f3a5b09a",
+            "message": "Expanded Source fields Changed Source to no require Author as a compulsory field. Tags can now have a type in addition to their name.",
+            "insertions": 103,
+            "deletions": 9
+          },
+          {
+            "hash": "c8e9605a04e882e29a3ff45b8eeaeccd560fc77d",
+            "message": "Updated BiblioField implemenation BiblioField is now implemented as a seperated object from Tags",
+            "insertions": 106,
+            "deletions": 33
+          }
+        ]
+      },
+      {
+        "insertions": 141,
+        "deletions": 159,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "36254664a066b698e8a9dd312de665b9c0281125",
+            "message": "Delete Source.java",
+            "insertions": 0,
+            "deletions": 156
+          },
+          {
+            "hash": "17c3f00e6d0b012a5c158a580173e521998c15ec",
+            "message": "Changed Source.java to resolve merge conflict",
+            "insertions": 136,
+            "deletions": 0
+          },
+          {
+            "hash": "83c193615947a1ee755a97bed0eb5708e000dfbc",
+            "message": "Update UserGuide.adoc",
+            "insertions": 5,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 20,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "0077fbd6aaa829078e975d5a9cb84fff20488804",
+            "message": "Modified Source.java to accept BiblioFields without breaking existing code",
+            "insertions": 25,
+            "deletions": 3
+          },
+          {
+            "hash": "1c872378502046c6fe455122d21fbf004feaaffa",
+            "message": "Updates source to include compulsory Author field Minor textual edits",
+            "insertions": 15,
+            "deletions": 4
+          },
+          {
+            "hash": "e27ed99b2b6685742bbd2bd233f4b99594d31710",
+            "message": "Adds blank line at end of BiblioField.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "70f911562eecb5a2f6e4936594433a6efef3ba57",
+            "message": "Checkstype edits for BiblioField and Source",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "e1efe54d39b7fba46253e520e9a1732f1cb0f862",
+            "message": "Checkstyle change for BiblioField.java",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 116,
+        "deletions": 129,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "3efbdb29bb0144b364cdb70dea1aa1f6a9a60d6e",
+            "message": "Updated BiblioFields implementation All biblio fields are now stored in a single BiblioFields object. There can now only be one copy of each biblio field. e.g. A source can no longer have two URLs are the same time.",
+            "insertions": 84,
+            "deletions": 101
+          },
+          {
+            "hash": "746f1932451a70116b180f70e49129ed2643950c",
+            "message": "Checkstyle edits to BiblioFields.java",
+            "insertions": 31,
+            "deletions": 24
+          },
+          {
+            "hash": "0ebccc5b09def59bfef8346e3d2b6653d9eceb03",
+            "message": "Undid changes to hash function in Source.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "de6ac3c74753eb177a132bc07ffd38bf87387896",
+            "message": "Removed edits to toString in Source.java",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "b67540dff371ef223babdebea5b486b1972c943d",
+            "message": "Removed edits to toString in Source.java",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 4,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "f04b21f7e83c8fcd478649e4f2ce4575238bd6a0",
+            "message": "Reverted changes to equals() in Source.java",
+            "insertions": 2,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 551,
+        "deletions": 41,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "66c1e2eda059a7f4cb030b7caeec4b8e834eff61",
+            "message": "Update for Biblio related features Added BiblioEdit command and supporting functionalities Biblio command now generates usable biblio entries.",
+            "insertions": 550,
+            "deletions": 41
+          },
+          {
+            "hash": "337657d3f8ba5c9f09bf23ecfcaa204bf702e311",
+            "message": "Added missing Import statement",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 362,
+        "deletions": 221,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "5578da54e34644ef65eb2b2330ffcb15fc4a6252",
+            "message": "Checkstyle Edits",
+            "insertions": 38,
+            "deletions": 38
+          },
+          {
+            "hash": "afca7a7ad9a82e703ba05125d6ea3d5296170dda",
+            "message": "Checkstyle edits",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "c6d6bf8b2915450bf049148ab825aec9bef77ccf",
+            "message": "Checkstyle Edits",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "23101fec24632375f766d14ed4892f867d3cb4b7",
+            "message": "Checkstyle Edits",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "99d21ca4470c016e4f864c90fa984eae90a633b2",
+            "message": "Checkstyle Edits",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "e16222a8d7d9f75db8a457899309aba127efcd95",
+            "message": "Checkstype Edit",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "af01105a1cd3076b7aaba3fb53d6615bb14d22ff",
+            "message": "Updated BiblioCommandTest to match new BiblioCommand inputs Minor cleanup in BiblioCommand",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "69de86387ec0299f60346598e7b8f9042c28ad0c",
+            "message": "Cleanup for biblio-related features Editted Typical sources to include various valid types Expanded coverage for BiblioCommandTest",
+            "insertions": 67,
+            "deletions": 63
+          },
+          {
+            "hash": "e26d0e75feeef996fd5a4885201c120f0492a64f",
+            "message": "Checkstyle Edits",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "967357b0c4719b87bc2d594a028b4eb2cf364f25",
+            "message": "Update to BiblioCommandTest",
+            "insertions": 35,
+            "deletions": 18
+          },
+          {
+            "hash": "9e1974320dc1ffc2cba70dbfc784e461fde717a1",
+            "message": "Added persistent storage for BiblioFields",
+            "insertions": 95,
+            "deletions": 50
+          },
+          {
+            "hash": "1d7c285368fdcf3df6f5258f715c5c1de478d808",
+            "message": "Checkstyle Edits",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "9ef8d65b54e2c72cfb8dc422d6c0f68a4f40dc6a",
+            "message": "Checkstyle Edits",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ca2a50862fdc93f1ff4b463974dedc904fd79fb0",
+            "message": "Checkstyle Edits",
+            "insertions": 21,
+            "deletions": 11
+          },
+          {
+            "hash": "741f26dab57fb2c2bba5e3ac0370987b6674a23e",
+            "message": "Set 2 tests to Ignore",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "072bb3e6950bfb92433a4ea7a4a3b803368b6343",
+            "message": "Added test for BiblioEditCommand",
+            "insertions": 64,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 272,
+        "deletions": 85,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "5f9f0bde388096e4002138600b84ac65c1ee5bdd",
+            "message": "Updated SampleDataUtil to match test data.",
+            "insertions": 214,
+            "deletions": 29
+          },
+          {
+            "hash": "ae32a157f13e9bd1caf56e791976591cdcdfdf5a",
+            "message": "Checkstyle Edits",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "2b1b73bcec634cb296f8e2db78bb579b38df1bab",
+            "message": "Removed old constructors for Source.",
+            "insertions": 36,
+            "deletions": 34
+          },
+          {
+            "hash": "486159fda70bc7c5f700612a977786840ee2bfe2",
+            "message": "Ignored 2 tests that are failling when run on their own but not when runned with all other tests",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "c381662c9de4b309555fce219f2b2220f5a2a078",
+            "message": "Revert \"Ignored 2 tests that are failling when run on their own but not when runned with all other tests\"",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "3c2aaf5439df9373334b771809e2be1d87e8fe7d",
+            "message": "Ignored 2 tests Tests are passing when run on their own but not when runned with all other tests",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "4e5196e9baee89dd82357dce821953021f90bf35",
+            "message": "Removed unnecessary toString in EditCommand",
+            "insertions": 0,
+            "deletions": 9
+          },
+          {
+            "hash": "e32499be516ef4c6959c6926c2186018eb7da0dd",
+            "message": "Checkstyle Edit",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 323,
+        "deletions": 197,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "d84789212e15a080a6730a900906b3de30952ea0",
+            "message": "Update to BiblioEditCommand to not break other tests. One test is current ignored.",
+            "insertions": 21,
+            "deletions": 16
+          },
+          {
+            "hash": "bce8f5107100d8c916b68ae57bc35ef96adf69e1",
+            "message": "Checkstyle Edits",
+            "insertions": 3,
+            "deletions": 7
+          },
+          {
+            "hash": "db06a51620af73dbc277898a02a413fa6e27cd66",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "925a3dcf697099fba50584caa4630ad9f9272009",
+            "message": "Added test for SampleDataUtil",
+            "insertions": 23,
+            "deletions": 15
+          },
+          {
+            "hash": "3c0c15c32e75c11d5dc4d551a6000dbaf39fbe54",
+            "message": "Removed unnecessary import in util/TypicalSources",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "fe384ad3a0b30439f80aaa2a1985a65470edc1fc",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7042b597407b9cc0600b164f3a078c5d25a778d8",
+            "message": "Removed unnecessay import in util/TypicalSources.java",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "c526a5559728ee2bdd1c7d84d2092b1a48a3fe56",
+            "message": "Readded accidental removal of import",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "eeb592cf73d93c547463eb1640e20cce2ad55b54",
+            "message": "Updated sample and test source\u0027s biblioFields Changed from Placeholder * to Foo* Serves to differentiate entries from placeholders used by BilbioCommand more.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "915042dafaec2dd0d27861846846d5438f41cc8e",
+            "message": "Change biblioFields access in Source to private final",
+            "insertions": 14,
+            "deletions": 12
+          },
+          {
+            "hash": "23d35e453af00eed68aca489b2ae803e833636cb",
+            "message": "Removed unnecessary import",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "029448dcf405ae1046dacdf2e960b5af8100d771",
+            "message": "Update to Userguide entries for biblio and biblioEdit commands",
+            "insertions": 21,
+            "deletions": 4
+          },
+          {
+            "hash": "031f83e77f25334f65873d7dc676b3850536c8b5",
+            "message": "Update to Userguide entries for Biblio and BiblioCommand",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "bc207d62492dc76f0e6f7b4f8100bcfdba78e66c",
+            "message": "Update to User and Dev guide entries on Biblio.",
+            "insertions": 38,
+            "deletions": 11
+          },
+          {
+            "hash": "4f5dcecb02625299f07d8f1b013f884ed48596c3",
+            "message": "Formatting adjustements to Biblio and BiblioEdit entries in DG",
+            "insertions": 7,
+            "deletions": 9
+          },
+          {
+            "hash": "145841dda879cfe16910fb4a9ec239f40ef60b09",
+            "message": "Updated DG entries on Biblio feature",
+            "insertions": 79,
+            "deletions": 26
+          },
+          {
+            "hash": "526984f037b00c4c419c14d93b2603930643d19e",
+            "message": "Update to Biblio feature on Developer and User guide.",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "0b08ecdb8851552099091d9e09fa06394e473b9f",
+            "message": "Update to biblio relate features for userguide.",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "8f9bf70c5ee24178a490fa180a94c28adbd5b23b",
+            "message": "Updated PPP",
+            "insertions": 53,
+            "deletions": 72
+          },
+          {
+            "hash": "7990dd0b18bbc8609cb8c66367dc72b180a41144",
+            "message": "Updated Code contributions in PPP",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "5e265b084609901244aee260b3e5086659af8e7c",
+            "message": "Formatting changes to PPP",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "79d3ef01f0ad871c523afebb9165380777195dbf",
+            "message": "Added process diagram Minor formatting edits",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "ea5b02b1dd532adf4a15e12674619491e08229af",
+            "message": "Update to AboutUs",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "case141": [
+      {
+        "insertions": 101,
+        "deletions": 100,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "9522a83f983a6903d9a8864dcfa894679fb63552",
+            "message": "Update README.adoc",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "714833d9e098f9cc014c3cc6b3f5f964e17827bf",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c3b6524e29aded6aede2dcbeac526989fded48e4",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9ad467144296c20f558fed0a76a339580b13c4cd",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8eb1a1d209c7cacc0ec3be014a653e94198fa99e",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "55bca5c29077016c2aec01a7db3f17dec85fc7a4",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "38614c593b266ed9cc248d5916bad61b061b33d0",
+            "message": "made required changes to userguide and contactus to suit our product",
+            "insertions": 89,
+            "deletions": 86
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 5,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "d8da3f106957f87f11e61a40f7d400925b987483",
+            "message": "Update build.gradle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "50ac02db55521c5ddb6e7a14f92183a6b559c23a",
+            "message": "changed UI mockup to Infinity Machine product",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4e227cadc3bfbfc67b15b070129c58e4a382e560",
+            "message": "changed Ui.jpg to png",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "342d071cedbdaf1ca6d276b374d2aefa9d70cb0c",
+            "message": "Updated README: corrected grammatical errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1bb6f13d3460be314e056addb0209106c3061f32",
+            "message": "removed redundant dummy text from aboutus page",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 85,
+        "deletions": 10,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "854a03ede98276e62a2694b68dce9e27f4b9de07",
+            "message": "add count command class to logic component",
+            "insertions": 24,
+            "deletions": 0
+          },
+          {
+            "hash": "e8cee03d01d9026a8f8519b055329078f5c4ea65",
+            "message": "update parser with count command",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "ccbdd26956aca3a7796c1586954018e4e43a5e8e",
+            "message": "add getcount method to model.java",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "3c05460a9e26f5e6723bdd0ef327585003248fed",
+            "message": "update modelmanager.java with count command",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "153c69b9cb5a41bfd08e0766de4c82c9a87d953c",
+            "message": "fixed travis errors",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "b9d8f7a32e4b9fd874c244489b1a572513e68728",
+            "message": "removed unused import and added missing javadoc",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "70e8d36379cdba873797b266ae597796be8307e7",
+            "message": "add CountCommandTest.java for tests",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "1e21c739e1f46c2a4129c2ec43f542d71176f834",
+            "message": "add count command test to parser",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "8e97b7ebc6ff51df7dc8d835deae438619b990ef",
+            "message": "resolve errors with count command tests",
+            "insertions": 13,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 318,
+        "deletions": 37,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "fd8ffa6b1583f167199ea3854c43b23218dd4ec3",
+            "message": "added new source package to current ab4 model",
+            "insertions": 278,
+            "deletions": 19
+          },
+          {
+            "hash": "26649cca48ea841ba9eb4590fc61aa939012e324",
+            "message": "added missing javadocs",
+            "insertions": 23,
+            "deletions": 6
+          },
+          {
+            "hash": "bb5ecfcc3c02633ccf9ba92c4361c70dbbbb3185",
+            "message": "Update checkstyle.xml",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "29b6459582c6ecd9fc30d1bca6834b70cce66d38",
+            "message": "Update IllegalValueException.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cbdac9145152216abac491790bf4b578060ef554",
+            "message": "Update database.txt",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2aad3501f54dc40240dd6b35d2c229b02ce65c80",
+            "message": "Update Detail.java",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "e7f40ea5d381f3f0a10af1da558324b4bcc0b357",
+            "message": "Update Detail.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b8512c355eea79157a9f8ce2666be6eb5275493c",
+            "message": "fixed code styles",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "650e13e7e6ed464310f6db769cd3902454239490",
+            "message": "fixed more travis errors",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "4a0c3a4e00ca92bc82b36b89cf182bcccca17905",
+            "message": "Add ab4 acknowledgement in README.adoc",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 607,
+        "deletions": 608,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "631a1fa2cf78a4ecf525418e2001bc6b81584d1a",
+            "message": "Update product scope in DeveloperGuide.adoc",
+            "insertions": 4,
+            "deletions": 6
+          },
+          {
+            "hash": "56d10f019c78b162662ec2dbef41c4170d6aa5f6",
+            "message": "refactor code in Logic.java and LogicManager.java",
+            "insertions": 39,
+            "deletions": 39
+          },
+          {
+            "hash": "fc62562c5cab58ce5b62d79d8f6a1ede7746b24b",
+            "message": "refactored clearcommand to use source model",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "7ea32191131c5df5b5bba61e96ccbfd36674eeb1",
+            "message": "refactored add/delete/edit commands",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "812701a14863de3d14dc61dcf8ff5bff63ebae90",
+            "message": "refactor find command",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "d9ae8fa92b594cb8ebe70a3d8d41e2402e4ff33c",
+            "message": "refactor list/redo/select/undo commands",
+            "insertions": 22,
+            "deletions": 22
+          },
+          {
+            "hash": "af7eb4c02bd1cbe176a757f729f6a52bb3434440",
+            "message": "refactor parser classes",
+            "insertions": 16,
+            "deletions": 20
+          },
+          {
+            "hash": "698e7696e4132528e24aa109c1a80a1c992646b1",
+            "message": "added isValid methods in source model package",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "8c13e7062aff89efab85748601beb44e5a779f84",
+            "message": "refactor all command test files",
+            "insertions": 349,
+            "deletions": 352
+          },
+          {
+            "hash": "20b9cd0274e98fb00fc0fac9c1ba4685894fb683",
+            "message": "refactor all ui component files to source model",
+            "insertions": 144,
+            "deletions": 147
+          }
+        ]
+      },
+      {
+        "insertions": 105,
+        "deletions": 123,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "7e40b957031f2c093a35f02017ed061a5ce25d73",
+            "message": "resolve refactoring errors in storage component",
+            "insertions": 105,
+            "deletions": 123
+          }
+        ]
+      },
+      {
+        "insertions": 688,
+        "deletions": 5740,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "18c2047279c21dfa55799a15a49063ed980eff22",
+            "message": "refactor MainApp.java",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "28e0b34d5e50cb5711933eab2773fe366cad4264",
+            "message": "refactor storage test files",
+            "insertions": 284,
+            "deletions": 302
+          },
+          {
+            "hash": "baeff84bdefc390474ce97675be7e31518508e99",
+            "message": "refactor all test files, removed person model test files, refactor data file",
+            "insertions": 212,
+            "deletions": 845
+          },
+          {
+            "hash": "02fd94f6c4c381a8ea36a09c08d0e0547dd0442e",
+            "message": "refactor data files",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "80f013c88f3650e319076fc39f76281a874dcdaa",
+            "message": "refactor UI files in resources",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "266ec9bf4b83ee6a898bb7867ec84fbe2456af27",
+            "message": "fix travis errors for MainApp.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "97e260f9509c18669e421c76e2a1106a16f538ed",
+            "message": "fix travis errors for AddCommand.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "5ce30f14a59c6157f6ca57f9d5de3a55c19cf834",
+            "message": "fix travis errors for EditCommand.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c7e78c8dd150b9e43abccdea557df0b4a345df1f",
+            "message": "fix travis errors for AddCommandParser.java",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "4b6c18ffdc7e047f087e3e66eb8122b5c6fef723",
+            "message": "fix travis errors for EditCommandParser.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f576e49fc00228a196c541356a5135b6793f8e62",
+            "message": "fix travis errors for ParserUtil.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2aff5a147b493809510d24234b6458b966a670ca",
+            "message": "fix travis errors for Model.java and ModelManager.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "13939e158d08993dceb39d8b6375049ae21336c8",
+            "message": "fix travis error for SourceManager.java",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "4feda6766d9068ffcb5a71702771da328ecb8fc5",
+            "message": "rename variable name from sourceDB to sourceManager",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "7c47eb048aa26acff036e5d03683cffa7e80ff14",
+            "message": "reorder import statements in Storage.java and SourceManagerStorage.java",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "0f348ad1725673c96fdbd952d10e1630946e1f0f",
+            "message": "resolve travis errors for TestApp.java",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "973543a0c8f0e0b4cd83b87317f76280bfd262c0",
+            "message": "fix travis error for logic command test files and LogicManagerTest.java",
+            "insertions": 17,
+            "deletions": 13
+          },
+          {
+            "hash": "7321874ecd3eb53a4ee3275f45a49a3d6f8b46e5",
+            "message": "fix import statements for AddCommandParserTest.java",
+            "insertions": 20,
+            "deletions": 2
+          },
+          {
+            "hash": "add5a39886c6d43078c3be5b3fca91055c6725e8",
+            "message": "fix travis error for AddCommandParserTest.java and EditCommandParserTest.java",
+            "insertions": 21,
+            "deletions": 3
+          },
+          {
+            "hash": "abd27fe30f6444b24b28d4da9479c742be8b2622",
+            "message": "fix travis errors for ParserUtilTest.java and ModelManagerTest.java",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "bf43f08fff803edd5a5ce5a9400f725ef68c7816",
+            "message": "fix travis errors for VersionedSourceManagerTest.java, JsonSourceManagerStorageTest.java, StorageManagerTest.java",
+            "insertions": 16,
+            "deletions": 9
+          },
+          {
+            "hash": "8e45de8e55d7f54f80835218eecb5ddc9a2e75e0",
+            "message": "fix travis errors for SourceBuilder.java, SourceUtil.java, TypicalSources.java in testutil",
+            "insertions": 1,
+            "deletions": 9
+          },
+          {
+            "hash": "ccad0bb75cb55afbb8a414b209e0e2d054450c1c",
+            "message": "fix travis errors for ui test files",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "22a976da55467e46fdcf02ef2d77c0ebcb790250",
+            "message": "fix import statement order in AddCommandSystemTest.java",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "8eced6fe6d54daae6d1cf6e85af7f9c23a259cad",
+            "message": "fix travis errors for EditCommandSystemTest.java",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "93353d16de092375d0ca7e8655eaa4e666c5758d",
+            "message": "fix checkstyle errors for SourceManagerSystemTest.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "5716bb5631a33fd28d9680f3fc8bbfacd84fcb45",
+            "message": "change regex limitations in Type/Title/Detail.java of model",
+            "insertions": 17,
+            "deletions": 13
+          },
+          {
+            "hash": "06c310c2569cf43d578bb33356fbf3730f6de045",
+            "message": "remove all failing tests",
+            "insertions": 0,
+            "deletions": 4461
+          },
+          {
+            "hash": "c6a3b7c96e64f7ca0046b82ea733b92983182ed8",
+            "message": "Add CountCommand to UserGuide.adoc",
+            "insertions": 11,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 4577,
+        "deletions": 106,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "e75d08bf2ae6a513e792e6d0fa054807bd7f6c36",
+            "message": "added tests back in from integration-backup branch",
+            "insertions": 4510,
+            "deletions": 39
+          },
+          {
+            "hash": "64b6148b6e9b6ea0c37f1ebd956a099cef31ef35",
+            "message": "refactored all FindCommand to SearchCommand naming",
+            "insertions": 37,
+            "deletions": 37
+          },
+          {
+            "hash": "6db9d20ef4d037f431b037635c13f7cd00ef26d9",
+            "message": "refactored find to search",
+            "insertions": 30,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 272,
+        "deletions": 350,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "ef1e73d1476b0d5fcb4e282e59de6dbcdf3c8694",
+            "message": "comment out failing test cases in SearchCommandSystemTest.java",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "c31b891d421a4278be3a4063d0a0233f9da5c2a6",
+            "message": "remove failing tests in AddCommandSystemTest.java and EditCommandSystemTest.java",
+            "insertions": 199,
+            "deletions": 300
+          },
+          {
+            "hash": "a78cef663007785e303ca4561bdbea5d44a2b863",
+            "message": "fixed import statements in tests",
+            "insertions": 14,
+            "deletions": 9
+          },
+          {
+            "hash": "e091514d4950d48222773bc4aea50c97dc31b4d4",
+            "message": "fix line length in AddCommandSystemTest.java",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "762b41a6dd3b8cd1860911725aec23f5a721df59",
+            "message": "fix line length in EditCommandSystemTest.java",
+            "insertions": 30,
+            "deletions": 15
+          },
+          {
+            "hash": "04234bff1d981e42714b37473914fb1e06127182",
+            "message": "fix import statements in SearchCommandSystemTest.java",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "f39a6356647f26cb91518141e245c0cf61ebbc2e",
+            "message": "fix import statements for SourceManagerSystemTests.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6a179b240274b69f0209fc8936edfa3e648b869a",
+            "message": "add missing imports",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "3b0b7602c92284ed00f607b2469a88764278c6a9",
+            "message": "add missing file code",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "7b11999ddf6d7ff6e525fc17eaadcac37381dcd9",
+            "message": "rename person to source in JsonSerializableSourceManagerTest.java and fix incorrect naming case in json file declarations",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "42e60e9e5aca4f680b09de32c0b289f7da78cf41",
+            "message": "add missing brackets in JsonSerializableSourceManagerTest.java",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 57426,
+        "deletions": 57412,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "318d2cd1297adcb413ac51e32a6ae6dae4e74554",
+            "message": "moved count command from Model.java and ModelManager.java to CountCommand.java",
+            "insertions": 57394,
+            "deletions": 11
+          },
+          {
+            "hash": "e15b7d36e2049f4da99fdd4b58ac4e03795f8fb8",
+            "message": "update count command description in UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "5545c81be24a82ba92033f93fb0226e3006ff7dd",
+            "message": "add count command to DeveloperGuide.adoc",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "6b116690e7a4c80b8a7e4c3dd5836cf22ddb19c3",
+            "message": "removed RepoSense files",
+            "insertions": 0,
+            "deletions": 57392
+          },
+          {
+            "hash": "f3a2cfa3dc36b1cb55a31b92237f5df5b4887fd6",
+            "message": "add requireNonNull to CountCommand and removed getCount from AddCommandTest.java",
+            "insertions": 3,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 524,
+        "deletions": 109,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "0bb1cd9dafdb28763be97f61ffcead17e9c177c0",
+            "message": "add basic restore command",
+            "insertions": 55,
+            "deletions": 0
+          },
+          {
+            "hash": "95043325a80a54989db06d3a6f2b2b883f10ef56",
+            "message": "add checks for duplicate source in RestoreCommand",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "bcc36ac820c8bb904860f9629eceb7a31af24c95",
+            "message": "add RestoreCommandParser to parser",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "5b6e7c15d4abc7c986f73c39e6aa6f61ae22f44c",
+            "message": "add restore command to SourceManagerParser",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "409807e38f20706674c4670ded1c88b386c2f7d7",
+            "message": "add DeleteSources file manager class to model",
+            "insertions": 89,
+            "deletions": 2
+          },
+          {
+            "hash": "eae577a45abb89d23af3f85ceb3242ec46294df4",
+            "message": "add ReadOnlyDeletedSources interface",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "510c7cce8e127bb9bac19f1a461130fdb49ab0cc",
+            "message": "refactor getGuiSettings method name in DeletedSources",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "faff661b4f8a121b4379f69ebc5c5440a86e5d0e",
+            "message": "add DeletedSources methods to ModelManager",
+            "insertions": 36,
+            "deletions": 3
+          },
+          {
+            "hash": "20943ad705a2955bca481f5646413abcea7c4623",
+            "message": "add DeletedSources methods to Model",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "575b32f0dda54ae98d73afc66440327579cd7852",
+            "message": "add DeletedSourcesStorage class and JsonDeletedSourcesStorage class to storage",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "efd50f7a5adfa7b8c3e866f772ced47e59c77f99",
+            "message": "refactor DeletedSourcesStorage class to interface and added methods",
+            "insertions": 34,
+            "deletions": 2
+          },
+          {
+            "hash": "754fbaa29206420c8d2ef28c8d2814f6554b5bef",
+            "message": "add DeletedSource functionality to JsonDeletedSourcesStorage",
+            "insertions": 42,
+            "deletions": 1
+          },
+          {
+            "hash": "3965adaab2c37dd8f0bee4f70c2a3175b080e8dc",
+            "message": "add JsonSerializableDeletedSources file to storage",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "ae60cba422299c9a099ea1dd5dfc602d77b22186",
+            "message": "rename AddressBook to SourceManager in comment",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ab4d94a145595c69de1857a9b2656acf8e43baad",
+            "message": "add DeletedSource file settings to UserPrefs",
+            "insertions": 16,
+            "deletions": 2
+          },
+          {
+            "hash": "2c69772490e4dff725218c5cc039d6843f37aae8",
+            "message": "removed file settings from DeletedSource",
+            "insertions": 1,
+            "deletions": 82
+          },
+          {
+            "hash": "061b24dc29a1e5a84d85eca9470cf96ab4c9378b",
+            "message": "add functionality to DeleteSources class in model",
+            "insertions": 141,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 578,
+        "deletions": 99,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "4eb2a256d006e248d3b2e1b0157d108cdfc892b0",
+            "message": "add VersionedDeletedSources class",
+            "insertions": 191,
+            "deletions": 36
+          },
+          {
+            "hash": "5a5e3b2e661f47f6a94fc76817b0cdfbe4a3b320",
+            "message": "remove old deleted sources code from model.java",
+            "insertions": 0,
+            "deletions": 30
+          },
+          {
+            "hash": "2968cfaecaf2c923d1e86aafe787d86fefecd1ad",
+            "message": "add deletedsources methods into Model interface",
+            "insertions": 184,
+            "deletions": 2
+          },
+          {
+            "hash": "315943b40327713efa198cdd80c99c5a47766193",
+            "message": "remove extra semicolon from ModelManager",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d6765ab8138556a3771a5f8db6be6608df45f6de",
+            "message": "add functionality to JsonSerializableDeletedSources",
+            "insertions": 55,
+            "deletions": 0
+          },
+          {
+            "hash": "c2e0f64b02883f8437c4a2701ff12e0b5b7db241",
+            "message": "update DeletedSourcesStorage",
+            "insertions": 13,
+            "deletions": 3
+          },
+          {
+            "hash": "6898002fe17e2a350a5b4e54d8216ca7a59adea6",
+            "message": "update JsonDeletedSourcesStorage",
+            "insertions": 44,
+            "deletions": 9
+          },
+          {
+            "hash": "796e1d8a19a95830b94e72e8ed6602a973ae8f14",
+            "message": "update JsonDeletedSourcesStorage with missing methods",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "fb4a6ff67d4f407fcd6fa723c559e2d42a5e0729",
+            "message": "add deletedsources methods to StorageManager",
+            "insertions": 34,
+            "deletions": 1
+          },
+          {
+            "hash": "f37f69962b583308885e886c4f91e40073a5d23e",
+            "message": "add deletedsources methods to Storage interface",
+            "insertions": 12,
+            "deletions": 2
+          },
+          {
+            "hash": "0126ee3b250c21cb3bb36c3a5e199f6f3b8b108f",
+            "message": "change model to use deletedsource methods in RestoreCommand",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "ef14e2c02a4322bba6a213ccd26415d42e91b6af",
+            "message": "add deletesources to MainApp and SampleDataUtil",
+            "insertions": 35,
+            "deletions": 2
+          },
+          {
+            "hash": "045b80a96a3b718e59016ed6bc900efd9df4d969",
+            "message": "update deletedsources file name in UserPrefs and SampleDataUtil",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 810,
+        "deletions": 313,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "9ca4de5f56884c93200c114da8e26dcb4dfe8f0b",
+            "message": "add UnqiueDeletedSourceList to model and change ordering of code in restore and delete commands",
+            "insertions": 157,
+            "deletions": 15
+          },
+          {
+            "hash": "aab001203583c031d625bce34a0936a0bc296650",
+            "message": "update user pref",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "cc2f00ed143719f276f3d08332faa08f204bc40d",
+            "message": "add deletedsources methods to Logic.java and LogicManager.java",
+            "insertions": 70,
+            "deletions": 0
+          },
+          {
+            "hash": "03b976d4ba5b24ede9b24fc7b1938c4249f10832",
+            "message": "remove unused list from RestoreCommand",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "eeab3b996b8dafe86b9d6fd9d93913d6e16bbc04",
+            "message": "fix travis checkstyle errors",
+            "insertions": 60,
+            "deletions": 41
+          },
+          {
+            "hash": "186ae244ca33999ed4b7c6ca2fd7ffacee3d9dd5",
+            "message": "fix travis checkstyle and errors in tests",
+            "insertions": 185,
+            "deletions": 37
+          },
+          {
+            "hash": "8acf672cb9e25c559b32239f039048ff588239cd",
+            "message": "fix travis checkstyle for CustomOrderCommandTest",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "f5cd0f171ccf565c01b598e566191ac275b385bb",
+            "message": "comment out failing systemtests and failing DeleteCommandTest for future fixing",
+            "insertions": 195,
+            "deletions": 207
+          },
+          {
+            "hash": "7318d9637e79b604fdb9cf312fd8a3dcbad2f944",
+            "message": "add restore command to user guide and update developer guide with restore command",
+            "insertions": 55,
+            "deletions": 0
+          },
+          {
+            "hash": "5c3216c23aab9ee08af3d89a54df9f4b563441ef",
+            "message": "add project portfolio for casseylow",
+            "insertions": 69,
+            "deletions": 0
+          },
+          {
+            "hash": "a0605b7f1eaa989344a3b1de6f1de90aebbf5aef",
+            "message": "Update casseylow.adoc",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 1,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "66249413915669c7e4acfe9c9125c10bfaed1618",
+            "message": "add restore command to command summary in UserGuide",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "3ebb1561981050dd832ed1eb3ea4014955ccd237",
+            "message": "change JsonProperty name to deleteSources in JsonSerializableDeletedSources",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 5,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "9c3d8ca91b8f7e8e9726fa8abd2262b4458dc34e",
+            "message": "Remove searchhistory command from UserGuide",
+            "insertions": 0,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 257471,
+        "deletions": 257347,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "52d927d618d9f122a482b4d168d67ab417988ca3",
+            "message": "remove sample deleted sources from SampleDataUtil",
+            "insertions": 1,
+            "deletions": 6
+          },
+          {
+            "hash": "2d5abc9ee8055594bf496c43b5d1b11bf0f213c8",
+            "message": "change app icon to infinity machine icon",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1be2608b1cb7b0b64483181ef7baea890ee1f0b5",
+            "message": "replace address book names with source manager in MainApp",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3d75d3bf5c403b15972d0f206cf5c480c1821a96",
+            "message": "replace address book names with source manager in MainApp",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "98606d06e29db9bafb33ce90956295550ebf989f",
+            "message": "replace addressbook with infinitymachine names in UI",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e106fdde33246cc4782dfed3c74faa75fe038536",
+            "message": "add new line to field results in Source",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "123f71b82f8cca90473387281c2f5ee9b473279e",
+            "message": "change success message for source details",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "a28867e5fff8c173e0b5362086de4e6c88cb9746",
+            "message": "update ClearCommand to clear DeletedSources as well",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "4200dc7166b49314ca82cdcf7dfaddd886bac3f8",
+            "message": "change old message success in ClearCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "daf04fb0a81c6a1ec65feb65fe8b27c8dea90bab",
+            "message": "change old message success in ExitCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4c378288501e89fc151e4858f59f105a7f5511fe",
+            "message": "fix travis checkstyle errors",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "a706647cb1f8b4e663c18464774060bc5352f310",
+            "message": "Update ClearCommand with commit AND ClearCommandTest",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "55567402c0dffec7bfb51abcc7a4bd314177d277",
+            "message": "add author names to config.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "59bfbff70abb4aa0b569dc316d40228284704f9d",
+            "message": "add commit code to ClearCommandTest",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "a69ae1ef3c75187757d928273d2f855d68e321d0",
+            "message": "change ordering of fields under SourceListCard",
+            "insertions": 257155,
+            "deletions": 3
+          },
+          {
+            "hash": "8870f2964871ba9a06bc37955c162686ff0f10f1",
+            "message": "remove reposense files",
+            "insertions": 0,
+            "deletions": 257152
+          },
+          {
+            "hash": "b0dbabb89a120a64938b4fa5284a812025b60ff2",
+            "message": "refactor BrowserPanel names to SourcePanel",
+            "insertions": 22,
+            "deletions": 22
+          },
+          {
+            "hash": "14ca642e5ac8e2ef004bc072159bcae4542df663",
+            "message": "Change placeholder to source details in SourcePanel and removed brackets from details in Detail",
+            "insertions": 27,
+            "deletions": 5
+          },
+          {
+            "hash": "c655648b560074412101ca57bee7f43ad3a5e70b",
+            "message": "fix travis checkstyle errors",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "27bdef2f0c24805f20a130e5eacbb7b3b8fdbc30",
+            "message": "fixed SourcePanel UI tests",
+            "insertions": 152,
+            "deletions": 118
+          },
+          {
+            "hash": "2fa53856607d7f4134ce6ed8d5f89b4970775389",
+            "message": "remove stylesheet comment",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "53e43ac23c705c6a057b04f152e86204b56a136e",
+            "message": "change isSameSource to detect same sources only when they have both the same title and same details",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "f660f714cc8a7820c9d1ab065ba5c96b2d0cd6fa",
+            "message": "fix duplicate sources tests",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "d8768d22cd688b52ee923a8faa8b555141e4c8d0",
+            "message": "add check to detect if sources are exactly the same",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "8776466dc0e4b6be75e3ced43f2df0e9ebd43e86",
+            "message": "update UserGuide with delete duplicate sources details",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "dec2a8b86877d3bfff976ca3662abf562ac21148",
+            "message": "add check for restoring duplicate soruces",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "6a1acb6b19ea102b18d4ed84e67e6e18c89a1951",
+            "message": "change delete duplicate soruce to delete from source manager list instead",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "721331fda7def4d37793d21d525c54e285e98420",
+            "message": "update delete command javadocs",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5918f7be8f6a6a491c0530c42063d81bbd1599a1",
+            "message": "add ListDeletedCommand to Command and Parser",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "b57c7ae0dc763c3dd213ece93904d19d7c01852c",
+            "message": "add Undo and Redo functionality for deleted sources",
+            "insertions": 14,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 171,
+        "deletions": 202,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "0fe8e7664890a0d571e0d23b4fba5edc0729c062",
+            "message": "add delete sources to StatusBarFooter.java",
+            "insertions": 20,
+            "deletions": 5
+          },
+          {
+            "hash": "c8924993d1942083a43b53fd35a7d5ed298450b6",
+            "message": "remove filteredDeletedSources, add switchToDeletedSources and switchToSources methods instead",
+            "insertions": 31,
+            "deletions": 137
+          },
+          {
+            "hash": "5ef9909cf81fca6f7ffa7d341bfad47bd8aff78f",
+            "message": "add switchToSource in Commands that use filteredSourceList",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "dadb27043506f95bb309de1e17e340f3b4e22223",
+            "message": "fix travis checkstyle errors and StatusBarFooterTest",
+            "insertions": 46,
+            "deletions": 41
+          },
+          {
+            "hash": "42184678dbe0a73d77bb4e2bcc20154e4347cb81",
+            "message": "fix Redo/UndoCommandTest and add @ignore to EditCommandTest",
+            "insertions": 18,
+            "deletions": 2
+          },
+          {
+            "hash": "1b285807172a39f50844201497202be3eaa0299b",
+            "message": "@ignore all failling systemtests",
+            "insertions": 37,
+            "deletions": 15
+          },
+          {
+            "hash": "ef9c8278014976b32b6a4054559762b0f608740d",
+            "message": "update UserGuide.adoc ClearCommand and add ListDeletedCommand",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "703dac8b76bc69065c4a9e5a87f787951e15f191",
+            "message": "remove bulletpoint from UserGuide Delete",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 57,
+        "deletions": 64,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "8467ee7ca139141a4d8c49287db262bd0b6c657d",
+            "message": "remove hashcode methods",
+            "insertions": 22,
+            "deletions": 24
+          },
+          {
+            "hash": "9af3525c85133a3b8fa729dccde9f5bd883fd83b",
+            "message": "remove hashcode methods",
+            "insertions": 18,
+            "deletions": 23
+          },
+          {
+            "hash": "a9ecae1a98ee81fbe0962322ed585e50f183a92a",
+            "message": "comment out hashcode tests for restore and delete",
+            "insertions": 17,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 475,
+        "deletions": 233,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "85fef2bad8f921dc46bf1c3a41dadd193d50355f",
+            "message": "add RecycleBinParser to parser",
+            "insertions": 47,
+            "deletions": 3
+          },
+          {
+            "hash": "356cc3353d1206d723c0387e06b217d29878705d",
+            "message": "add ParserMode enum class",
+            "insertions": 25,
+            "deletions": 1
+          },
+          {
+            "hash": "5d49fee0573cda3e742343059906fc3bae101dc2",
+            "message": "add javadoc comment for setParser in LogicManager",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "dcc6d784872dbd3c1da8ee37483d8c8be00ea17b",
+            "message": "move setParser to ModelManager",
+            "insertions": 15,
+            "deletions": 16
+          },
+          {
+            "hash": "9d0ac186ec82c8f1d103d6518b3c3b5d11b327e5",
+            "message": "add setMode and getMode to Logic interface",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "2f20a79f1f57d1d87a58aded82ed661178ec1395",
+            "message": "remove parser mode functionality",
+            "insertions": 2,
+            "deletions": 38
+          },
+          {
+            "hash": "8d7dba97b2f2e3c6d177f6ea6dfe8fde8ff5e183",
+            "message": "implement BasicParser class",
+            "insertions": 46,
+            "deletions": 5
+          },
+          {
+            "hash": "c7fe8fbbe555733dd94ef4cf363457d2501a21cd",
+            "message": "change default case result in parser manager classes",
+            "insertions": 5,
+            "deletions": 8
+          },
+          {
+            "hash": "41c50f3d8f8566f793df986196bf7f1f7c5eca75",
+            "message": "add ParserMode enumeration",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "e3fc457145d80237e6487d912e62910aff6b9bd8",
+            "message": "add setParserMode and getParserMode",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "da303152cab0eae80c21a2d5edd2df4a0c678426",
+            "message": "write switch statement for logicmanager parser switching",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "24cc848a8a2cfb3552afe8f6720c8be421764e18",
+            "message": "refactor listdeletedcommand to recyclebincommand",
+            "insertions": 19,
+            "deletions": 20
+          },
+          {
+            "hash": "2d162b6e990ac7f10154a68c742b2ecc0a07ccc0",
+            "message": "add emptybin and exitbin commands",
+            "insertions": 66,
+            "deletions": 12
+          },
+          {
+            "hash": "439d2b8ef3465c8c0bf18413527ff559a158f8fb",
+            "message": "add restore back in sourcemanager, write throw exception message",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "5b2b814d8d35ad5ee60f642d3449e385a3cee4cd",
+            "message": "disable restore in sourcemanager again",
+            "insertions": 0,
+            "deletions": 8
+          },
+          {
+            "hash": "ad515f6677030cc7c1d5d52f8c73b1c820f1b267",
+            "message": "update delete for recycle bin mode",
+            "insertions": 14,
+            "deletions": 2
+          },
+          {
+            "hash": "39747e4e9a56df72b2a9ea11c05bd2494be5abfd",
+            "message": "add help and select command to basic parser, add count command to recyclebin parser",
+            "insertions": 18,
+            "deletions": 5
+          },
+          {
+            "hash": "f9b0f1d43c271badbba05aed18a28cc72f7e58c9",
+            "message": "update count command for recyclebin",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "0702d348e4be84718216b7ce7b9e374a3f65d483",
+            "message": "update restore command result message",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "b774ed0de6e794a3c189fa698e27f220503b5583",
+            "message": "move switchToSource and switchToDeletedSources method calls to setParserMode in model",
+            "insertions": 36,
+            "deletions": 25
+          },
+          {
+            "hash": "a71dd3076c38d27270f4714b6d7acb721b5a5dbe",
+            "message": "remove deletesources functionality from ClearCommand",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "0c92511cc9ea427577620ca78f9a7b432887a24c",
+            "message": "refactor empty-bin command and wrote javadoc comments",
+            "insertions": 10,
+            "deletions": 8
+          },
+          {
+            "hash": "70b4335677534fc544f39219191c5fe932c0baf6",
+            "message": "add comment explanation for delete and restore",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "e11c4e34574bc5486dfffeb56e89e46118e66396",
+            "message": "update clear command in UserGuide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ddd6a8b951ccdc6100647015e2066c23304fce2d",
+            "message": "fix travis checkstyle errors and @ignored delete and restore under CommandHashTest",
+            "insertions": 84,
+            "deletions": 64
+          }
+        ]
+      },
+      {
+        "insertions": 1227,
+        "deletions": 1173,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "b991e0b06aedf6168e4270ce069136e6113ba263",
+            "message": "remove BasicParser class and made SourceManagerParser a parent instead",
+            "insertions": 109,
+            "deletions": 95
+          },
+          {
+            "hash": "cfe34214ee0aad258acc4f1ab316cb18f4d9838c",
+            "message": "fixed most tests",
+            "insertions": 11,
+            "deletions": 20
+          },
+          {
+            "hash": "62ef70d20f8241f6d63715ed21d3728f7e6741f3",
+            "message": "fix clearcommandtest",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "5c9a8349eb18bd3395b0b945faa5111b3a16af26",
+            "message": "restore all system tests from PR#118",
+            "insertions": 537,
+            "deletions": 480
+          },
+          {
+            "hash": "49e8b3cb8af22c754e72d32d86465eb6bc396d98",
+            "message": "restore all system tests from PR#118",
+            "insertions": 43,
+            "deletions": 40
+          },
+          {
+            "hash": "c0329dd9eab30c0a3b7ba4822eec07203a16a667",
+            "message": "fix travis stylecheck errors",
+            "insertions": 17,
+            "deletions": 29
+          },
+          {
+            "hash": "550bc89aaaf2ff531a6307950747cc51633964da",
+            "message": "refactor sample test data to suit infinity machine",
+            "insertions": 385,
+            "deletions": 382
+          },
+          {
+            "hash": "804c94aff709e87a4600b38cfbb8c6a13b8a68d4",
+            "message": "resolve refactoring issues in searchcommandtest",
+            "insertions": 37,
+            "deletions": 35
+          },
+          {
+            "hash": "23de67b5024346e5d472750cafe5d40435acbd0b",
+            "message": "fix travis checkstyle errors",
+            "insertions": 29,
+            "deletions": 22
+          },
+          {
+            "hash": "d498abaa010667c7b5b9fea94d9ad8ba1cd8bd07",
+            "message": "fix JsonSerializableSourceManagerTest error",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "3c9499af204703e1111e854d691ef038dabbab5a",
+            "message": "ignore failing systemtests",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "e1cf632f47d5d472e04fa18fc692378c2d21c772",
+            "message": "remove alias commands from recyclebinparser",
+            "insertions": 1,
+            "deletions": 31
+          },
+          {
+            "hash": "9b1397fd3c10d695b82a8fbd11f1b26d047e945c",
+            "message": "remove unused message",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "e7060e754cb0482356a973fb5defdec5b3e01006",
+            "message": "change protected to private for SourceManagerParser Alias features",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "6678d9c6c40b99dba11cf77e3cdd6cd420e2d0f6",
+            "message": "change if to switch statement in modelmanager",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "5a740b5a1ba0b2caeb9c11a9217780566e8279a7",
+            "message": "fix travis checkstyle error",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "df37f3663fc9c5e82939c1cc3381991c1a1c5b80",
+            "message": "add break to default in switch",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "5902bb85d321a01760cf90ad3eb180266f8a6d98",
+            "message": "add relevant sample data for infinity machine",
+            "insertions": 12,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 170,
+        "deletions": 69,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "13815e3b8af2d8a4ddf0c69eb2a102603e6dc0fd",
+            "message": "add exitbincommand test",
+            "insertions": 49,
+            "deletions": 1
+          },
+          {
+            "hash": "28f932302a2c2ab138c6f3248bb8b4d8bd2dafdd",
+            "message": "add emptybincommand test",
+            "insertions": 40,
+            "deletions": 2
+          },
+          {
+            "hash": "5dde4f912d5dc46f8b50e421714818038829e95e",
+            "message": "add recyclebincommand test",
+            "insertions": 47,
+            "deletions": 0
+          },
+          {
+            "hash": "875ec3712dfbefb6152f73436ce1d6a5ef6ae0fd",
+            "message": "add restorecommand test class",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "0421691e9031ec18366b9d00024b34adcff4e864",
+            "message": "remove delete and restore from CommandHashTest",
+            "insertions": 0,
+            "deletions": 39
+          },
+          {
+            "hash": "9140d62ff22919ae2d388c5b757c6906d7c892a2",
+            "message": "fix travis checkstyle errors",
+            "insertions": 25,
+            "deletions": 24
+          },
+          {
+            "hash": "1174812fa727a85af5d361316c8f28e76e3073ad",
+            "message": "fix editcommandtest error",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 227,
+        "deletions": 990,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "5269400e9469255bb40656e15070b50d9149e899",
+            "message": "remove restore command from SourceManagerParser",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "c602ceaeeccca7a68a37612dbb42db7c25017c5b",
+            "message": "fix travis checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "5854f77c1d933fe4c7491b1a40de905077a3ce26",
+            "message": "renamed variables with ALICE, BENSON, CARLS to new names",
+            "insertions": 30,
+            "deletions": 31
+          },
+          {
+            "hash": "8c364555f7426db64d2e90d0a86e5c400a6e9c51",
+            "message": "update countcommandtest",
+            "insertions": 37,
+            "deletions": 6
+          },
+          {
+            "hash": "3e11cd3bda1ce47cabe2f7a2b62e978405d9f54f",
+            "message": "fix failing deleteCommandTest and add test case",
+            "insertions": 95,
+            "deletions": 13
+          },
+          {
+            "hash": "e47c4ab646d95914d2dfd67552f51bc6caf20bf6",
+            "message": "write proper explanation in javadoc comment for test case in deletecommandtest",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "1c9d4b566d4c5a3cbe01901d4c19e4ffb9ca08b1",
+            "message": "fix travis checkstyle and remove ignored test in ParserUtilTest",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "a48ddb5289b6c33a207feedad0cef7b931c0188f",
+            "message": "update coverage to infinity machine\u0027s",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3bbd2e45892efea968305f459346fd29c2fb3c6b",
+            "message": "fix travis checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "b96c74c62afc31b1389b449597d94ebbdf2baf7a",
+            "message": "update coverage",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f47e62eb7546b27d8f2cce04b8f61deebc45a295",
+            "message": "removed addressbook files",
+            "insertions": 3,
+            "deletions": 823
+          },
+          {
+            "hash": "7bb154b5c8571b6708df5797a768cd3899882c8f",
+            "message": "removed personbuilder",
+            "insertions": 0,
+            "deletions": 94
+          },
+          {
+            "hash": "8108afb255eb21cbf2e4e6579018a495e0fff932",
+            "message": "update CountCommandTest.java",
+            "insertions": 9,
+            "deletions": 6
+          },
+          {
+            "hash": "3bd7a92a62422eff064f550fb0165e19ed66801a",
+            "message": "fix travis checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "32c16d4108420afc630d7203e9bd52ea75c7889c",
+            "message": "add restorecommandparsertest",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "5953a2aab98f2b797edfa1069cf2c478425d44dc",
+            "message": "added testcase in deletecommandtest",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "a8009d2840cb94549db11cc1a0e09c378c6e3ca9",
+            "message": "update README.adoc to reflect coverage",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 690,
+        "deletions": 329,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "e3d6226b542a42bb1cf333e7bba69bd306ada119",
+            "message": "update coverage badge",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "455a9f88eb56831eaa0b7437a7a47f026298517f",
+            "message": "update UI with author and bibliofields",
+            "insertions": 23,
+            "deletions": 4
+          },
+          {
+            "hash": "81ccf231622e3f1e52931a3a4da0473bb0f400e5",
+            "message": "fix travis checkstyle errors and add RecycleBinParserTest test cases",
+            "insertions": 86,
+            "deletions": 7
+          },
+          {
+            "hash": "3fc5d109e190c4354d986843bfdedd1d5126afd6",
+            "message": "fix travis checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2c164a44ce906dad76633d33d7b34ef4e916a915",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b9ba77065fa8c022a647057c83a442c6bf0be622",
+            "message": "fix undo redo bug and fix editcommandtest",
+            "insertions": 83,
+            "deletions": 10
+          },
+          {
+            "hash": "3e50080f7ba3dc20104800e117c6d9700f5c8e1b",
+            "message": "added message for deletecommand",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "a411e4e90853778f38025e9a015842ffed24a0c0",
+            "message": "remove seventh index from Typicalindexes",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "156135e14fb702e231aa7b6ff46e17b755eed03b",
+            "message": "fix travis checkstyle errors",
+            "insertions": 17,
+            "deletions": 12
+          },
+          {
+            "hash": "4730c8a349b3ff7bf2547a5fd155f334ecb973cf",
+            "message": "add restore command tests and update delete command and delete command tests",
+            "insertions": 153,
+            "deletions": 26
+          },
+          {
+            "hash": "7af3d0fa5fa9d66c9f5d27c7ac2150ffd718ba1c",
+            "message": "add redo and undo for recycle bin mode",
+            "insertions": 23,
+            "deletions": 1
+          },
+          {
+            "hash": "7a793dec073d9bd996e4e7460f743f2a005e9d64",
+            "message": "add tests for undo and redo in recyclebin mode",
+            "insertions": 53,
+            "deletions": 14
+          },
+          {
+            "hash": "e8b864cf1f8e66186907a04b8cee8b5ecec36687",
+            "message": "add tests for undo and redo in recyclebin mode",
+            "insertions": 8,
+            "deletions": 13
+          },
+          {
+            "hash": "6521bbad2621262c896d3368e535eccce617086c",
+            "message": "add tests for undo and redo in restore command",
+            "insertions": 46,
+            "deletions": 4
+          },
+          {
+            "hash": "9985297b73536b935f5fab35198edeb3b03ea765",
+            "message": "add JsonDeletedSourcesStorageTests",
+            "insertions": 123,
+            "deletions": 0
+          },
+          {
+            "hash": "9522c038cf7d016da0bc4ef9e8c056458bedf350",
+            "message": "add code to generate sampleDeletedData.json file",
+            "insertions": 41,
+            "deletions": 202
+          },
+          {
+            "hash": "1bb147e12e3d7596a0609212b92490585f1226ad",
+            "message": "fix travis checkstyle errors",
+            "insertions": 21,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 611,
+        "deletions": 408,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "6aeaa455a5a053931a24b8dccad21cf7aabf71ea",
+            "message": "add userguide mode explanation",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "12cd712fdcd716af6c6aaac431040a4402faf7f3",
+            "message": "restructured userguide",
+            "insertions": 53,
+            "deletions": 51
+          },
+          {
+            "hash": "e62bb4d3d69aa1a1ef4f635af8c8e22c0d1c250c",
+            "message": "change structure",
+            "insertions": 56,
+            "deletions": 55
+          },
+          {
+            "hash": "6024eb31df9c7e955201b9c60111ff350253fee8",
+            "message": "update userguide.adoc",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "41096d4d85e62ee774924eca784803bccee6b44d",
+            "message": "update userguide.adoc",
+            "insertions": 9,
+            "deletions": 28
+          },
+          {
+            "hash": "071241f93c98cae1721c7ae7edd744bcb40a1ea5",
+            "message": "update userguide.adoc",
+            "insertions": 18,
+            "deletions": 29
+          },
+          {
+            "hash": "19cff6b1a29defe8a66b03cbcb6e085214c3d8b4",
+            "message": "update userguide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "cdd2d9b8ab5f70f2c293b4b237072dda06f75589",
+            "message": "update userguide.adoc",
+            "insertions": 22,
+            "deletions": 22
+          },
+          {
+            "hash": "f4b5776da8b070bea9d5fa8fb373589a81b09846",
+            "message": "update userguide.adoc",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "ef4971762037ea32144a8ca269fe74d2b50356e3",
+            "message": "update userguide.adoc",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "48cccbda231dddef6f62d83d7d993b1321cb3061",
+            "message": "update userguide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1ed76b1d8d51bba2696ae7a205518289ccbe6df9",
+            "message": "update userguide.adoc",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "75e605e201d0f3db2b28b976698d31318b6f3b1f",
+            "message": "update userguide.adoc",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "d91eb37b51252507fa2637644b68e2b573c6818c",
+            "message": "update userguide.adoc",
+            "insertions": 10,
+            "deletions": 8
+          },
+          {
+            "hash": "9b6fb5ff96162aebe65c8e4ebf5baa57fbf884d2",
+            "message": "update userguide recyclebin section",
+            "insertions": 150,
+            "deletions": 10
+          },
+          {
+            "hash": "dbd1c339173c7733fcd745cb2f389c99452e75fd",
+            "message": "update userguide recyclebin section",
+            "insertions": 0,
+            "deletions": 11
+          },
+          {
+            "hash": "011cf2a1bd6b212e0c8826addea00c3e4ccc181b",
+            "message": "update userguide",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "02f428db6c3d69b177f7b94bd1d3951d5530d967",
+            "message": "update userguide",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "d779822c56c234a55b14c9911b022241f4f73fbd",
+            "message": "update userguide",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "179c9285f3b48d69620b09c2ca59e01da0702390",
+            "message": "update userguide",
+            "insertions": 16,
+            "deletions": 8
+          },
+          {
+            "hash": "8eb9406bbaadc58eea410a7bf89fe3ef61ed440a",
+            "message": "rename PPP file and updating aboutus.adoc",
+            "insertions": 6,
+            "deletions": 75
+          },
+          {
+            "hash": "5dfaccc48efeaa1712c523e0cd61b516de9fb5bc",
+            "message": "update aboutus.adoc",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "6a75cc1bfba5d599858a349be7ecdb3cfc6e18f3",
+            "message": "updated issamesource to detect author field",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "89b4068ea543f34a278f166ad9a036d8371ffca7",
+            "message": "explain duplicate sources in user guide",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "079ca053a1bf2a168e5d3cf2950173ced1977235",
+            "message": "update userguide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2d7638a7b4decfe5c39b6d1db20c467c8dc75a2a",
+            "message": "update userguide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "62f8f2f8775bed7c0399ddfedbbaec3cd0b985e9",
+            "message": "edit duplicate sources test",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4618376898b473e2b0c537c01adfaa9cd61dab56",
+            "message": "update userguide",
+            "insertions": 7,
+            "deletions": 15
+          },
+          {
+            "hash": "fe4e0d695157b8686ee1580503e2c46ff01453da",
+            "message": "update PPP",
+            "insertions": 49,
+            "deletions": 21
+          },
+          {
+            "hash": "e14b267ab6b03e8e393d3b099e4a7db7e5b1c67b",
+            "message": "update PPP",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "eb5ab5ac9c05d5c36724332f2ea0f8e2c36f40e3",
+            "message": "update ppp",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "ed7b015142c53a3347cafde49953b60be2664135",
+            "message": "update ppp",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "02606471909740d487768781dd801a663dbd9e81",
+            "message": "update dev guide undoredo",
+            "insertions": 20,
+            "deletions": 20
+          },
+          {
+            "hash": "cc3d00e7fa11666e3ef61108c37cd6205d712cc2",
+            "message": "update dev guide",
+            "insertions": 15,
+            "deletions": 4
+          },
+          {
+            "hash": "63d416ada9a2290e7a6dd623108678286c3b0edf",
+            "message": "update devguide",
+            "insertions": 45,
+            "deletions": 11
+          },
+          {
+            "hash": "3ae3a08eec73f792e7307bae0f7908b5e590a792",
+            "message": "update dev guide and ppp",
+            "insertions": 2,
+            "deletions": 7
+          },
+          {
+            "hash": "a23b3c0dfd34eeb3cdf49eaa5e69b889a762a0f1",
+            "message": "add diagram",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "5061af2035a542c245d4fd5d2ad1f5e9f2e75174",
+            "message": "portfolio",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "DarrenDragonLee": [
+      {
+        "insertions": 24,
+        "deletions": 22,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "11db80a3d6c3de4474650064c8b6d7edde78a7eb",
+            "message": "Readded images and changes to AboutUs document",
+            "insertions": 24,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 303,
+        "deletions": 62,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "de0b8a2cee374da210797e1d9728093b1f6eda11",
+            "message": "Massive update for storage model",
+            "insertions": 207,
+            "deletions": 0
+          },
+          {
+            "hash": "88c59e3f2a66a972a8ee250fb611052d4cf27d35",
+            "message": "Removed \"whitespaces\"",
+            "insertions": 22,
+            "deletions": 23
+          },
+          {
+            "hash": "66cfd5ee77794ad7c8fa71092ab3f8139bad94f1",
+            "message": "Removed \"whitespaces\" again",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9f07b3385a62a5909ffc3823b251983fa7bd73df",
+            "message": "Added javadocs",
+            "insertions": 24,
+            "deletions": 9
+          },
+          {
+            "hash": "cb8de1046229b742bb4b415b4715839aa3659796",
+            "message": "Modified Java Docs and made minor changes",
+            "insertions": 43,
+            "deletions": 23
+          },
+          {
+            "hash": "20358307c513c1daf5fe8309eeb267909f1043ac",
+            "message": "Removed \"whitespaces\"",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f058444596e97ec764e04c008922794a496b8f45",
+            "message": "Modified import order",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 7,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "e34fb19bedab14cf85b75ab94bc526859fa23c8b",
+            "message": "Renamed all images and chenged the AboutUs document accordingly",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "6f47aa787c1df62fdced8c2f615f1765b4b47da7",
+            "message": "Replaced Yang Yang\u0027s photo and corrected typo in Fabian\u0027s username",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 427,
+        "deletions": 131,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "f494ad2d812688bd2fb9ba1ac3ea878e3c6473f7",
+            "message": "Massive improvement to the source model",
+            "insertions": 287,
+            "deletions": 1
+          },
+          {
+            "hash": "1101786d172eff4f8db0519af07d5b666b0efa3b",
+            "message": "Removed 1 whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b4f0e6ea020e060343da1a10d452b03d90d7408c",
+            "message": "Added java docs for main method and shifted indentations for entire codebase",
+            "insertions": 137,
+            "deletions": 127
+          },
+          {
+            "hash": "dd76043608ca2acdd749da01b21765166d727c10",
+            "message": "Added 2 whitespaces",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 209,
+        "deletions": 300,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "3fff75f7f3e122fc48e4befa2a699803abe4741a",
+            "message": "Update for Add and Edit commands and related files",
+            "insertions": 209,
+            "deletions": 300
+          }
+        ]
+      },
+      {
+        "insertions": 233,
+        "deletions": 43,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "28a09886432dc2da8aaff9df12634ae53ddd94ae",
+            "message": "Added CustomOrder Command",
+            "insertions": 153,
+            "deletions": 17
+          },
+          {
+            "hash": "d7fc0859672831b00b960ae458158f73df6ff2bc",
+            "message": "Added Order to the user docs file",
+            "insertions": 24,
+            "deletions": 6
+          },
+          {
+            "hash": "5f28bef28c2f60f9d6fdc2ad9faf2b3ebfc0f90c",
+            "message": "Added end of line",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "6d45ef197348c1fb6755fbb71ff07c9c31e61d82",
+            "message": "Checkstyle corrections",
+            "insertions": 11,
+            "deletions": 9
+          },
+          {
+            "hash": "418ce7da362ec556b96845f2dd8a7f9e8c4d27eb",
+            "message": "More checkstyle issues",
+            "insertions": 20,
+            "deletions": 3
+          },
+          {
+            "hash": "38770190de33a1a62f2eb10bff24f31a0be24df2",
+            "message": "Updated all user stories into the developer guide",
+            "insertions": 24,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 1,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "9ce05c6b607ade514e82e7b299bf15e4516a2aab",
+            "message": "Updated Tests for new AddAtIndex command for the model",
+            "insertions": 6,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 614,
+        "deletions": 56,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "bee4be11c8643341e9c8112f98e50b454ac33702",
+            "message": "Massive update to User Guide",
+            "insertions": 32,
+            "deletions": 22
+          },
+          {
+            "hash": "cea75114e81d978e91f66a01596684843ef7de7c",
+            "message": "Removed Whitespaces",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2d21e7729c73b599a72f193358c426a9df09fdbe",
+            "message": "Updated use cases for all functions into the developer guide",
+            "insertions": 558,
+            "deletions": 10
+          },
+          {
+            "hash": "c2a03ef41944caac5945b3be7ce3a2eb097364bc",
+            "message": "Fixed minor typographical errors in both developer guide and user guide",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "641c9e99085b59447438175fe751039d4530248a",
+            "message": "Changed all \"spelled wrongly\" to misspelled",
+            "insertions": 19,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 322,
+        "deletions": 25,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "bcbe30d7785eb802ffea155577eb172230dbc2f6",
+            "message": "Minor logic change for the Custom Order Command",
+            "insertions": 198,
+            "deletions": 12
+          },
+          {
+            "hash": "d7b7494b5df161aeda6688e9f1fcb8720d5123a9",
+            "message": "Removed whitespaces",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "48e656edc73ab8e2987713f2682b6fdeecb3ca17",
+            "message": "Renamed methods to make Travis happy",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "4e7ee9184607c741a320bbdb6761a2626c244c42",
+            "message": "Added Custom Order to the developer guide",
+            "insertions": 111,
+            "deletions": 0
+          },
+          {
+            "hash": "64d80332ab8802e5086e64e838bee5ed386c12da",
+            "message": "Removed whitespaces",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 520,
+        "deletions": 47,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "d653e380985ff43876494382db55fced366c6c7c",
+            "message": "Massive update for complete implementation of the pin function",
+            "insertions": 463,
+            "deletions": 29
+          },
+          {
+            "hash": "77213cd8b81d3b3d157aac2f4bb50883d2c24de0",
+            "message": "Removed whitespaces",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "11b2433736d861e0466ac2d3558b7985d2649ba9",
+            "message": "Changes to make Travis happy",
+            "insertions": 52,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 31,
+        "deletions": 52,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "087fb6505cdf7b2caf6f20ec732f80918da972ef",
+            "message": "Minor Refactoring",
+            "insertions": 26,
+            "deletions": 46
+          },
+          {
+            "hash": "0f5ddec81839beca5fc79bd8845ef2279749d53e",
+            "message": "Minor Edits again",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "f7b5e49f1d246173b717e93bdda2418366878a69",
+            "message": "Yet even more minor changes",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 217,
+        "deletions": 11,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "fb8cb26755df0898ab7ad181302b0e08450f5e43",
+            "message": "Minor Update to handle Hashcode issue",
+            "insertions": 208,
+            "deletions": 3
+          },
+          {
+            "hash": "6c07528f5520db7c5373f7511a0ff4e7ac7fae0f",
+            "message": "Removed ONE whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "70aadbe1195564749d3109ea809eb3960b9ebafc",
+            "message": "Added a few white spaces",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "c81955778ceaa6f42f6ac38027afb27f9d05ce15",
+            "message": "Added another space",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 434,
+        "deletions": 65,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "8d197430cf194f480f20b296b9eb94425658c81f",
+            "message": "Incorporated tests and minor logic updates to model manager",
+            "insertions": 434,
+            "deletions": 65
+          }
+        ]
+      },
+      {
+        "insertions": 25,
+        "deletions": 22,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "7acb5eb8d3852f8f97855975c81defd799584791",
+            "message": "Minor rearrangement of imports",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e22939f427005c5d596c4f93162b2fe0f91f3b22",
+            "message": "Yet more rearrangements",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "24e594943bdc3c4a13501716f428607b74a8a2e2",
+            "message": "Even more rearrangements",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "74ae5866b1a0d7d34c9d1e81dfbce6b215de1cb4",
+            "message": "Yet even more rearrangements",
+            "insertions": 13,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 670,
+        "deletions": 227,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "5ae2988496b947320b331a0702b0d83465fd5c6e",
+            "message": "Modified Add and Edit command to incorporate the Author field",
+            "insertions": 259,
+            "deletions": 135
+          },
+          {
+            "hash": "d4a536d7f68984634a396ace1958c5427e340ed6",
+            "message": "Modified tests and descriptor to confrom with necessary functionality",
+            "insertions": 71,
+            "deletions": 9
+          },
+          {
+            "hash": "a83a26667dd5f003abe8f618572cdc14837d0982",
+            "message": "Removed single white space",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "28eaa5b16af2fcd5498fffd9801b20bd8018ed7f",
+            "message": "Minor import order changes",
+            "insertions": 79,
+            "deletions": 29
+          },
+          {
+            "hash": "1a750418aba389a9cc9fadce2db4e6f4ab0144f0",
+            "message": "Modified the tags regex to let it take in any special characters and spaces",
+            "insertions": 32,
+            "deletions": 14
+          },
+          {
+            "hash": "76a25d6fd34851e362703d1b520bebd24fb51dab",
+            "message": "Removed 1 whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6484cd423c3c5f5c01fa44de029e9a932fd6d94b",
+            "message": "Modified regex for tags again to remove special characters",
+            "insertions": 5,
+            "deletions": 10
+          },
+          {
+            "hash": "3796286efadfe3aa9b73c669043d71083ed410b6",
+            "message": "Removed 1 whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "55e9b95cb9a98e1a4ec8a508cfd63f07c6a423ac",
+            "message": "Updated user guide to iron out minor documentation errors",
+            "insertions": 77,
+            "deletions": 10
+          },
+          {
+            "hash": "74b5de1ffae863aa5e4395eb76a90d033e1cb9d6",
+            "message": "Added additional comments to account for multiple titles in the add command.",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "d9be7e9d9bc0e76380e3272cf3a2fbb52261c207",
+            "message": "Removed 1 whitespace",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "4fb8208873736e54b56d486e8646b8ef80ea5239",
+            "message": "Removed whitespace again",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3193017ee4dbaf72e6131087ce9b09697b2f1b7d",
+            "message": "Added pin and unpin components to the user guide",
+            "insertions": 69,
+            "deletions": 3
+          },
+          {
+            "hash": "29ae99d306ef047128f5117d2dfcf2b9b4ae04b3",
+            "message": "Added additional tests for the author field for the add and edit commands",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "4bc65e3f58a1d12b848adfb86bd80274d612e1f0",
+            "message": "Minor typo updates to uer guide",
+            "insertions": 27,
+            "deletions": 10
+          },
+          {
+            "hash": "210f0f75dd6ee9c7daf031f836a1c7fd3b64087e",
+            "message": "Removed 1 whitespace",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 74,
+        "deletions": 12,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "d8eccb8fc0ceb5f8c4f6cf82efb2f7500445393f",
+            "message": "Massive update to the developer guide to properly explain implementation of the pin and unpin function",
+            "insertions": 63,
+            "deletions": 5
+          },
+          {
+            "hash": "ea02b98684a69a06d426f3f3a3895984b7efd9ce",
+            "message": "Minor edits for image paths",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "28c6445f9c58b18dabc598135e5e3e2d3f311766",
+            "message": "Added sequence diagrams for pin and unpin commands",
+            "insertions": 5,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 655,
+        "deletions": 180,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "ba2a24e4d11606f05330bc8f89c91ba83579af14",
+            "message": "Added UI component for the Pinned sources",
+            "insertions": 47,
+            "deletions": 5
+          },
+          {
+            "hash": "d74655285da1b50719caa15de060a8e9a9a494a0",
+            "message": "Removed Whitespaces and minor typo edits",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "0c00103f1fd4272a675e54a49ee0c0e9280e6460",
+            "message": "Updated developer docs for new UI component and added new tests for pinned sources",
+            "insertions": 21,
+            "deletions": 0
+          },
+          {
+            "hash": "748bebfecc9aeeefcc1b451fb5630aa4fdf9dedb",
+            "message": "Added new tests and sligitly improved logic",
+            "insertions": 22,
+            "deletions": 2
+          },
+          {
+            "hash": "3461786a7b1f6fefb60aac707f33f1e9cd5f32f7",
+            "message": "Minor enhancement to the pin command to limit users to 5 pinned sources only",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "6bd7d501702a5280b3c81c0a0af16f082553855f",
+            "message": "Removed ONE whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0efe044b1924e8f15755e2d24e73aa407e8fce85",
+            "message": "Added new sources for the demo",
+            "insertions": 130,
+            "deletions": 1
+          },
+          {
+            "hash": "588a5d7f8ade0d184e8cf7d9e747f7bed5f2a359",
+            "message": "Revert \"Added new sources for the demo\"",
+            "insertions": 1,
+            "deletions": 130
+          },
+          {
+            "hash": "c059c33c052d2b90a9979e0a6575701e6a2bfcc1",
+            "message": "Added new sources for the demo",
+            "insertions": 130,
+            "deletions": 1
+          },
+          {
+            "hash": "9f9d8bad653df21cff2f9efb7f950ba244c17d16",
+            "message": "Added a few new figures and finalised the PPP",
+            "insertions": 230,
+            "deletions": 5
+          },
+          {
+            "hash": "3287de00336fc7590f1df16b56f1b9793e1ea522",
+            "message": "Added tip to tell users not to add or edit same source",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "f15f35951bde5734dc37bb1c50d5f285a1dfe9b6",
+            "message": "Added picture to PPP",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "0a12a06fac497f66f0f0249b4ea0237ec441907b",
+            "message": "Minor edit",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "e9cfc66af4ab433f371e7caf52f7aed733e3de0b",
+            "message": "More edits",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "3a19487c6260c470ed00cf20db8f071347644437",
+            "message": "Edits",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "02f365e5479ac4474fe49b5c4b26b6955580407f",
+            "message": "Edit again",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "57703eba0d06aafeb0d94dbb6e9a2a18dc222004",
+            "message": "Added EOF",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "fterh": [
+      {
+        "insertions": 90,
+        "deletions": 2,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "70d5ab6066d0301fc77c1e1b664f0e9263b931e5",
+            "message": "Create commands \"panic\" and \"unpanic\"",
+            "insertions": 56,
+            "deletions": 0
+          },
+          {
+            "hash": "a4ccddb82ca6b5ea0aa35db67361a694c3b89684",
+            "message": "Accept \"panic\" and \"unpanic\" commands",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "6ae430c695c18389fa450767451397b74595b755",
+            "message": "ModelManager.java: update to implement PanicMode interface",
+            "insertions": 26,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 11,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "abfa3acb6c63b2fca8e3c6f7ce1baded1f475ee0",
+            "message": "Fix checkstyle violations",
+            "insertions": 17,
+            "deletions": 11
+          },
+          {
+            "hash": "80843c363f22aa3f204dbc5183c7bb07e65cc97c",
+            "message": "Model.java: add default implementation methods for PanicMode",
+            "insertions": 12,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 25,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "e1e46842a65d78f0bdc10b68bd60510a5f7c17fd",
+            "message": "Revert \"Implement Biblio Command\"",
+            "insertions": 0,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "34c63e309e18917656c2bf75c648ace0e5950407",
+            "message": "Add panic and unpanic commands to UserGuide.adoc",
+            "insertions": 12,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 50,
+        "deletions": 26,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "7279c6e542d8b89c418ab156e2a0d73f5f78315e",
+            "message": "Fix bug: prevent enabling panic mode multiple times",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "0495c8ff43ccf86cd91c053f079c1db57f81515b",
+            "message": "Fix typo: \"Titles\" should be \"Types\" instead",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e286ba2792614a47bf1b85c0f4a45ef2f1318fd9",
+            "message": "Refactor source attribute validation logic into static utility method",
+            "insertions": 33,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 580,
+        "deletions": 624,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "92459d03c9331f649cbc3fbd65f16bcf39f244a1",
+            "message": "Remove sourcemodel",
+            "insertions": 0,
+            "deletions": 479
+          },
+          {
+            "hash": "41e12e4081a4dd9eccf2195b13aeb728028a4de3",
+            "message": "Update API: rename \"address book\" references to \"source manager\"",
+            "insertions": 580,
+            "deletions": 145
+          }
+        ]
+      },
+      {
+        "insertions": 1080,
+        "deletions": 986,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "c92deec2a3fa6956c3f454d958072282c79e55bd",
+            "message": "Update model tests: migrate from addressbook to source manager",
+            "insertions": 725,
+            "deletions": 394
+          },
+          {
+            "hash": "44937405f96dd99facbb168271f573543dd3e6c0",
+            "message": "Remove some deprecated tests and unused imports",
+            "insertions": 0,
+            "deletions": 187
+          },
+          {
+            "hash": "4c08ded71b65bb7111bf63d4c65eaaf8533a9638",
+            "message": "Implement TitleContainsKeywordsPredicate.java",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "bae6a91ddeca189c8f861b411b0a9603beed03db",
+            "message": "Rewrite EditPersonDescriptorBuilder to EditSourceDescriptorBuilder",
+            "insertions": 78,
+            "deletions": 88
+          },
+          {
+            "hash": "d3619770f6a57fe6622800843c2ab1686800842f",
+            "message": "Fix typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "969fb6229a51bb12024765c901256d284087b33b",
+            "message": "Rewrite CommandTestUtil.java",
+            "insertions": 55,
+            "deletions": 61
+          },
+          {
+            "hash": "7396b8c68bfd9b09ae0425734897b9bf4e06c489",
+            "message": "Rewrite PersonUtil.java as SourceUtil.java",
+            "insertions": 60,
+            "deletions": 62
+          },
+          {
+            "hash": "0755de198f16b41c59a70f2afcb758bc1aecb729",
+            "message": "Update variable names in TypicalIndexes.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "ffda49871f63f9b263295a2229e1445e7cf382d8",
+            "message": "Rewrite SourceManagerParserTest.java",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "f312c119b1082c95079b45acb46f23840eb67851",
+            "message": "Rewrite SelectCommandParserTest.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d1fabcde56f0a74343a04330b335b119668d81f0",
+            "message": "Rewrite ParserUtilTest.java",
+            "insertions": 47,
+            "deletions": 73
+          },
+          {
+            "hash": "260a6431a91144eca53f51d0f7cf954395605ecb",
+            "message": "Rewrite FindCommandParserTest.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "47229c38cb99526a00eb49d51ff5d2c5250db06c",
+            "message": "Rewrite EditCommandParserTest.java",
+            "insertions": 55,
+            "deletions": 93
+          },
+          {
+            "hash": "541774005d699979e15a8d4829c5db1af8155bae",
+            "message": "Rewrite DeleteCommandParserTest.java",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 680,
+        "deletions": 758,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "e9015ed8065c440de6b1ebe0b31162d5133fac69",
+            "message": "Rewrite AddCommandParserTest.java",
+            "insertions": 48,
+            "deletions": 83
+          },
+          {
+            "hash": "0e37b382b8d477dc5df2bd3a6f3875bbd2f5e9aa",
+            "message": "Rewrite LogicManagerTest.java",
+            "insertions": 26,
+            "deletions": 26
+          },
+          {
+            "hash": "53bf3f4380a288d808033f829dd00098059fc639",
+            "message": "Rewrite PersonCardHandle.java as SourceCardHandle.java",
+            "insertions": 79,
+            "deletions": 87
+          },
+          {
+            "hash": "1d9e6fce38dbcb0f2c80b50f72489774e97f1307",
+            "message": "Rewrite PersonListPanelHandle.java as SourceListPanelHandle.java",
+            "insertions": 34,
+            "deletions": 34
+          },
+          {
+            "hash": "3eea727b3e8d61ae2d9227d2d598c8ee01d2f633",
+            "message": "Revert \"Rewrite PersonListPanelHandle.java as SourceListPanelHandle.java\"",
+            "insertions": 34,
+            "deletions": 34
+          },
+          {
+            "hash": "824dc9eb8117adb014da8c960c5a3a7582090fb4",
+            "message": "Rewrite MainWindowHandle.java",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "e95e2ba4901bf871239124c39426724c3779073c",
+            "message": "Rewrite ModelHelper.java",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "96396c2ad68dbaf9fb38c338be1a98a7eabe0206",
+            "message": "Rewrite TestApp.java",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "7b93733cb94a35d2eeefa9e61cb0729add028a4a",
+            "message": "Rewrite SystemTestSetupHelper.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "ecc50b8c68859fdd2ba2dcba1d9718b7b4d3e34f",
+            "message": "Rewrite GuiTestAssert.java",
+            "insertions": 25,
+            "deletions": 27
+          },
+          {
+            "hash": "d75462797e3fb40ae5146b250c75c61091a8ad7e",
+            "message": "Rewrite SourceManagerSystemTest.java",
+            "insertions": 38,
+            "deletions": 38
+          },
+          {
+            "hash": "93aaf93e800b56c0d48492a478f3f69a52a44a07",
+            "message": "Rewrite AddCommandSystemTest.java",
+            "insertions": 99,
+            "deletions": 113
+          },
+          {
+            "hash": "5ef282c9b3167db7135433ebf35d8c3fb04d0422",
+            "message": "Rewrite ClearCommandSystemTest.java",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "704afd9bd636aa1890a89ffa78d8520858122c84",
+            "message": "Rewrite TestUtil.java",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "668e27927871b3ab61eedfa7b0907cf164e55201",
+            "message": "Rewrite DeleteCommandSystemTest.java",
+            "insertions": 47,
+            "deletions": 47
+          },
+          {
+            "hash": "5f7c73437c1a23bd9ab6939ddf471aed47a34ab2",
+            "message": "Rewrite EditCommandSystemTest.java",
+            "insertions": 136,
+            "deletions": 150
+          },
+          {
+            "hash": "236587a5badc7d55373e70b98539d654eeff6590",
+            "message": "Rewrite FindCommandSystemTest.java",
+            "insertions": 40,
+            "deletions": 45
+          },
+          {
+            "hash": "4ba9294e654dcf6ee716840e1603a7c7000b59a8",
+            "message": "Rewrite HelpCommandSystemTest.java",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "99b38fabd52c66a7e44038259dcececbe63ebb35",
+            "message": "Rewrite SampleDataTest.java",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "cad3c17c19fcd27c3bcd953d772b2936c95c6646",
+            "message": "Update files",
+            "insertions": 11,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 115,
+        "deletions": 11,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "83a55e0504c25be5070527edc70db7ed06a1d9d8",
+            "message": "Update DeveloperGuide.adoc with command alias feature",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "7fa0d7575510e2c091b7a48651b91eaca864c44a",
+            "message": "Update .fxml files to fix NullPointerExceptions",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "ac7e78f9901de3734c07ac325387869261e0f496",
+            "message": "Implement rudimentary support for command aliases",
+            "insertions": 73,
+            "deletions": 0
+          },
+          {
+            "hash": "fd2b8394c40419b297e17cffecaf55ef41db61f0",
+            "message": "Reorder import statements (fix Travis checkstyle failing)",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "dfb80071301f957bfe661ffd2db215dfab35e687",
+            "message": "Remove trailing whitespaces (fix Travis failing)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 116,
+        "deletions": 29,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "223f082e50bcc2de1c872f2fd8173a2db7f12958",
+            "message": "Reimplement AliasManager",
+            "insertions": 116,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 30,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "818a06b23d168b1a89a42b9c72db9d24abd97907",
+            "message": "Add reposense config file",
+            "insertions": 30,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 32,
+        "deletions": 4,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "b251ade96bb8e46a54d59bc98054a67b34ecaad2",
+            "message": "Update user guide",
+            "insertions": 32,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 169,
+        "deletions": 145,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "9e0b069b8e0a6c46bdb2ffc0ea430bd5964d49cb",
+            "message": "Update user guide",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "6dd74703c1a4747c4f640caed25f03cae5eddde4",
+            "message": "Implement isValidCommand() method for SourceManagerParser",
+            "insertions": 31,
+            "deletions": 17
+          },
+          {
+            "hash": "0030e7f5ebaa12cc38d789c4802b5483ed56736d",
+            "message": "Rewrite AliasManager",
+            "insertions": 109,
+            "deletions": 120
+          },
+          {
+            "hash": "401336d79077db304f63aed719794e7cd4db52dd",
+            "message": "Clean up code",
+            "insertions": 20,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 190,
+        "deletions": 5,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "9081908e2fff09923a8dcac334a2d92d4d930a16",
+            "message": "Add AliasManager meta commands to validCommands set",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "dab7153b7d270d5a220a5deedc2cc8e06fd2fbc8",
+            "message": "Revert \"Add AliasManager meta commands to validCommands set\"",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "16cbc0027a778add01ae1c0eae071f7a27767319",
+            "message": "Add test cases",
+            "insertions": 98,
+            "deletions": 0
+          },
+          {
+            "hash": "2b7b7319b0b740ec594934cb1070d70a18b02c9d",
+            "message": "AliasManager: guard against aliasing meta-commands",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "271afa010cf04bb377e4528878f43b28d2bf1b14",
+            "message": "Add/update AliasManager tests",
+            "insertions": 29,
+            "deletions": 2
+          },
+          {
+            "hash": "9d7420ccdb96a9295331f7be8bb3dc0731823c4c",
+            "message": "Implement alias-ls meta-command",
+            "insertions": 25,
+            "deletions": 1
+          },
+          {
+            "hash": "15ffb8de16793c8d2fdc1b5f7033488cd8b26215",
+            "message": "Add tests for alias-ls",
+            "insertions": 28,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 397,
+        "deletions": 100,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "e4f91dad27b29dd6df4ce6ce39f6a3d28dca940b",
+            "message": "Rewrite constructor to support dependency injection",
+            "insertions": 12,
+            "deletions": 1
+          },
+          {
+            "hash": "3376cc3defeb421052760b79ecd6a45df89f403b",
+            "message": "Add integration tests (SourceManagerParser + AliasManager)",
+            "insertions": 35,
+            "deletions": 1
+          },
+          {
+            "hash": "d856205427ec5001851b46894c35a03dee3f6de1",
+            "message": "Refactor DummyCommand",
+            "insertions": 24,
+            "deletions": 17
+          },
+          {
+            "hash": "b491e270efd127e48231858ce7907185aaf853a3",
+            "message": "Refactor meta command parsing logic",
+            "insertions": 111,
+            "deletions": 29
+          },
+          {
+            "hash": "ab3c842614280e55b15ae61f2f3b2d19c31b2bfa",
+            "message": "Fix buggy logic: incorrect detection of invalid user input",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "af8f248af1f062659c375582232819c08cce0684",
+            "message": "Add test cases for metacommand parsing logic",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "06e133c2cae7ec2b04ed7d7720ee2fdac7e491e2",
+            "message": "Fix checkstyle violations",
+            "insertions": 51,
+            "deletions": 35
+          },
+          {
+            "hash": "43633cfb33e3c1a641623af464cc1782c359dafd",
+            "message": "Update UserGuide.adoc: fix formatting issue",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "d4b6319c96b24fee6e9484c2c86e68a02a1198d7",
+            "message": "Update developer guide with alias feature",
+            "insertions": 20,
+            "deletions": 12
+          },
+          {
+            "hash": "fb65564c6832ec31c39f03a3754978e788fc3b90",
+            "message": "Create AliasStorage interface",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "0500afba6b25802b62c29e216bd1a87f7aec9810",
+            "message": "Update AliasStorage interface",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4b6cf7af7ce26a10aa96c4e98f83259401c23b99",
+            "message": "Implement AliasStorage with concrete class",
+            "insertions": 80,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 133,
+        "deletions": 13,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "c857e374f17f67b4cf7dfd826de195407dc14a49",
+            "message": "Update AliasStorage interface with new method",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "9b14e4d0e3fdb2e533b244a137d4635e027fd8ee",
+            "message": "Update concrete class implementation of AliasStorage",
+            "insertions": 15,
+            "deletions": 4
+          },
+          {
+            "hash": "733c774b408e798900465197c36f29fab0391d52",
+            "message": "Update AliasManager and tests to support persistent storage",
+            "insertions": 69,
+            "deletions": 2
+          },
+          {
+            "hash": "e316738166edabc7e442bb5292ed7f73f15203df",
+            "message": "Implement regex validator for aliases",
+            "insertions": 30,
+            "deletions": 1
+          },
+          {
+            "hash": "8bca97fa505ad0bc5da3fb317ab8425ec66c7a67",
+            "message": "Update UserGuide.adoc",
+            "insertions": 12,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 331,
+        "deletions": 30,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "c06475b6154e3a7f5591b7806f545b2592b3c603",
+            "message": "Update user guide: fix formatting",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "2fb945ab8d023ea542dfc3c9dd200c47cb4df6be",
+            "message": "Update DeveloperGuide.adoc: command alias feature",
+            "insertions": 85,
+            "deletions": 15
+          },
+          {
+            "hash": "5657cd1ecc6799873ca984e05715dda8af918f99",
+            "message": "Update DeveloperGuide.adoc: fix wrong image",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "684b66fb732a87c518ed31d9c4a3949e1096c567",
+            "message": "Update DeveloperGuide.adoc: fix formatting issues",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "2b96a7a8827560d497589a0b663dd1adaf1dc9cd",
+            "message": "Fix checkstyle violations",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "5a7295b19e913b5d1829d60ebca8e76f477c08c9",
+            "message": "Create fterh.adoc",
+            "insertions": 78,
+            "deletions": 0
+          },
+          {
+            "hash": "d6bca00977fd11f53e47d5de204e4558e17e4502",
+            "message": "Update fterh.adoc",
+            "insertions": 158,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 46,
+        "deletions": 30,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "8fb54850436118a4b2da1ae4be738d1b03b2799a",
+            "message": "Refactor AliasMetaCommandParsers to accept command word as property",
+            "insertions": 19,
+            "deletions": 14
+          },
+          {
+            "hash": "b0f00f86cf39c5f075b9f89bf1ab7883e710d19e",
+            "message": "Dynamically display parse error messages using provided keyword",
+            "insertions": 18,
+            "deletions": 7
+          },
+          {
+            "hash": "6cd1300553f81922fe20bad8b2bd951cad62fc13",
+            "message": "Refactor alias metacommands to outside of AliasManager",
+            "insertions": 9,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 344,
+        "deletions": 182,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "4154064048f2bb6ba280562df2752039df5da733",
+            "message": "Complete refactoring alias metacommands to outside of AliasManager",
+            "insertions": 31,
+            "deletions": 14
+          },
+          {
+            "hash": "a2f1dc2fb1c3d6a16bac3255bb7a694591aab9aa",
+            "message": "Add alias-clear functionality",
+            "insertions": 51,
+            "deletions": 0
+          },
+          {
+            "hash": "56c75cf3a95f546bb61c100c72a35704a3712e4e",
+            "message": "Fix: throw ParseException instead of returning DummyCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "60a06d11e2ba6d81c72e42242385db3ca753b7e6",
+            "message": "Add tests for alias-clear",
+            "insertions": 26,
+            "deletions": 0
+          },
+          {
+            "hash": "326595b26a680420e6324f2cd46c45abc1ed146f",
+            "message": "Improve meta-command parser tests",
+            "insertions": 13,
+            "deletions": 9
+          },
+          {
+            "hash": "ae8b9f0db9ff00630e6e79c2548b4980cbf002a2",
+            "message": "Fix checkstyle violations",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "351f2c642d0f421b0b904a86569f0da5d94f2201",
+            "message": "Create AliasManager interface",
+            "insertions": 175,
+            "deletions": 146
+          },
+          {
+            "hash": "678a39c9353a8b3ef4835da298ed9573866b4c03",
+            "message": "Fix bug: data loss when exiting in panic mode",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "4305e26ed394bb0cd28cf025b690464c844f8bcd",
+            "message": "Refactor to achieve SLAP",
+            "insertions": 15,
+            "deletions": 7
+          },
+          {
+            "hash": "7c4a2401e3177eb7db2721aa43e1de90b5d8eb11",
+            "message": "Update user guide with panic/unpanic documentation",
+            "insertions": 24,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 31,
+        "deletions": 1,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "b92f8ca877913fcb75a273730b1232afd01d299c",
+            "message": "Update developer guide with panic/unpanic documentation",
+            "insertions": 29,
+            "deletions": 0
+          },
+          {
+            "hash": "2b57ab37664f6d42218faa5b924c4edc84f66a9a",
+            "message": "Fix trailing whitespace violation",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 168,
+        "deletions": 115,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "4152b322097d07fa694792a758cccbe754b63104",
+            "message": "Support dependency injection (AliasStorage)",
+            "insertions": 51,
+            "deletions": 28
+          },
+          {
+            "hash": "b93f82d5c237ccd91f76dc1683b88795548021cb",
+            "message": "Update tests",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ffcbb3b03c19540e1820aacb4f2bda7b2e6fad72",
+            "message": "Remove unused import",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "30fcc41d8d13d4a4e62358d53ae33314e110f27a",
+            "message": "Add logging statements",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "23363a7f14ce6e23c07f36831511ea48541cd9a2",
+            "message": "Update test suite",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "d15d6887d96cc89f36aec68a702aff9cc1676ad5",
+            "message": "Refactor disallowedCommands into within CommandValidator interface",
+            "insertions": 30,
+            "deletions": 27
+          },
+          {
+            "hash": "f117843a71753f5ba50e87a2f5ab88bb13a002c1",
+            "message": "Fix checkstyle violations",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "9e5ce7e6a9a8399fe1fbdbdb3a391a8be7521e85",
+            "message": "Update unregisterAlias() specification and method",
+            "insertions": 17,
+            "deletions": 4
+          },
+          {
+            "hash": "b30c15a7584b84414aa5fc194fb1d6e800355217",
+            "message": "Fix bug: exceptions handled with DummyCommand instead of ParseException",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "36d163f7d836d32e4176f7df5af8cfc32db20a30",
+            "message": "Update tests",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "d9f6872098ceb0b2c86150c2dbed3807ea314a37",
+            "message": "Fix checkstyle: add javadoc",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "5ee37fafe48f1737cc9863d77f09d92da1576d8b",
+            "message": "Update tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "bb539d05d1eabc38ee5ef19ee5a05b902cc18b75",
+            "message": "Throw exception when aliasing invalid command",
+            "insertions": 9,
+            "deletions": 5
+          },
+          {
+            "hash": "ea31ace95d3f72acfaae493d5402d0eb06858579",
+            "message": "Clean up test cases",
+            "insertions": 14,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 101,
+        "deletions": 86,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "743fbac6e98727ecb2e90e6b73d8529de033d625",
+            "message": "Refactor constructors",
+            "insertions": 12,
+            "deletions": 5
+          },
+          {
+            "hash": "6d8af47bde74b5ca10fcc328b78e263c386f9f4c",
+            "message": "Refactor AliasMetaCommandParsers",
+            "insertions": 11,
+            "deletions": 10
+          },
+          {
+            "hash": "e8c3c7528594680421dd8b03d8d38940e9a2f42a",
+            "message": "Update developer guide",
+            "insertions": 77,
+            "deletions": 70
+          },
+          {
+            "hash": "5a4859334b5e9071e718869a3df1c347655d5acd",
+            "message": "Fix checkstyle violations",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 1,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "574485e5c3844e5b7719555b4a74fb3d8ea73806",
+            "message": "Add sequence diagram for AliasManager aliasing operation",
+            "insertions": 6,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 52,
+        "deletions": 189,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "4549edfc17c84cd2243d023cc0c502070be946b5",
+            "message": "Update developer guide for alias feature",
+            "insertions": 24,
+            "deletions": 16
+          },
+          {
+            "hash": "e83643b39a19383adccbedb4d20e0b60244033aa",
+            "message": "Update user guide",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "3a5cb729ced55021e8384f0289b825e223d694a6",
+            "message": "Update user guide",
+            "insertions": 9,
+            "deletions": 3
+          },
+          {
+            "hash": "ca963acc810b3e82b164b65dbe126ae7976d2e71",
+            "message": "Update fterh.adoc",
+            "insertions": 5,
+            "deletions": 158
+          },
+          {
+            "hash": "62f4bdc26baa45bd884f6db578efe809831a2ded",
+            "message": "Update fterh.adoc",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "e418cc2029455723fb98765e65b89fb9ce076abb",
+            "message": "Remove trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "35749245e6fad7d999a3adb47d07eea315a105c9",
+            "message": "Fix incorrect adoc include tag",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "d295e5f825738f0d3329db5d81680d178ec2d3a0",
+            "message": "Close adoc tags",
+            "insertions": 5,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 21,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "7b631fbe8f3aa54fd2718cff7e60ca7e8f5ab111",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "df72f8f55d30d2731da13ae18715de05b2cb784c",
+            "message": "Remove projects section from PPP",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "ef81df90f4adaaf18ed4098125d5409a2fd1fc58",
+            "message": "Fix inaccuracy in UserGuide",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "3a7f7acc04729ba73e615beb506acc3d408d1d9e",
+            "message": "Fix typos/bugs",
+            "insertions": 10,
+            "deletions": 9
+          },
+          {
+            "hash": "50dd10ac4b351ae17ee3c6b19d64552788571564",
+            "message": "Update responsibilities",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "suriruhani": 2371,
+    "DoItTomorrow": 1603,
+    "case141": 5630,
+    "DarrenDragonLee": 3207,
+    "fterh": 2504
+  },
+  "authorFileFormatContributionMap": {
+    "suriruhani": {
+      "adoc": 779,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1591,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 1,
+      "xml": 0
+    },
+    "DoItTomorrow": {
+      "adoc": 219,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1368,
+      "js": 0,
+      "json": 16,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "case141": {
+      "adoc": 568,
+      "cs": 0,
+      "css": 0,
+      "fxml": 9,
+      "gradle": 1,
+      "html": 0,
+      "java": 4979,
+      "js": 0,
+      "json": 73,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "DarrenDragonLee": {
+      "adoc": 1119,
+      "cs": 0,
+      "css": 9,
+      "fxml": 2,
+      "gradle": 0,
+      "html": 0,
+      "java": 2065,
+      "js": 0,
+      "json": 12,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "fterh": {
+      "adoc": 342,
+      "cs": 0,
+      "css": 0,
+      "fxml": 3,
+      "gradle": 0,
+      "html": 0,
+      "java": 2130,
+      "js": 0,
+      "json": 29,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "suriruhani": 74736.97,
+    "DoItTomorrow": 18279.186,
+    "case141": 4.18064742E9,
+    "DarrenDragonLee": 45110.418,
+    "fterh": 120036.65
+  },
+  "authorDisplayNameMap": {
+    "suriruhani": "RUH...URI",
+    "DoItTomorrow": "YAN...ANG",
+    "case141": "LOW...SEY",
+    "DarrenDragonLee": "LEE...REN",
+    "fterh": "TER...WEI"
+  }
+}

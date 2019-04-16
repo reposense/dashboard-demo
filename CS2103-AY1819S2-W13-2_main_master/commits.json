@@ -1,0 +1,3155 @@
+{
+  "authorDailyContributionsMap": {
+    "minernchan": [
+      {
+        "insertions": 63,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "a6e827fca17392afcd2e0d2a84e90d987cdee0f0",
+            "message": "Initialize ActivityAddMember and DeleteMember commands",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "3426aba955b97c86666d3dd32d65d51a60cc4ff3",
+            "message": "Add ActivitySelectCommand",
+            "insertions": 55,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 261,
+        "deletions": 28,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "991690a49cabf7f9d5df7ccf926d96c832efbee7",
+            "message": "Update ActivityAddMemberCommand",
+            "insertions": 87,
+            "deletions": 1
+          },
+          {
+            "hash": "5d4fc4911f9affc8ddd53ab17575814a1b8d9088",
+            "message": "Update ActivityAdd and Delete member commands, Initialize parser classes",
+            "insertions": 87,
+            "deletions": 1
+          },
+          {
+            "hash": "bbeebbd35a59e074e7f1f4a7737f3e15c02c3d13",
+            "message": "Fix checkstyle issues",
+            "insertions": 74,
+            "deletions": 8
+          },
+          {
+            "hash": "30a573279aec7841a77069682d0d3e48ef25a2b9",
+            "message": "Resolve compile issues",
+            "insertions": 1,
+            "deletions": 16
+          },
+          {
+            "hash": "0a9b428392e4ed63bc5ed8f2817fded3e2edf940",
+            "message": "Fix checkstyleTest and create Test classes for activityAddMember etc",
+            "insertions": 12,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 3,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "60b93f0efaf64fcdc1215fb863d90b6380601d90",
+            "message": "Fix checkstyle errors",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 116,
+        "deletions": 75,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "bd303afe6d21434bbb49276644ed5befbe95e1a8",
+            "message": "Change attendance to arraylist, removed IC field from activity",
+            "insertions": 29,
+            "deletions": 43
+          },
+          {
+            "hash": "cf844b67e2190d8559fe349112e3a6015fc01e3b",
+            "message": "Resolve checkstyle and allTests issues",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "4f7ddef0293e5376b179a2ecd23c771ca53e5355",
+            "message": "Update ppp",
+            "insertions": 84,
+            "deletions": 27
+          },
+          {
+            "hash": "0cf0e8907e076f6906572848ef4e99e633502071",
+            "message": "Resolve checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 54,
+        "deletions": 3,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "b983b0bba47c9297516660c50f3a366618f96691",
+            "message": "Change activityAdd/DeleteMembers to replace the activity with a copy instead",
+            "insertions": 54,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 386,
+        "deletions": 51,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "005e7454186cc058569259e845f6e125677871a0",
+            "message": "Use addAll to fill attendance",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "b383dc083faad462f6f8a531f313ce7206bedcad",
+            "message": "Create function to return new activity with added or deleted members",
+            "insertions": 27,
+            "deletions": 25
+          },
+          {
+            "hash": "c03a3b9f9266f9997fb781bbd8ae97ae769096f8",
+            "message": "Add function to replace activity when member is deleted from database",
+            "insertions": 26,
+            "deletions": 15
+          },
+          {
+            "hash": "c489835febc28e41b847e6d513d1c6f7074adf60",
+            "message": "Add ActivityEditCommand Class",
+            "insertions": 218,
+            "deletions": 0
+          },
+          {
+            "hash": "d941b4779d0ea8b42d21345784c55766ce924796",
+            "message": "Resolve checkstyle",
+            "insertions": 112,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "8c6fcd6f65b8c70f8b22c3927b4870b236cfaf0a",
+            "message": "Fix activityEdit command usage",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 20,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "5aefc09ccdc9ad9f593776291ff1d98db1fc30c8",
+            "message": "Fix bugs in activity add and delete member",
+            "insertions": 17,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 565,
+        "deletions": 8,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "6bd03240b52021f087291a67d99c8330dd05f3d3",
+            "message": "Update Activity Tests",
+            "insertions": 565,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 13,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "2cf9ba99b95147405a563e9792d3ac950eff9913",
+            "message": "Add author tags for my previous commits",
+            "insertions": 13,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 149,
+        "deletions": 44,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "6805c17b6717bd23e23ec2edd47549459723cdf7",
+            "message": "Update documentation",
+            "insertions": 65,
+            "deletions": 9
+          },
+          {
+            "hash": "ed9cd0161c16fd0e69e47261af13c04e14a39930",
+            "message": "Update ppp",
+            "insertions": 19,
+            "deletions": 11
+          },
+          {
+            "hash": "5fccfd6a03cfb7252aa3400f78149ec31e4762fa",
+            "message": "Resolve checkstyle",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "fb3c74b11c04174593df9240a54e402a820a1031",
+            "message": "Resolve checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "71ba9333879f6e7d9264e6b6c0b3c09c1aba4df6",
+            "message": "Fix date format",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b87ea759a972227ee4435791d4110d581bef864f",
+            "message": "Fix date format",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "264a98b59b96cf0e597943ecd49597f4e4a1a9c5",
+            "message": "Fix wrong tag for PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cee3144b3367f2bac1edeaf39744ba1c97ba2859",
+            "message": "Fix wrong tag for PPP",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b8fce50b7a546c1db53eed5db4e5ed4bb1a2d459",
+            "message": "Make changes to headers",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "307f339a1a1cc4ec8c48e9f8fc032b41fe75c214",
+            "message": "Add manual testing instructions",
+            "insertions": 30,
+            "deletions": 2
+          },
+          {
+            "hash": "a1fb5f92c4682838494098f958989ca5387568e4",
+            "message": "Add manual testing instructions",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "2be710fd08cda9185fbf17a6b91d2fbf0c589f82",
+            "message": "Reformat instructions",
+            "insertions": 10,
+            "deletions": 8
+          }
+        ]
+      }
+    ],
+    "A0143487X-Kevin": [
+      {
+        "insertions": 10,
+        "deletions": 9,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "66607534ca9786457b0fe8542c558e89ef6d746a",
+            "message": "Update AboutUs.adoc",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "f0a9a9effbaed3ecbf6b5726ea249d49252b94e8",
+            "message": "Removed trailing whitespace on line 19 AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "14031303abd57dadf51b6bd0d576a276120a14ee",
+            "message": "Updated AboutUs.adoc for Kevin",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 67,
+        "deletions": 65,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "1a80aff2e16f35ebc80b251c2d08c6a245b38af0",
+            "message": "Rename MemberFind command, updated function, parser, tests, documentation",
+            "insertions": 58,
+            "deletions": 57
+          },
+          {
+            "hash": "b039f6d536fed10b4b7599ae2b3630cab9fc33cc",
+            "message": "Update Ui Mockup",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ba8c95946dab14d2538d669be5a1113ee1382313",
+            "message": "Change name back to FindCommandSystemTest",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a70c256fecc4e6ff287c68acda8c8283d666a605",
+            "message": "Raname to MemberFindCommandSystemTest",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0358eb31f0e69313112c551194be95e3002dbf55",
+            "message": "Change lexicographical of import statement for MemberFindCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2b7c77c5997bbbc5b019fecb6a60e090bd65cee1",
+            "message": "Change lexi order MemberFind in AddressBookParserTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "68770a5f5546e84f3d02b5b004580a6432b12bd4",
+            "message": "Change lexi order AddressBookSystemTest and MemberFindCommandParserTest",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 188,
+        "deletions": 5,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "6f6940e658ec0328c8109446054307b8c62e44d6",
+            "message": "Export Command Implemented, merged conflicts",
+            "insertions": 167,
+            "deletions": 0
+          },
+          {
+            "hash": "6cb5834e692079f61a5181781fe284daacaea02b",
+            "message": "Change directory name and update Developer Guide",
+            "insertions": 14,
+            "deletions": 5
+          },
+          {
+            "hash": "969f3a65e0a88386e8e9fa06290945ed0eecdc68",
+            "message": "Add stub function assertion",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "0e38c31e6dd39ca6ee7582d02cf7c7d19cc57cd3",
+            "message": "Update Seq Diagram",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 642,
+        "deletions": 2,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "08e999e5919e86110ec4022c2124b0781a183952",
+            "message": "Implemented Mode and Mode change command function",
+            "insertions": 642,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 252,
+        "deletions": 410,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "c46d3f0f285ff5011be53e5e534af7231a3c5e63",
+            "message": "Change all existing functions to be of 3 types General / Member / Activity Command Added InvalidCommandModeException",
+            "insertions": 239,
+            "deletions": 30
+          },
+          {
+            "hash": "4181000998538da426bfe40602c9853ff8d2ccea",
+            "message": "Remove temp file",
+            "insertions": 0,
+            "deletions": 372
+          },
+          {
+            "hash": "68b7f60d094dbc9fb8c8b5e49edded4d0e3016c9",
+            "message": "Change message format",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "f28bc2d8ee8e8f11f749e7082e63a05744e700c6",
+            "message": "Resolve checkstyle error",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 123,
+        "deletions": 17,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "f0c305a5333ea242fae3212b0b2c5ed15aab428c",
+            "message": "Left Panel Change when mode changed, restructure mode command function",
+            "insertions": 123,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 3,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "6e86dfd9fb4dd62ef2112dd7e7db427d3bd48e50",
+            "message": "used proper function to get addressbook current mode",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "61dd074c70683155cebd988480cec1c2aed849fd",
+            "message": "removed unnecessary import",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 167,
+        "deletions": 34,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "15bd9e55832248615ec65f5a8f009a70bbe48f13",
+            "message": "Added label to show mode",
+            "insertions": 70,
+            "deletions": 18
+          },
+          {
+            "hash": "ba06e32f33830a5efc02eab9d38ced475c488776",
+            "message": "correct indentation",
+            "insertions": 15,
+            "deletions": 13
+          },
+          {
+            "hash": "dba80a8d8fac39587f0029a07ed91942a8d73735",
+            "message": "update docs",
+            "insertions": 54,
+            "deletions": 0
+          },
+          {
+            "hash": "49f52cc2e547edb8f32c5b6148c412d37842cbe6",
+            "message": "update docs and update member export function to allow for updated data of person",
+            "insertions": 26,
+            "deletions": 1
+          },
+          {
+            "hash": "52a258be4643ddc9f19a0d6bd17bb25d31abfd52",
+            "message": "checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 5,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "0e9cb062dbcea9de60efdcaede05d0ca9fefcd0c",
+            "message": "Set minimum screen resize value",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "82071da022007695d621a10a58304285fb078e1a",
+            "message": "Resolved checkstyle error",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 851,
+        "deletions": 107,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "fe4695854ce0617f031089db679426f7953c3726",
+            "message": "Change structure of export, implement format resource",
+            "insertions": 218,
+            "deletions": 22
+          },
+          {
+            "hash": "8fec0cc956d415bbd56d4646a0c2e9687126eea1",
+            "message": "Checkstyle changes",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "f40ff339627d9e9fd6828279d3c553bf06c52e19",
+            "message": "checkstyle resources",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "22da70e593226c0704ac55e9d973f08fba2c9680",
+            "message": "Clear command updates mode UI",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "71fa0c2153387c98b2862ef1cde8189e1ca9e2a9",
+            "message": "add ActivityExport Function and formatting",
+            "insertions": 432,
+            "deletions": 56
+          },
+          {
+            "hash": "0d4965bca3040aa64ddabcc26c0505adb11132ba",
+            "message": "Change checkstyle, fix clear command test",
+            "insertions": 15,
+            "deletions": 14
+          },
+          {
+            "hash": "ff7384c56fe0a725b101169f7c120d9998d96df0",
+            "message": "Update UG DG",
+            "insertions": 100,
+            "deletions": 7
+          },
+          {
+            "hash": "047efef1b279a7477754d93daadf40edc5d1b91f",
+            "message": "Update Portfolio and UG",
+            "insertions": 78,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 256,
+        "deletions": 38,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "620fe02b1cce9dd1129bb9806c359ec75dacdd89",
+            "message": "Added command alias feature",
+            "insertions": 80,
+            "deletions": 19
+          },
+          {
+            "hash": "081ed17df49656d04f8262f77288385f96ffb65b",
+            "message": "Change indentation of case statement",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "cfa9a0daf26ee7e62b364375333821074e6fd0da",
+            "message": "Change indentation",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a64197a10c1e3de373075d281b95e78ed322e43a",
+            "message": "Test cases mode modeparser memberexportparser",
+            "insertions": 157,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 23,
+        "deletions": 4,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "fe264c77da5046cc46b1a05e1c1558b7b8be029b",
+            "message": "Add label",
+            "insertions": 23,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 5,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "89e5f45597450a8bf2f89e51c806a9eaf8bd90b4",
+            "message": "change description to wrap",
+            "insertions": 7,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 116,
+        "deletions": 15,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "f562a09e800838f12bd60de94b24e8618eeea6fc",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a28c4fd11f37dceff749cf3e48efd5896e8d5e57",
+            "message": "Add more documentation",
+            "insertions": 27,
+            "deletions": 9
+          },
+          {
+            "hash": "1947d26893945e41aae8e9143d470ba31db716b7",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b25a1cc1522affb858b1b5f6a4f8c8734aafde95",
+            "message": "resize",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "a6d97de97ff02e9eac87bc7140ff8dca6469c179",
+            "message": "added image description for DG",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "92643f9586770108503f13e3600424fb4466527b",
+            "message": "DG Testing",
+            "insertions": 75,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "ivyyangyq": [
+      {
+        "insertions": 10,
+        "deletions": 9,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "f1d774dfbf283fc295c409502e4a8146f906234c",
+            "message": "update README to describe our project ClubManager",
+            "insertions": 10,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "9c1368dd74aa838df59d714c5d324f0212ff2f41",
+            "message": "Upload profile photo and update AboutUs",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 237,
+        "deletions": 2,
+        "date": "2019-02-23",
+        "commitResults": [
+          {
+            "hash": "fa1cb6ceacd017a82128674df6d27a9d0935f8b2",
+            "message": "Update Yiqing AboutUs photo link",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "269d7a3be0a336f2eb020ea3e0597107d2580a9c",
+            "message": "Update UserGuide to include activity functions (add, list, select, find, archive, unarchive",
+            "insertions": 98,
+            "deletions": 0
+          },
+          {
+            "hash": "71eb43eb6a9ad8b203f58be4cd22ba1648f33a38",
+            "message": "Update use cases with activities",
+            "insertions": 138,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 133,
+        "deletions": 11,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "127364d916368f9ecd43b0f39a948c1b912ad731",
+            "message": "Created UniqueActivityList and modified exceptions to inherit from java Exception",
+            "insertions": 124,
+            "deletions": 2
+          },
+          {
+            "hash": "65c2126384267ee41808f5332e62b283c547c2f8",
+            "message": "Update site url to group repo",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "e01dcd85b0a68cbec1dc715c66c2b94175053a1d",
+            "message": "Edited to follow code style.",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 3,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "156fe2d169cbac09565bc59ab16172ad37a63ce1",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "6187df3769bd3360d5b5393f9d0762be6efadf99",
+            "message": "Update UserGuide.adoc",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 243,
+        "deletions": 12,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "b017fdb001ee5d8231f1fa8a0c2d2bd405ba5f28",
+            "message": "Add ActivityAddCommand and update parser for this command.",
+            "insertions": 166,
+            "deletions": 0
+          },
+          {
+            "hash": "9968ce9e27a16d1d3a35388ac2a959aeaef65704",
+            "message": "Formated message usage.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "cf64f290aa3bfee1b03c752608e9d95dd82b6fa6",
+            "message": "fix checkstyle errors",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "dcc3ce9cfa5216b74e9a73e694eea00dbe712faf",
+            "message": "modified ParserUtilTest and added activityAdd related tests",
+            "insertions": 61,
+            "deletions": 0
+          },
+          {
+            "hash": "bea063d5f84dcf485b75df7291e9fe7f7fa132f0",
+            "message": "fix checkstyle error in tests",
+            "insertions": 10,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 101,
+        "deletions": 14,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "e906ec4d64fc3aa6bba4d97cf39c8714ec9143c2",
+            "message": "added acknowledgement for addressbook 4 and update travis badge.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "3433084ec0d24ad4c4f3d748e1b3a66c604766b9",
+            "message": "removed unrelated acknowledgement",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4a34aa767ac377a028f708c657b796cfc55212d9",
+            "message": "index on activity_new: bea063d5 fix checkstyle error in tests",
+            "insertions": 83,
+            "deletions": 1
+          },
+          {
+            "hash": "c64cbc506b40bf6224b39cdfe738debaa8371ea0",
+            "message": "fixed checkstyle errors",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "7e667a4ccd179e950643e07175434b1963d3720e",
+            "message": "updated test for storing activity list in json",
+            "insertions": 10,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 33,
+        "deletions": 108,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "6799425e87d6fbb8a0e8cf97e35127c6a566692b",
+            "message": "Update dev guide and user guide for deleting activityArchive unArchive command. Fix typo.",
+            "insertions": 5,
+            "deletions": 108
+          },
+          {
+            "hash": "417200fa593f733af2d628e6afd1c818d236d149",
+            "message": "add ActivityList Command and update command parser.",
+            "insertions": 28,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 1,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "97587e44b80fcb92708575b6cf02c7d9b9646c0a",
+            "message": "fixed link to photo for mel",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "edbbf22b169e4faf7b58c90a99ef4766173c34f8",
+            "message": "update logic to include returning an activity list",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 379,
+        "deletions": 37,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "55db4a033d1ba0573d3d0367ec56e2c3ecefabe4",
+            "message": "upload updated model diagram and edit implementation for activity in model",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "3f22c66da79da9e413eab55a0fd45297619d20c0",
+            "message": "fixed ascii doc style",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "995f678f214a1e49225aa75691a410f55bf81d39",
+            "message": "fixed typo in activity model implementation",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "902627563a80070cdfe6316f95f9b688c8da8834",
+            "message": "update storage for activities.",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b45a1dd0f5218579e56ccc850575ae00a3ec756d",
+            "message": "fixed activityDateTime regex format to \"dd/MM/YYYY HHMM\"",
+            "insertions": 52,
+            "deletions": 10
+          },
+          {
+            "hash": "cd636ed01f14c7e66351687921f5ccaa83774cb6",
+            "message": "fixed checkstyle errors",
+            "insertions": 10,
+            "deletions": 13
+          },
+          {
+            "hash": "244d3ccbdea220b7d8c1a674e8b572201c87e4e8",
+            "message": "Fixed bug in storage that couldn\u0027t read saved data for activities",
+            "insertions": 256,
+            "deletions": 3
+          },
+          {
+            "hash": "b56cf7d637338f52f1efada497d89b866bda8278",
+            "message": "fixed checkstyle errors",
+            "insertions": 19,
+            "deletions": 7
+          },
+          {
+            "hash": "f782f21d77ac7493db8bb4b7838653cc1080b6e0",
+            "message": "update tests with new methods in model",
+            "insertions": 17,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 151,
+        "deletions": 34,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "bef69a4380a44ef5844180f7fcd7a4d5226a3c01",
+            "message": "updated activity constructor and add command to include location and description",
+            "insertions": 122,
+            "deletions": 13
+          },
+          {
+            "hash": "4e0b929513d28f7a33d3f1e4e2007d522522c074",
+            "message": "fixed checksyle errors",
+            "insertions": 20,
+            "deletions": 20
+          },
+          {
+            "hash": "3cee774979e8a2d5dcbb68c142c03b6b0b496ff0",
+            "message": "update ui display with activity location and description",
+            "insertions": 9,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 2,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "c1f1c9d7ba81cb5b66f1e1683f9fefad4e604ad3",
+            "message": "edited AddressBook class equal and hashcode to include activity list",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "afda358756ff6796d71c12dccce1ff0db2cd256d",
+            "message": "modified addressbook",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 200,
+        "deletions": 58,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "a2d4807e498812c744bf44a2ea145c7cca9a2699",
+            "message": "modified activityAdd command format and removed outdated functions",
+            "insertions": 9,
+            "deletions": 40
+          },
+          {
+            "hash": "c6cae0cfcdacb5d9956cb97a79bd35bda176b3ed",
+            "message": "added activity attribute tests",
+            "insertions": 173,
+            "deletions": 3
+          },
+          {
+            "hash": "80b174c7cfe54ad246131c0a117b93a1ba2c67c8",
+            "message": "fixed checkstyle errors",
+            "insertions": 18,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 200,
+        "deletions": 24,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "743e246b02237070f4cb10c0bfbe4c0d76881cfe",
+            "message": "modified ActivityDateTime to check if a time has passed. Added ActivityStatus to store the state of activity",
+            "insertions": 188,
+            "deletions": 12
+          },
+          {
+            "hash": "2221318a26367c9a9a7d508d1020fb63bfdf3eda",
+            "message": "fixed checkstyle errors",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "e9707d21a40bcb818cb64504b0c632b0d1b83b0a",
+            "message": "fixed checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 159,
+        "deletions": 30,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "f6113cfe596896f7c6b36bd694d9a3fdd8c5637b",
+            "message": "Create typical activities and refactor getTypicalAddressbook to getTypicalAddressBookWithPerson",
+            "insertions": 159,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 122,
+        "deletions": 37,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "fb2204748e2978d2126b2376b0dcfb0223f5a050",
+            "message": "Modified ActivityListCommand to update the status of the activities. Update SampleDataUtil with a list of Activities.",
+            "insertions": 76,
+            "deletions": 3
+          },
+          {
+            "hash": "4b7aa17ec2a499560ae93aadac5627e36fccdf89",
+            "message": "Add css to ActivityListPanel view",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b330d61b8ffe48081878db328a89e65cf4eede08",
+            "message": "Modified model manager to update the status of activity",
+            "insertions": 45,
+            "deletions": 33
+          }
+        ]
+      },
+      {
+        "insertions": 182,
+        "deletions": 2,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "d33da286b9602aad74ae3b1973c053934333ca77",
+            "message": "added ActivityFindCommand and relevant parser",
+            "insertions": 91,
+            "deletions": 1
+          },
+          {
+            "hash": "a6866cc04795c4f3807e33bdbd9fc6e73b8fe544",
+            "message": "added activitySelect function and relevant parsers",
+            "insertions": 91,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "fdc1acd0a50d8922ad552247c4dd9a4c61176d97",
+            "message": "Abstract properties in the Activity compare function",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 37,
+        "deletions": 39,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "a23365b185642ddb1411c7a4de94d590289a424c",
+            "message": "Added proper layer of abstraction for activity list update",
+            "insertions": 28,
+            "deletions": 22
+          },
+          {
+            "hash": "2d1d75b985c9ddd3dade879c3c47fd75ccef0faf",
+            "message": "Removed unused import and fixed checkstyle error.",
+            "insertions": 1,
+            "deletions": 9
+          },
+          {
+            "hash": "e5d5256df46b75426811dbe5d26e55545fe1dd04",
+            "message": "Changed implentation of updateActivity from static to dynamic",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 349,
+        "deletions": 68,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "fd4bebfa2d48976fb1a34ba8592253e31905e953",
+            "message": "Updating user guide.",
+            "insertions": 10,
+            "deletions": 2
+          },
+          {
+            "hash": "2c11b9540f1bab745e43f1ab4af2e6628c89db1c",
+            "message": "Removing IC input when adding activities.",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "7fced6aa5c53acf5345b0fd989281070ce1bd9f7",
+            "message": "Change status display in ActivityCard",
+            "insertions": 10,
+            "deletions": 1
+          },
+          {
+            "hash": "927b3abb2639f80c4738fc958bb5d76b912492e9",
+            "message": "Change Status isCompleted implemenation and update display of status",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "00e908f5a4e0d3db182f66b8208a850ac33012ea",
+            "message": "Adding to activityAdd command in user guide.",
+            "insertions": 15,
+            "deletions": 3
+          },
+          {
+            "hash": "e4aa9aed589a84f2051e1748a44f06d20a664622",
+            "message": "Update activity add command in user guide",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "e60e92df28a24dae5097f1ef79c21b715d4004a3",
+            "message": "Adding details to activityList command in user guide.",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "79c37b70bc538c393e5d36b03979f5384c3a468c",
+            "message": "Added location clash check to activityAdd and updated relevant documentation.",
+            "insertions": 101,
+            "deletions": 30
+          },
+          {
+            "hash": "d4dd11490e01c2cf74b6412b2da006fde45815f4",
+            "message": "Added functionality to activityFind and updated documents.",
+            "insertions": 193,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 603,
+        "deletions": 22,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "b3ccdd292a63072ce6cb5fd0d0579e28b224d432",
+            "message": "Added activityFilter command and updated relevant documents",
+            "insertions": 243,
+            "deletions": 14
+          },
+          {
+            "hash": "cf3ff3649801e5635622092da8c1eb300d531e50",
+            "message": "Update activity model and command parser tests",
+            "insertions": 360,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 65,
+        "deletions": 2,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "90437886d3e9c89a71f660e7006a88aea1d23484",
+            "message": "Added JsonAdaptedMatric for attendance storage.",
+            "insertions": 65,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 222,
+        "deletions": 86,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "1b4bd626684af5d17e36cf8ee6fa681ac7e53ac4",
+            "message": "Update activity storage and documentation",
+            "insertions": 17,
+            "deletions": 7
+          },
+          {
+            "hash": "0572436a3151a1b751035950f013ff2b7696937d",
+            "message": "added ppp",
+            "insertions": 66,
+            "deletions": 0
+          },
+          {
+            "hash": "a8620178245d468b927f024fa0aadd0d0378d2a6",
+            "message": "fix merge issues",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "7123b6ea67f406f5da88d9cbcc42ef8870895243",
+            "message": "Fixed command parser for memberSort and memberFind.",
+            "insertions": 41,
+            "deletions": 6
+          },
+          {
+            "hash": "59d2808f317a417a23aa95afe8562b0b7b610090",
+            "message": "Changing parser implementation to catch incorrectly formated matric",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "be20edc9ebf33348ffd86b0967c5eb07dfe07163",
+            "message": "fix bug for editing new attributes",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "9bf44e44c5f555e4dfb92cd98f346b9426c6ca1c",
+            "message": "Editing memberEdit so there will be no duplicated matric number",
+            "insertions": 45,
+            "deletions": 34
+          },
+          {
+            "hash": "9dbe6641e6ad412b8ca1431160fbcf30f2bcce44",
+            "message": "Changed names to club manager.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "4cbc8525045fa33493b3a7617ed36f857f5e0ff7",
+            "message": "Photo display in gh-phages.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "3563200381bb05d206db6b8d1de46e5545b877c5",
+            "message": "Updated ppp for Yiqing",
+            "insertions": 38,
+            "deletions": 26
+          },
+          {
+            "hash": "7b30d1ff89d93960bfd0cbf0f931dc14fd92c50d",
+            "message": "Update ppp in AboutUs",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 360,
+        "deletions": 36,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "0db640a43c7f5278581ac57298f77d92b558114d",
+            "message": "Add getter function for persons attending and not attending an activity",
+            "insertions": 95,
+            "deletions": 2
+          },
+          {
+            "hash": "eb4d480c0e1ab342a31cb319ccb2f7459a91ae83",
+            "message": "Added UI display of activity detail.",
+            "insertions": 265,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 107,
+        "deletions": 131,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "bf8acca146c8323f892b0f5641844be01c51fc14",
+            "message": "Added check to prevent multiple of prefixes in activityAdd",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "a6bbcfbf0eb676c243f98966cf91c71859c1928b",
+            "message": "Improved implementation of activityFind",
+            "insertions": 87,
+            "deletions": 131
+          }
+        ]
+      },
+      {
+        "insertions": 170,
+        "deletions": 34,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "0df86e18cdbf6a51bfb9a902dbda18bc8fdb9938",
+            "message": "Added some tests and update document for activityAdd,list and delete",
+            "insertions": 170,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 86,
+        "deletions": 36,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "19b96baeff6addfef059ca106b6c3fe00621f726",
+            "message": "fix merge conflict",
+            "insertions": 2,
+            "deletions": 11
+          },
+          {
+            "hash": "b1750f7d671677eb4b58bbde5170a95d08fd8785",
+            "message": "fix activity conflict with master",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "f3bf7547bdd8cd0b84fbfe4a44e59fde70de2797",
+            "message": "fix merge conflict",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "8131adb36b8ecf4b015cfaaaed0f04120fb045e9",
+            "message": "Remove redundant commands",
+            "insertions": 0,
+            "deletions": 11
+          },
+          {
+            "hash": "d847d84828db43fcd3d92b230760ad95bd85db4b",
+            "message": "Update UI and Sample Data with attending list",
+            "insertions": 19,
+            "deletions": 4
+          },
+          {
+            "hash": "8f31050a9fcccc196cd1e9123341907071db6189",
+            "message": "Edited to have deeper table of content",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "03885a59e91d8c497b9ca8e617867b7bd51a2ce1",
+            "message": "Update Developer Guide and PPP",
+            "insertions": 57,
+            "deletions": 6
+          },
+          {
+            "hash": "0231298478748c6484c3875f13ddcbc684157869",
+            "message": "Fixed datetime input",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 4,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "9c2959c9f6b6e46a4709f557663e86601419f0f3",
+            "message": "Removed obsolete field",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5e900c16356650983bd2bf3b3ed436198120ff2a",
+            "message": "Small fix to catch nonpositive input to ActivityFilter",
+            "insertions": 13,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 84,
+        "deletions": 5,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "a372137b23193d000f240e9f3cfc81e579ab7f7d",
+            "message": "Updated dev guide for activity list feature  and user guide for activityFind.",
+            "insertions": 84,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 2360,
+        "deletions": 22,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "615f4e43bd9f230cd486b0a517f50e522e825139",
+            "message": "Adjust length of ppp and minor modification",
+            "insertions": 2339,
+            "deletions": 17
+          },
+          {
+            "hash": "54e020348d6bc3d1ca004fc0451ae30fc7bd0ffe",
+            "message": "Update sample activities",
+            "insertions": 21,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 45,
+        "deletions": 6,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "e44da66b0839b2896c9f30a354a21a2698d5452e",
+            "message": "update ppp",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "17076a5cc8f42702b0be913f03a0ba19b4998ff5",
+            "message": "Manual testing instruction",
+            "insertions": 42,
+            "deletions": 3
+          },
+          {
+            "hash": "65515ed564529c57f7626562c853d7adb2c127a1",
+            "message": "fix typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "853e943557e682ea6a8d2f849a666166c632fd48",
+            "message": "fixed bug in activityFindCommand parser",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "melkwx": [
+      {
+        "insertions": 67,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "31ea6c165fa6abc0afdc3ff582506c565141715c",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 67,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "534b66168445a3dc8f97f87b4cba984465979a5a",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "85db78e90fc57f0c403e3074c7f2f88bf34c1c91",
+            "message": "Update AboutUs.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 107,
+        "deletions": 107,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "b9ea3200b30a5a96175144574217c7a798fa269c",
+            "message": "memberAdd renamed from add",
+            "insertions": 89,
+            "deletions": 89
+          },
+          {
+            "hash": "60fd16fd5227deddeffce0ebb9d51c50370a98a1",
+            "message": "rename to MemberList from List",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "4ee4edeb3f0953b4f06c53ab6f686a9e1f2e70a4",
+            "message": "reorder import statements",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "81f91be01b4cd0c66caf10e4ba99ff09383514ca",
+            "message": "revised my alphabet",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "060e423012f8c87580db30020f80b52e0792a09f",
+            "message": "wkiudhbAS",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 28,
+        "deletions": 19,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "a30f2f6c976dc67b8c38d06b282f36e0a9cc7728",
+            "message": "adjusted checkstyle errors",
+            "insertions": 16,
+            "deletions": 9
+          },
+          {
+            "hash": "c82c102e9563b036810afad3d891bfabf3cf29f1",
+            "message": "no message",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "b06e6c6055b447e9bf76374dd47de1ec32bd2724",
+            "message": "checkstyle revision",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 6,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "c89ce9418e119fad18cd8f6a7b31a617ca4faa90",
+            "message": "minor edits to messages",
+            "insertions": 7,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 1129,
+        "deletions": 270,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "ece777d3dcc57097e2efd15f2ca2d074f775973e",
+            "message": "Added containsIgnoreCase method to search partial words, enhancement to MemberFindCommand \"matricnum\" and \"name\" as search criteria, updated tests, additional predicates added",
+            "insertions": 147,
+            "deletions": 23
+          },
+          {
+            "hash": "cf753a23f6eeb1aeb9f7f7117448da21db9bb48f",
+            "message": "checkstyle revision",
+            "insertions": 36,
+            "deletions": 15
+          },
+          {
+            "hash": "83453761cda98688e07c650e5415b9cadfd2e908",
+            "message": "more checkstyle",
+            "insertions": 19,
+            "deletions": 16
+          },
+          {
+            "hash": "dea08a9af06ff12fe79f00bcd706eb88e200209e",
+            "message": "addressbookpasertest changes",
+            "insertions": 42,
+            "deletions": 45
+          },
+          {
+            "hash": "79025316b2d8c6a9fa8ea39251e4ada5edf64e55",
+            "message": "swtich statement indent",
+            "insertions": 39,
+            "deletions": 39
+          },
+          {
+            "hash": "7e781081990a5ee822c46eb3bfa4a53fed82d389",
+            "message": "revision",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "4f32bfcf58b5496627ab51653b1c075cab6d35fd",
+            "message": "updated relevant tests",
+            "insertions": 38,
+            "deletions": 33
+          },
+          {
+            "hash": "086683af2ebbb05ec90ad7018e2f4be9469407ee",
+            "message": "Updated tests",
+            "insertions": 806,
+            "deletions": 94
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 4,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "65b74d09a4abafdb75b3fb72faf92979e674985b",
+            "message": "checkstyle issues",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "6881a80bbb1fb3642e20bd04563f77b210fa3b59",
+            "message": "checktyle errors",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 71,
+        "deletions": 1,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "50d635e1deb7ceacd4f773cf00ab775cd750647c",
+            "message": "Started a PPP",
+            "insertions": 70,
+            "deletions": 0
+          },
+          {
+            "hash": "f60477c50bf8245142a13a4d2095e625b775f369",
+            "message": "changed aboutus page",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 42,
+        "deletions": 31,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "563c54bf5199232c89ac794b7ed032efb4fa0dd8",
+            "message": "updated userguide",
+            "insertions": 30,
+            "deletions": 31
+          },
+          {
+            "hash": "2e22b6d445553789ab4db776673a22327fecd954",
+            "message": "memberDelete will delete member from all joined activities",
+            "insertions": 12,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 39,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "722de51840fa193e4f6ca22ec3626807e9f79366",
+            "message": "memberEdit cannot edit matric num",
+            "insertions": 7,
+            "deletions": 37
+          },
+          {
+            "hash": "c6bea676289efdfd1ee4be5cbecc4dd5d4960e34",
+            "message": "test updates",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 101,
+        "deletions": 129,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "cd36b33d0dcacaa418b3566704fe4cd04ce01031",
+            "message": "memberEdit test",
+            "insertions": 96,
+            "deletions": 124
+          },
+          {
+            "hash": "546a2b04d93b1e9253164ea0419d048e75968f8f",
+            "message": "update Userguide.adoc memberEdit, memberFind",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 102,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "5f3027ade25c1ec775990853510f2ced22c1f027",
+            "message": "small edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "73783da38580a891bce3ac7b742adabb3d39a6e6",
+            "message": "update tests",
+            "insertions": 2,
+            "deletions": 101
+          }
+        ]
+      },
+      {
+        "insertions": 186,
+        "deletions": 36,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "e6cf6a16b3278b647b35083ee763d2c3f01ab301",
+            "message": "memEdit fix gender edit bug",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6d61d30e86c200c91528fef6e5397f41839d9646",
+            "message": "dg, ug, ppp",
+            "insertions": 158,
+            "deletions": 27
+          },
+          {
+            "hash": "bc7f2ad6261de529c8e98d9e5efbfe942ac2f16e",
+            "message": "dg edits",
+            "insertions": 1,
+            "deletions": 6
+          },
+          {
+            "hash": "82b3d4b1e6c258f1865aa9c28fc00bc68195d86c",
+            "message": "manual testing part",
+            "insertions": 25,
+            "deletions": 1
+          },
+          {
+            "hash": "01b406211a50b7bd98eb727c3135f75ea7e985ca",
+            "message": "remove trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "joel0111": [
+      {
+        "insertions": 43,
+        "deletions": 9,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "a5b76fc3e5063f8c08df6fea49a7cda2673b374c",
+            "message": "Updated User Stories in Developer Guide",
+            "insertions": 32,
+            "deletions": 6
+          },
+          {
+            "hash": "ccace7201d8c8a48541c2395592b3b1d9f1c0735",
+            "message": "Changed the Value Proposition in Developer Guide",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "02d4eea1f477864f75ea6b143b0810cd5768157c",
+            "message": "Updated AboutUs and added my profile photo \u003cjoel0111.jpg\u003e",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 56,
+        "deletions": 47,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "e1bb90629194ff3e0edf89c7f43ef44363ba9602",
+            "message": "Added CRUDS commands to UserGuide for membersList",
+            "insertions": 56,
+            "deletions": 47
+          }
+        ]
+      },
+      {
+        "insertions": 74,
+        "deletions": 26,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "6be64469784818d776578fe1525f1fe8bde56ffa",
+            "message": "Added two commands under members\u0027 list to UserGuide and made minor changes to the other commands.",
+            "insertions": 74,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 35,
+        "deletions": 11,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "ca6a2007b8a944415b37aa3fc9d27e41c6a42701",
+            "message": "Updated Glossary and product surveys in DeveloperGuide",
+            "insertions": 32,
+            "deletions": 8
+          },
+          {
+            "hash": "8c1acc4043bce18aca8c93ddf8d114a806e0fbe1",
+            "message": "Updated AboutUs",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "4ce161b04f232cb056b30c3e223b1ed28418306b",
+            "message": "Updated AboutUs",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 123,
+        "deletions": 110,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "8fac4a75b01ac7ed684909d5663749a1a13b3f5b",
+            "message": "Updated Introduction and QuickStart in UserGuide",
+            "insertions": 12,
+            "deletions": 7
+          },
+          {
+            "hash": "eabec27f2aa34b3a068f6e2b202dcb81ad41cda8",
+            "message": "Updated UserGuide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3ea35a6fdf81ef2e165d8f9eb4c86b64d515f3cd",
+            "message": "Updated DeveloperGuide",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "ea4a0c256212df7111df7dbebc908cf059fd636b",
+            "message": "Updated Delete Commands to MemberDeleteCommands in the project",
+            "insertions": 66,
+            "deletions": 66
+          },
+          {
+            "hash": "d99d89fa621cb09520d87b1ec0df7cd9fc3c7ca7",
+            "message": "Updated UserGuiide",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "dba1cda77b105ceae9223eeea0c19476786d350e",
+            "message": "Corrected checkstyle issues",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "64699d78dec061123e7a9cb1b65cc730ab7ef336",
+            "message": "Corrected Checkstyle errors",
+            "insertions": 15,
+            "deletions": 9
+          },
+          {
+            "hash": "cd4d119300982c1219348862b2e84fb1ef319781",
+            "message": "Corrected CheckStyle errors",
+            "insertions": 7,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 71,
+        "deletions": 48,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "835323098a050095105d2af2d20a733c25f4a6e6",
+            "message": "Updated the command list in UserGuide",
+            "insertions": 13,
+            "deletions": 12
+          },
+          {
+            "hash": "7658f0a625c9f3902597043aa5715cf5af73fc53",
+            "message": "Updated AboutUs",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "0ea8b19a6f45617e5bea9dbd49cb9076b72146b9",
+            "message": "Updated UserGuide",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "6d239aa0f1549f78a13024ef8d4f5d2a38aa993e",
+            "message": "Updated Commands in UserGuide",
+            "insertions": 48,
+            "deletions": 32
+          },
+          {
+            "hash": "6b154877a6f95f7572b33b2b5f35462c0f43a831",
+            "message": "Updated UserGuide",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 27,
+        "deletions": 14,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "3106cfd7dc97fbbfa9f85434b3509e781aabe450",
+            "message": "Updated AboutUs",
+            "insertions": 20,
+            "deletions": 7
+          },
+          {
+            "hash": "ec23776dd11c833846731cfa3fbf9a41d4e5b3f5",
+            "message": "Updated AboutUs",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 192,
+        "deletions": 173,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "7f91048637e6deaff72d557af9f92488e6bcd5c4",
+            "message": "Updated SelectCommand class and relevant tests to MemberSelectCommand",
+            "insertions": 57,
+            "deletions": 57
+          },
+          {
+            "hash": "28fd202741efb61d6b6dd03fb5555fbd8f57fc75",
+            "message": "Updated and corrected Checkstyle errors",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "0274a75d8e30042cf037db3fb1a68b9086557cd7",
+            "message": "Corrected Checkstyle issues",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "8da0a4bae45fa6c75dea26b6dc7f0bd2281555ee",
+            "message": "Updated EditCommand class and other variable names and tests to MemberEditCommand",
+            "insertions": 120,
+            "deletions": 106
+          },
+          {
+            "hash": "fede50550c5a53b71f1341cf400ebc81cd1979bf",
+            "message": "Corrected minor checkstyle issue",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "6887d134d3f402aca4c70b3f633d45abefb0cf52",
+            "message": "Corrected Checkstyle issues",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 392,
+        "deletions": 216,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "9a56a721e8dcc8d5611867412fd1c31e71d0cd26",
+            "message": "Created a SortCommand",
+            "insertions": 143,
+            "deletions": 3
+          },
+          {
+            "hash": "018da2268e19be793967c4a0477a6d98ff9997d4",
+            "message": "corrected checkstyle issues",
+            "insertions": 9,
+            "deletions": 6
+          },
+          {
+            "hash": "92fc8151b7c4fcaa80771217ea38a7780662b50c",
+            "message": "corrected issues",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e6a318649486ee4bd4241a306070380be91be763",
+            "message": "Updated Developer Guide for the documentation of the features implemented by me",
+            "insertions": 31,
+            "deletions": 4
+          },
+          {
+            "hash": "b86126d94b5f07436ce14b002fd5b8011e61fa72",
+            "message": "Corrected test issues",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7be97c1a2a5919b4194e64081c319bd87eac8161",
+            "message": "Updated the README",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "352f289ce8ecd8e8d19eb5102d9a9349c5074bec",
+            "message": "Updated UserGuide",
+            "insertions": 198,
+            "deletions": 194
+          },
+          {
+            "hash": "3b1407a86af60fa0d18b42065020204b0b8ccaaf",
+            "message": "updated README",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 419,
+        "deletions": 564,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "b829814ece43fc6550a7fcfa2655a06488f2d007",
+            "message": "delete unnecessary file",
+            "insertions": 0,
+            "deletions": 516
+          },
+          {
+            "hash": "f40dfc1b1d51a1acfe2b8483845293ad3d177669",
+            "message": "updated README",
+            "insertions": 17,
+            "deletions": 2
+          },
+          {
+            "hash": "aea07fff0abb33a2ad0231be62d2b192226f7600",
+            "message": "Removed MemberSetActive and MemberSetInactive from DeveloperGuide",
+            "insertions": 0,
+            "deletions": 17
+          },
+          {
+            "hash": "df5bd36ef0ea2d2cd6375c45191bb155dd0edf6e",
+            "message": "working on memberAdd (in progress)",
+            "insertions": 401,
+            "deletions": 29
+          },
+          {
+            "hash": "8e0f5ce579bb79f4467599b55a294482877b30ea",
+            "message": "Uploaded a sequence diagram for MemberSortCommand",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 398,
+        "deletions": 115,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "59ab568142002625a57a07df5d5726c36e159831",
+            "message": "Added attributes to members",
+            "insertions": 393,
+            "deletions": 110
+          },
+          {
+            "hash": "4b6aec0e1e2c08915fa3bba2eb33a4ecc2ca25aa",
+            "message": "corrected checkstyle issues",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 320,
+        "deletions": 186,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "fd6eb22fc34b298ed51ee86897d8717df7fb233e",
+            "message": "updated addcommand tests",
+            "insertions": 305,
+            "deletions": 141
+          },
+          {
+            "hash": "dd2d7f6f737c71cc4c6abca5f5406bab553e66c1",
+            "message": "corrected checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "14b032b5c9a4f82ee63a8b0383321397feeaa211",
+            "message": "resolve checkstyle issues",
+            "insertions": 14,
+            "deletions": 44
+          }
+        ]
+      },
+      {
+        "insertions": 284,
+        "deletions": 110,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "cc54a1f304ae9eb1798f74fb5c89cc2c2a35517c",
+            "message": "updated tests to correct issues",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "2a7f6041a1ccc2e8d7ac289c862099db1b651dbd",
+            "message": "corrected tests issues",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "d4bfe54378c4356cfbaa7acabba667db076888b1",
+            "message": "corrected other tests issues",
+            "insertions": 50,
+            "deletions": 23
+          },
+          {
+            "hash": "6798831a283f71496d62c98b7205c3d52766bf9b",
+            "message": "Updated tests issues and checkstyle issues",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "6841b5d5fa53f3f76f81f626eac04af3f42a3dc7",
+            "message": "updated tests",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "4f3012f37cf996114b73a4a9b4879c61b558198f",
+            "message": "updated tests",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "0cb8b7b198e47f402c173626d40b67bcec05630f",
+            "message": "updated tests",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "94e49cd87de1f7cdcbe4c481e36c827131409530",
+            "message": "corrected checkstyle errors",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "66349704da9398f0b77825ce698ab79c41bb9431",
+            "message": "updated userguide",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "8fb59625f7e83616a093f17becfb9e2ff95f304a",
+            "message": "update tests",
+            "insertions": 37,
+            "deletions": 28
+          },
+          {
+            "hash": "523a2088719c2d1e886bbd244ca8bede0f86adb3",
+            "message": "updated tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "81bbc0eb4f121c7877b26dcf0af4f969cd5c4964",
+            "message": "updated tests",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "c7edd87cdd3efeb680c68f194db2c46a3bec36cf",
+            "message": "updated tests and data files",
+            "insertions": 77,
+            "deletions": 21
+          },
+          {
+            "hash": "979cc426e4862d7c5d1f04f5945472476c416445",
+            "message": "added a checker for members with matricNumber that already exists in ClubManager",
+            "insertions": 48,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 162,
+        "deletions": 149,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "33155c0fdf95755d5ed26bd5612b9484252ab727",
+            "message": "removed matricNumber checker",
+            "insertions": 6,
+            "deletions": 47
+          },
+          {
+            "hash": "858f7b755c83ab0f4f7a4e342b8d1411ba5758d6",
+            "message": "updated tests",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "26adbffb99a829fde0cf3fe70ff2b9daf29b1946",
+            "message": "updated tests",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c51191c51b4d6678c56212c7aa6763e75ba9d089",
+            "message": "updated userGuide",
+            "insertions": 12,
+            "deletions": 38
+          },
+          {
+            "hash": "70a36bff2f89517361a951fb8f9d9cd912ff01f7",
+            "message": "Updated Sort command to sort by name, major, yearOfStudy, matricNumber",
+            "insertions": 43,
+            "deletions": 13
+          },
+          {
+            "hash": "2be926c1c26f7923baf7e6a976d34ccc6d8a88ef",
+            "message": "Updated tests",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "44633fdcf4b2b75d75fa1fedd7257ad2204970d1",
+            "message": "Updated tests and other classes",
+            "insertions": 24,
+            "deletions": 28
+          },
+          {
+            "hash": "77fe93eebb679df4b07e7f39b0f81acb2e2d6d26",
+            "message": "updated Sort command to sort by name if attribute is the same",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "1da9489f52584ac3ca97c91b2b7ced9a3697f17f",
+            "message": "updated UserGuide for MemberSortCommand",
+            "insertions": 18,
+            "deletions": 1
+          },
+          {
+            "hash": "8468dc010ae5f74feb3d0b0a958d12f8b8711e4a",
+            "message": "Updated DeveloperGuide",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "221632ed9a24a9e607c62c859e4a2a226e168f90",
+            "message": "Updated UserGuide for MemberAdd Command",
+            "insertions": 44,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 84,
+        "deletions": 1,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "8d50308e90a4cd5514065aa18ea5cbf79abb8041",
+            "message": "Added a getter and boolean for MatricNumber",
+            "insertions": 84,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 62,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "48f59d8a5230e256c3c31eeebaa90152134ccd5b",
+            "message": "corrected test cases",
+            "insertions": 1,
+            "deletions": 43
+          },
+          {
+            "hash": "bfd6f747dd6686ebd6ce127d0775e53a53f0b446",
+            "message": "Updated Checkstyle issues",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "fb9593ba3d47dac9d094804481bff51a2606be1e",
+            "message": "corrected checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "f356a33b3b490fa2a65b4134a9967601c3052c25",
+            "message": "updated tests and checkstyle issues",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "d779f1e092b34c8523435887b757001a66247247",
+            "message": "Updated the validation regex of matricNumber",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "cae4814df503a6942dcce1f71058d9678826630a",
+            "message": "Updated memberSort criteria from matricnumber to gender",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "c48f0b76f85dee489e2c21495859bd7aeca78840",
+            "message": "Updated AboutUs",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 65,
+        "deletions": 5,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "28a9ba211ed0eb8739be83e4ae8bce44a8774a67",
+            "message": "started a PPP and updated UserGuide",
+            "insertions": 63,
+            "deletions": 5
+          },
+          {
+            "hash": "eba38d50d6f557ae6ebf2eaa7f954438e699b1b6",
+            "message": "updated UserGuide",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 171,
+        "deletions": 153,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "479ddda5835147edc1827e66d0dad288635369e3",
+            "message": "Updated MemberAdd Command related Validation Regex",
+            "insertions": 167,
+            "deletions": 151
+          },
+          {
+            "hash": "56ee039e8e3fb233d1a11619764a50f94022faf8",
+            "message": "Updated Checkstyle issues",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 461,
+        "deletions": 121,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "edc5333fc5d11ea4c0491021450ce2b41658dfc9",
+            "message": "Updated Tests and Refactored Sort Command",
+            "insertions": 46,
+            "deletions": 54
+          },
+          {
+            "hash": "8407a883b9c5d6bed0cd2a46374f5c80009fc171",
+            "message": "updated tests",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "cdae79eb5ef824dd80fe2095394fbc90904ee8dd",
+            "message": "updated checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "b9f93cc8b349e6647c20a3e6a1a2e287ad667f1c",
+            "message": "Added an activity getter",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "2c4310ce6d72140527cc66795c209d43f7b1dfaa",
+            "message": "Implemented MemberDetailPanel and ActivitiesAttendedByMemberPanel",
+            "insertions": 222,
+            "deletions": 6
+          },
+          {
+            "hash": "0d3e43934b1ab20f2e20c95159d9bad553b3567d",
+            "message": "Implemented colored tags",
+            "insertions": 134,
+            "deletions": 4
+          },
+          {
+            "hash": "54d3e84183fb4888f50ee8911ee65397ff75147a",
+            "message": "updated color scheme for tags",
+            "insertions": 34,
+            "deletions": 49
+          },
+          {
+            "hash": "3ee29d107282fa72bc752d80a8bdc4e5e1be19d1",
+            "message": "Updated tests",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "b6c089f96e6804b03295cc24ccb996ea57ed5c5c",
+            "message": "updated text fonts",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 185,
+        "deletions": 105,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "223cfc71b2a01dd281c54561082e832bf7b130e4",
+            "message": "updated UserGuide and Readme",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "b9508737b08951b0f097a6c95e60e4978f910d5b",
+            "message": "Updated Userguide",
+            "insertions": 28,
+            "deletions": 83
+          },
+          {
+            "hash": "6026b3a4d9a08edc345f9cace37bcc2d0557316f",
+            "message": "Created a MemberFilterCommand Class",
+            "insertions": 42,
+            "deletions": 1
+          },
+          {
+            "hash": "db8d8ed7ca0e9a093a33047e6c532c6249590885",
+            "message": "Updated User Guide",
+            "insertions": 63,
+            "deletions": 12
+          },
+          {
+            "hash": "5d491d3e8ae39a25f0be3117ba4dc3335a83ea91",
+            "message": "Created MemberFilterPredicate Class",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "8b067ce6cbb652c112cef51632d3fe54182fa5ac",
+            "message": "Updated CSS styles and font size",
+            "insertions": 12,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 286,
+        "deletions": 99,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "5a48571eb114882cda2a2671b2956ac75a5bd6e7",
+            "message": "Implemented Filter Command for member list",
+            "insertions": 207,
+            "deletions": 15
+          },
+          {
+            "hash": "bfcaebb5ece474c43a36432f759facfb654057c9",
+            "message": "Updated predicate classes",
+            "insertions": 31,
+            "deletions": 4
+          },
+          {
+            "hash": "ffbbc79e04f9e6f1cd3f89a8d27e9367e9b09e6a",
+            "message": "Corrected minor issues",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "706771620cc3c27735e1b82084f55ac841199567",
+            "message": "updated checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "668d0551a3c7808f59aaf57c23c7933a790819ee",
+            "message": "updated checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f2b7e5e7843af35a6b0d74f5eec7bf566d9f2184",
+            "message": "Updated UserGuide",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "1508d9203a82c4cdfc2d2adf9ea635533c73adc9",
+            "message": "Updated tests",
+            "insertions": 2,
+            "deletions": 30
+          },
+          {
+            "hash": "dd46c18ee399c6c86d2d6843f5a6087f25644aaa",
+            "message": "Corrected checkstyle issues",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "c845a276f8c83d2117d20eac29593f1e74c37495",
+            "message": "corrected checkstyle",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "4097eb86b81bb0e91eb53cc109a532781b9f2a31",
+            "message": "corrected checkstyle issues",
+            "insertions": 20,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 18,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "aa0348057d06787f785287807048461062d8e7af",
+            "message": "Made important fixes for v1.4",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "08f8eeeeece6ef2734973180d0fb8a39932a1e9b",
+            "message": "Updated Tests",
+            "insertions": 10,
+            "deletions": 11
+          },
+          {
+            "hash": "f939ca43a5c6969e57339e8d67315b2ea1e9827a",
+            "message": "Updated PersonListPanelTest",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 23,
+        "deletions": 3,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "a367f2af45eeeff711961c44366afbb5a8993fa5",
+            "message": "Updated User Guide",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "2089414cb79671e383cdb2ccd125f181218ee6b9",
+            "message": "updated UserGuide",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 188,
+        "deletions": 25,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "4830672b95475afaf75541729dcffc985c62d1bf",
+            "message": "Updated userguide",
+            "insertions": 66,
+            "deletions": 18
+          },
+          {
+            "hash": "5281da1f0d6727f5ec42104ce0e97774e9fda98c",
+            "message": "Corrected error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "74f7e2f8102a17ed52803f6b57d0ec3492773a37",
+            "message": "corrected name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f50cd390f770a9f956cf2e1eac5ce2038a4cf971",
+            "message": "Corrected error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c3fe517b7aaeee7e82a8199c20af9c6a0d499640",
+            "message": "Updated UserGuide",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "1e0070f8ee20074f5358dfbecb6e5f2f75f58ae9",
+            "message": "Updated Gender Class: Message Constraints",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e358642e745a7b830811adf51189fdff64733191",
+            "message": "Created statistics for members",
+            "insertions": 110,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 439,
+        "deletions": 197,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "98151339508c39b84097a7b9949211b34f139548",
+            "message": "Corrected Arithmetic error",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "085738bb7df71e5dec5aa82383c85716ba37d61e",
+            "message": "Updated Sample Data",
+            "insertions": 16,
+            "deletions": 7
+          },
+          {
+            "hash": "7157175ffa044249acc1f9a357a31d3aa1b7e64c",
+            "message": "Created Person Attributes Tests",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "280099ad34bffd09fb0e354d70202f99df021535",
+            "message": "Updated Member Tests",
+            "insertions": 141,
+            "deletions": 1
+          },
+          {
+            "hash": "1dc6156b23c30916fca204a419e30a37bbd3b8b1",
+            "message": "Corrected Checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "644a3ffa42872edba17350ef858f99b15c817283",
+            "message": "Refactored MemberSortCommand",
+            "insertions": 13,
+            "deletions": 56
+          },
+          {
+            "hash": "c8a58fda752ce8c167616a49f412d04f3cbbc8ec",
+            "message": "Updated MemberSortCommand and its related tests",
+            "insertions": 82,
+            "deletions": 0
+          },
+          {
+            "hash": "3fbdb88fe8bc0c9462a9ee93881e1ecde906f01b",
+            "message": "Corrected errors",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "47c910b6962a912f9aa0d3ec0248a6804d6f7536",
+            "message": "Updated test",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "65ae9a246b569c7d5c412b464af8775428d72290",
+            "message": "Corrected Checkstyle",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "729ed9160e856cbaa04ef5526966ed7b34445d7a",
+            "message": "Created Tests for MemberFilterCommand",
+            "insertions": 158,
+            "deletions": 0
+          },
+          {
+            "hash": "55f66fdc01917da7ef4683f5f86c2bb17e11ab2f",
+            "message": "Deleted irrelevant file",
+            "insertions": 0,
+            "deletions": 124
+          }
+        ]
+      },
+      {
+        "insertions": 287,
+        "deletions": 179,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "d23044707a329386a48474b0f639d3d166e0bbd8",
+            "message": "Updated UserGuide, DeveloperGuide, and PPP",
+            "insertions": 92,
+            "deletions": 67
+          },
+          {
+            "hash": "7f6cecf3c18ff2fc589cb9d205d1d9e01849727d",
+            "message": "Updated DeveloperGuide",
+            "insertions": 28,
+            "deletions": 3
+          },
+          {
+            "hash": "2634a886340c6c092bad2aa45884a26d460361de",
+            "message": "Corrected Checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d0b7a077e4eeef7601f68e126f055611383a15dd",
+            "message": "Refactored MemberFilterCommand and related classes and resolved single filter issue",
+            "insertions": 42,
+            "deletions": 87
+          },
+          {
+            "hash": "d624b1e944c093647f4a481aee73526d3c3c400e",
+            "message": "Corrected minor error",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "223cfdf950e6442d4fcc1056acb0b7fd1690ebf9",
+            "message": "Implemented filtering by tags",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "b9e44b8603856a721247876cf906e301bbd2fed6",
+            "message": "Made minor change to memberDetailPanel",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "9b063a8faa158636013f884224e818af2ef1801a",
+            "message": "Updated Developer Guide and PPP",
+            "insertions": 64,
+            "deletions": 12
+          },
+          {
+            "hash": "5e8d144efe5c5614727c96455fdaed56a3ae670f",
+            "message": "updated Developer Guide",
+            "insertions": 24,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 234,
+        "deletions": 124,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "44bcfcaeae9187e01f6552ef7d21d27cf280b542",
+            "message": "Updated Developer Guide",
+            "insertions": 35,
+            "deletions": 26
+          },
+          {
+            "hash": "b0247bb9dab355f331f1f552a158c2f6ce13e477",
+            "message": "Updated PPP and developer guide",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "d8bb494ecae21eae121fe27c97324b6952455b14",
+            "message": "Updated PPP",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "9c77731b35d90896775f36707a854fff1b28a63b",
+            "message": "Updated PPP and Developer Guide",
+            "insertions": 19,
+            "deletions": 10
+          },
+          {
+            "hash": "af20da86e1bfe1299dfa1e99d00f63f45d271194",
+            "message": "Updated Developer Guide",
+            "insertions": 22,
+            "deletions": 14
+          },
+          {
+            "hash": "26bc2c9a7acaefbcf79414ff57d67f741dacd6e5",
+            "message": "Updated developer guide and PPP",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "761e83218a3c1cb853c27d4fdd9f35aa9076c0b8",
+            "message": "Updated Developer Guide",
+            "insertions": 15,
+            "deletions": 14
+          },
+          {
+            "hash": "34246232b9355a17e541bd451c1529a3e7f0986d",
+            "message": "Updated Developer Guide and PPP",
+            "insertions": 18,
+            "deletions": 12
+          },
+          {
+            "hash": "6a677cc6971fe9f9a070d0a74500d10368645021",
+            "message": "Updated User Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e11b552cacf0a2fe11dcc6f056b0291ab820abfe",
+            "message": "Cutting down on PPP",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "3b3187f3cba4de259c0655812010809d66490c6a",
+            "message": "Cutting down on PPP",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0150987187000e24735c5735b9a748404640cf29",
+            "message": "Updated PPP",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "3ae2f43e39dced2e35df24fdba4c9ee3ac2d89b2",
+            "message": "Updated PPP and relevant Documents",
+            "insertions": 9,
+            "deletions": 6
+          },
+          {
+            "hash": "da28314aa3cb8f650bcc74a7f269a7ef9dddc827",
+            "message": "Undo change for Gender class",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "eccaae5f16132cee82b244c0e8a97fbb4bf6763f",
+            "message": "Updated Developer Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8d5fda683011145e3052e972565b1442e981f11d",
+            "message": "Cutting PPP",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "c434d42f42384aa7df82f81820b8417060a26ecf",
+            "message": "Updated Developer Guide",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0fdd529bc27712a909c4bf0a7a262bb514a15ace",
+            "message": "Updated PPP and Developer Guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "dc0b2fc4168fef7588cf406e9069febbaa0e7b43",
+            "message": "Updated Developer Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a610f10397a4c0eb9db2458af6f08c700669612e",
+            "message": "Updated Reposense\u0027s link date",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3f2058f7e00a16ab3c4d9a8482a3fd9b1de2a3a1",
+            "message": "Updated PPP",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "087d54ed679dfee051fd64d578d9329af38ad1ba",
+            "message": "Update Developer Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7c15deb07735fc6b465b0b20523b393b141b9b09",
+            "message": "Updated Developer Guide and User Guide",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "08737d21cdd0dc39ed2a7147607819486eba6c15",
+            "message": "update developer guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9de8dce74240062af404154025f03cce71b3b180",
+            "message": "Updated UserGuide",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "4314b74fd75ac304520ddcf444f03a139705ef90",
+            "message": "Updated User guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fb3eef48762e07fec473df5c56f43aa569fdde89",
+            "message": "Trimmed PPP",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "f6ec89a9ba49c6a4b1e7211d9817a01ab6351236",
+            "message": "Updated UserGuide and Developer Guide",
+            "insertions": 15,
+            "deletions": 0
+          },
+          {
+            "hash": "cbf5fe1eabc2dc1acbf6ba8d2a8b9b2d5aa384e0",
+            "message": "Updated Developer for Appendix Manual Testing",
+            "insertions": 32,
+            "deletions": 1
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "minernchan": 1871,
+    "A0143487X-Kevin": 2065,
+    "ivyyangyq": 5742,
+    "melkwx": 703,
+    "joel0111": 3465
+  },
+  "authorFileFormatContributionMap": {
+    "minernchan": {
+      "adoc": 198,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1673,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "A0143487X-Kevin": {
+      "adoc": 373,
+      "cs": 0,
+      "css": 31,
+      "fxml": 24,
+      "gradle": 0,
+      "html": 321,
+      "java": 1316,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "ivyyangyq": {
+      "adoc": 2785,
+      "cs": 0,
+      "css": 25,
+      "fxml": 73,
+      "gradle": 3,
+      "html": 0,
+      "java": 2846,
+      "js": 0,
+      "json": 10,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "melkwx": {
+      "adoc": 311,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 392,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "joel0111": {
+      "adoc": 804,
+      "cs": 0,
+      "css": 47,
+      "fxml": 36,
+      "gradle": 0,
+      "html": 0,
+      "java": 2498,
+      "js": 0,
+      "json": 80,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "minernchan": 9716.606,
+    "A0143487X-Kevin": 27819.924,
+    "ivyyangyq": 97548.37,
+    "melkwx": 31374.213,
+    "joel0111": 44021.574
+  },
+  "authorDisplayNameMap": {
+    "minernchan": "CHA...ERN",
+    "A0143487X-Kevin": "KEV...ENG",
+    "ivyyangyq": "YAN...ING",
+    "melkwx": "MEL...UAN",
+    "joel0111": "JOE...HAO"
+  }
+}

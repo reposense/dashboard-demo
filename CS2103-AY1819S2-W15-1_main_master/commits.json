@@ -1,0 +1,3495 @@
+{
+  "authorDailyContributionsMap": {
+    "rafflesandrison": [
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-02-14",
+        "commitResults": [
+          {
+            "hash": "df209824328f619c0b3aedc4e8adb9680bc3ea1b",
+            "message": "Test travis build",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "ab26cee76063995f7b9e646bfdd0d7c0b2b796d5",
+            "message": "Delete delete_me.txt",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "864857515474c26189fd707b5b32151548146727",
+            "message": "Update README - travis build badge link",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9afcd50a1bc68275b8bf93d269c44592f22c1e75",
+            "message": "Test travis auto-documentation",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "2a19bccf599f4aed43a81a1a3c32c23abc6b7f87",
+            "message": "Remove test line",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 11,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "302d1e9865b423ab5cb5d155eb5f5e200d9bc3c8",
+            "message": "Add UI mockup of intended product",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "71cc7b07d675b5dca956a21abe7ee9a305905518",
+            "message": "Restructure README",
+            "insertions": 13,
+            "deletions": 9
+          },
+          {
+            "hash": "a1306bdbfb8dc6a6cf82c7ea4e6b1a1342176aa0",
+            "message": "Modify README",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 3,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "bb894d011073907e4f0ae4393271c045e1385d6a",
+            "message": "Fix travis build fail",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "acb8d59b400aa847da7e75200932834154888f9e",
+            "message": "Fix DeveloperGuide Travis Build fail",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 50,
+        "deletions": 45,
+        "date": "2019-02-23",
+        "commitResults": [
+          {
+            "hash": "9ed12048a422cb93600cc4b9778df51ca8e456d0",
+            "message": "Update About Us doc with photos",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "0cf2bdf57372ddc564306050934f3b1201e949f4",
+            "message": "Remove extra line",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "76b5460521e87c6815cfe251a6e343c74e2bd07c",
+            "message": "Fix image not display",
+            "insertions": 18,
+            "deletions": 8
+          },
+          {
+            "hash": "1d6f7e0bc19bc06bd746325462485bca24742796",
+            "message": "Fix image not displaying on github",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "a97d00d7415aa0471a489219dcd0acc13986e75e",
+            "message": "Fix image not displaying",
+            "insertions": 4,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 271,
+        "deletions": 12,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "71153ebc5739ff111d636b32674eddb808eb2869",
+            "message": "Create Apparel class and it\u0027s corresponding classes",
+            "insertions": 249,
+            "deletions": 7
+          },
+          {
+            "hash": "b3c535857923394df6a0205db0232bb292021d0c",
+            "message": "Add javadoc comments.",
+            "insertions": 13,
+            "deletions": 2
+          },
+          {
+            "hash": "d5ab10342d40395678645be0a04be3b6278e5189",
+            "message": "Fix checkstyle",
+            "insertions": 9,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 150,
+        "deletions": 30,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "6cb28486354ec87c603c0fc155e1598ef39aedd0",
+            "message": "Add validation methods.",
+            "insertions": 128,
+            "deletions": 10
+          },
+          {
+            "hash": "9af29d89b6be823854754157e2917995006ee549",
+            "message": "Fix travis build error",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "7eb7d1f98cee3a37ed33fc7696902495f5063916",
+            "message": "Fix travis build error attemp #2",
+            "insertions": 10,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 245,
+        "deletions": 230,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "9d17b2bf58c6ec9a50242d5d0a3fb4cce2aa5455",
+            "message": "Amend display strings on GUI.",
+            "insertions": 31,
+            "deletions": 48
+          },
+          {
+            "hash": "b1212e6065b8db71bef79895c64123c96a80aa06",
+            "message": "Refactor fundamental classes",
+            "insertions": 83,
+            "deletions": 83
+          },
+          {
+            "hash": "22b016ca4e76f3dfe6035e59ac2de89a993d1f3b",
+            "message": "Refactor fundamental classes",
+            "insertions": 96,
+            "deletions": 95
+          },
+          {
+            "hash": "a3f854c6090725ff7252615d5de00acd9e715120",
+            "message": "Fix checkstyle error.",
+            "insertions": 35,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 8,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "0d962f627ebcf5584a3e5a275d7343cc02888133",
+            "message": "Remove unused badges",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "2aaa69c75ac128fdc9dba9184283738a46e1a163",
+            "message": "Update AboutUs",
+            "insertions": 24,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 13,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "034e15b3b72e25170977fb851d195faae679dbd9",
+            "message": "Update AboutUs",
+            "insertions": 17,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 6,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "7bec82287f3f65faeb3a7740a008373082a91f6f",
+            "message": "Fix the issue of unable to read storage.",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "20dae8df31b8eb124d621fab2dd7abbb6420ef7b",
+            "message": "Fix checkstyle error",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 3,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "1bff9c8d42b579a277e5d0b42c01cb0fd478370d",
+            "message": "Capitalise the details of apparel displayed on UI",
+            "insertions": 12,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 271,
+        "deletions": 130,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "ecc020b2956d53924576a8ac164b6540e5a77c68",
+            "message": "Add Sort Command",
+            "insertions": 268,
+            "deletions": 0
+          },
+          {
+            "hash": "12b9c6f6e0648f02abd8eb8d15283e70f680a9ba",
+            "message": "Enable acceptance of sort command",
+            "insertions": 3,
+            "deletions": 130
+          }
+        ]
+      },
+      {
+        "insertions": 101,
+        "deletions": 69,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "59424c2d1817c73b81db331f6afad14596acd267",
+            "message": "Update sort command",
+            "insertions": 101,
+            "deletions": 69
+          }
+        ]
+      },
+      {
+        "insertions": 87,
+        "deletions": 31,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "1a5d238fb49ba8b3c97c840946d5f808fe8aa7b5",
+            "message": "Enable delete for sort command",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "26de58deff63b362b705bb35f94a6b07d7038095",
+            "message": "Fix accuracy of add command duplicate detection",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4475e310b7161c761b2f02ec79c37f362f86deb2",
+            "message": "Add listing of available sort options",
+            "insertions": 24,
+            "deletions": 3
+          },
+          {
+            "hash": "998a9a7cbe8cc779b00dc79aeb1754d40468d8cd",
+            "message": "Enable sort by color",
+            "insertions": 16,
+            "deletions": 7
+          },
+          {
+            "hash": "7025154e31fc563847ca548284aae96b0f3c08a3",
+            "message": "Enable sort by Clothing Type",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "80e179c52a0eff34b72ac5dfbda33b3f36555efc",
+            "message": "Reorder import statement",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "e45564effed90b399226eb9df9419fb47b5c9d8a",
+            "message": "Update user guide - sort command",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "eb71e00482ae5683124dded6f6884789890ea21e",
+            "message": "Make message for succesful sorting be more explicit.",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "efdfd45c7fcf2fd8d7e73f1985de8a1fac500743",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 460,
+        "deletions": 407,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "3838be666709d79f948dd2bacc1cc9cb1344100d",
+            "message": "Create constants for naming in test",
+            "insertions": 365,
+            "deletions": 333
+          },
+          {
+            "hash": "a8f9e2e1d9ebaaa0ac867289fab9919ae7c18e4a",
+            "message": "Fix ApparelTest isSamePerson() test",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "e1357a6aace2e18eebd316f58f83d6b7e928c583",
+            "message": "Fix ApparelTest equals() test",
+            "insertions": 51,
+            "deletions": 55
+          },
+          {
+            "hash": "f3a3b060c042653a7c671104426034a3039382bb",
+            "message": "Fix checkstyle",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "69dd6551c68bf2d9fad93f2aa23cd73c3025d1b2",
+            "message": "Fix ClothingTypeTest",
+            "insertions": 20,
+            "deletions": 5
+          },
+          {
+            "hash": "58ccf64d53dc4e031a1727a1b5188cc3337fc27f",
+            "message": "Fix ColorTest",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "baf7cbe3c852639a8562c8f4003fdfa0130350f0",
+            "message": "Fix NameContainsKeywordsPredicateTest",
+            "insertions": 11,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 130,
+        "deletions": 122,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "042f11a24661c642dc28d807d62a3022f8c6608c",
+            "message": "Refactor naming",
+            "insertions": 130,
+            "deletions": 122
+          }
+        ]
+      },
+      {
+        "insertions": 128,
+        "deletions": 101,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "36fff9d7bfc6dbb2e3c51b368ab03a9abf2d4ec9",
+            "message": "Tidy up test file",
+            "insertions": 38,
+            "deletions": 31
+          },
+          {
+            "hash": "7b26ab8a7d75fc219c6850a84522d1f82bebac08",
+            "message": "Add SortCommandTest",
+            "insertions": 19,
+            "deletions": 4
+          },
+          {
+            "hash": "99012492342bbb8497fa30f4439798e1bed363ce",
+            "message": "Fix \\r\\n checkstyle error.",
+            "insertions": 69,
+            "deletions": 63
+          },
+          {
+            "hash": "afea893e590240a03fb6d27f1f221f51325878db",
+            "message": "Fix checkstyle",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 56,
+        "deletions": 5,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "bd679f83f7cb992fa81db994fd10cb68c0527f03",
+            "message": "Add sortcommand test. Still has error with modelmanager",
+            "insertions": 56,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 174,
+        "deletions": 41,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "1a9a385b8b1456c87a5d1ce5307ca95c9b839538",
+            "message": "Add SortCommand test for sorted name and sorted type success",
+            "insertions": 85,
+            "deletions": 15
+          },
+          {
+            "hash": "60c22443888c3f17fb2d0780696375a3b0d476f5",
+            "message": "Add sort command test sorted by type and fix the sorted by type",
+            "insertions": 16,
+            "deletions": 18
+          },
+          {
+            "hash": "ce88ce417641304ccc80a287b51dda94c32f5966",
+            "message": "Fix checkstyle for ModelManager",
+            "insertions": 9,
+            "deletions": 6
+          },
+          {
+            "hash": "423608b3b27874e7824d2b4580301b73aaf12096",
+            "message": "Add test for SortCommand - see all valid sorting options.",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "ca04cef9d21a4618f4d766cfee872bb47543ec6e",
+            "message": "Add new test case for Sort command - sorting by name is case insensitive",
+            "insertions": 54,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 123,
+        "deletions": 38,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "4b7ac793610e62eca2a6d115e6176f33d7c3b8c9",
+            "message": "Fix EditCommandTest",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e31acab9b571dfed865f2047458fb4bf110fcc70",
+            "message": "Fix attempt SelectCommandTest",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "51de2b44c246a63bbd4e68fe9f70f17595aae560",
+            "message": "Make typical apparels to have unique starting word for the name.",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "68739725de22b86f07acebfa34e258f70ac4ef45",
+            "message": "Fix Available Command Tet",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "6fa3cef58d371e7fd165aab9899e45e639138dff",
+            "message": "Fix expected number of filtered output",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "5298f01ba96d6766830333431faf23fc33f921b8",
+            "message": "Fix Sort Command Test",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "3ddbd6fbd261cfab829d5890ddf056357e593683",
+            "message": "Update raffles ppp",
+            "insertions": 80,
+            "deletions": 0
+          },
+          {
+            "hash": "4abf363513ae9fdeaec4b6a50856adda1fae3b7e",
+            "message": "Update raffles adoc",
+            "insertions": 8,
+            "deletions": 10
+          },
+          {
+            "hash": "ebc37e7d666c90a9f5529dc02432ae6928a05117",
+            "message": "Update raffles ppp",
+            "insertions": 2,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "18c537b3c3254dbabb62717a9e935a78473c4b3e",
+            "message": "Update raffles ppp",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 288,
+        "deletions": 49,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "471508248abd81f3c9d5a86717a20c39a46d8f66",
+            "message": "Update user guide, sort no longer has default behaviour.",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "e2083071e33ad1ef9daaf07b222ec86ee17ae271",
+            "message": "Update Clear command. Make the output more relevant.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a83889bf1ba1c3ec1cb6bf45a6d6e502f63b5cae",
+            "message": "Update User Guide, Sort command",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "bbcea441aad23d4903d7d85068c5734e8b63c334",
+            "message": "Allow List command to take in options.",
+            "insertions": 138,
+            "deletions": 4
+          },
+          {
+            "hash": "9f11f266eb7c7a35734d1dc680e87c896d3eb7f1",
+            "message": "Enable List command to take in options. Working code.",
+            "insertions": 18,
+            "deletions": 4
+          },
+          {
+            "hash": "e37ce95e739a240942046b3b8fca06eddc0783a0",
+            "message": "Enable the user to see valid options for List command.",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "01f0a71fcbb18f4f4d411624f2540d7134bdf537",
+            "message": "Update User Guide for List command taking in options",
+            "insertions": 24,
+            "deletions": 4
+          },
+          {
+            "hash": "70f8477e210c2c2d3ac4300995821543d8870c08",
+            "message": "Fix checkstyle",
+            "insertions": 0,
+            "deletions": 9
+          },
+          {
+            "hash": "0aa0bc22ec40fc6b400e9bf1897a34a83fee13cb",
+            "message": "Fix List Command test.",
+            "insertions": 29,
+            "deletions": 7
+          },
+          {
+            "hash": "e22dcca82bc5fc36ca47a968591e2a1307879d6f",
+            "message": "Fix test fail",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d9f8ffb240291b6c4b63a6154ee150781b2a6c9a",
+            "message": "Fix test",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c61f1c3c17b254643b3ee0d8972fc3e9605e8bb4",
+            "message": "Fix test",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "86d181e435fcefd1777db5d29b94718a24dd2ccb",
+            "message": "Add test",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "6197336d83cc0817d8fed64b3e99c63e34e969c1",
+            "message": "Add color option for List Command",
+            "insertions": 44,
+            "deletions": 4
+          },
+          {
+            "hash": "1524db1028969cf8d9df085e2d480682319defe2",
+            "message": "Update User Guide - List Command color option",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "fefa9f51c528e9bf8a62597f16160b109fdbcc83",
+            "message": "Fix List Command test",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 118,
+        "deletions": 47,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "d1821a3dcbf42df327c8bf15ed75322ce0fa7312",
+            "message": "Update Browser Planel UI",
+            "insertions": 105,
+            "deletions": 39
+          },
+          {
+            "hash": "4b042c63d66f307e36f949c5ea7ca95d8a2672a6",
+            "message": "Temporary mute for BroswerPanel test fail",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "ca1ee59c1160acf38c2ce28feabcd0e228bdb8c2",
+            "message": "Add images",
+            "insertions": 7,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 439,
+        "deletions": 240,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "4ff6191aa8e56770728ad7cd194999d134034594",
+            "message": "Enable select item to display on main ui. Create all possible combinations apparel icons.",
+            "insertions": 108,
+            "deletions": 8
+          },
+          {
+            "hash": "fc88591da0492584f2106051a63249474faff278",
+            "message": "Create GUI test for browserPanel - incomplete",
+            "insertions": 49,
+            "deletions": 58
+          },
+          {
+            "hash": "85a695197bb200c2001a081a890b08c2164768f8",
+            "message": "Fix default image not shown when apparel list is cleared using Clear command",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "0f29a73942d2804fdd0528a038e0be62011125fd",
+            "message": "guitest fix attemp",
+            "insertions": 110,
+            "deletions": 45
+          },
+          {
+            "hash": "ac83fefe9fbb180c5b5853982d9ded5a5900d1b2",
+            "message": "Attempt fix gui test fail",
+            "insertions": 56,
+            "deletions": 50
+          },
+          {
+            "hash": "2ceea0b5f2898d2c0455d1ad44a914937c05b3b4",
+            "message": "Fix gui system test",
+            "insertions": 71,
+            "deletions": 65
+          },
+          {
+            "hash": "0022c9099014ec76c9aef84a0ff159862d012d51",
+            "message": "Fix travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b930aa0fbbf56bf6cff4cc8e55a94e4f884dc5c4",
+            "message": "Fix travis checkstyle",
+            "insertions": 40,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 2,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "81233ed47cacdae90acde5ec7d7d4bd43c974cec",
+            "message": "Add Coverall for coverage badge",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "8bd40a1d83108fe4620503e4dbe86ad30ccfe66a",
+            "message": "Fix Coverall badge url",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8b28248f795f0a204a16760b82295a82826ea19b",
+            "message": "Update ppp",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 615,
+        "deletions": 70,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "7e64b7b26c9051b09ada4b0288c03b1f5c55367e",
+            "message": "Update ppp",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "42ca574309054836ed3b8ef863c84cfb63750f62",
+            "message": "Add swap command",
+            "insertions": 127,
+            "deletions": 0
+          },
+          {
+            "hash": "d5dd1e18e5eb52a440ef2512a79c74bc1807f641",
+            "message": "Update user guide - add Swap Command",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "0b3ac1aacbd8e6d3b9bbf8ce6841fc53cb76b08b",
+            "message": "Add Swap Command TEst",
+            "insertions": 86,
+            "deletions": 0
+          },
+          {
+            "hash": "9fa63499435831820da5994a6c4840db93231a62",
+            "message": "Update Raffles ppp",
+            "insertions": 21,
+            "deletions": 1
+          },
+          {
+            "hash": "3a6182ed81d84ca14460e60279e297f0a7742cea",
+            "message": "Update Raffles PPP",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "928c3655fad5d378065aac9dd66848dca8ca41aa",
+            "message": "Add test for sort command parser",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "49d2beb4796fc50e350ff29fd56ae34b1ddf8694",
+            "message": "Add test for swap command parser",
+            "insertions": 48,
+            "deletions": 4
+          },
+          {
+            "hash": "dd41d5848feefdc54ca6a0753d6840269980f4a3",
+            "message": "Fix checkstyle",
+            "insertions": 6,
+            "deletions": 16
+          },
+          {
+            "hash": "ee10ef83d3669344fe39e991ec1cf713add0de44",
+            "message": "Update Raffles ppp",
+            "insertions": 64,
+            "deletions": 28
+          },
+          {
+            "hash": "6a26f5a1b4aede10990a35ba449e8aec2ce381b9",
+            "message": "Update Developer Guide",
+            "insertions": 23,
+            "deletions": 2
+          },
+          {
+            "hash": "02e465a2a237eaf91d1bcf484c4ef69434e9fc89",
+            "message": "Enable to sorting in descending order.",
+            "insertions": 40,
+            "deletions": 9
+          },
+          {
+            "hash": "190fe6b13d9790eaf550b44b8acea41a56281568",
+            "message": "Update sort command",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "79229397823a049c659cfcb85cc49ff3f90c4aa6",
+            "message": "Improve parse sort command for desc parameter validation",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "566798160e127d862030d98c74c3141fa9ef9418",
+            "message": "Update SortCommandParser test",
+            "insertions": 17,
+            "deletions": 2
+          },
+          {
+            "hash": "feb5cdb14b4eef4f47a99c22d00af07a1eff0f1d",
+            "message": "Update parse sort command test",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "785d1dc826320e6fef1ab82fcd42411545007efd",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c8d6263545ed049dd80dfb02ed118e152d0dd5d4",
+            "message": "Update parse test",
+            "insertions": 92,
+            "deletions": 0
+          },
+          {
+            "hash": "e5e0978160b89bcec77f11cbae6e3f0b772e8cee",
+            "message": "Update Developer Guide",
+            "insertions": 15,
+            "deletions": 2
+          },
+          {
+            "hash": "c98d5378347a0c57c58f80563f0ec35a76de72f1",
+            "message": "Update ppp",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "stanleymok": [
+      {
+        "insertions": 34,
+        "deletions": 14,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "dcd1f59578a2de773fd23036782e8ad8cf454a10",
+            "message": "update userguide",
+            "insertions": 28,
+            "deletions": 8
+          },
+          {
+            "hash": "91b4a2dcaa426c7c834f8302cf4f87ad89d96a36",
+            "message": "update style",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "0b1e129e657c3412f41480967d157baea1c803a9",
+            "message": "update trailing white space",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "0630113023dbf1f890c50ec6c3a18d808e6c0882",
+            "message": "test PR",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "671484feae350e77fa5e565ca099280b82da8397",
+            "message": "update uguide / travis test",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "2c37dc59013de63b46e15c96b3d9bc096c875cf6",
+            "message": "update uguide / check autodoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 62,
+        "deletions": 12,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "548cf5fb1a25b68089e4152f522839a8da247456",
+            "message": "Update user guide for v1.1 milestone",
+            "insertions": 47,
+            "deletions": 9
+          },
+          {
+            "hash": "a4fd9ef994769b0ea7039525ab1c0c655747ebba",
+            "message": "Add 3 small methods",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "6cf9c90d211c710dd05d6146212b527273471d59",
+            "message": "fix checkstyle error",
+            "insertions": 9,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 109,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "7476f3118b2471ca6a3fa3be9fae0874ac1cd9eb",
+            "message": "add placeholder for apparelManager class to be implemented later",
+            "insertions": 109,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 10,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "cf41f3b479933d5dff656c575dd25c2e47270d26",
+            "message": "Remove email field",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "6610295135c1d168462b726b7c889cdbae95d8c0",
+            "message": "Cleanup PersonCard field to properly reflect Apparel Attributes in UI",
+            "insertions": 4,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "1fe6f65a18291c0ef61d210357ecbb9d567886ed",
+            "message": "add method in Apparel to return String representation of avaiability",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "1929d1af16bc3afb1b45f2d4acf3d2de94ab295a",
+            "message": "Fix availability not showing in GUI",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "c64b4c7e0e5db9f6d83d9dcb00b9d8df9bcaf3d9",
+            "message": "Add availability status to fxml file, which displays PersonCard",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 1,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "9bfed5ec1ab1f98ab674905b79d2c13be2cf5cb8",
+            "message": "Update DevGuide for future autocomplete feature",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "ae988983237f951151eafeac0fe3b0711fb85e91",
+            "message": "Update version number preparing for version release",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 659,
+        "deletions": 16,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "4b8996092e4a49df897dba14467deaa0a23f0392",
+            "message": "Edit help message of for edit command",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "1762e12b637980d82d0883cb235c94b5ac35f1e4",
+            "message": "Create placeholder class and edit global strings for unavailable/dirty command",
+            "insertions": 217,
+            "deletions": 0
+          },
+          {
+            "hash": "e78d5a698ab9e2c75b34104cf9f9a50b9deaf488",
+            "message": "add overloaded constructor to Apparel to enable toggling of Apparel\u0027s availability",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "f7692116fce0fd59129470fbf8c8d7030ff9f7c9",
+            "message": "Add overloaded constructor for unavailable command class",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b845d5ea1c0f5bc20d21f535a9bc16286d58a81c",
+            "message": "Add unavailable parser class",
+            "insertions": 78,
+            "deletions": 0
+          },
+          {
+            "hash": "395a0114e0e15265977f69bad310d75d3ef67634",
+            "message": "Update AddressBookParser to accept new command",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "ef54257de4eb31869327aed48561df04c5ee17ab",
+            "message": "Fix parseException being thrown when it should not be",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "effff8be2d9562dc28da5c26bf56c33b3d5d3b66",
+            "message": "Add alternate command word for unavailable in UnavailableCommand class",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "10e3d4bdfdeb1cf97496d9c9edf4c7d1efbca819",
+            "message": "Add new case in parser to accept new command word \u0027dirty\u0027",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "eae669871742e44eac1f3ebe74131de0ad020d63",
+            "message": "Fix availability status not showing in UI. YAY!",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "4dfd6298f44a84a28de733c216ff4e5930a827e5",
+            "message": "Add wash/unavailable command i.e. both keywords work",
+            "insertions": 218,
+            "deletions": 0
+          },
+          {
+            "hash": "e7918276f86ff94aa768254b18beaa0973d2efe4",
+            "message": "Add AvailableCommandParser class",
+            "insertions": 78,
+            "deletions": 0
+          },
+          {
+            "hash": "8edf7b17baf923756cbe3ef4fe5ce6ff6f2d9897",
+            "message": "Add wash/available command",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "05a6271d116619cd75d7c3c10cc6990875c3d233",
+            "message": "Add usage count to apparel whenever dirty/unavailable",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8a303de6fad2327ef67b1382074079fd2e706a24",
+            "message": "Add overloaded constructor to Apparel to read usageCount from storage",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "da7acf0c5697aa6bbaa824755504e8a919cb3c94",
+            "message": "Updated JsonAdaptedApparel to save usageCount to storage and to read usageCount from storage",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "033236d52f876abbe13460d93b42c278c63213f4",
+            "message": "Update PersonCard class to include usageCount field in apparel",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "256dc3dc6e462499df8b452643b1041b4f218f88",
+            "message": "Fix usageCount not showing in UI",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "8f3e1b85ea26a1b390d1804f6548ea5f269ee154",
+            "message": "Fix wash/available command resetting usageCount to zero bug; MILESTONE v1.2 REACHED! HURRA",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "f2c15ffde44a6872c2ea62df5fac6578083f21c9",
+            "message": "Fix jsonAdaptedApparel bug in test case",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "7956d570047b984f7fb9bd8a7107539db6b1b553",
+            "message": "Fix reposense newline error",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 75,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "a8f74b1ff3e54ebd22609e623ca9ff2c4d9b53b4",
+            "message": "Fix no newline at EOF bug",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "e9bda433723d1527c4c85d4a960cdda1ba3e91f3",
+            "message": "Fix checkstyle // unused import statements",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "a82af322c7bd6f9f4655e835d38ca7373ee98e31",
+            "message": "fix tags missing from uguide \u0026 devguide",
+            "insertions": 4,
+            "deletions": 6
+          },
+          {
+            "hash": "a35dc2bd7bfd5447f39d0296633c3e2f84c2b7fc",
+            "message": "Fix checkstyle: extra whitespace and too-long-line",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "0c3beae276eef6240ef5e3398e977d34ba2fbde2",
+            "message": "Fix checkstyle errors",
+            "insertions": 47,
+            "deletions": 46
+          },
+          {
+            "hash": "9c9e3b8ff8fcd985c90f29867ecb90c18c6f6148",
+            "message": "Fix 11 more checkstyle errors",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "24284eafa819e32b809c50858e5e49ec0d905ff0",
+            "message": "Fix checkstyle final",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 38,
+        "deletions": 38,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "3db078cc32fddd81a19cfc8b969e600fb8cda254",
+            "message": "Fix ApparelCardTest",
+            "insertions": 24,
+            "deletions": 24
+          },
+          {
+            "hash": "f7098f1a95644efeba34c22bf44a7e4465912233",
+            "message": "Fix ApparelListPanelTest failing due to undefined colours and clothingTypes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "22dc6b4bea86b194bb5d2a8cc416f5be5021b6ec",
+            "message": "Fix checkstyle",
+            "insertions": 12,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 976,
+        "deletions": 194,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "100cf6b612f4aa0f800ce6e888c8f064099df611",
+            "message": "Update wash/dirty command classes",
+            "insertions": 28,
+            "deletions": 35
+          },
+          {
+            "hash": "3abe0ac32b166da3efd1b216ab959a6899478f71",
+            "message": "Update subsequent parser classes",
+            "insertions": 8,
+            "deletions": 9
+          },
+          {
+            "hash": "76ecb6d7312ac56857e138d12baa2b90bf21fb4d",
+            "message": "Update dependency Injection class for AvailableCommand \u0026 UnavailableCommand tests",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "d1953a0941ef39de81c8ca9ef71c517ea3f3bd8e",
+            "message": "Refactor class names to fix test cases",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2ade8edb3fdff0739a8482ae9afa28eaf238d7a0",
+            "message": "Fix Edit Command test Case",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "24398943ca3a1db6401e5bcc5edb2f9a01892152",
+            "message": "Refactor class names in stub",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "669c43de36e9f071b06ffd04a56ebfa87cd6d3ee",
+            "message": "Create class for dependency injection",
+            "insertions": 61,
+            "deletions": 0
+          },
+          {
+            "hash": "628f895ab029ce729cf66cad3757d67e8070f877",
+            "message": "Create class for dependency injection #2",
+            "insertions": 61,
+            "deletions": 0
+          },
+          {
+            "hash": "81acd1df874006a179f14766ed3eb2245b40dc85",
+            "message": "Create test for available command",
+            "insertions": 249,
+            "deletions": 0
+          },
+          {
+            "hash": "e345182dff4649fee8e3636fb4c83b9b0276f5a0",
+            "message": "Create test for unavailable command",
+            "insertions": 242,
+            "deletions": 0
+          },
+          {
+            "hash": "2dadc35f4cfc7141be166272727a67357df886d5",
+            "message": "Create extra util class for dependency injection in test case",
+            "insertions": 103,
+            "deletions": 0
+          },
+          {
+            "hash": "88ea22ebecc8198e62dd906177bb8874cd5e5c4b",
+            "message": "Fix checkstyle errors",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "1f4e4a946f6a08c3ad0be68e0d25296004828f10",
+            "message": "Fix checkstyle",
+            "insertions": 29,
+            "deletions": 30
+          },
+          {
+            "hash": "b2535680efed957380b9efcec68c4e4795bf101d",
+            "message": "Fix Checkstyle #3",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "bc169847a5666ce40e88b0b9f239c0991fc5bf50",
+            "message": "Fix test case",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "752eb43b346898d657c05b4cfa0552c7a01f105a",
+            "message": "Update test cases",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "f7bbd1f78b19066519b6bca10512dcb2fb95a717",
+            "message": "Fix checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "6e99958d24bd7f6b42075697664e6fa55eeea8a0",
+            "message": "Update uguide",
+            "insertions": 9,
+            "deletions": 15
+          },
+          {
+            "hash": "291659c7edca09fba7f7c23a3269c1f85170da70",
+            "message": "Update FashionMatch version",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a39ea077c70714edc52a1c829e3ba662aff4a2fe",
+            "message": "Remove redundant import statement",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "478e567749dbf3e3f78437de71998f786ccf4062",
+            "message": "Cleanup user guide, cleanup redundant docs",
+            "insertions": 58,
+            "deletions": 72
+          },
+          {
+            "hash": "2755c1e079e571837f5916c63d96931fb8593016",
+            "message": "Add placeholder class for PPP",
+            "insertions": 68,
+            "deletions": 0
+          },
+          {
+            "hash": "d4400d4c378c456fd28b90c052de2cddd953e6fa",
+            "message": "Add tags in Uguide and Devguide for linking in PPP",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "4dd232845dbbe5ba83d510747667a1ce9fd9e8da",
+            "message": "Fix checkstyle for ppp",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "306a20e56334297c0ded594ab5ab008ca979273e",
+            "message": "Fix compile error for Jar file",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 113,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "df50c19688b33bfdbc064627e859df6ffcba065a",
+            "message": "Delete redundant class",
+            "insertions": 0,
+            "deletions": 109
+          },
+          {
+            "hash": "c4b0ef38c8e75289867fe0dc3c9bdaf1d60a940f",
+            "message": "Remove commented code from EditCommandParser",
+            "insertions": 0,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 70,
+        "deletions": 74,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "2dad2dbc3258e445cd699025d82d802496d35abc",
+            "message": "Clean up code for Available command",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "d162c6af8062240b7ee5431b2ceeb2a6190c181c",
+            "message": "Rename \u0027dirty\u0027 command to more intuitive \u0027wear\u0027",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ec57aa9b74c8bec0964bc665fd11d83f70a306a1",
+            "message": "Clean up code to show more user intuitive message for availability",
+            "insertions": 11,
+            "deletions": 3
+          },
+          {
+            "hash": "21e2ca293cf007800b008b2537d9dd31eaa4e194",
+            "message": "update toString of apparel",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "dd48630614859ce527b6ee01b00f2ae075b33ced",
+            "message": "Harden available command, switch wash keyword to clean",
+            "insertions": 8,
+            "deletions": 24
+          },
+          {
+            "hash": "0e8e87e14be140d5326fab3b55480e6dddffc3eb",
+            "message": "Improve feedback messages",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "ce82be68e7f9ca4bc48eb4280a31270020b8e2da",
+            "message": "Fix 30 lines of philip\u0027s hardcoded tests",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "5ed9d1501524bf55b0ffba6fda8fbe10533ffd09",
+            "message": "Fix logic error in available command test",
+            "insertions": 6,
+            "deletions": 9
+          },
+          {
+            "hash": "3a79b6ca67ff5d8523ab3047963ad7297bb70fbe",
+            "message": "Update Userguide",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "b8979c870bcadd19dbe10a21d1038098b4b3ad64",
+            "message": "Fix checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 89,
+        "deletions": 202,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "e650758fe70f8c68f7a8795ec5ab98be3d94a9cf",
+            "message": "Add new SHIRT in stub class for new dirty address book model",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "f672bca6a24958291299f9c2340ea4a37e2fac37",
+            "message": "Add another constructor for Apparel class",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "c3bc72021f76efef93b828466282fe26de8a255a",
+            "message": "Fix test cases",
+            "insertions": 14,
+            "deletions": 118
+          },
+          {
+            "hash": "1a21dd3d390a16be54c19414cb0eaf4aa8f6699d",
+            "message": "Fix checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "e54108d0d191f2984dd493cd46b31ed924b33529",
+            "message": "Fix 2 of philip\u0027s hardcoded tests",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "4d0d4816668495304cf7b52d17fb08a61fa30bde",
+            "message": "Fix 5 philip\u0027s test cases",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "beb1b5f547a8ca8bfa6fb89471a31aa4cd941cf6",
+            "message": "Refactor setDirty method",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "737ee9520c8143242af420c874e62a51ea570d65",
+            "message": "refactor Apparel\u0027s setDirty method to setWorn",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "fc27a512267d334b856d2b0b884a3377bcba60ff",
+            "message": "Update use method to increment usage count for wear method",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "937550780b2304a36ebf92fbc7ef4d1aa1fd1d73",
+            "message": "Harden available command",
+            "insertions": 12,
+            "deletions": 32
+          },
+          {
+            "hash": "f5046f1c41c3cf953e1bced525144e6bcaf77ed1",
+            "message": "Harden wash and wear command, clean up code",
+            "insertions": 16,
+            "deletions": 32
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 119,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "11b8f67e939d57501e7496e666bc43c8e06528dd",
+            "message": "Clean up unavailable command",
+            "insertions": 0,
+            "deletions": 23
+          },
+          {
+            "hash": "7c367c883225d4295e441fb69c0a32c137c8b2ff",
+            "message": "Fix wash command not working",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "486e564692140ad3d8c702a02720ba182c1fac47",
+            "message": "Update feedback message for wear command",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e2b237a8c05257e570cd7c3260b5b4b96d08273c",
+            "message": "Update wear feedback string",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "7de8283556ce5460d12f224378ca03ed2363e451",
+            "message": "Clean up wash and wear command classes",
+            "insertions": 0,
+            "deletions": 51
+          },
+          {
+            "hash": "2a35700e95f0207c1aef69e7b9696e10b91ab142",
+            "message": "Make feedback string more professional",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "6ae9d228cbe02f6faf3a3e82c37bb257577dd35f",
+            "message": "Remove redundant code",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "725fb9c7ca8565e6ad70a9c0dcd898221466353e",
+            "message": "Add new user feedback string if wear apparel thats dirty",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "753398f0fbe912d072584e8013eb0c5b0a08b8ea",
+            "message": "Clean up redundant global var",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "4cdc45370cc281faefee523617cbd393bfd54533",
+            "message": "Add new timeWorn field to Apparel that resets upon wash",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "1ea89a87cec4b2e5a5e882dd975e1061a85ae98d",
+            "message": "Clean up wash code",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "7da60b160cb652555e7417ada61355c8d55a6f61",
+            "message": "Clean up wash command",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "4a10bebcb7eb195e06fb0091cd122ceaf58e70a1",
+            "message": "Add random message feedback if user wears dirty clothes",
+            "insertions": 44,
+            "deletions": 3
+          },
+          {
+            "hash": "81baaa227c066bbfc45e7736d682c4ca85dbe204",
+            "message": "Update checkstyle",
+            "insertions": 21,
+            "deletions": 14
+          },
+          {
+            "hash": "8584b45f86c133cbda347b2a9b0e3f60866b158e",
+            "message": "Close #108 fix colors message",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0a911ae8a0062da4aca3b9a767acfc95b3a95602",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 171,
+        "deletions": 203,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "9d69dde61020ab6007c4d5ffd5272285a3c9cdd7",
+            "message": "Add new assertion test for wash command when return string for wash is random",
+            "insertions": 51,
+            "deletions": 3
+          },
+          {
+            "hash": "1c143a3a3e7f24433866c13a0982906a1e347571",
+            "message": "Fix wear command test failing after adding random feedback message",
+            "insertions": 59,
+            "deletions": 111
+          },
+          {
+            "hash": "b9f6773c0a3e4b1239b8c6af38bb451514d86dd1",
+            "message": "Fix wash command failing after refactoring constructor",
+            "insertions": 5,
+            "deletions": 42
+          },
+          {
+            "hash": "20d5fa5e97f95a9efc24a03a769b158906066e12",
+            "message": "Fix checkstyle",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "699d9b4afd71007b0e9d78795528f0edfe9c0527",
+            "message": "Fix checkstyle",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "5cf43e6964c6d0eb8c8882b360f58e294aa69b42",
+            "message": "Fix attempt at test case error showing on travis but not on intellij",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "c67c864ce679206d6cbeb6270a72b41123663589",
+            "message": "Fix bug showing available/un instead of clean/worn",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c603a4ff4b25cba991b4d035e56e23098b09bf8b",
+            "message": "Resize anchorpane \u0026 shift positions of usage count and status to provide space for image",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "317b75dfa13d07c9c2e0ebb86d240a7b6760c0da",
+            "message": "Swap to horizontal divisor; image would be portrait not landscape",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "d9557b2891bfd03c3ede7587d1294e0995ffade0",
+            "message": "Update design",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "cf9d35ef382d2402eddb2ed266ed81f0243e7c17",
+            "message": "update init message on label field",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "930357ef96f3d660fd98a0d400ef4bf229a49227",
+            "message": "update layout",
+            "insertions": 10,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 23,
+        "deletions": 16,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "1f0bf9ded8cc37a3ef9b1cb8d993cf61607369fc",
+            "message": "Edit uguide for final build",
+            "insertions": 23,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 659,
+        "deletions": 652,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "988a08930cb8f4d0cef74bc452e94cf697383ac9",
+            "message": "Reduce size of command box",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "5f79436d3480be10d12be0e8e3d75eedefca66a2",
+            "message": "Add artist: sophia\u0027s art for front page",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "74e6d0ed1c6a1eeb41513adb851753e7e34820b3",
+            "message": "Fix display error",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "842fafcf15c2d81a016c920a9229b6c1112bf14e",
+            "message": "Readjust image position",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c8abcc116430679db504bb8dea8cb428778b8b0d",
+            "message": "Revamp UI design!!!! [UX]",
+            "insertions": 34,
+            "deletions": 31
+          },
+          {
+            "hash": "f5f2703e4eac6108f79f8b8d0c361746ff737a08",
+            "message": "Fix repetition of message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "41a7a39d96fe635695af61ec1de91d423efaf614",
+            "message": "Refactor comment",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4731de4f6461f20ae3c52b11bd54bfd9094de62b",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3bad1ec9be52efbbce09eda5f9ba55e1bd16c7b6",
+            "message": "Mute test failure inherent in ab4",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "dfd3a563c043edea3e55396c40e65da020452a4f",
+            "message": "Rename available / unavailable class to more intuitive name",
+            "insertions": 70,
+            "deletions": 70
+          },
+          {
+            "hash": "6e7e3d171b9a5c1ece168e6b8d7cb1997ef9c579",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "eb2122d0ff8bb59b9ddb43bbbfef222c35091591",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "35df597c5c62b93375a1014d97a9659c733439a7",
+            "message": "Update milestone in FM",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "daf025c9d49305184c5fb2cc34b4eb2e49d74771",
+            "message": "Update command names in DG",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "947c17c42fbd897eac1c146f5312c7cd45eb6820",
+            "message": "Update commands in UG",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "23e604839c5bc87a9a8a3c3570a89f40ecb88eec",
+            "message": "Refactor AddressBook to FM",
+            "insertions": 503,
+            "deletions": 502
+          },
+          {
+            "hash": "bc1e6b8208ed377028e0d6f5b719474583907084",
+            "message": "Fix compile warning and checkstyle",
+            "insertions": 12,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 153,
+        "deletions": 55,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "ee9dc1cf5e551ebf10805b4598454a5894ba317a",
+            "message": "Fix coverall failure with non-deterministic test case",
+            "insertions": 14,
+            "deletions": 13
+          },
+          {
+            "hash": "b0bf121a0b1135c457404ead62d1cde9663b5c07",
+            "message": "Fix checkstyle",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "8ecd9c3ed40ce400ae520659941878f3eb993f74",
+            "message": "Update UG",
+            "insertions": 28,
+            "deletions": 8
+          },
+          {
+            "hash": "764a2069f55eb0adaf5d3196db96b3fa9700e114",
+            "message": "Fix dead links in DG; Update DG",
+            "insertions": 85,
+            "deletions": 11
+          },
+          {
+            "hash": "98b9573fd7203b8e2c8d7afb527abffea99c91e7",
+            "message": "Update ppp; last few commits for this project ::cryingface::",
+            "insertions": 15,
+            "deletions": 13
+          },
+          {
+            "hash": "3b0f2008c18fef4f6ca3c0a65132e608e33287e5",
+            "message": "Fix attempt at image not showing in adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b0baa53f5b081e0b4c63e575a1c6423bddc8c2d0",
+            "message": "Reset image from jpg to png, capitalise path",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f82e55d73c0b252a39edcff24ab2bc38e7770081",
+            "message": "Fix image not showing in adoc",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      }
+    ],
+    "PhilipPhil": [
+      {
+        "insertions": 20,
+        "deletions": 40,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "fac81c4b5761e78982bda46997e006e17c0b74e1",
+            "message": "test push",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "75603e1cba7944efd0018eec7b951ed5c8015fe8",
+            "message": "changed my info",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "131cb8762a2c7b5afea958258852ce1f7f9c8607",
+            "message": "Updated AboutUs",
+            "insertions": 10,
+            "deletions": 27
+          },
+          {
+            "hash": "51fc0c95ee11038b702757b3aba2aab5ba3c3aa0",
+            "message": "corrected Stanley\u0027s githublink",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e7eb969e36eab2da084751de3bdd809c7260b391",
+            "message": "fixed text",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "8ab7879b3babe337d8be62414124ace2feaa18b6",
+            "message": "fixed email",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 37,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "d41ba489ec9560bfb4b93a87e6dec9a922784fd0",
+            "message": "added parseColor",
+            "insertions": 30,
+            "deletions": 23
+          },
+          {
+            "hash": "221cb78a022be4cd731d9398b8b052f3d8994b1f",
+            "message": "fixed parseColor",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "6d99eb773eb767e3cca714e1fc90309e7b9fa6fc",
+            "message": "Fix checkstyle #1",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "392135b9e86da0e406b395d85089e00708e3fcb6",
+            "message": "travis sucks",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "fcba35c369757fac1d44350f3936259bc2f67170",
+            "message": "parseColor finally?",
+            "insertions": 12,
+            "deletions": 2
+          },
+          {
+            "hash": "9901884f2d5209534296a18c502d4d6efa442e07",
+            "message": "parseClothingType",
+            "insertions": 18,
+            "deletions": 1
+          },
+          {
+            "hash": "351acfa2a866f9a8763fe8c4275ba648769d2b4f",
+            "message": "travis import statemnts are a useless check",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ebab2bded3cf679e604e38f6ab4ca2ae039999c8",
+            "message": "asfdsafdsa",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 79,
+        "deletions": 36,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "ba40d0ae14fa594bf92b64eab73a1ef73c63c91d",
+            "message": "RecommendationCommand added. Not fully functioning yet",
+            "insertions": 32,
+            "deletions": 6
+          },
+          {
+            "hash": "a83d4944c02001ad01bc90abbac836d397215f3f",
+            "message": "fixing travis",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "c9a42755cc4d004a44994f159c6f130372656213",
+            "message": "Travis problems",
+            "insertions": 10,
+            "deletions": 14
+          },
+          {
+            "hash": "ef2805c52a48210d18eb49cc92215daacdb0f19a",
+            "message": "more travis shit",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "52517c1ff3c9d37ced35c815a3864cb7232106e1",
+            "message": "spent 30 minutes coding and 3 hour strying to figure out travis\u0027s stupid import statment problem.",
+            "insertions": 14,
+            "deletions": 10
+          },
+          {
+            "hash": "26ff616c8e8b23506a85995ddb2ce768328a2c85",
+            "message": "CommandRecommendation added. Stores the last reccomended outfit and will execute the search.",
+            "insertions": 13,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 3,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "910e025caec64dab1c5ce22d3a078f5afc564da3",
+            "message": "TRAVIS!!",
+            "insertions": 6,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 8,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "4d0d3070cd92200004f6ed15ead8b739d6cb1f83",
+            "message": "travis",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "3580f66c0a65f4d2322dca86b9b8c25ebf99df1e",
+            "message": "travis",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 13,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "8696b15218365bc328a92b459f3036ac3844a4c6",
+            "message": "travis go go",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "f0af32f8d955bcbce66e14645a4d525f780103c2",
+            "message": "asdf",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2bb967121c895af6458e97dcd4404304aa12fe68",
+            "message": "travis",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "df93389e92da32fd2be0e9de794686aa040ff309",
+            "message": "work",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 126,
+        "deletions": 52,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "807c634ac0f74bf2e27d749a4bec008601b1fb05",
+            "message": "added more functionality to CommandRecommendation",
+            "insertions": 62,
+            "deletions": 24
+          },
+          {
+            "hash": "daa7588af132c8e91d650da18642fdfef69718dc",
+            "message": "traivs",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "d838af5a551e88e7053b1e8fdfb2a502c818fb72",
+            "message": "java docs",
+            "insertions": 18,
+            "deletions": 3
+          },
+          {
+            "hash": "f616c0eaea2b77d72eb64977cc3c03fccec5eafa",
+            "message": "RecommendationCommand basic implemnation works",
+            "insertions": 35,
+            "deletions": 15
+          },
+          {
+            "hash": "cdec2901ba893ec0d71b141b63655f967114ba9a",
+            "message": "PersonCard BUG REFARCRED. Name is still wrong. Not sure why but now there is no null pointer error when runnin and EI works again.",
+            "insertions": 6,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 228,
+        "deletions": 38,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "1557db502f8791f62e44a839310fb9c47ed81814",
+            "message": "CommandRecommendation done. Not tottaly finished. Some things I named wrong. I also need to fix the belt reccomendation. Algo doesn\u0027t force a belt to be returned because you don\u0027t need it for the outfit.",
+            "insertions": 217,
+            "deletions": 31
+          },
+          {
+            "hash": "573a926949948240269a16a92392c36a1226acec",
+            "message": "isValidBeltColor fixed",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "3d203e25e3feb7cdde24871c5825438c10ccfa27",
+            "message": "@@",
+            "insertions": 8,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 90,
+        "deletions": 84,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "d7b07eb2db6c9699b0a50b8ac86a9fcc700b1622",
+            "message": "check style errors fixed",
+            "insertions": 88,
+            "deletions": 82
+          },
+          {
+            "hash": "0c68146c4c08aed6fea14218f75a3fdeff1c3824",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9274448d53a4ebed413a28ed50d26e2209763f94",
+            "message": "I changed the word to unfashionable because the word terrorist can be offensive to some people.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 25,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "26c8b1494f5ef2518ac78dfd1f7bc927041819e2",
+            "message": "Commit json config for reposense",
+            "insertions": 25,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 611,
+        "deletions": 86,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "8fb1347a93dfd98a9db069421f8deb728333d3c3",
+            "message": "ReccomendationCommand test code coverage 100% CommandReccomendation code coverage 92%, checking each color case is too tedious and unnecessary",
+            "insertions": 556,
+            "deletions": 52
+          },
+          {
+            "hash": "ccd15ee9a1253e30e2168fd42bbad014a943b3c1",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "1377d6a519aea68272c2aa39c018340913b71c76",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2d9c263a60aa8471677c88a227855db08795401f",
+            "message": "travis",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2aa36317432a529edf5fda58e3a2b5459cd50610",
+            "message": "Update UserGuide.adoc",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "092fac6f664098cf691185e9bee652f40b72d903",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "02b38b9deb39fa739aed15c08a504fab43c05b95",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "90ef06885abb9ed229cff6d26c31683f88ef35f5",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d3d2ca478e0caf6bceb517dada824dbf675b5060",
+            "message": "Update UserGuide.adoc",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "a3452cbf1d8bf715fb1d1eb7f051bd49a836682e",
+            "message": "travis fixed",
+            "insertions": 36,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 329,
+        "deletions": 41,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "5378850dfe548c787554b111c2762d55aabaf3c3",
+            "message": "Random Command added, Some refarcting done in CommandReccomendation",
+            "insertions": 128,
+            "deletions": 28
+          },
+          {
+            "hash": "e9c664f36db1112c09c1e084af87da8ab5707623",
+            "message": "100% code coverage. All tests pass for RandomitemCommand and RandomItemParcer",
+            "insertions": 173,
+            "deletions": 3
+          },
+          {
+            "hash": "a7ad05a8abb3c2275c158cabb5055aa270b55a2f",
+            "message": "RandomCommand user guide update",
+            "insertions": 17,
+            "deletions": 2
+          },
+          {
+            "hash": "ae7ad5d300e4edcda650d2c8357345eda2830701",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "674a90ffc35034b4ebc2ef93aaa890c8a2b5a232",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "abf2216915900a313ecd4fc32be03c4f3c94de7d",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "cdb98808c44a1a919371f31963296687d1df256b",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d5bf9a6957e76a712cdf630ea45ee3b3e5173ce6",
+            "message": "add @auther to tests",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 267,
+        "deletions": 34,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "ac791d203cd2f2a00edd66d56147b4dcfad52782",
+            "message": "SomethingColorCommand added, SomethingColorParcer added. Alll tests done and running 100% code coverage",
+            "insertions": 227,
+            "deletions": 12
+          },
+          {
+            "hash": "e7e444e7cc99e123259c90eb62234179bf3c7bab",
+            "message": "Update UserGuide.adoc",
+            "insertions": 13,
+            "deletions": 4
+          },
+          {
+            "hash": "ca56067cba5afdaf1fe7b46a9dea50ec3de614b0",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c7695d13c496892eb00b0f183b6318c6f8c997f8",
+            "message": "travis",
+            "insertions": 1,
+            "deletions": 6
+          },
+          {
+            "hash": "398150ae4b987d86074a29003527b97c333c798c",
+            "message": "Update UserGuide.adoc",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "74c20106226a13862066e77c084e1449581e3fcd",
+            "message": "travis",
+            "insertions": 11,
+            "deletions": 5
+          },
+          {
+            "hash": "96ef1dbd0c45ac38f58ea12f6f2e2096862d8e3a",
+            "message": "Update UserGuide.adoc",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "d184dae0ccf77d36e73ba111d277ec7135dd0c16",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 141,
+        "deletions": 81,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "6e1ed77fcd54041b210bc167e7c9727cc35f345a",
+            "message": "Update johndoe.adoc",
+            "insertions": 28,
+            "deletions": 31
+          },
+          {
+            "hash": "22a24a150210ee8fa7df1d2827850f9c6275c113",
+            "message": "Update johndoe.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a11bbf25309ac40b82f30c059fab7eb9febee09d",
+            "message": "Update johndoe.adoc",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "5f3413cb309d8f054276c2a83f82fbf045f9f6cc",
+            "message": "Update johndoe.adoc",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "a6c57d05777b7717e21f771047dca86fec85a175",
+            "message": "Update johndoe.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b2b2ba825e7af37429641042ad4b7b1dcd0f67a6",
+            "message": "Update johndoe.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "03fa1f9a836bee13e91a4a27d0879121045f636a",
+            "message": "my page",
+            "insertions": 67,
+            "deletions": 0
+          },
+          {
+            "hash": "408c56d7fa8f676cbd6bfe205acfc279fc867a0f",
+            "message": "recommendaton fail string changed",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "665a1c2b9be514b876609c20dbc406457aa69128",
+            "message": "fasdfsad",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "8af4d1ec431525a43caa039ebabde990ac24ed54",
+            "message": "travis",
+            "insertions": 32,
+            "deletions": 36
+          },
+          {
+            "hash": "1405067bc857e88d9b690965b23eb43ded3aaf1e",
+            "message": "Update philipgarabandic.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 3,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "f995e4347d3b1510d18801b6d7a8c94abee1ed62",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "c302237c2b37c67e36eeadb4d42d08359ce1e276",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 92,
+        "deletions": 92,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "935a309af88ed0479993831465a73882c8d67645",
+            "message": "Update UserGuide.adoc",
+            "insertions": 43,
+            "deletions": 43
+          },
+          {
+            "hash": "752010810e58fdb243dcd9cdc7bf3a2a80e9f436",
+            "message": "Update UserGuide.adoc",
+            "insertions": 43,
+            "deletions": 43
+          },
+          {
+            "hash": "2a49d20e2117f512824678094134b2e9f54a4be4",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "cb84d1d579de938ef13a2bb29250a46b815e5cdc",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 22,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "4f69e077cb3688df7d61a83bb9f63541aaa5b43c",
+            "message": "no message",
+            "insertions": 20,
+            "deletions": 20
+          },
+          {
+            "hash": "19ef66bd367851c833d87bb887e915374a2b257f",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "606b2a057c31129436e35775c0c8d82a7973ad08",
+            "message": "Rename philipgarabandic.adoc to [W15-1][philipgarabandic]portfolio.adoc",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "32d40e6218302a994dcd816d3f90d9aec4e426de",
+            "message": "Update [W15-1][philipgarabandic]portfolio.adoc",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 25,
+        "deletions": 24,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "a2d124bb57b7285bedb9028771d67b1e8163a1dd",
+            "message": "the UI is too legit to quit",
+            "insertions": 24,
+            "deletions": 19
+          },
+          {
+            "hash": "75b345adc5a59e5b4f5d8ab5673047abda8ef022",
+            "message": "ff",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "4a3eeeb88fa52d3dbb7584b0ea01f3059de5b2f9",
+            "message": "travis",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 21,
+        "deletions": 21,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "3e5913454224f94df9a7c378dc9b5cab0d7f74cb",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6d1f9fcda8658e1529c646d0e540bec58c945493",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "28ba2487a8cc080647607fdebf7bc03e9dd1ef8f",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8dfd3c815b72b263d5b243d88b14caf651fddeb7",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c4e5db83bb11a556fb11048f03ed6435cef29367",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "1a606abe56bce8e2792237de6d07c2856553f6c3",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a50973111cb3fed059c30e5315f8d17c3881b125",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ec12b96cfeb515006e77eea127847f66046ce25b",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3f2c18f706a1ae7e32e73868e9b0271a372a57f4",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "05cf4d43f1fd3a99e2e29d320e6b7417bb4d6efb",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8c9c97b5d18dfc9193c3de731d903f18e15ea781",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a59abcb7bfe98d49762ecffd132adf09e465c134",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d143722b00398637c9c7dbaacceffa4a439a20b1",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "40c61541e07ae055285c30fc0772073e926dbc7f",
+            "message": "Update philipphil.adoc",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "ReinSheer": [
+      {
+        "insertions": 122,
+        "deletions": 102,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "f25978089be32c6b1e73426ec995af12d13c09f1",
+            "message": "Update DeveloperGuide",
+            "insertions": 122,
+            "deletions": 102
+          }
+        ]
+      },
+      {
+        "insertions": 110,
+        "deletions": 109,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "100da1119fa732b18c2ab03c93d65559cd13dddd",
+            "message": "Refactor \u0027Type\u0027 class to \u0027ClothingType\u0027 class",
+            "insertions": 63,
+            "deletions": 63
+          },
+          {
+            "hash": "5a606a79c0ec044de7e129bd3119a26213b5f8c7",
+            "message": "Refactor \u0027TypePrimaryValue\u0027 to \u0027ClothingTypeValue\u0027",
+            "insertions": 45,
+            "deletions": 45
+          },
+          {
+            "hash": "72b3d22f71869183302240e8f63d01c9f9856b16",
+            "message": "Fix travis build error",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1674,
+        "deletions": 1668,
+        "date": "2019-03-07",
+        "commitResults": [
+          {
+            "hash": "451bcb6f74b7115e8139d33caf6e56872807397e",
+            "message": "Refactor \u0027Apparel\u0027 package to \u0027Person\u0027",
+            "insertions": 435,
+            "deletions": 435
+          },
+          {
+            "hash": "6ee6f60e6adba847d89266afa79348ccfa562153",
+            "message": "Refactor \u0027Person\u0027 class to \u0027Apparel\u0027 in model",
+            "insertions": 573,
+            "deletions": 573
+          },
+          {
+            "hash": "7bb7d319e1b64594ae3697237699daf94964c50a",
+            "message": "Refactor \u0027Phone\u0027 class to \u0027Color\u0027 in model",
+            "insertions": 150,
+            "deletions": 151
+          },
+          {
+            "hash": "e56888b55092ce08ffd56902bfbca7124fc5a644",
+            "message": "Refactor \u0027Email\u0027 class to \u0027ClothingType\u0027 in model",
+            "insertions": 158,
+            "deletions": 159
+          },
+          {
+            "hash": "01a80d2e533e2592563f7572f74e3df484711f7d",
+            "message": "Update \u0027Apparel\u0027 class in model",
+            "insertions": 54,
+            "deletions": 51
+          },
+          {
+            "hash": "cd3334899c7406bd74b2a036854bf6df854e5e6c",
+            "message": "Update \u0027Color\u0027 and \u0027ClothingType\u0027 class in model",
+            "insertions": 145,
+            "deletions": 59
+          },
+          {
+            "hash": "cbd24ee7ad633cd2b8338c0468b085c5506796ee",
+            "message": "Refactor \u0027UniquePersonList\u0027 class to \u0027UniqueApparelList\u0027 in model",
+            "insertions": 66,
+            "deletions": 66
+          },
+          {
+            "hash": "b9c9f6f3b9d8fef922bd805cd142d0d2cf15c32c",
+            "message": "Refactor \u0027PersonNotFoundException\u0027 and \u0027DuplicatePersonException\u0027 to \u0027ApparelNotFoundException\u0027 and \u0027DuplicateApparelException\u0027 respectively in model",
+            "insertions": 23,
+            "deletions": 23
+          },
+          {
+            "hash": "610a3d514ce32930bdab171eeeee158af4cab1c8",
+            "message": "Tidy up some classes to make program run",
+            "insertions": 65,
+            "deletions": 145
+          },
+          {
+            "hash": "8851f995baffb2a78171601e70fce07081b169aa",
+            "message": "Fix travis build error",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "830f29716239656c0922e2c730f1babdd72a11e6",
+            "message": "Fix travis build error #2",
+            "insertions": 3,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 623,
+        "deletions": 1248,
+        "date": "2019-03-08",
+        "commitResults": [
+          {
+            "hash": "7058d17f4c70d3537973226a055f834750295357",
+            "message": "Fix travis build error #3",
+            "insertions": 37,
+            "deletions": 420
+          },
+          {
+            "hash": "d9efcc852a7baaa531379ed80d74ba5494db8362",
+            "message": "Fix travis build #4",
+            "insertions": 36,
+            "deletions": 36
+          },
+          {
+            "hash": "0c4cbea31dc12b7143ee4f402a6aed6b145001fc",
+            "message": "Fix travis build error #5 -.-",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "0d37a85885bfe5c0fe3ae7773b5b37db834c1848",
+            "message": "Fix travis build error #6",
+            "insertions": 475,
+            "deletions": 680
+          },
+          {
+            "hash": "f12e93492e66d934ae225f07093ade0fb6ea8c5d",
+            "message": "Fix travis build error #7",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "80fcd9b5466b7fe753eedf37214eb10737b0399d",
+            "message": "Fix travis build error #8",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "f8e2d29884fd621a3f1854a5ff1209d8664d98ac",
+            "message": "Fix travis build error #9",
+            "insertions": 30,
+            "deletions": 41
+          },
+          {
+            "hash": "a404bc45d99502dcad58f217649da511da913d7a",
+            "message": "Fix travis build error #10",
+            "insertions": 30,
+            "deletions": 55
+          },
+          {
+            "hash": "05b1e60a4450f39a0865eef8f8e6e7dc6f0bc6e7",
+            "message": "Fix travis build error #11",
+            "insertions": 4,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 84,
+        "deletions": 169,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "b48683e9238d6dbc0dd3348dfe32436ebcbd158b",
+            "message": "Fix travis build",
+            "insertions": 13,
+            "deletions": 12
+          },
+          {
+            "hash": "980b75cc7d73f9dcffaf418eae824cfc3582e15d",
+            "message": "Fix travis build #2",
+            "insertions": 48,
+            "deletions": 99
+          },
+          {
+            "hash": "0483872f64d7df7124dd31a0c5848f284619db2a",
+            "message": "Fix travis build #3",
+            "insertions": 22,
+            "deletions": 51
+          },
+          {
+            "hash": "ac3667099b830c1e38871778219b2f80f211b771",
+            "message": "Fix travis build #4",
+            "insertions": 1,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 53,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "78f4331d84480e536497e91230e1a151e9a5264f",
+            "message": "Fixes #39",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9aea063fa3ca30cd0f5df6136472e339e1f0736d",
+            "message": "Fix checkstyle errors",
+            "insertions": 36,
+            "deletions": 31
+          },
+          {
+            "hash": "1ee1d6758594327db97d17f3d2551ff3946e4f1d",
+            "message": "Fix checkstyle #2",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "5af629ca99b35920719e055ade6170b3c9fba583",
+            "message": "Fix checkstyle #3",
+            "insertions": 0,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 232,
+        "deletions": 230,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "527d7299211e137a5aab07955b8c7c9608f1d9b8",
+            "message": "Fix DeleleCommandSystemTest test case",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "3e816514af5e0ad819f0b0eb74c396dcf1db03d3",
+            "message": "Fix EditCommandSystemTest",
+            "insertions": 51,
+            "deletions": 47
+          },
+          {
+            "hash": "5f1906ef892f10b4fe8e8f77b8a077e45f32c020",
+            "message": "Fix AddCommandSystemTest",
+            "insertions": 29,
+            "deletions": 29
+          },
+          {
+            "hash": "e0240fdbab825216cc5a58ba0369c15f90d135d7",
+            "message": "Fix FindCommandSystemTest",
+            "insertions": 32,
+            "deletions": 30
+          },
+          {
+            "hash": "355afcb881228f6721d063375fb16a421a641b39",
+            "message": "Fix remaining tests on my side",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "bec66d7e79a4cd02b5a660eaff03cfbdc1d9b965",
+            "message": "Fix checkstyle",
+            "insertions": 81,
+            "deletions": 85
+          },
+          {
+            "hash": "92163c513d0ce961ea9d2bab227a56dd142c59c5",
+            "message": "Fix checkstyle #2",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "6f79b974dedad0f61cabc4d7e3f34f697ffd1f47",
+            "message": "Edit some comments",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 240,
+        "deletions": 220,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "217dc366e8a8ec98796cc6addb71696b87c9d6f3",
+            "message": "Fix FindCommandSystemTest",
+            "insertions": 22,
+            "deletions": 21
+          },
+          {
+            "hash": "bc232e114b30017f0bb7779976c27ade0af7c221",
+            "message": "Remove unused import",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "d712f378c22781db3130b6bbb41c669c5aa2329e",
+            "message": "Fix ApparelListPanelTest test case",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "559afd848497a657a20dc3acb541be6ac9e1becc",
+            "message": "Fix Json tests",
+            "insertions": 14,
+            "deletions": 17
+          },
+          {
+            "hash": "9ae6e9b23b4b8e1de230db45576ee839aadaabb5",
+            "message": "Fix ALL Json test cases",
+            "insertions": 62,
+            "deletions": 72
+          },
+          {
+            "hash": "a9f38a41e09b2ab90f2fe069aee8401266999a1a",
+            "message": "Fix checkstyle for JSON tests",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "59733a8346401ce40f0bea69668de05c6acb08ec",
+            "message": "Fix Parser tests",
+            "insertions": 31,
+            "deletions": 38
+          },
+          {
+            "hash": "05c75b87a7191cf828a8b3989f4027b4f350c369",
+            "message": "Fix more test cases",
+            "insertions": 35,
+            "deletions": 34
+          },
+          {
+            "hash": "8049400141efff3bf8289c017c455536c9a13e84",
+            "message": "Fix 1 test case",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "499d97c34b6ac1906268a525ffb8290e0f6f43cc",
+            "message": "Update Dev Guide",
+            "insertions": 11,
+            "deletions": 20
+          },
+          {
+            "hash": "73970061cbf2df78f5c27030a7b9b3d943bdb6a9",
+            "message": "Update PPP",
+            "insertions": 46,
+            "deletions": 0
+          },
+          {
+            "hash": "1fe5509ac5ae3ada422e4927026e12bf52c8d27d",
+            "message": "Update PPP #2",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "f75950ac55182d8cee0d03198fbf61f9f1370a3a",
+            "message": "Fix PPP checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 17,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "e6d4f68c841e12d5866007b4a0a515ccfa314cf4",
+            "message": "Fix Json storage output",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "810a44aa50456f482972f3bd071a4ef313e072f2",
+            "message": "Fix json storage output #2",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "bce28ce260df213dd9799ad4b1cf619c09ea6741",
+            "message": "Fix checkstyle",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 72,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "61bb9057895866a2744dd8bf9ab7dbf77a815585",
+            "message": "Update UG for issue #118",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b88bda5a11a89ea0c212b5dbfbb74946836cdc34",
+            "message": "Fix issue #128",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "16037a4d28640624ad26bd0e7c83d6bcc84b4257",
+            "message": "Fix issue #111",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "3c09773d5c7ce8ef85d060b08fb640e5fea08593",
+            "message": "Fix #124",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "4876a9224ab639058ed24739263c8d099f8533d4",
+            "message": "Fix #126",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "3a24ff0e929f4333d0d5adce31a4a8f79589487c",
+            "message": "Fix #116",
+            "insertions": 31,
+            "deletions": 31
+          },
+          {
+            "hash": "15626029cb66f11f0918f8583629c90dd14fb818",
+            "message": "Rename Address Book and Person",
+            "insertions": 13,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "57d6a2250b85a4ca2d47387c14593ec2240141fa",
+            "message": "Fix #110",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9b6ab2b94f7b1b012aaa4a6e3e2de55efa7c9f1f",
+            "message": "Fix #117",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 9,
+        "deletions": 10,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "d3de538c91a03ed866c38addcb4b2d0640b1852c",
+            "message": "Refactor some more stuff",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "43c8e3fb3db070f3a1e8f2b9df9550e9b628edb7",
+            "message": "Update ContactUs",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 212,
+        "deletions": 37,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "eb2cd8a00984b2de0e6485b8ff8387df15f5500f",
+            "message": "Create Statistics Command",
+            "insertions": 129,
+            "deletions": 3
+          },
+          {
+            "hash": "66f1baf1f702e9988d757bf8cbe0da6d81a48c5c",
+            "message": "Update UG for stats command",
+            "insertions": 4,
+            "deletions": 11
+          },
+          {
+            "hash": "6f9616a9cd429dca4cc6d0b829f73f146ac91a65",
+            "message": "Fix checkstyle for stats command",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "83b0c946a690abc58b79e9fa808ffaf4e9b4b6f0",
+            "message": "Fix compile error for stats command",
+            "insertions": 15,
+            "deletions": 0
+          },
+          {
+            "hash": "acf284bbadbd7fb6095d16127a9ddbc70a7dfab2",
+            "message": "Add info for v2.0",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "13419c7117c7832174414950ddabc33d14fb05d8",
+            "message": "Fix grammar",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a890d4e32d969ee8583f85c9c3546b438bacdcdb",
+            "message": "Refactor more stuff",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "84fc491de5158dd9c5090a061f409d44798d20c0",
+            "message": "Change addressbook.jar to fashionmatch.jar",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "eba2afc7d3987bc98f83a11074cf33cfac5ab138",
+            "message": "Fix grammar for Readme",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "91cead0b256dea59935cb77946938dbfbc71f348",
+            "message": "Add more sample items for the demo",
+            "insertions": 30,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 173,
+        "deletions": 40,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "db391c578e384bae2f3f25beca18734e7c5e20cd",
+            "message": "Update names of PPP (sorry guys i got the wrong format last time)",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "3f4a2c1d8df054ec700eead15a1fb59440815599",
+            "message": "Update AboutUs to include PPP links",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "34de35057a778337806af0e393e02672881242f2",
+            "message": "Standardise UG and DG",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1f1a3c7ae8df7306652447a4868c60482bab6532",
+            "message": "Update Readme",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0681a337ccce9e1b79fa8b97181ef1915303d182",
+            "message": "Update product website",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "06ed07bc0ade8ba5107983f42d5382f98e087d2a",
+            "message": "Update Stats command",
+            "insertions": 41,
+            "deletions": 0
+          },
+          {
+            "hash": "b85f6c76a1cf1e59a250dbc11bb2ee9c7ab41f84",
+            "message": "Update Stats command #2",
+            "insertions": 110,
+            "deletions": 22
+          },
+          {
+            "hash": "c435122383bbd5d78439c669f1e2d3342d2b271f",
+            "message": "Fix checkstyle",
+            "insertions": 10,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 145,
+        "deletions": 415,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "0ee4c14eed91871b7c4486293ec7859ee1e2c832",
+            "message": "Update UG",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "62aec53ff18154c95766f6509c97030fa2c82278",
+            "message": "Refactor DG",
+            "insertions": 119,
+            "deletions": 409
+          },
+          {
+            "hash": "dec450ed7d60951e71da20e3ab174eff601b540c",
+            "message": "Update UG #2",
+            "insertions": 13,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 87,
+        "deletions": 38,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "e359a5b122d894bd69a7f2b56c29f5a1541967f6",
+            "message": "Add screenshot in UG",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "b8df6376308b29a1713ef45d9b265ada9a6d090a",
+            "message": "Update screenshot in UG",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "b79028b4734087657edfd1c428f8a796016378dc",
+            "message": "Update DG for stats",
+            "insertions": 33,
+            "deletions": 8
+          },
+          {
+            "hash": "f11d6594f9628be8ef82b3797c2550b5a165977d",
+            "message": "Update PPP",
+            "insertions": 28,
+            "deletions": 15
+          },
+          {
+            "hash": "a35369eec476196d74d1554b85d10fabd74a94bf",
+            "message": "Fix checkstyle",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "fbf5698d42091863810c7bc9a0fa58d9b6ef31f1",
+            "message": "Add tags for stats in UG",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "aa6616d6ba243f4b6fa2e3572dca1d9a10e9a5b6",
+            "message": "Last update to PPP",
+            "insertions": 6,
+            "deletions": 11
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "rafflesandrison": 2377,
+    "stanleymok": 2063,
+    "PhilipPhil": 1581,
+    "ReinSheer": 2108
+  },
+  "authorFileFormatContributionMap": {
+    "rafflesandrison": {
+      "adoc": 243,
+      "cs": 0,
+      "css": 0,
+      "fxml": 54,
+      "gradle": 0,
+      "html": 0,
+      "java": 2080,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "stanleymok": {
+      "adoc": 210,
+      "cs": 0,
+      "css": 33,
+      "fxml": 28,
+      "gradle": 0,
+      "html": 0,
+      "java": 1792,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "PhilipPhil": {
+      "adoc": 107,
+      "cs": 0,
+      "css": 11,
+      "fxml": 4,
+      "gradle": 0,
+      "html": 0,
+      "java": 1434,
+      "js": 0,
+      "json": 25,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "ReinSheer": {
+      "adoc": 340,
+      "cs": 0,
+      "css": 0,
+      "fxml": 1,
+      "gradle": 4,
+      "html": 0,
+      "java": 1702,
+      "js": 0,
+      "json": 61,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "rafflesandrison": 32320.908,
+    "stanleymok": 54562.59,
+    "PhilipPhil": 12861.011,
+    "ReinSheer": 225689.27
+  },
+  "authorDisplayNameMap": {
+    "rafflesandrison": "RAF...SON",
+    "stanleymok": "STA...UAN",
+    "PhilipPhil": "GAR...LIP",
+    "ReinSheer": "TAN...ENE"
+  }
+}

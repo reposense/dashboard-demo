@@ -1,0 +1,5047 @@
+{
+  "authorDailyContributionsMap": {
+    "siyingpoof": [
+      {
+        "insertions": 288,
+        "deletions": 49,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "594714e40a9f307fef3d26d31f87bd458cc6613e",
+            "message": "Initial changes to UG",
+            "insertions": 288,
+            "deletions": 49
+          }
+        ]
+      },
+      {
+        "insertions": 448,
+        "deletions": 95,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "ea14eca4f485f86115780c51b5af132ecc8655cb",
+            "message": "Teaching the app to accept \u0027add doctor\u0027 which does nothing",
+            "insertions": 40,
+            "deletions": 1
+          },
+          {
+            "hash": "01566650b77619d2c6ed59fc02e24d01ab81d436",
+            "message": "Adding in AddDoctorCommandParse file",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "12c212bdcb65dba9fa4848e5c1d63dab57502ae8",
+            "message": "Edited AddDoctorCommand file",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "e71b9c8708cac93952e3bc2a7338d929d1e8fd7d",
+            "message": "Added javadoc comments for CheckStyle to AddDoctorCommand and its parser file",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "4dd4b8283e86db18cf9cfc0d1ac6177c4ceb3fa3",
+            "message": "Edited AddressBookParserTest file",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "5ec1e4b8c1ac5d5ebec666e01af7d4010ea13890",
+            "message": "Teaching the app to accept \u0027add-doctor\u0027 arguments",
+            "insertions": 30,
+            "deletions": 2
+          },
+          {
+            "hash": "5c617e76839845dab83daf342ed869ac4fa04a70",
+            "message": "Edited files according to checkStyle",
+            "insertions": 99,
+            "deletions": 14
+          },
+          {
+            "hash": "44a8e6f36d39c2ee002a31f3556996f06780bee7",
+            "message": "second edit for checkStyle",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e56034334625b22f8456aaa126ef2d0b5f561e76",
+            "message": "3rd edit for checkStyle",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "1ef5bdefe97ddf9301e19b8dfee5c3d22f8cb4a2",
+            "message": "4th edit for checkStyle",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "c0cae433eb0cc2f48ee64a28b04336cb849f6ea8",
+            "message": "5th edit for checkStyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d978308fc9910de7fc1c90f5941b376d4ac2280f",
+            "message": "6th edit for checkStyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0a1b246bd47825f9763dd67b5d6ad5ed6bd0093b",
+            "message": "Changed test in AddDoctorCommandParserTest file",
+            "insertions": 23,
+            "deletions": 7
+          },
+          {
+            "hash": "ab76744fb7beda7112b4f0268779ea48f3e2964d",
+            "message": "remove the test due to travis check failure",
+            "insertions": 25,
+            "deletions": 25
+          },
+          {
+            "hash": "f5f47f11802c7955ab7adb54d3e32d4e2f8e7d43",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 171,
+            "deletions": 1
+          },
+          {
+            "hash": "b4ded5d71c867815d861bdc89b6f9b9e0e44d3e4",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "c6b8a0574a1ea971bfaee5917ec7cbe3635aa04b",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "532848663fa9425b9c64a23b646b92c3241eb550",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "a1d88da3c1b2e13df658174ff27f497f08e107be",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "693435bb3f87ba88bd1cfe19308861f8d32ce162",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "0709fa269f1d39f531f54bd0f0b7bb22f3352bf7",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "88d22725f573c394f7365afae9e06f0820dd361d",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "ca9ed00b3f4f8bf45e019570a1d9d8706f380182",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "f74c077739d7ec6871576fd02a0ea0e571814a2b",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "cb99cfa59a5cff98def0c0bbb8d7ae416c9e8644",
+            "message": "Added Doctor and Specialisation classes",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 36,
+        "deletions": 24,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "4b69c2571aa85bf89bc1ad37a8dbc45a3d90d9c3",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "85e42d3e9f24a6b7083fea71423d077d489dcacb",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "0f8354f49a200d50853ad9ac9ae425cfeb1442ec",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "3653b6163c163873cd91f7f54c621140a79006d8",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "29d4183048234301cbac63c018208d5799ef51f4",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "efa770f6c4c38f9ecc273e47a0cdaaba80c3a205",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "50008df8bb37824cdf91727c7d0055a597aec7f0",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "df864397fd52417562ffdb6c83a063a69aa14862",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "2b3e52910af6b6f866646d4a2c9852fd134a02bd",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "5e2d65665c6a989bf6ef291a277b406b65b3277d",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "c45a8fe38ca54946dfc1b1c83e5e795e335dc267",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "37584e96eb4f3a9c835bc9e70acfe26839dbbc87",
+            "message": "Edited Doctor class file for checkStyle error",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 123,
+        "deletions": 54,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "9e92d532fe5a8d4885634093bb2805af501dc0f2",
+            "message": "updated UG based on feedback from v1.1",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "0313d16c61e4de0ce70dfe25a61731a0eb60d75e",
+            "message": "updated UG command summary",
+            "insertions": 76,
+            "deletions": 33
+          },
+          {
+            "hash": "319d36e90b1184b7029bd816120475e5786f7509",
+            "message": "added new test for Specialisations",
+            "insertions": 26,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 86,
+        "deletions": 8,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "7d2f76ff191f5d30a2a30a9437097dffc50e0cf1",
+            "message": "edited Specialisation test file for checkstyle",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "17f3af90c3a7e32f974f418bac9cd69725987ef7",
+            "message": "edited Specialisation test file for checkstyle",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "04a0348dddb52281efaef6abb7166db89dfe4e81",
+            "message": "added more tests for classes",
+            "insertions": 77,
+            "deletions": 0
+          },
+          {
+            "hash": "b9cadb4692a5f54738d95a0f02f30bd73dcb1285",
+            "message": "solved Doctor file conflict",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "f33dd5f9bbe394a19e47f5fed7d39964f5f2ca80",
+            "message": "solved conflicts",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "f0b5511deea2cd8e2eef3dba3244f09a2ba6948f",
+            "message": "edited GenderTest file for checkstyle error",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 481,
+        "deletions": 48,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "278a31108d0af721e54250d4c1fbbedcca45cafc",
+            "message": "changed validation regrex for gender",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "da602c2b4bf621ed9684d893d9162492c4570f52",
+            "message": "Added DoctorCard under ui",
+            "insertions": 199,
+            "deletions": 0
+          },
+          {
+            "hash": "0ab79c567614368f3e9b2c0e7b10b95bca9b6cd5",
+            "message": "edited DoctorCard file for checkStyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "6a51fb8c213a886958454cb9c2d02ae60bb6ab15",
+            "message": "edited DoctorCardHandle file for checkStyle error",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "07007a684d11b3fa237ee5eabf2bd4629ef5259a",
+            "message": "added sample doctors in SampleDataUtil",
+            "insertions": 30,
+            "deletions": 2
+          },
+          {
+            "hash": "42b823e9e230a3140a1c07cc421c1e30b87e8c6f",
+            "message": "edited SampleDataUtil file for checkStyle error",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "13416a34f4de6a8baeb5b66dd0331bb23fe73b7e",
+            "message": "updated UserGuide to include prescription",
+            "insertions": 103,
+            "deletions": 0
+          },
+          {
+            "hash": "4c1df348451da8b284074d3121c4990f7957e9fc",
+            "message": "updated UserGuide to include prescription",
+            "insertions": 103,
+            "deletions": 0
+          },
+          {
+            "hash": "13eddd499980e9b5211123101452151a506bc63f",
+            "message": "updated UserGuide to include prescription",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "1bf7d7e689cd4378c5e56303c78ce798a828a6c9",
+            "message": "updated UG to include prescription",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e3fff066850ead1b7452469bddc7aa7175e8979c",
+            "message": "updated UG to include prescription",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 847,
+        "deletions": 10,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "c2833d0ff9b3a354bb86f989300205f74a7a923b",
+            "message": "Added JsonAdaptedDoctor and JsonAdaptedSpecialisation for Storage",
+            "insertions": 157,
+            "deletions": 0
+          },
+          {
+            "hash": "f30f21fc5a35b360d584da9b8c35ec1eb7f8c01e",
+            "message": "fixed files for checkStyle",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "b9a2ab5b1c159849df61dda8e13259e956cd2fe9",
+            "message": "Added files for Doctors testing under storage",
+            "insertions": 339,
+            "deletions": 0
+          },
+          {
+            "hash": "65910f4bf26b4068c2d9a63f039edbe875670e1c",
+            "message": "Added files for Doctors testing under storage",
+            "insertions": 339,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1569,
+        "deletions": 333,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "077a9d05b25ce3a5580f1b83eb8ef25b5d39adf7",
+            "message": "fixed file for checkStyle error",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "2e7ea47a980a8fcf60229f611bde7c2b2c796a08",
+            "message": "fixed files for checkstyle error",
+            "insertions": 14,
+            "deletions": 25
+          },
+          {
+            "hash": "104ff2f36713f1aefc7e79829003e2f0b73cdbf0",
+            "message": "created doctors under ui",
+            "insertions": 225,
+            "deletions": 0
+          },
+          {
+            "hash": "a876324cad8ffe2ebc8d17023e89b928e0225a6b",
+            "message": "created doctors under ui",
+            "insertions": 225,
+            "deletions": 0
+          },
+          {
+            "hash": "9cf4c9b7c4dc27c5314f06c527309934fee586ad",
+            "message": "created doctors under ui",
+            "insertions": 225,
+            "deletions": 0
+          },
+          {
+            "hash": "c96ad4ba9b2a840e8695c610a483a7a8bd939a69",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "a96d34027efa62a6db7771d1d8c66787c6e54930",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "1365b2d5edfa046ce3353d02c1baf3b684b45bf7",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "80ee04c4174a33b6c4ec52e9c8448d60ad53cbc2",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 79,
+            "deletions": 59
+          },
+          {
+            "hash": "90cb20c1cf8e7b1e043ad56bc477efb3c0f8240e",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 80,
+            "deletions": 60
+          },
+          {
+            "hash": "acfa0f162b4d95a6d27b7d1d08b28b4c2c662ccb",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 79,
+            "deletions": 59
+          },
+          {
+            "hash": "ce3edc073e5ef9c34f179ce49b8cefccb4958645",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "e996e9631c77f1e76adcaf567248b0e94ba0051b",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "1c46e3a08ecfe9eef3103236dcba30531483ff4e",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "a4ecadbbf916b3360542f04914ee040ec55a2d82",
+            "message": "implementing addDoctor logic under Logic",
+            "insertions": 156,
+            "deletions": 9
+          },
+          {
+            "hash": "41e55a9d8c3a9cf457578083d4e19b5755a072d5",
+            "message": "implementing addDoctor logic under Logic",
+            "insertions": 182,
+            "deletions": 11
+          },
+          {
+            "hash": "7aa28ca41e4da7cbbaaf55359a600f798caa3e1e",
+            "message": "implementing addDoctor logic under Logic",
+            "insertions": 183,
+            "deletions": 11
+          },
+          {
+            "hash": "affc6881f3efabbe3008165aa8d2bc756c85b0a0",
+            "message": "implementing addDoctor logic under Logic",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "790f771638110ebe81abec098cbeb37902336185",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 6,
+            "deletions": 12
+          },
+          {
+            "hash": "82353b6ba77f2f9fcc0e7cf10951862279e41614",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 6,
+            "deletions": 12
+          },
+          {
+            "hash": "7552e53444445c4552a1e98b70f9fc19f1fe6f0c",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 6,
+            "deletions": 12
+          },
+          {
+            "hash": "a3c6ce73ed5f45bbcc7a39b63ddd6760dca9d0a0",
+            "message": "fixed file for checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "944590ad79d1bcf8b8b47ee2b094695b41c78372",
+            "message": "fixed file for checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "e88a9ff109ab3b28a343c3f2ff6ed8a45aca13c6",
+            "message": "fixed file for checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "4f11f36a65f0ef9fd2c41e365f9ed0ea38311085",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "bfa56452e827084e3018a6c3925b4052de982b43",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "44df51695a9d2f762e6a5153caadae1bf498eac5",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "83409e62528f38d16d1abfdd51f8975e38976bc7",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "80bddb161df3e0fc4b4811101dff3adab54a7ee3",
+            "message": "fixed file for compileTest error",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "b894db362569e1b9bae8410bcf47f49254257582",
+            "message": "fixed file for compileTest error",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "cc43c99f91bcdf4b59aa741ee16a2dbb97b630e8",
+            "message": "fixed file for compileTest error",
+            "insertions": 9,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 514,
+        "deletions": 54,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "0703642575c2f2f1222934e57317ad5e676db24e",
+            "message": "added commands in AddressBook file",
+            "insertions": 34,
+            "deletions": 1
+          },
+          {
+            "hash": "e7e19e99555d4db4dcc6b370c52f94fc7f185839",
+            "message": "added commands in AddressBook file",
+            "insertions": 34,
+            "deletions": 1
+          },
+          {
+            "hash": "9f875adf26b93e23ec7fd904b14c568447f6ecbe",
+            "message": "updated DG and fixed conflicts",
+            "insertions": 42,
+            "deletions": 8
+          },
+          {
+            "hash": "1dce91f8d4f186de2173a7a04323c31bf7141d2f",
+            "message": "fixed checkstyle errors",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "30efcce13eaf2b81cfbda93d9fca8b1ef785e8c7",
+            "message": "fixed checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5129a91e07d5511d02346f8aaaa6a8a3471900e8",
+            "message": "fixed test errors",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "d2cc8ed6acd6505d7da68bd91fe22effc1cace19",
+            "message": "teaching ui to accept add-doctor command",
+            "insertions": 372,
+            "deletions": 6
+          },
+          {
+            "hash": "0641f9076ac2c55fb02cf517ae5476d1810f37a2",
+            "message": "fixed checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "48b55a2e2dfb700489fae7cf0ab5af8e1828eecd",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 22,
+            "deletions": 24
+          },
+          {
+            "hash": "0f8ed9d62c05276ac8b6e51f32574c5d8801b609",
+            "message": "fixed file for checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "83df743862ac8f6ec5374bdd3ae02b3b427c256f",
+            "message": "finishing add-doctor cmd",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 1377,
+        "deletions": 134,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "cb2a5731a8eeb59e8a5e83d9815138014992ed1a",
+            "message": "added list doctor cmd",
+            "insertions": 240,
+            "deletions": 2
+          },
+          {
+            "hash": "01941b51857c4e0d6350a5c3606ebbfb804c11d0",
+            "message": "added list doctor cmd",
+            "insertions": 250,
+            "deletions": 5
+          },
+          {
+            "hash": "2452b8de0cb0acdd7fb264615571c75e14dd7116",
+            "message": "added list doctor cmd",
+            "insertions": 251,
+            "deletions": 4
+          },
+          {
+            "hash": "8dece2de8f56cacb6fc30ead73cb1a29e1684a66",
+            "message": "added list doctor cmd",
+            "insertions": 16,
+            "deletions": 2
+          },
+          {
+            "hash": "cb338c0f49b0620dea744d1fe290392fc9076b2e",
+            "message": "added list doctor cmd",
+            "insertions": 239,
+            "deletions": 2
+          },
+          {
+            "hash": "a515c176c51fbe16e95feb32270a0782ee09dd98",
+            "message": "added list doctor cmd",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "a3257d62e92a51c1190486632c1c5a445242a3bb",
+            "message": "added list doctor cmd",
+            "insertions": 38,
+            "deletions": 6
+          },
+          {
+            "hash": "467d5f7aeeaf6d8a0ad8d8ba92e8909a7d2c925f",
+            "message": "added list doctor cmd",
+            "insertions": 1,
+            "deletions": 32
+          },
+          {
+            "hash": "53e6b58b3232e842e7196673a3a97b533fbf5f50",
+            "message": "added list doctor cmd",
+            "insertions": 243,
+            "deletions": 3
+          },
+          {
+            "hash": "7b0bf58afc2a0bc807486091fbb69aabbe75a7d2",
+            "message": "added list doctor cmd",
+            "insertions": 27,
+            "deletions": 5
+          },
+          {
+            "hash": "6ccd73e633c181f3a904089ca013bcd4afeb67f6",
+            "message": "added list doctor cmd",
+            "insertions": 13,
+            "deletions": 14
+          },
+          {
+            "hash": "60313717cc75455bae78ba9f7bc29b415ca17fb7",
+            "message": "added list doctor cmd",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "1b97ee22a32ef6ebda2397a1d729554ef615c0c1",
+            "message": "added list doctor cmd",
+            "insertions": 12,
+            "deletions": 8
+          },
+          {
+            "hash": "2dbd2acad5f049a0d05955d6df46724c842f8c6c",
+            "message": "added list doctor cmd",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "6a53dce297a1f5b21336bc62f9ac60cabeddd27e",
+            "message": "added list doctor cmd",
+            "insertions": 4,
+            "deletions": 8
+          },
+          {
+            "hash": "70847fd4f6c8681483f2b8a996db465bfe214931",
+            "message": "added list doctor cmd",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "5704b08b268b4459009c660ad442dff30c7c904c",
+            "message": "fixed checkstyle errors",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "f508848914277e868afe855ca005726722a7354f",
+            "message": "fixed checkstyle errors",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "4e7e768722894eda8b2ab9605d035294e9fb931b",
+            "message": "fixed checkstyle errors",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "3789656a8da4b2d3275b40f2b1f2734682d2cf97",
+            "message": "fixed checkstyle errors",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "8034c1893feda5ad3510e337685effc36c52dc12",
+            "message": "fixed checkstyle errors",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "420bfc59173e673c742efa531a8fc64ec66c644b",
+            "message": "fixed checkstyle errors",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "84b4bb5ffde2caed1fd13b6d0e19281e36c5d2f3",
+            "message": "fixed checkstyle errors",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "504d8250bcc3df2cbe0ea89a25abe738ff27e348",
+            "message": "fixed checkstyle errors",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "a4fe826c5d34efae08ba618679b0f374c0d8286e",
+            "message": "fixed checkstyle errors",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 6515,
+        "deletions": 2304,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "834138f3c11b8b226a0a58a21fc8c8a2ef929ab3",
+            "message": "fixing tests",
+            "insertions": 241,
+            "deletions": 24
+          },
+          {
+            "hash": "ae7c253607ddd27e3d62bfcdcf41abe5cd59757d",
+            "message": "fixing tests",
+            "insertions": 241,
+            "deletions": 24
+          },
+          {
+            "hash": "8dfb5540b21ac6eca4d12f27f5e98b432442b9e6",
+            "message": "fixing tests",
+            "insertions": 239,
+            "deletions": 23
+          },
+          {
+            "hash": "4a10788f803c676c7828aa6a9f97fe236693e38b",
+            "message": "fixing tests",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "434da399386adedcfff187be7779381726d5933f",
+            "message": "fixing tests",
+            "insertions": 190,
+            "deletions": 24
+          },
+          {
+            "hash": "1db15d0ed0a5ac625e10162161291d42681a9be0",
+            "message": "fixing tests",
+            "insertions": 59,
+            "deletions": 5
+          },
+          {
+            "hash": "d3df77ac15fb8808752ec8ef3de27f6e4aee854d",
+            "message": "fixing tests",
+            "insertions": 9,
+            "deletions": 12
+          },
+          {
+            "hash": "782ac8a1380e7372dac033a5fad4bd855ebaaee3",
+            "message": "fixing tests",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "31b9c579c4a0e02a6c44e75c8e2c9ff03c745032",
+            "message": "fixed file for checkstyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "704230d4b039c0cecf5a8f3f493ad6261bfc2a43",
+            "message": "fixed file for checkstyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "c73955db6608e430943d429545bd88f594e3c4b2",
+            "message": "fixed file for checkstyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "db31722747efdc3a4d736de0877f3c1870737d19",
+            "message": "fixed file for checkstyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "d07cd6a68731feb76e98414bf15fa1663f8e2a0a",
+            "message": "fixed file for checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b61d398f5552be20c299b5deda23b877e241ecfd",
+            "message": "fixed file for checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e40c095e6b6a91305e710129a0050a9295aae944",
+            "message": "fixed file for checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6f5674d0390117035a21d73da5a3971abb871f32",
+            "message": "fixed file for checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3490ff842fee00c4053b8a9c61f2a0ade36be719",
+            "message": "fixed file for checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "93ed37ee2c61e9f55f32bc89e1114d7c30238c5e",
+            "message": "fixed files for merge conflicts",
+            "insertions": 0,
+            "deletions": 30
+          },
+          {
+            "hash": "68fbf7e99cc993729ef0e2be74c0c811f3498fc2",
+            "message": "fixed files for merge conflicts",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "4388009cb060fd82427b7399f0f260cf9155bb4a",
+            "message": "fixed files for merge conflicts",
+            "insertions": 0,
+            "deletions": 17
+          },
+          {
+            "hash": "ec92db819439d5539762ebc294d13f675de310bd",
+            "message": "fixed files for merge conflicts",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "3f9161cd8fa3f4e0b74b8c0e1ca9ed3c1a609bd0",
+            "message": "added new doctor commands",
+            "insertions": 1721,
+            "deletions": 18
+          },
+          {
+            "hash": "a48780fdff4f064b0e49f5a37253a0c839f589f2",
+            "message": "added new doctor commands",
+            "insertions": 1721,
+            "deletions": 18
+          },
+          {
+            "hash": "adb27ae3bf244873120d44b0ea9ac980fac32f88",
+            "message": "remove test cases",
+            "insertions": 1027,
+            "deletions": 1026
+          },
+          {
+            "hash": "a10bad93daa7fe556b293fd727764d0ebe0556f6",
+            "message": "remove test cases",
+            "insertions": 1025,
+            "deletions": 1026
+          },
+          {
+            "hash": "f0974d99de5abd2658dff381e7c526b0aa9175ac",
+            "message": "fixed files",
+            "insertions": 2,
+            "deletions": 18
+          },
+          {
+            "hash": "c3570023ba594e0ca8c8467dc4795cc70801ee87",
+            "message": "fixed files",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "71c4642300e2584b3d30f0f389c27ffa9fc13c33",
+            "message": "fixed checkstyle errors",
+            "insertions": 6,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 387,
+        "deletions": 88,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "dc4078f33c472b1c291cdfd92b8265c5f53ed3ae",
+            "message": "fixed checkstyle errors",
+            "insertions": 21,
+            "deletions": 25
+          },
+          {
+            "hash": "23934163d4c9256c3caa3b589fa83cf92c9baee2",
+            "message": "fixed checkstyle errors",
+            "insertions": 16,
+            "deletions": 13
+          },
+          {
+            "hash": "fb645a642cec98a44b6b7f105103b2add04418d6",
+            "message": "fixed files",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "d217e0aa34a69c497f4da1d95fb54c88829bcace",
+            "message": "added edit doctor cmd and fixed ui",
+            "insertions": 336,
+            "deletions": 43
+          },
+          {
+            "hash": "93aa65dcd9c7f0bc37a3ba525db501777d249c4b",
+            "message": "changed gender specifications",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ff6d432394c3aa9f54df3635b33b2ccbc6cff952",
+            "message": "fixed files",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 807,
+        "deletions": 218,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "d0c1cb15cd999ffc70489172e3d32194dd93ef3a",
+            "message": "changed age to year for doctor",
+            "insertions": 798,
+            "deletions": 209
+          },
+          {
+            "hash": "07df00098794aa218f826d2906b8d47188885184",
+            "message": "fixed checkstyle errors",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "54c0c5e2ac4d94f278049d7bb225f7919a30bc8e",
+            "message": "fixed file for checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1106,
+        "deletions": 182,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "5b56ec3b21c4494c68a609f80593d8fc782e94b5",
+            "message": "OOP for doctor and patient",
+            "insertions": 926,
+            "deletions": 83
+          },
+          {
+            "hash": "6bb6280ddafca59aa509a919875422129d7c2d48",
+            "message": "edited files for OOP",
+            "insertions": 63,
+            "deletions": 94
+          },
+          {
+            "hash": "0dcb57e6e3191097e426f27f5faa5fc2f2bcad3d",
+            "message": "fixed files for checkstyle errors",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "6f5299b0100328e8b3e2c9b7bc6a2f92b0cbac42",
+            "message": "added search doctor by specialisations command",
+            "insertions": 111,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1013,
+        "deletions": 305,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "1c5770a321f997feb8d28091884b455788b562f6",
+            "message": "included display of doctors\u0027 info in the browser panel",
+            "insertions": 308,
+            "deletions": 7
+          },
+          {
+            "hash": "7c7f53b989a8195599d789ac70133ebe24587572",
+            "message": "fixed files for checkstyle",
+            "insertions": 60,
+            "deletions": 73
+          },
+          {
+            "hash": "2036114488176aeb6f2b36ce328c833fbbd0d5a7",
+            "message": "added match-doctor command",
+            "insertions": 366,
+            "deletions": 56
+          },
+          {
+            "hash": "af2f065a6c3fb7bdf0de1da83bd9f15d09c900f5",
+            "message": "updated UG and edited EditDoctorCommand",
+            "insertions": 47,
+            "deletions": 31
+          },
+          {
+            "hash": "fccdea0b18a5e58bd3afa77045644a7d67eaf7e2",
+            "message": "improved UI",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "6a88e96d474689fb2f06f96db5a0926a08fcce05",
+            "message": "fixed name alphanumeric issue",
+            "insertions": 48,
+            "deletions": 33
+          },
+          {
+            "hash": "8a0cdca4991a8157a105d9f24ca865a4b91c8bb5",
+            "message": "fixed test cases checks for Name",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "6ffd30a447e50f64c4d8dfe95fb71c07b5f258dc",
+            "message": "updated UG and fixed files",
+            "insertions": 85,
+            "deletions": 11
+          },
+          {
+            "hash": "4c6c7733959dc1730188f638bd3ffaf3c980ea6c",
+            "message": "refactor and fix files",
+            "insertions": 20,
+            "deletions": 14
+          },
+          {
+            "hash": "95cb4b7aa7ea0d2702dc2262dd8baa69f4027c1b",
+            "message": "changed line separator for Gongchangda.adoc",
+            "insertions": 74,
+            "deletions": 74
+          }
+        ]
+      },
+      {
+        "insertions": 1230,
+        "deletions": 935,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "1057bb8ac3f54965c746485af3a63911ca0d23a9",
+            "message": "fix adoc issues",
+            "insertions": 229,
+            "deletions": 294
+          },
+          {
+            "hash": "d1e0e6b5fb9948b5c02650a280779ff02fc1f1a1",
+            "message": "fixed ppp",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "1a71d81806ef0c58eab7a075678884b69234daea",
+            "message": "fix adoc files",
+            "insertions": 224,
+            "deletions": 224
+          },
+          {
+            "hash": "34a22bcb75130ba00c1dead9e62b60bb2c5a5e48",
+            "message": "added test cases for doctor commands",
+            "insertions": 765,
+            "deletions": 405
+          },
+          {
+            "hash": "883d4d4143433bc38935c499bdbc9c57e44f7b42",
+            "message": "fixed file for checkstye error",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 469,
+        "deletions": 330,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "2d6722a5f644a34ecffa623395e042620c26d79d",
+            "message": "added test and set phone restriction",
+            "insertions": 268,
+            "deletions": 299
+          },
+          {
+            "hash": "3db996fccce69fa0e74be7ce64afb69c3083fe91",
+            "message": " fixed file for checkstyle error",
+            "insertions": 18,
+            "deletions": 20
+          },
+          {
+            "hash": "7df3ef4d67b42d7df543bf7a926301b6cd5d8b8a",
+            "message": "change duplicate check to be by phone",
+            "insertions": 179,
+            "deletions": 6
+          },
+          {
+            "hash": "0423a3c21242e7c0c1ca0fe188164941d4258f3b",
+            "message": "fixed files",
+            "insertions": 4,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 921,
+        "deletions": 851,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "81df66e454688ceb3f9b9e79ac751f47ef7caa1e",
+            "message": "added more test cases",
+            "insertions": 518,
+            "deletions": 660
+          },
+          {
+            "hash": "05d8a86df37fc0af21df5e3ed1cae191eece3838",
+            "message": "fixed test cases",
+            "insertions": 46,
+            "deletions": 60
+          },
+          {
+            "hash": "552f870e54f3c860662561dfdf2eaa5fec243afb",
+            "message": "fixed checkstyle errors",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "d59c912f3a9dbf226929b0defe405f1f8108e03b",
+            "message": "added test cases for all doctor commands and parsers",
+            "insertions": 276,
+            "deletions": 36
+          },
+          {
+            "hash": "609873e29ba73f0d93ab50c5bfee352ca1cc277d",
+            "message": "updated UG + standardised doctor commands",
+            "insertions": 66,
+            "deletions": 75
+          },
+          {
+            "hash": "cb3c1cca49eecfd8ce4d808b8c837e8d5965c262",
+            "message": "fixed files for checkstyle errors:",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "e5bb731234391b31f7657aea915b0ba904e33614",
+            "message": "updated PPP",
+            "insertions": 8,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 534,
+        "deletions": 567,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "d34a65b876792ebb2b50912e997e4437f2ac9d37",
+            "message": "added more tests for doctors",
+            "insertions": 534,
+            "deletions": 567
+          }
+        ]
+      },
+      {
+        "insertions": 712,
+        "deletions": 446,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "5796932cf610cb08569ca0e3410878f86dbb471d",
+            "message": "updated DG",
+            "insertions": 46,
+            "deletions": 18
+          },
+          {
+            "hash": "a749da324522693af0d78463a4e46787fb327fa8",
+            "message": "packaged all the doctor files",
+            "insertions": 269,
+            "deletions": 179
+          },
+          {
+            "hash": "6d84a4d485f4d961f14c1bf6c94dacec913ebd00",
+            "message": "updated DG implementations",
+            "insertions": 32,
+            "deletions": 5
+          },
+          {
+            "hash": "463cdcf2d0d6cf1b39bfac86a117ff44d3c239ed",
+            "message": "fixed files for checkstyle error",
+            "insertions": 23,
+            "deletions": 24
+          },
+          {
+            "hash": "f23fe1237e26dc5f30342e12a7b78dd3c54ff2c8",
+            "message": "fixed files for checkstyle error",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "d2a96655c7eff7f18d152c29356231d330d5ed69",
+            "message": "updated UG, DG and PPP",
+            "insertions": 192,
+            "deletions": 186
+          },
+          {
+            "hash": "5b28b8fe371b98f6b0ae17f7dfa96b77a9c781b5",
+            "message": "added newline at EOF for OSY PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c1b161517c831e63781bba5e9e691680d17dccc8",
+            "message": "updated UI diagram in DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d5b56a1240f84a149028eec19915e659d3751d6a",
+            "message": "added sequence diagrams into DG",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "6709c1ef66180e7402984083249c1f28b10c63a8",
+            "message": "added in design considerations in DG",
+            "insertions": 53,
+            "deletions": 2
+          },
+          {
+            "hash": "e646fc65a95c1a4df9a90fec53da7b5c0b9b26b1",
+            "message": "changed year restrictions from max 150 to 100",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "8c7b5132fce5c191313da8993e8f09fa9ecb7631",
+            "message": "edited test case for year to pass the new validation",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3d913873ac6fe4e8316fed7670b689a107fccc7c",
+            "message": "final updates to PPP",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "19642c6f5aae83edf42a11df51c313658e3187d7",
+            "message": "updated DG",
+            "insertions": 54,
+            "deletions": 5
+          },
+          {
+            "hash": "6b0584d52d020ae5c46206ed423fd8940177799e",
+            "message": "updated DG",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "wayneswq": [
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "ad2b7db46cc9efb959b6c44bd7356b6ad838ad6b",
+            "message": "Update the link of the Travis build status badge",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 7,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "85c1be6c850b2c663315365e73ae23da070fce25",
+            "message": "waynepullrequest added to test",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "6e91420af8a380f55073fa4636f16bf069b56003",
+            "message": "edit waynepullrequest",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "25e3850414e8f7d3bbc015dbe5483e6e12e1c549",
+            "message": "added AppVeyor badge",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "829d53f5cc7520990829c408ff629be77e91b5b8",
+            "message": "fixed added AppVeyor badge",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "fe38e456832618b58e89049ca4629d579151a74e",
+            "message": "added coveralls badge",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b9c6f7905867eb679089ef8cd5a8cda156e19295",
+            "message": "added netlify",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 232,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "b912ad4dfd51e93e784442532a1a7dca5fcb03a1",
+            "message": "added Patient, Gender, Age class",
+            "insertions": 232,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 206,
+        "deletions": 42,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "dbed18df2e0c7765739b5e913a5b656ab73910d6",
+            "message": "added AddPatientCommand",
+            "insertions": 201,
+            "deletions": 4
+          },
+          {
+            "hash": "46e587fadc53d2644e5d106e471b18006867a270",
+            "message": "edited addPatientCommand to do nothing",
+            "insertions": 3,
+            "deletions": 33
+          },
+          {
+            "hash": "3d1a867dfb83c7b0038da79182d02d226ef1c8b5",
+            "message": "added Patient, Gender and Age class",
+            "insertions": 2,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 15,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "9aeba5789b6ac45b3997f4dc6683804cfa175201",
+            "message": "added Patient attribute to MedicalHistoryCommand",
+            "insertions": 9,
+            "deletions": 4
+          },
+          {
+            "hash": "3749d2a276dbcb8d9990568b42205fd62769807f",
+            "message": "edited coding style",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "f738056260f84b2f4fd3359273a15c52decb0142",
+            "message": "change package to medicalhistory",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 3,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "32021abf60405b35180d4ea71343e6ccf022a5e7",
+            "message": "updated name to docX and remove irrelevant codacy badge",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "66e3d8f8b151241b52c31deef97e514b5c5e5ce2",
+            "message": "added getAllPatientDescription",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "a00c03a083b6e269157e2854fd80b87cf76e3d3d",
+            "message": "remove extra line",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 251,
+        "deletions": 33,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "e849d8351c7236ad13c8a0990650c7633ffb14a9",
+            "message": "fixed VALIDATION_REGEX",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e41f34b35b5c04e88690e7b9243d0091ad59fafd",
+            "message": "fixed VALIDATION_REGEX",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "daa07be4ff76910ec54bdb418b07ed815b9ffde7",
+            "message": "added Patient utiliy classes",
+            "insertions": 182,
+            "deletions": 9
+          },
+          {
+            "hash": "6935c8c7f9ffb3307af155733a8e595d0e0b1e7c",
+            "message": "fixed checkstyle",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "3bade95ee78118c3aa49c9f57dcc514a25493d2b",
+            "message": "minor typos",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "737ca8e07e26c6b73a0f63083a5aa94a62674911",
+            "message": "change typicalPersons test phone to exactly 8 digits",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "4f6686a515ce9188bb6349baa9ec96dfbf819bca",
+            "message": "phone regex at least 8 digits long to account for whitespaces",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "ddcefe373255a9f6f81d11ea4348c2b0724a92c1",
+            "message": "fixed test case phone must be at least 8 digits",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "c0609fb1cd61386574019ef3687336b67088b209",
+            "message": "phone change to at least 8 digits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ae0f5918058829927723b3681372ce33fce41c04",
+            "message": "changed phone to at least 8 digits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b6c07023d34a5488ca539f2357c5e43462d78f71",
+            "message": "changed phone to at least 8 digits",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "c035d8da8a0759741cdc78d06659161e68e11b9e",
+            "message": "update Developer\u0027s guide",
+            "insertions": 42,
+            "deletions": 0
+          },
+          {
+            "hash": "8a75bf5a836a0d8f3f6153d0ab81f48668f7a015",
+            "message": "upload delete diagram",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "fe95ac4fe88136bad0e4850d95e56bb0eb8780be",
+            "message": "reposense fix",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 5953,
+        "deletions": 1054,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "34fabbe7826444169dcfd8be30d93e98f8096bb3",
+            "message": "added patient CRUD",
+            "insertions": 1050,
+            "deletions": 224
+          },
+          {
+            "hash": "9f0ae8158f708f0bf1674602fec5ca93bb1dc73e",
+            "message": "patient CRUD completed with test cases",
+            "insertions": 4800,
+            "deletions": 759
+          },
+          {
+            "hash": "49a26be69e27b81fc2164ab022efe8b98744f657",
+            "message": "fixed checkstyle",
+            "insertions": 16,
+            "deletions": 6
+          },
+          {
+            "hash": "ed9049daedee0f08a745727fa231add556343521",
+            "message": "fixed checkstyle 2",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "8dbb41188d768f9c08115de98372c1558b56ede0",
+            "message": "fixed checkstyle 3",
+            "insertions": 66,
+            "deletions": 46
+          },
+          {
+            "hash": "bf5a448332ec8be6da4ae9079301ffd0af2201ba",
+            "message": "update UG and DG for patients",
+            "insertions": 18,
+            "deletions": 17
+          },
+          {
+            "hash": "bf1b6e59ba6c14a26eecad1ef636f179fe93c979",
+            "message": "update UG 2",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 54,
+        "deletions": 79,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "3d1b452d4d84990661d20c808ec2475ac716754d",
+            "message": "Update AddressBook.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9c00aa3123364cca6854497418d3214d2bca527c",
+            "message": "Update JsonSerializableAddressBook.java",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "03bfef6475e3a19b248391f565af5a5790d29684",
+            "message": "Update AddressBook.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4d2a2b571e2d5f8189f8bda8ffdba9619f4426db",
+            "message": "Update AddressBook.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "59d19ce33ae822b71b38d96f74280665d613715d",
+            "message": "Update AddressBook.java",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "8cd72e8b83b62e54e3fbd8cb1d394784847f6bcb",
+            "message": "Update JsonSerializableAddressBook.java",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "055b207ef2516abb0f8262692ccc2c10b2c6ac0b",
+            "message": "Update JsonSerializableAddressBook.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "55c647381912cd377a058479d422e0e14b16a655",
+            "message": "Update AddressBook.java",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "1c2cf826076d14becb8242d8673f5ac7e9fccb07",
+            "message": "Update AddressBook.java",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "ac9bbef6380c0e31cc0b3788c695a92a31414fa7",
+            "message": "Update ReadOnlyAddressBook.java",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "ff81500a5a7b67a4dfe15446ed7da33008e4a452",
+            "message": "Update JsonSerializableAddressBook.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8ad75fce869ddfb47db1e37aaa46b0bce3b5a6b0",
+            "message": "Update AddressBook.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "20bec580e6a0aefda4be223794928d6b19119caa",
+            "message": "Update JsonSerializableAddressBook.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ca248d8dea7ee0ffc3784c9681feb9a5fbe146bc",
+            "message": "Update JsonSerializableAddressBookTest.java",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "967a095c2c9b6896983df8dc72f08f98d0c304b5",
+            "message": "Update AddressBookTest.java",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "c2b10ac72be169e13d5a5432c821015f9a4056d1",
+            "message": "Update AddressBookTest.java",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "947e61180af90b810bdf60550bed3f438d89d67b",
+            "message": "Update AddressBookTest.java",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "78d348311300f17788fdddc18b21799ee36156da",
+            "message": "Update JsonSerializableAddressBookTest.java",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "46be0093dda535f861434fe0e3e07f61fadc3350",
+            "message": "Update JsonSerializableAddressBookTest.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c206b6323c20d3f867eafa9af07919f800e17712",
+            "message": "Update JsonSerializableAddressBookTest.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "d733f94b5f1b0fca5039c4308b0eecbd1f08692a",
+            "message": "commented out medicalHistory in JsonSerializableAddressBook.java because no medicalhistory.json is causing error",
+            "insertions": 13,
+            "deletions": 15
+          },
+          {
+            "hash": "3c6ca94d103098a6079ee8dbaadbd20f4e8781e0",
+            "message": "fix checkstyle",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "eb03cfb90beabea1a6e03849c9dba9ceb2db188d",
+            "message": "fix checkstyle",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "919bda1d23d9ae02ca2f1195890a316440b53be1",
+            "message": "fix checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 228,
+        "deletions": 165,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "2d64168db5e206eed4401f07f368be0c2e12cf96",
+            "message": "updated userguide for Patients",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "7b7dac96e0ee8c38dd34d36a323fb8121517b769",
+            "message": "fixed all test cases for typicalPatientsAddressBook.json (patients)",
+            "insertions": 29,
+            "deletions": 31
+          },
+          {
+            "hash": "4994acacb074423ee62c99c7f97b26b48a34d519",
+            "message": "minor changes to ui",
+            "insertions": 14,
+            "deletions": 7
+          },
+          {
+            "hash": "500b502f4c7a68de13db3f2469e578c28845ea7f",
+            "message": "edit checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "be713a1a3a4fd3ac57f267b8b0b98e561665be06",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "840522741941bfa6b23d53081f1dde8c9ed00463",
+            "message": "add more strict Regex validation checker",
+            "insertions": 12,
+            "deletions": 15
+          },
+          {
+            "hash": "63dfd88ad7d6041b4303b53de63d4ab0c83c97f1",
+            "message": "added search-tag command for Patient searching",
+            "insertions": 97,
+            "deletions": 88
+          },
+          {
+            "hash": "3ce439b87cebb48764f1ad3c9bdd24f358e1e79d",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7415c52502aa14f54d3efbde4eecc0b862adc691",
+            "message": "fix checkstyle",
+            "insertions": 12,
+            "deletions": 6
+          },
+          {
+            "hash": "b787a3fbb64e0150f1545b747e1aca209c004b3f",
+            "message": "update userguide for patient-commands",
+            "insertions": 23,
+            "deletions": 5
+          },
+          {
+            "hash": "60debb662c3fdd6e36b5bc530b578e3c2329f1ac",
+            "message": "fixing reposense",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "51fc984aff96c0ac532ee2ea0d60e86d4e7a796b",
+            "message": "fixing reposense",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "604f70c1bdb0f37bd00831183b8700ff9d0e0ee0",
+            "message": "fixing reposense",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "1ab9448e6b93603ac512be1b19c904a1efd6e786",
+            "message": "add emails to config to finally fix reposense",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1302,
+        "deletions": 1725,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "fefe5f2f950332fcbcc8adafd1b513a5c3cfb2c8",
+            "message": "fix Doctor ui",
+            "insertions": 48,
+            "deletions": 24
+          },
+          {
+            "hash": "2471e13a257e42bad97e3b9ea46dc4f5b909e99c",
+            "message": "added more strick regex_validation for phone age and change test cases",
+            "insertions": 188,
+            "deletions": 169
+          },
+          {
+            "hash": "06a89d4a1b8585a1a0df776c84e5b41745a1daca",
+            "message": "major refactoring: addressbook to DocX",
+            "insertions": 796,
+            "deletions": 1252
+          },
+          {
+            "hash": "e414ac991d87befde8260a5a60dfb4f6bf2f68c6",
+            "message": "major refactoring 2",
+            "insertions": 213,
+            "deletions": 223
+          },
+          {
+            "hash": "fa8c550cde7c17228755dc5ecd36dd2702197f79",
+            "message": "Major refactoring completed",
+            "insertions": 25,
+            "deletions": 22
+          },
+          {
+            "hash": "ff7f16c278c7f1565ed8271b722351583e8cfc3e",
+            "message": "edit ui",
+            "insertions": 5,
+            "deletions": 8
+          },
+          {
+            "hash": "a79264110712e5e0e6d13e23f784f02b9b2fcafd",
+            "message": "fix checkstyle",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "fafc6d829622385c8bd660c35c067ed31f72fae2",
+            "message": "fix checkstyle 2",
+            "insertions": 14,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 1,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "2e26d7a2f65323bb8d188aadedd3781b65177be9",
+            "message": "add ui for pid and did",
+            "insertions": 15,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2320,
+        "deletions": 1742,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "8b2f727a9512c2caf2baa2df18ad903700692efa",
+            "message": "added search-pid search-did command",
+            "insertions": 152,
+            "deletions": 1
+          },
+          {
+            "hash": "4482f4d02c5dae0116ff78fcc67b378cec52ff93",
+            "message": "correct typo",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3b9c81d50acebfe955db4336416e74001d267193",
+            "message": "add search-advanced",
+            "insertions": 179,
+            "deletions": 2
+          },
+          {
+            "hash": "c72d6e9465b1f7a92462d8e3090e37b489bfe27d",
+            "message": "fix checkstyle",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "a04efaf761410d06725f70199b4ae70a5ce35dd5",
+            "message": "fix regex for gender and tag",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "3013242c6c50d73e99b3d2dad26f3a8a661d2894",
+            "message": "add search-patient-apptstatus",
+            "insertions": 407,
+            "deletions": 161
+          },
+          {
+            "hash": "1740565c57ef2da0543b70b1c5a337df753f6a1f",
+            "message": "update ui and commented out system tests",
+            "insertions": 1570,
+            "deletions": 1570
+          }
+        ]
+      },
+      {
+        "insertions": 1934,
+        "deletions": 1755,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "5e6b1de8763cd7a647d20e5051369d841ee7e1c3",
+            "message": "fix system test",
+            "insertions": 1528,
+            "deletions": 1457
+          },
+          {
+            "hash": "27079212ce858bd4c18464121be5cc3f016774e4",
+            "message": "fix checkstyle",
+            "insertions": 91,
+            "deletions": 104
+          },
+          {
+            "hash": "0757c09cfae02bad00c6a35ac16bc49a2598c0c0",
+            "message": "fix checkstyle2",
+            "insertions": 67,
+            "deletions": 67
+          },
+          {
+            "hash": "e8434d21f0bb3a2b74c466edda18f20fb1a946d3",
+            "message": "fix checkstyle3",
+            "insertions": 20,
+            "deletions": 13
+          },
+          {
+            "hash": "27b0b149e52af701f3756af3315b271442cee72f",
+            "message": "fix checkstyle4",
+            "insertions": 49,
+            "deletions": 18
+          },
+          {
+            "hash": "0e8f3d0cb10abcaa5f4875132ff9e3b6ae8f17f8",
+            "message": "fix checkstyle5",
+            "insertions": 13,
+            "deletions": 12
+          },
+          {
+            "hash": "70166660250dad0ae34d5aaa5bfbbc769381427e",
+            "message": "update UG for patient",
+            "insertions": 26,
+            "deletions": 6
+          },
+          {
+            "hash": "21b95cfb97bf4960ede080401d3da0af4c3b48cc",
+            "message": "update UG to include all new patient commands",
+            "insertions": 33,
+            "deletions": 1
+          },
+          {
+            "hash": "c49bc53f977f38769fefe401518467fd6d1debad",
+            "message": "update UG",
+            "insertions": 36,
+            "deletions": 26
+          },
+          {
+            "hash": "3010fd896273857dc3162ce38ac41f9eaf2a7fb8",
+            "message": "fix bugs regarding search-pid/did and search-advanced",
+            "insertions": 55,
+            "deletions": 36
+          },
+          {
+            "hash": "5ccb636b5308b4f0a23d23a9d61df82c84de318f",
+            "message": "update sample data",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "53990a69b626e2709d2dd4c6b9b4621caf45965c",
+            "message": "fix checkstyle",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 169,
+        "deletions": 109,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "45b3d2a66035eba013825cd75fab83fd7a8ea548",
+            "message": "update sample data",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "04567246eb995258d5f538dc0ec1d5b20a1e0457",
+            "message": "update command instructions",
+            "insertions": 15,
+            "deletions": 17
+          },
+          {
+            "hash": "9ada97687e855cddfa1a9c6e048a1a029ed28c92",
+            "message": "implemented changed appt status display for patient",
+            "insertions": 16,
+            "deletions": 3
+          },
+          {
+            "hash": "f60fc6c8f175b60a049342fd225697821065d07a",
+            "message": "fix checkstyle",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "be654ef8b0fd8c6db918ef487b2d417ed0ba238c",
+            "message": "update UG and commands for patient",
+            "insertions": 53,
+            "deletions": 52
+          },
+          {
+            "hash": "b0db3f4da01e848c3256a59097aab3a26531c7a9",
+            "message": "complete storage for patient appt status and updated test cases",
+            "insertions": 76,
+            "deletions": 34
+          },
+          {
+            "hash": "9903e333a97820aaa94675c49c11d4151d1d7098",
+            "message": "fix checkstyle2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b3fdf4669e28827cec4a4f18ac8549e84c6c6a92",
+            "message": "fix minor bug in mark-appt",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1065,
+        "deletions": 1056,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "f18caf15df566e9e1e345ba4b99b3878a2a3bcfe",
+            "message": "fix bug for patient appointment status and update sampledata",
+            "insertions": 52,
+            "deletions": 18
+          },
+          {
+            "hash": "2089464c01f01baacb707476571fcb1624b56d8d",
+            "message": "minor checkstyle changes",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "cd759130328bfa10f6d512042dc51cc28d3a0898",
+            "message": "update cascade",
+            "insertions": 13,
+            "deletions": 12
+          },
+          {
+            "hash": "6a06115a71e6536a16f3b629a208de0e260ecfbf",
+            "message": "fix checkstyle1",
+            "insertions": 46,
+            "deletions": 46
+          },
+          {
+            "hash": "37a4fa9fd1b64eb1eab176bc5d59d858b15f3156",
+            "message": "fix checkstyle2",
+            "insertions": 18,
+            "deletions": 21
+          },
+          {
+            "hash": "58624641499940f8a6b19efbd9ad0efeb75b44df",
+            "message": "remove search-p-tag",
+            "insertions": 0,
+            "deletions": 79
+          },
+          {
+            "hash": "b7e6e51172d07091da395e02db3a5d1af7428fd0",
+            "message": "fix checkstyle3",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "dbd93ee7e4f51ffad80315a50c1af0eb48efa2d4",
+            "message": "fix checkstyle4",
+            "insertions": 28,
+            "deletions": 28
+          },
+          {
+            "hash": "81032404629f01297bf71005c212ba9dc6c4a6c3",
+            "message": "fix minor bug regarding edit-p",
+            "insertions": 2,
+            "deletions": 23
+          },
+          {
+            "hash": "391145df2455581d6af926dd55dba027a676be0f",
+            "message": "repackage patient",
+            "insertions": 246,
+            "deletions": 216
+          },
+          {
+            "hash": "042ae6b7c66e8c656a3573bf6a2efcbc75b9f03a",
+            "message": "delete tons of unused code",
+            "insertions": 12,
+            "deletions": 167
+          },
+          {
+            "hash": "661601819f8ff3d14cb89cf19bf6ff7701118501",
+            "message": "fix checkstyl1",
+            "insertions": 110,
+            "deletions": 63
+          },
+          {
+            "hash": "3f3e51672b06dd3488a0d0a679c33e0058f5f376",
+            "message": "fix checkstyle2",
+            "insertions": 16,
+            "deletions": 13
+          },
+          {
+            "hash": "aac37cff5962106c8125924c909423c9fd566fb8",
+            "message": "fix checkstyle3",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "2bfaa1add9f0ecd01b03225f6a01974a314e43b6",
+            "message": "fix checkstyle4",
+            "insertions": 56,
+            "deletions": 51
+          },
+          {
+            "hash": "a8dfe4a15d31c64932a578e45670460c2fdf6635",
+            "message": "minor change to ui so pid and did can always be shown",
+            "insertions": 17,
+            "deletions": 33
+          },
+          {
+            "hash": "452fbf016472b37b93012cf7516e3060e2da5ffe",
+            "message": "update patient command name changes",
+            "insertions": 19,
+            "deletions": 20
+          },
+          {
+            "hash": "bfe9afbd1be613d0380380ad7af0f6f119a0f395",
+            "message": "update UG",
+            "insertions": 16,
+            "deletions": 15
+          },
+          {
+            "hash": "68eac9cffe2b000211bed555884b11514ea1d246",
+            "message": "update PPP",
+            "insertions": 69,
+            "deletions": 0
+          },
+          {
+            "hash": "df9f1fe92a2743f896abedb0cf41904f4fd052d3",
+            "message": "added codacy badge to readme",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e6887d922d0b3a330b6f9773c84df502aa58ecf7",
+            "message": "update UG",
+            "insertions": 34,
+            "deletions": 30
+          },
+          {
+            "hash": "f4feb81111f630fe84624bcfffdfc67bdfb07129",
+            "message": "update UG for patient",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "36b36877a359e929806bfc291275275d8be0af9e",
+            "message": "update DG",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "76c701013613ad4154f870281a8bc4fc7824c883",
+            "message": "update codacy",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3b370ebd8628f4c83f92d40bf0edf2d6dbb89a39",
+            "message": "edit UG minor typos",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "51e556c1afd6fe358230d11ecb32fc807256d3c6",
+            "message": "update UG",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e5d4706aad5afcfdf8b45367f2bd92d60847a4eb",
+            "message": "last update to UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d17175c1997f765ca2934c150760b6f946d6cac1",
+            "message": "update DG for delete patient",
+            "insertions": 88,
+            "deletions": 46
+          },
+          {
+            "hash": "afc3c1dee6568bd60ae1a31e6f7b6ee68c34f791",
+            "message": "refine coding style",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "e47b86ba7b43b3ee706c097181136b2ec7255107",
+            "message": "update DG",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "d9343fd83748f1f32f83c263e46012689955742f",
+            "message": "update DG",
+            "insertions": 30,
+            "deletions": 8
+          },
+          {
+            "hash": "38890b941bf5277ffab4f5941da49589618186da",
+            "message": "update DG with ModelClassDiagram",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "e710531f688404fb2a629ad86a37a6e767d3975e",
+            "message": "final update to UG",
+            "insertions": 8,
+            "deletions": 9
+          },
+          {
+            "hash": "2025893f38d9fc376ee018e1976d9229c8df1039",
+            "message": "minor typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b83692c9b6bde71b9db10f079e1c59c7ef8729f5",
+            "message": "update DG",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "edb2aa517535d03fe021d902b860ff5bedd8326b",
+            "message": "update DG",
+            "insertions": 35,
+            "deletions": 22
+          },
+          {
+            "hash": "28e8ee63ebe863fb40ddf9c5a117c28d71f631db",
+            "message": "update UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4813781a4deb3aec46ea4c5c4d38bcd5b97abf20",
+            "message": "deleted useless list command",
+            "insertions": 3,
+            "deletions": 27
+          },
+          {
+            "hash": "3270027ee5a151c6d90537e1dad4aa5ba4761b19",
+            "message": "update UG",
+            "insertions": 25,
+            "deletions": 24
+          },
+          {
+            "hash": "7fe1824040d8e32118c708796f5f75d5c85f5d01",
+            "message": "update PPP with link to UG",
+            "insertions": 20,
+            "deletions": 4
+          },
+          {
+            "hash": "6a4ced02ebad17206e5c6c73156931a194cb8f60",
+            "message": "update PPP to take in DG",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "4de347ff189151ecd078dd33c37e962a7ce24974",
+            "message": "remove model sub part from DG",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "4ae8f773154759a1d6554cebc4ca2f377fedb02c",
+            "message": "update DG",
+            "insertions": 31,
+            "deletions": 26
+          },
+          {
+            "hash": "7d30e5d694517ec2f98ba811e2b33c132476e1c4",
+            "message": "update DG",
+            "insertions": 16,
+            "deletions": 3
+          },
+          {
+            "hash": "4b8231ef362dfe075d25a7c9c6f0f8f6567a29a5",
+            "message": "fix typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c47e6c0cbf1f60c37d227f70bd9e559018a65e40",
+            "message": "fix typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3d4061ad9d9612626aa8fee4d46aa71860c40bfe",
+            "message": "fix typo 2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2a656c8c6b94b9bbf1c05fc982d6925e9aba929f",
+            "message": "final edit final",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      }
+    ],
+    "amuletxheart": [
+      {
+        "insertions": 23,
+        "deletions": 25,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "e923004cd56b8147e03a8016ed6210bf15ef7262",
+            "message": "Updated names and github profiles of team members",
+            "insertions": 16,
+            "deletions": 18
+          },
+          {
+            "hash": "0c5ec94924401e1ae34fb21ebf6e44c14657c0da",
+            "message": "updated profile photos to use the correct images",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e8156387d71fd80202ebb06c9288df48083bf600",
+            "message": "Updated with project issue tracker",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 11,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "8b45ef58079f216132c5950258b1a1d134ba805a",
+            "message": "removed workflow test files",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "4eefa901892a03509a851f4de401b715468a5dcf",
+            "message": "done README.adoc",
+            "insertions": 5,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 4,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "2249c42a4198e7e52dfdbcc00e7b6fd0a8157567",
+            "message": "added javafx plugin to build.gradle to resolve intellij issues on macos",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "8ba13b3c2fcb922baf21ad80d9440a177e79a63f",
+            "message": "fixed all javafx related issues",
+            "insertions": 0,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 8,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "59931162da87bdef0d9d501e157d61e813891f9f",
+            "message": "Updated AboutUs.adoc with new photo filenames",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d6a855886a05932fae9ea4342e21b011f1b95cf2",
+            "message": "Updated AboutUs.adoc roles",
+            "insertions": 3,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 638,
+        "deletions": 65,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "9cf94a557d02b660b3c17a7a9d85fa41cf6fc3b9",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 514,
+            "deletions": 20
+          },
+          {
+            "hash": "43d86d41cc41c9584f92b12898059dca69f6b3ee",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "df725abce107862a72e8322ed3c9b7a1f14adb27",
+            "message": "Completed step 1 of global change",
+            "insertions": 81,
+            "deletions": 17
+          },
+          {
+            "hash": "af5c28277f7b9ede48294d0a8ecb6d44b138a5cf",
+            "message": "fixed checkstyle",
+            "insertions": 34,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 254,
+        "deletions": 22,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "a3f5f50b7813525c7b5eebe1b1a5fe8f44e594cd",
+            "message": "Completed step 2 of global change",
+            "insertions": 106,
+            "deletions": 6
+          },
+          {
+            "hash": "02826d0c377b76b411ca44c67899de6fed2b625e",
+            "message": "Completed step 4 of global change",
+            "insertions": 127,
+            "deletions": 14
+          },
+          {
+            "hash": "3d123bd19edb60a29f0829d8cb9ff432f96f59fd",
+            "message": "Increased code coverage",
+            "insertions": 15,
+            "deletions": 0
+          },
+          {
+            "hash": "91aa1b0a1bad3ca2df305c1fefb38ccd4b87e6c9",
+            "message": "Fixed checkstyle",
+            "insertions": 6,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 176,
+        "deletions": 36,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "2f6c4b4093387e52706cc8771a793961344aa9b2",
+            "message": "Completed step 7 of global change",
+            "insertions": 124,
+            "deletions": 3
+          },
+          {
+            "hash": "a0659348df26c3eb5bef5fac9e43a1ead35d77cb",
+            "message": "reverted JsonAdaptedPerson to previous commit",
+            "insertions": 2,
+            "deletions": 32
+          },
+          {
+            "hash": "fe1cfe056163caf1e4feaf738826fcb1b847c09f",
+            "message": "Fixed README.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "6f19a6620da1b9fe72790fe0d987542c11ad66b3",
+            "message": "Updated DeveloperGuide.adoc",
+            "insertions": 46,
+            "deletions": 0
+          },
+          {
+            "hash": "ebd5f07f3320970f437e8dafce7542c450f8eb56",
+            "message": "Fixed DeveloperGuide.adoc formatting",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "4b4e96b590c64be12015a5e965eb011687367cb9",
+            "message": "Fixed trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "29219f88c743adb8f0c45bcba43aecf8fdf7e853",
+            "message": "Fixed DeveloperGuide.adoc syntax errors",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 478,
+        "deletions": 141,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "46e901fadd49a66c540e57cef868b55bdc658f62",
+            "message": "add-appt in progress",
+            "insertions": 148,
+            "deletions": 49
+          },
+          {
+            "hash": "5201841006ad5d44095937bb162d34e9c949c503",
+            "message": "add-appt command storage working",
+            "insertions": 265,
+            "deletions": 49
+          },
+          {
+            "hash": "97d14b9c4b17e7c18430a8691ef8d6310e331702",
+            "message": "updated test cases",
+            "insertions": 65,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 576,
+        "deletions": 53,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "54f63805f65a1440a83a2b19f06a1ff4f1e71dd1",
+            "message": "list-appt dummy logic added",
+            "insertions": 137,
+            "deletions": 3
+          },
+          {
+            "hash": "5935a8ebd06a66b599fe20ba57499d289ab30830",
+            "message": "UI updates and list-appt working",
+            "insertions": 426,
+            "deletions": 47
+          },
+          {
+            "hash": "f73401f09501a9e932e334c94fa3f77fb9d5add7",
+            "message": "readded test cases for storage",
+            "insertions": 10,
+            "deletions": 2
+          },
+          {
+            "hash": "a6ddb74efa1d471f7b390b78b6c224a716667a26",
+            "message": "fixed no newline at EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0f0f5e51a73fd30a02ebf3c94dc9aed42a2d110f",
+            "message": "fixed UI elements overlapping",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 109,
+        "deletions": 81,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "3789a7c37425d218d924d311b1b1e1eb394adfd7",
+            "message": "changed UI elements to follow abstraction principle",
+            "insertions": 51,
+            "deletions": 50
+          },
+          {
+            "hash": "6fc2b5e6aff89a38911b33cf44fd2d317270d330",
+            "message": "Changed type of date and time to use java.util.time",
+            "insertions": 58,
+            "deletions": 31
+          }
+        ]
+      },
+      {
+        "insertions": 28,
+        "deletions": 13,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "4872c9fb46bbd3f3416b1d9c06ea148694fab286",
+            "message": "updated UG",
+            "insertions": 28,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 519,
+        "deletions": 172,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "5419e0f3c8af40f0d87575217598897a95b3b9cc",
+            "message": "ensured new appointments must be made in the future",
+            "insertions": 241,
+            "deletions": 46
+          },
+          {
+            "hash": "6d5f0184eb733602e027912333e3dcb93873d2c1",
+            "message": "changed build.gradle attributes to docX",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2d03837493b59a066c65b96df68dee43f685c4d9",
+            "message": "Added PersonIdCounter to generate unique ID for new patient/doctor",
+            "insertions": 177,
+            "deletions": 118
+          },
+          {
+            "hash": "2564ee99bcf5e03427b473f77e2f97223b54ff3e",
+            "message": "Ensured patientId and doctorId are in the record",
+            "insertions": 99,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 711,
+        "deletions": 180,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "d94a4a1e270707e836068eb91b21b8b92d2a0c2e",
+            "message": "add-appt user input fully validated",
+            "insertions": 502,
+            "deletions": 105
+          },
+          {
+            "hash": "d369363ffab998220d3d8f6b2765629cbb0dd114",
+            "message": "added validation for date not in calendar",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "9d2470fcedb3142adc04c279c7debac1ca0139ba",
+            "message": "added PersonId to have better type safety",
+            "insertions": 140,
+            "deletions": 58
+          },
+          {
+            "hash": "18a383e32c9204f763ecfe4c65769f2a964c71e1",
+            "message": "updated test cases to support PersonId",
+            "insertions": 32,
+            "deletions": 9
+          },
+          {
+            "hash": "9886b40a13ffa7acb34f0d5b60f22b6e007d6ca2",
+            "message": "added validation for office hours",
+            "insertions": 24,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 553,
+        "deletions": 81,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "82afef8148452adfe299810e2dd9b3f055c92408",
+            "message": "added appointmentStatus to storage",
+            "insertions": 38,
+            "deletions": 17
+          },
+          {
+            "hash": "eac16cc87bcb3262d970960e5a7d14c4014c047e",
+            "message": "mark-appt command completed",
+            "insertions": 346,
+            "deletions": 29
+          },
+          {
+            "hash": "bc87f1f23e83fdacf08f340234a2632acb3cfeb9",
+            "message": "fixed test cases",
+            "insertions": 16,
+            "deletions": 5
+          },
+          {
+            "hash": "3124b61438e4c272c405079eb17e214be5a8ac7b",
+            "message": "fixed bug with mark-appt",
+            "insertions": 7,
+            "deletions": 11
+          },
+          {
+            "hash": "da9374539e0f232a854e4ec22f71cfc978a917e4",
+            "message": "edited PPP",
+            "insertions": 146,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 15,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "3964d203375e1f79f3794d8cb4446286dc2ea5e3",
+            "message": "fixed test cases",
+            "insertions": 12,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 71,
+        "deletions": 126,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "2c96e17c51d21989311060c08f2ed6eebc0c8e93",
+            "message": "removed duplicate code",
+            "insertions": 2,
+            "deletions": 20
+          },
+          {
+            "hash": "8ce29fc00262bd65d62da48dcefe2641753ddceb",
+            "message": "fixed bugs with missing docx.json",
+            "insertions": 20,
+            "deletions": 6
+          },
+          {
+            "hash": "abdf4c8035aaa2f5946a4d7991a92eb9e218d355",
+            "message": "updated UG for appointment",
+            "insertions": 47,
+            "deletions": 100
+          },
+          {
+            "hash": "40a809512ecc05147d48c00efe71a2620f2a7af9",
+            "message": "edited UG",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 415,
+        "deletions": 78,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "539a6199cba805f2867821af672edc3532cecad7",
+            "message": "added UI for null patient or doctor in appointments",
+            "insertions": 112,
+            "deletions": 13
+          },
+          {
+            "hash": "55f04eed6f696d28728c91d341105d619022d3ae",
+            "message": "fixed bug with marking appointments with deleted patients",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "dd527ac1f6ed42dddb3d04f9937c5ed321e43366",
+            "message": "added filters to list-appt",
+            "insertions": 212,
+            "deletions": 22
+          },
+          {
+            "hash": "fca59bab3d8adac1bee893b32b73cdcaa3266f0a",
+            "message": "added patient ID and doctor ID validation for filters",
+            "insertions": 18,
+            "deletions": 11
+          },
+          {
+            "hash": "c9f4be4ae7552ae4d4ba0bb0b4e6903b07a4b17b",
+            "message": "moved appointment classes to its own folder",
+            "insertions": 66,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 170,
+        "deletions": 43,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "d219b1ebb79786abe06691001766d672156c83dd",
+            "message": "added chronology filter to list-appt",
+            "insertions": 138,
+            "deletions": 18
+          },
+          {
+            "hash": "db7981ea11458417ec2436f1d1c3d5236ce9fb98",
+            "message": "fixed checkstyle for tests",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "8e9f35541ec6acc0a2d066d23ffc28f8fe979c2b",
+            "message": "Updated README.adoc",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "0ea6f55df11880fde17b47a51accc4341f69d90d",
+            "message": "all main appointment features completed",
+            "insertions": 21,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 474,
+        "deletions": 3410,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "392e3e4d5c8e79ea2881de8ad7a7a099128823d8",
+            "message": "updated DG",
+            "insertions": 35,
+            "deletions": 73
+          },
+          {
+            "hash": "186b3230cc4b3402df43e83962ec8d9529a15462",
+            "message": "fixed DG styling errors",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "a696d8d99d376c85fd04124227eca0899866f4d4",
+            "message": "fixed test cases",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "b32f2661a585bac63f09db641218d3cd63c52695",
+            "message": "added test cases for list-appt",
+            "insertions": 230,
+            "deletions": 55
+          },
+          {
+            "hash": "42d06f6bb347d0556324ec2ff5d73257a926d416",
+            "message": "added test cases for mark-appt",
+            "insertions": 80,
+            "deletions": 533
+          },
+          {
+            "hash": "7ce9b1ffa1a2a853712c9e2f03381263ad991863",
+            "message": "added newline at EOF for DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c65537b0ec33d74dc2cf2c7a98945861da9ccc3f",
+            "message": "removed dead code and updated DG logic section",
+            "insertions": 9,
+            "deletions": 2626
+          },
+          {
+            "hash": "2f1d09c3062bb830dac28f60c4a64ec5c61d93ed",
+            "message": "updated PPP",
+            "insertions": 74,
+            "deletions": 39
+          },
+          {
+            "hash": "1560219986913aecdef65510435e162d009d1599",
+            "message": "updated DG, UG and PPP",
+            "insertions": 28,
+            "deletions": 1
+          },
+          {
+            "hash": "097fe21aaf801929c73ea7d45ecafecbb28df37a",
+            "message": "final touch up",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "3e7cb150f695aab4f3577d4f2b9b9879f501f0a3",
+            "message": "Delete johndoe.adoc",
+            "insertions": 0,
+            "deletions": 72
+          }
+        ]
+      }
+    ],
+    "GongChangda": [
+      {
+        "insertions": 20,
+        "deletions": 19,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "1bb57d3d69f554c9fe962580a257e304387cfa40",
+            "message": "changda.txt",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "93119512fce7f668e8880a65cbeed219cb2075d6",
+            "message": "modify readme.adoc",
+            "insertions": 16,
+            "deletions": 9
+          },
+          {
+            "hash": "76dc97e2ff2e160db5d652d7caa90e5673451c86",
+            "message": "add library back",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "b76f6482070a82e6f4dc7c075f0fec940c7df99c",
+            "message": "Modify README.adoc",
+            "insertions": 1,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 344,
+        "deletions": 18,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "f6ccf91ca9863c33748feab953cc49081512b028",
+            "message": "Add prescription package Add AddPrescriptionCommand and its corresponding parser Add junit test cases for prescription and description class",
+            "insertions": 289,
+            "deletions": 2
+          },
+          {
+            "hash": "9a566c34681f925e5c4171f06f4e396e97f82788",
+            "message": "make style changes",
+            "insertions": 14,
+            "deletions": 12
+          },
+          {
+            "hash": "dd8458d4a72d22533ce9c354033a74540db0b38b",
+            "message": "make style changes for junit test class",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "8cc04e3387bb15ecce61b2e5deda39213996ff62",
+            "message": "Update the developer guide on functionalities involving Prescription",
+            "insertions": 37,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 94,
+        "deletions": 10,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "580a8683167c140b751ad724ee0a270b2dbcbfd5",
+            "message": "Add UniquePrescriptionList class with add and remove methods",
+            "insertions": 74,
+            "deletions": 0
+          },
+          {
+            "hash": "61c2a153441807281f4bf5ea9bbf633b924ec6d9",
+            "message": "Add new lines at EOF",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "98848056a53eea942f5b60e2f70417c6ed5871c4",
+            "message": "Multiple style changes",
+            "insertions": 18,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 122,
+        "deletions": 8,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "17421a507b7e99da10244fa088bcd755d4e9a869",
+            "message": "further Implement add prescription command",
+            "insertions": 83,
+            "deletions": 3
+          },
+          {
+            "hash": "c0906512b604310d185d018ded0e822d0873ccfc",
+            "message": "Fix some errors encountered during testing",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "e95207b52199fc474cb068afa334c987952ddd1c",
+            "message": "Add two more methods to model stubs in Junit test classes",
+            "insertions": 24,
+            "deletions": 0
+          },
+          {
+            "hash": "7149e21ed1a63dda2f304ca953a5ac346046885b",
+            "message": "Update AddressBookTest.java by adding getPrescriptionList() method",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "e054c671c0c7f1c170b923f043c16a8576544e67",
+            "message": "Make style changes",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 92,
+        "deletions": 17,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "553a606c59d4f7e7a857f3cd9f487072c7ef9e95",
+            "message": "Add medicine class, modify add-presc command",
+            "insertions": 81,
+            "deletions": 9
+          },
+          {
+            "hash": "8e4490f349e64aa5466bdabe52dbcac6dd15983d",
+            "message": "Fix style errors",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "ed8890913470fec05d78571a8ab40dc7f60a3354",
+            "message": "Modify Junit test cases",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 550,
+        "deletions": 17,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "0f353fbc9d03dd592e29b21acd826e3e52f2ef3b",
+            "message": "finish add-presc command and list-presc command",
+            "insertions": 550,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 226,
+        "deletions": 79,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "9310956ee4fcc59f86237fd64c6d72d1ce7f8b6d",
+            "message": "modify PrescriptionListCard.fxml",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "7aae6e11d2d2c49b3189d6cda156093e92757905",
+            "message": "Add PPP",
+            "insertions": 74,
+            "deletions": 0
+          },
+          {
+            "hash": "8ae13e3523a4170a05f1d3bd34b4c699e92e357e",
+            "message": "add PPP",
+            "insertions": 74,
+            "deletions": 0
+          },
+          {
+            "hash": "d35e2b8e3791314218536eca4d7059698d806036",
+            "message": "Delete PPP.txt",
+            "insertions": 0,
+            "deletions": 74
+          },
+          {
+            "hash": "72be0c0711af435472e12b50d6b190952a238899",
+            "message": "Partial complete project portfolio page",
+            "insertions": 74,
+            "deletions": 0
+          },
+          {
+            "hash": "0f0d08e82a79ed8487a3afc1f12c988a5da8d41f",
+            "message": "Update Gong Changda.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 680,
+        "deletions": 222,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "9901a9e510595394fdb4d3f683ef3ed03e50a562",
+            "message": "Add edit-presc command",
+            "insertions": 481,
+            "deletions": 91
+          },
+          {
+            "hash": "9565be6be13c3763fd338d4dc9dea6092f3562ea",
+            "message": "Fix style issues",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9eba908a1adfa5777ba9280c514160f2bb00d7b4",
+            "message": "Fix style issures",
+            "insertions": 121,
+            "deletions": 109
+          },
+          {
+            "hash": "e45489a56a5878bbf63aabb4efd5c414b6fca44c",
+            "message": "Fix style errors",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "9c6064610257f58231a2b79d73c69303f51507b9",
+            "message": "Style changes",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "bb11704f3995f7f0550f30e602d32fae6a083f64",
+            "message": "Fix style issues in PrescriptionListPanel",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c15b2e3382e212c7ef242b1da5d27d8d1f14638a",
+            "message": "Fix indentation issues",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "14c234f3c20dc9e573903f5ea82ae48c2dd59d0a",
+            "message": "Add methods declaration in model stubs",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "074ddd9a1192a643bf280c1f66a60ea598914aaa",
+            "message": "Fix problems in PrescriptionTest.java",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "bd84f05ef0adba6458f06145606da829f2ee5d50",
+            "message": "change parse description code",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "82d54fe7e3ec2421b4e4bd521ed1af64aae679f8",
+            "message": "update DocX.java and UniquePrescriptionList.java to fix storage issues",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "932bc8302a0cc7eb8b1c12e95ba5f21bf9a34041",
+            "message": "Fix one style issue",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 527,
+        "deletions": 12,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "08377c4d6b5d95f3cea15a30d9a6da0620bd77c7",
+            "message": "Add a feature to list prescription by patientId and doctorId",
+            "insertions": 148,
+            "deletions": 3
+          },
+          {
+            "hash": "0535e8f112dde387dbb1903291f7151f68dfa965",
+            "message": "Fix one style issue",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "e4b763f7625b0e6c6406a66841ebdae6ee88cd53",
+            "message": "add a new feature to search for prescriptions whose description contains specified key words add a new feature to select a particular prescription using index to display more info about it",
+            "insertions": 377,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 110,
+        "deletions": 47,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "1b1e8f8b8ae98f10fd745cd5334e894b76e97fb0",
+            "message": "Fix a bug of addPrescription command",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "aeb531014b2e7794e138ec851253fdd63a603162",
+            "message": "Fix style errors",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "83c20e2230ea7c1582863da1e88bf484ab698dcb",
+            "message": "Fix one style error",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3df9c186656415e971535298dee0c18f5989a74f",
+            "message": "Update user guide for add-presc and list-presc",
+            "insertions": 20,
+            "deletions": 13
+          },
+          {
+            "hash": "c3e005663652df48c82d4d5c86c95e435f43b6f3",
+            "message": "Update user guide for add-presc",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "97195061901ccff43e9724b934f06bdf22bf7012",
+            "message": "Add date attribute to Prescription class",
+            "insertions": 69,
+            "deletions": 23
+          },
+          {
+            "hash": "763adab2ed2734c744cae4d77f9ec474dbfb0806",
+            "message": "Fix one style issue in Prescription.java",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 932,
+        "deletions": 129,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "2abb594f50a1fbc0b096fe1ff105155bc3960dea",
+            "message": "Add test cases for prescription package",
+            "insertions": 255,
+            "deletions": 3
+          },
+          {
+            "hash": "c8afe770e01d2ad303818189e6a80457f07a23c2",
+            "message": "Fix one bug in UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9025f441e94cd6be34dc4c9f0d72026c3221a08e",
+            "message": "Fix style issues",
+            "insertions": 7,
+            "deletions": 100
+          },
+          {
+            "hash": "ae6cc4393c12d30866806ea6e873b7ced79fd661",
+            "message": "Add sort-presc command",
+            "insertions": 149,
+            "deletions": 1
+          },
+          {
+            "hash": "9f1f7a6c2111e0d1020757e8a5b28a8542165c95",
+            "message": "Fix one style error",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "c51daab2859d1d75cb45e8a48ea448ed6c808b54",
+            "message": "Fix style issues",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "fda9eff95390254e3c35f5830784468402b271a5",
+            "message": "Fix one bug for search-presc command, add more tests to prescription package",
+            "insertions": 178,
+            "deletions": 2
+          },
+          {
+            "hash": "8b25072b2c47029fad7267fe1465e4ed3132e75b",
+            "message": "Add more test cases",
+            "insertions": 184,
+            "deletions": 2
+          },
+          {
+            "hash": "24a8297cb5af1a0675a135ee97b71451e7e76e9f",
+            "message": "Add EditPrescriptionCommandTest",
+            "insertions": 99,
+            "deletions": 4
+          },
+          {
+            "hash": "b555a618090ceb61b23e0bc8997cf540fb351d3a",
+            "message": "Fix small bugs in AddPrescriptionCommandParser, add tests for AddPrescriptionCommandParser",
+            "insertions": 46,
+            "deletions": 3
+          },
+          {
+            "hash": "a723741651384fe3864293414c41dfc58073e4c4",
+            "message": "Fix style errors",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "61f44667bd594ea5aa57d30e0ab0e5c6287f6d0b",
+            "message": "Correct style issues",
+            "insertions": 3,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 198,
+        "deletions": 119,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "3cc1ec2479332aeef997ea3e7c6aafe61d91938f",
+            "message": "Update summary of commands in the user guide",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "ebb8b304e8b3ddfe5982774e3467c3c5532412c5",
+            "message": "Update Features section in the user guide.",
+            "insertions": 75,
+            "deletions": 50
+          },
+          {
+            "hash": "7265b602d8584ae59e09ca4660993fdc86d6f044",
+            "message": "Fix one mistake in the user guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bd40440a0a70da4165ba4f509124f1280c6b55f7",
+            "message": "Refactor file structure, update developer guide",
+            "insertions": 76,
+            "deletions": 37
+          },
+          {
+            "hash": "126c99431edbbb60443374c670d7e81946551486",
+            "message": "Fix import order issue in DocXParser",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "65bfdc51e04375c5f29c8901a60ca368873e1560",
+            "message": "Update ppp",
+            "insertions": 28,
+            "deletions": 15
+          }
+        ]
+      }
+    ],
+    "Liuyy99": [
+      {
+        "insertions": 1,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "4adbdabe96356348a804bdf995f82f7146ded349",
+            "message": "test Pull Request",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 313,
+        "deletions": 74,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "b88a7cbc6227ad29fcd139740dd15bfe97785e71",
+            "message": "add WriteUp and MedicalHistory classes",
+            "insertions": 92,
+            "deletions": 0
+          },
+          {
+            "hash": "fb40808591c07c37b5838c2f4f136501f92a06f6",
+            "message": "add and parse AddMedHist Command",
+            "insertions": 164,
+            "deletions": 26
+          },
+          {
+            "hash": "ea47f4d40cf20cdb8f273996246ffdfed55d64f1",
+            "message": "Change coding style",
+            "insertions": 52,
+            "deletions": 43
+          },
+          {
+            "hash": "4bfd167b57ab2545ec759cc473607888e5dcbc20",
+            "message": "Change coding style",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 4,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "8194a72b07ee7a09d80640dcd19f89896a68376b",
+            "message": "Slight changes to README.adoc",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "6b2304f8e6aff2f5fb19d05bc6b1c39723fc0512",
+            "message": "Add test doing nothing",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "08d10dc46fe4528113adf878232e33001e618fa5",
+            "message": "Update README.adoc",
+            "insertions": 5,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 313,
+        "deletions": 60,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "b3301d104f2cf1f8550005ecf1b3b9e47d059092",
+            "message": "Add tests",
+            "insertions": 126,
+            "deletions": 0
+          },
+          {
+            "hash": "ecc86d4f22f8495e091352ea6f60e034e0a4f083",
+            "message": "Step 5 of adding new command",
+            "insertions": 50,
+            "deletions": 18
+          },
+          {
+            "hash": "7d122f0adaf64db4c1d393e9540ce134eb74d705",
+            "message": "Checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "89dd7a80fefd7b8eda3bba224cfab61b7833c907",
+            "message": "CheckStyle2",
+            "insertions": 12,
+            "deletions": 20
+          },
+          {
+            "hash": "64a8487c32d482a6c4066d7f0a404bbf03f2392d",
+            "message": "add doctor field in Medical History",
+            "insertions": 35,
+            "deletions": 10
+          },
+          {
+            "hash": "0bfa46047fe9575ad44a536a4c2ebeddc740d3af",
+            "message": "Describe implementation details in Developer Guide",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "fa8278a323a9ab67ed5e2cf2b1a6c88cf750d8ee",
+            "message": "Describe implementation details in Developer Guide",
+            "insertions": 10,
+            "deletions": 7
+          },
+          {
+            "hash": "222d906ab514444fb203b06e0929a1e3c1b73acb",
+            "message": "Changes to Model",
+            "insertions": 38,
+            "deletions": 2
+          },
+          {
+            "hash": "223e795a46aa84d908430870e873ecdc62661d3e",
+            "message": "Checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f768e81a2cf58a3f9a9b2f65d12232c67193fb99",
+            "message": "Checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 608,
+        "deletions": 28,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "41cdce040180e16c3962296e5429402134a430a4",
+            "message": "storage of medical history",
+            "insertions": 300,
+            "deletions": 12
+          },
+          {
+            "hash": "fee95554a15747dcb6c6f63a1e4dfbd3ba9c87cd",
+            "message": "storage of medical history",
+            "insertions": 300,
+            "deletions": 12
+          },
+          {
+            "hash": "2b2231051b68fffbe8dc2486fe3e399357ff87ad",
+            "message": "modified storage",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "372783cb4244cb9dd4b9d0208dd90b8aff518937",
+            "message": "modified storage",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 46,
+        "deletions": 84,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "155697d3104da5c6a6fe8f9ac6feda01a1eb2458",
+            "message": "change to avoid conflict",
+            "insertions": 1,
+            "deletions": 65
+          },
+          {
+            "hash": "7bb6c371e920254fdae0cc76672cfe7d92a0691a",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "72b0cb7d71b97c808f13ad5da7d694297bb7b57f",
+            "message": "checkstyle",
+            "insertions": 19,
+            "deletions": 8
+          },
+          {
+            "hash": "cc7af3d15c16ae64db3f76fd6f9d7f58f6024663",
+            "message": "fix bug in test",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "8ed6b09bfe24d6825780e6f2df71637fa082729b",
+            "message": "comment some test",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "a89e932cdc4fcd475fbf076e258ed0fe9cca8829",
+            "message": "checkstyle",
+            "insertions": 10,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 987,
+        "deletions": 108,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "d6f9f15a8670ff6f808bfd1f72ec9d3dc038ceff",
+            "message": "add Medical History UI",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "1dac5b4b93af14b50080e7fc8c769b88a6aaf5f4",
+            "message": "add Medical History UI",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "85cc00cc70457af263c8a9c93c8dbf00cb998175",
+            "message": "add Medical History UI",
+            "insertions": 21,
+            "deletions": 32
+          },
+          {
+            "hash": "02388f64aa3436ce98cfdad7adff21ab2c9b3a9a",
+            "message": "add medicalHistory method to Logic",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "90abfed8ef3c2ccddfe868234ce1af8c6e0f610f",
+            "message": "add medicalHistory method to Logic",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "3153338b18d7b93e9d65e35fed8fa552ccb5d563",
+            "message": "add medicalHistory method to Model",
+            "insertions": 141,
+            "deletions": 9
+          },
+          {
+            "hash": "285a1228f836d83277403c4239b07542842693a4",
+            "message": "add medicalHistory method to Model",
+            "insertions": 142,
+            "deletions": 8
+          },
+          {
+            "hash": "6ebe521fb9e89e45981a8c522dcd2b1a6cf10695",
+            "message": "add medicalHistory method to Model",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "a7005ea700bd6b0a3611de2c63a4d8a06afa3b38",
+            "message": "add sample data of medical history",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "4f9f0ce229a808c2e9eeb4609fd9c4e7a841cbb5",
+            "message": "add sample data of medical history",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "3a0ca8b7b359a64d48923f850db09f361c35a864",
+            "message": "uncomment medical history part",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "b68a14740577cc9ffb292c096fc72cdaa7144b4b",
+            "message": "uncomment medical history part",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "a52725e478c4386e06413e3ddc38f892d5eb3ef5",
+            "message": "UI of medical history",
+            "insertions": 141,
+            "deletions": 2
+          },
+          {
+            "hash": "ad96bf68078cea05adca5cf34374704a3617903f",
+            "message": "UI of medical history",
+            "insertions": 141,
+            "deletions": 2
+          },
+          {
+            "hash": "ec1b354683affeadba6471298a138b36af8ca4d5",
+            "message": "UI of medical history",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "42adbbd800af7137104909f57eced20b740cfd05",
+            "message": "add fxml files",
+            "insertions": 40,
+            "deletions": 17
+          },
+          {
+            "hash": "593e016b2dbbfa098250079b03a4aa163e175a26",
+            "message": "add fxml files",
+            "insertions": 40,
+            "deletions": 17
+          },
+          {
+            "hash": "692dc9b0e637640180486583ed1865a3097eddbe",
+            "message": "add fxml files",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "71ff0f5363777b2c5dea42d44c77dd2b70c873d1",
+            "message": "modify to pass test",
+            "insertions": 72,
+            "deletions": 3
+          },
+          {
+            "hash": "9cf4ccc1aec224395495780ff30e9219233bccbb",
+            "message": "modify to pass test",
+            "insertions": 72,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 435,
+        "deletions": 20,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "51bf8bca8851c1fab790ec37786e6f5c92629aa1",
+            "message": "begin other features",
+            "insertions": 164,
+            "deletions": 0
+          },
+          {
+            "hash": "5ce9ad0c372dcd986478572323e280d1f4bff8a1",
+            "message": "begin other features",
+            "insertions": 164,
+            "deletions": 0
+          },
+          {
+            "hash": "bd09773f5c26b6d23e5339ea0fc23118de35918d",
+            "message": "begin other features",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "22709238fd5ffb6efacc7ff7c2723dd61e5693b3",
+            "message": "ui part of Medical History",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "0cd5ed1812486019044c32d4fd2c68f598b24e35",
+            "message": "ui part of Medical History",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "444633b00e97f030459b316e2aad28bf0b96b6ac",
+            "message": "modify storage part of patient",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "9d7dd3a597ff5d619625fd5adde8ec2225fa2300",
+            "message": "modify storage part of patient",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "9e3d6dd7fed31f23d9ddec7137c5823eb3c6023f",
+            "message": "modify storage part of patient",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6bd3f1d11c062f045e19dd7915312c4687f9c2ee",
+            "message": "modify test cases",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "51b83de1985b67af06127406934ffdb15000e1a4",
+            "message": "modify test cases",
+            "insertions": 35,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 543,
+        "deletions": 123,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "62b9187fad7b0ca904194c62e342342fe15a7461",
+            "message": "add SelectMedHist command",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "a27484590340f55c67acfde923bea684e4b99c82",
+            "message": "add SelectMedHist command",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "0779eda6c5a57a269ee443b9cccb5ac9a0dd3d20",
+            "message": "add searchMedHist command",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "a4fd41bf9737f0bd14f7e840988d3c14b73bb0d5",
+            "message": "add searchMedHist command",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "67eddb63c3ef1d39477d0dea6f905b916873ab23",
+            "message": "modify AdressBookParse",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "466ee794e0a4db16a84b14769b18e58a6efd6964",
+            "message": "modify AdressBookParse",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "e0ed0354cd842451e65133b5366df147d1b14ccb",
+            "message": "add parsers",
+            "insertions": 53,
+            "deletions": 3
+          },
+          {
+            "hash": "ca90093cd4b04d3d8b50529abe642e8a01f85738",
+            "message": "add parsers",
+            "insertions": 53,
+            "deletions": 3
+          },
+          {
+            "hash": "d8414bea835d52edc8b90d3cb6de1f7fa39fb32d",
+            "message": "Search med hist",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "ad6d3d38e7ea5da7ca493b926f99ec7708e0fed4",
+            "message": "Search med hist",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "9aa1b68b4c1920e850f36e7ebc3996973ecbeb6f",
+            "message": "add SelectMedHist command",
+            "insertions": 154,
+            "deletions": 1
+          },
+          {
+            "hash": "17896d34984184df79b9e8cebe7247e8da8948ef",
+            "message": "add SelectMedHist command",
+            "insertions": 154,
+            "deletions": 1
+          },
+          {
+            "hash": "f5e40e7f4a35afaac4a792ae6052076290c5f34b",
+            "message": "UI of select medical history",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "3631c95be94146032bcc3a5aa8b09009a23436a3",
+            "message": "UI of select medical history",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "3e43e20a75dad5b7eb589711d03cb511d70fe609",
+            "message": "comment test, will fix bug later",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b4400f25e2eef37c9b32b26ca4da02de75116813",
+            "message": "comment test, will fix bug later",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "53385021114dd2201afa03540404d661864e65a7",
+            "message": "fix problem",
+            "insertions": 6,
+            "deletions": 19
+          },
+          {
+            "hash": "ad8ec5647e87834c13860fc4e805dbe1007e487e",
+            "message": "fix problem",
+            "insertions": 6,
+            "deletions": 19
+          },
+          {
+            "hash": "75e33e3406149b4108e56dbcdc59e9aabef5fe9d",
+            "message": "fix bug",
+            "insertions": 0,
+            "deletions": 10
+          },
+          {
+            "hash": "090c53deaab05507acd65173fba4f6fa249c868e",
+            "message": "Checkstyle",
+            "insertions": 12,
+            "deletions": 19
+          },
+          {
+            "hash": "10bc24a6394cf00e070bff73f018cbcc42afd840",
+            "message": "checkstyle",
+            "insertions": 7,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 240,
+        "deletions": 148,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "be04cf9388c2b18d4567657863ba88ab022c6622",
+            "message": "add Date class",
+            "insertions": 52,
+            "deletions": 0
+          },
+          {
+            "hash": "2dd5a0c7b087bcc8753f7d8f1b6d206b4ecec777",
+            "message": "add patient and doctor id to Medical History",
+            "insertions": 126,
+            "deletions": 54
+          },
+          {
+            "hash": "c28ee8fbdbba2aadd3e721a0ee49b0caa67f6a7e",
+            "message": "fix bugs in storage and exceptions in test cases",
+            "insertions": 32,
+            "deletions": 36
+          },
+          {
+            "hash": "378246750e2425ba9d09494da75151aef6b01dc4",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "68d83e56454a3b134a3dda1afaab65ce8691525f",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "08bcec5c5baa5a4a9610ced9c8708ff7d3a5ceea",
+            "message": "Update userguide",
+            "insertions": 12,
+            "deletions": 35
+          },
+          {
+            "hash": "f2001a6a66a26ba7a347e53717f05270033a1697",
+            "message": "PPP",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "33484d1b55860d77baa531a46f30e729c84e4b4b",
+            "message": "PPP",
+            "insertions": 9,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 75,
+        "deletions": 85,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "55ce67a227606edb76e2f733626c797c7b3320ea",
+            "message": "change PPP filename",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "d225346424a8925fa55be054810edbc89f134020",
+            "message": "conflict",
+            "insertions": 72,
+            "deletions": 0
+          },
+          {
+            "hash": "ce1a1876043da0a8deb830618190e9ae4d6123b0",
+            "message": "recover commented code",
+            "insertions": 2,
+            "deletions": 84
+          },
+          {
+            "hash": "d5dcea23d5e0daec6fbb17608ce3c1483b63f901",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 128,
+        "deletions": 22,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "79f84f4e297970bacac89675d5862cea31355d7a",
+            "message": "add person id (not working)",
+            "insertions": 107,
+            "deletions": 7
+          },
+          {
+            "hash": "93c938c8aec4301f6bb5984f76d9c33a1aec26c4",
+            "message": "checkstyle",
+            "insertions": 9,
+            "deletions": 5
+          },
+          {
+            "hash": "1d22543c43b13446e811aa3808b3dc48fc46c24f",
+            "message": "change date LocalDate of java",
+            "insertions": 12,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 387,
+        "deletions": 99,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "cac628c87f6b760782459f30f3a6820d562b7ba2",
+            "message": "add list by patient id command",
+            "insertions": 97,
+            "deletions": 10
+          },
+          {
+            "hash": "1198ed1cddc53bdfafc4561cd9cc462e7f85b082",
+            "message": "checkstyle",
+            "insertions": 9,
+            "deletions": 6
+          },
+          {
+            "hash": "0434aa6a0db19d7ec1a47b9a3c7032215786a4e0",
+            "message": "checkstyle of tests",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "54803e996f5e1b3f5b7fd4ff3a7f78491f9f9d19",
+            "message": "change userguide",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "83cd79e0f6c622f78183d5efffc003d5d55a0e08",
+            "message": "add sort Command",
+            "insertions": 69,
+            "deletions": 1
+          },
+          {
+            "hash": "8b6274cb651deedd048131dab6ff03075f5251a3",
+            "message": "sort medHist by ASC or DESC",
+            "insertions": 59,
+            "deletions": 5
+          },
+          {
+            "hash": "e74152517fbbaa8df581bbc9ff821f95c8b0a15e",
+            "message": "checkstyle",
+            "insertions": 24,
+            "deletions": 10
+          },
+          {
+            "hash": "07ddb0b543850d362e9849be084a60e0485a1f4b",
+            "message": "fix bug of addMedHistCommand",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a7a67ac30131ec0665647bcee5e06fcdde6ce10e",
+            "message": "list medical history by multiple things",
+            "insertions": 82,
+            "deletions": 31
+          },
+          {
+            "hash": "fbf8aab3cc991e04fac11f4c83fe82bb26748dde",
+            "message": "fix parseException",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "cec65f6855028c5802df36103384b0f42e3ae6fb",
+            "message": "fix checkstyle",
+            "insertions": 18,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 263,
+        "deletions": 159,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "95c610d611fbe0b5a2ac3623ec076bb2ef63f964",
+            "message": "remove write up from medhistcard",
+            "insertions": 4,
+            "deletions": 6
+          },
+          {
+            "hash": "2c64f6dd69c78a56add4944440190abcc30005b9",
+            "message": "select medical history command + can switch between patient browser and medHist browser",
+            "insertions": 119,
+            "deletions": 26
+          },
+          {
+            "hash": "4cd0d24adc03fef3785378c09375719abaac684a",
+            "message": "checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9afc1aa54eb9f9ce67023e6047174a4c3198bf6e",
+            "message": "fix test",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "06a2e817225a37c42a9339d2f4ac877bd0586797",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "f919fcb5ebabe32a72b3e916cca6020c7ce851a9",
+            "message": "change id in med hist to int",
+            "insertions": 63,
+            "deletions": 45
+          },
+          {
+            "hash": "7aa082f3c7ef1d60c0cafa64abd0b65e8282066b",
+            "message": "unable delete med hist",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b0825fb4ec09ae0552084ae2234c44272aea7e22",
+            "message": "date validation",
+            "insertions": 49,
+            "deletions": 59
+          },
+          {
+            "hash": "82af804e27c93eea9d9aebde40f17c2246b3785c",
+            "message": "checkstyle",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "50d0a5a26baac369401ce288398128b13bb43512",
+            "message": "testcases",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 561,
+        "deletions": 195,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "b1924e89940b2fca740a8ba3b39ed4e3fc505714",
+            "message": "find patient/doctor by id",
+            "insertions": 59,
+            "deletions": 12
+          },
+          {
+            "hash": "b8f64a4804552fb997ba2aafe9409ddad685ba92",
+            "message": "allow edition of only write up of medical history",
+            "insertions": 218,
+            "deletions": 14
+          },
+          {
+            "hash": "3833683219cfada69b746cb8868830f3d67db406",
+            "message": "fix checkstyle",
+            "insertions": 7,
+            "deletions": 10
+          },
+          {
+            "hash": "7a7e69496dc029d149ca0ff1eaba7f649841625b",
+            "message": "change date to ValidDate",
+            "insertions": 54,
+            "deletions": 12
+          },
+          {
+            "hash": "fd3645c4d78b55a3a4f1a1e95f13ef470c0272ef",
+            "message": "change all id to PersonId",
+            "insertions": 89,
+            "deletions": 77
+          },
+          {
+            "hash": "09500f855c86e6c72334f66e68dd1de4a33644ef",
+            "message": "test and checkstyles",
+            "insertions": 13,
+            "deletions": 16
+          },
+          {
+            "hash": "f27d9b17983edc59a858a755ed6cb3a142963892",
+            "message": "checkstyle",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "2a82e1c059a31699bd9de81623f03c6e76c196bd",
+            "message": "Change findPatient/DoctorById to model part",
+            "insertions": 85,
+            "deletions": 35
+          },
+          {
+            "hash": "5e1a85d41d0c5a575918d9f2af760f5defffe756",
+            "message": "tests and checkstyle",
+            "insertions": 27,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 438,
+        "deletions": 234,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "992638e171d0a546ff5a20b9fb420dd413cc7807",
+            "message": "Handle deleted patient and doctor in  medical history",
+            "insertions": 78,
+            "deletions": 8
+          },
+          {
+            "hash": "68c77ae241590e88f0b961461dd3d0e04f1cd6bc",
+            "message": "Validation of input of listmedhist",
+            "insertions": 76,
+            "deletions": 52
+          },
+          {
+            "hash": "ab38e08736b272d3e07532ead06ce92199a49a45",
+            "message": "update userguide",
+            "insertions": 26,
+            "deletions": 14
+          },
+          {
+            "hash": "ecf5ab137585bb1600168f9f0613707916e971c6",
+            "message": "update UG",
+            "insertions": 67,
+            "deletions": 16
+          },
+          {
+            "hash": "afa812299acc5515939861ae9522537762da4246",
+            "message": "fix minor bugs",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "01eacdb2db91f57c203d0fb717d740eb4e822056",
+            "message": "update medhist browser",
+            "insertions": 23,
+            "deletions": 7
+          },
+          {
+            "hash": "6bfcb26dc9937c17f22cc2614d95b6375205b00b",
+            "message": "fix checkstyle",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "36ecbb36d6fb8aa548835f5fa7e501088bd2d378",
+            "message": "update config.json",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "bd92e97dc75a67a41a32e2f9b5a7cbede5e338d2",
+            "message": "update UG",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "bd7d1fbcc1a5e24724aad26e5d5eb29c63a68fed",
+            "message": "add PPP",
+            "insertions": 100,
+            "deletions": 0
+          },
+          {
+            "hash": "804aa55d5070af504c86a9bae57137c00750d68c",
+            "message": "add PPP",
+            "insertions": 16,
+            "deletions": 28
+          },
+          {
+            "hash": "2895ff949680bdc6f89e734a9e96bebeb6013c21",
+            "message": "edit PPP",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "ea2e36a7541128ffa88bd0dd84d25567b89ccea4",
+            "message": "update PPP",
+            "insertions": 8,
+            "deletions": 19
+          },
+          {
+            "hash": "7d433ed173d2f60bd04253b5dd3498f1022f5e7c",
+            "message": "unable undo/redo in Parser and change UG",
+            "insertions": 14,
+            "deletions": 61
+          },
+          {
+            "hash": "9c8b56df76b8e32047b4aaff8e2469ec528ee46f",
+            "message": "recover undo/redo ...",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b5ef457355c11505ceab4ff16da03981295c4831",
+            "message": "minor change",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 677,
+        "deletions": 37,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "28b80bca48d37842bab9991fa6e44e2ea791cc3a",
+            "message": "minor changes",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "2e071725ae69c2b4b0a6accfa9dc1b5a410f5bec",
+            "message": "fix Search bug",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "24cd5ed0203e32bd15d415e3b2f0cd6b404e051a",
+            "message": "model test cases",
+            "insertions": 342,
+            "deletions": 1
+          },
+          {
+            "hash": "bd09e0f663a99e065789711eac0c9eefc41aeb71",
+            "message": "checkstyle",
+            "insertions": 5,
+            "deletions": 19
+          },
+          {
+            "hash": "438bd9b437913d0ab20fda6dd374149514b4d8fb",
+            "message": "checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b9b24c58cc4f8085cda4379c61f094d771ec258d",
+            "message": "checktyle",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "4ade7561d9eba4b3aa3a603432a08781b16c7d78",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "c64ac0d146456d189a06f5a3bde8ded2be04dedc",
+            "message": "add test cases",
+            "insertions": 306,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 354,
+        "deletions": 2010,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "99946201f0ad18d39ee47700686f50e0ee7ce1b1",
+            "message": "tests",
+            "insertions": 90,
+            "deletions": 106
+          },
+          {
+            "hash": "005639741154c854205df5b094d21dda3f65860c",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 400
+          },
+          {
+            "hash": "98481b856e7d6e67fcc60e69a3dfb027cd408eb0",
+            "message": "minor changes",
+            "insertions": 13,
+            "deletions": 9
+          },
+          {
+            "hash": "319d1673388c56b772a6f0d0e83b636f39c7d66e",
+            "message": "refresh browser panel after deletion",
+            "insertions": 99,
+            "deletions": 6
+          },
+          {
+            "hash": "1612a59de07993f6c7df2d4fd2ba893f6b51bdf3",
+            "message": "checkstyle",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "6ea7f43ac944e1b3337c4c91fa7bf3bac258decc",
+            "message": "remove Undo/Redo and dead code",
+            "insertions": 1,
+            "deletions": 700
+          },
+          {
+            "hash": "f745a2b3d40f7ae359f4d864a4f914833faea6dc",
+            "message": "delete test cases",
+            "insertions": 1,
+            "deletions": 679
+          },
+          {
+            "hash": "605fb338b530e7b47b5961ea75ab425769d80801",
+            "message": "remove delete med-hist command",
+            "insertions": 4,
+            "deletions": 87
+          },
+          {
+            "hash": "c6aff2e339c4e23771223e0c29efaa7a3425f31d",
+            "message": "add test case",
+            "insertions": 90,
+            "deletions": 1
+          },
+          {
+            "hash": "6fa74ff719f66418694f63916b6c0e8ef23c9c71",
+            "message": "add JsonAdaptedMedicalHistory check",
+            "insertions": 48,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 380,
+        "deletions": 253,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "5a043e3e6323401975ada4ca83efe5cc768b953b",
+            "message": "remove deleteMedHist from model",
+            "insertions": 6,
+            "deletions": 30
+          },
+          {
+            "hash": "162be303c8cc0f2930dcd836142bcba66207fc2d",
+            "message": "pack medhist id into class",
+            "insertions": 48,
+            "deletions": 9
+          },
+          {
+            "hash": "ae8fb61b075192dfe7c69b46b9a3d5ecae9f4bb6",
+            "message": "modify list medical history",
+            "insertions": 91,
+            "deletions": 77
+          },
+          {
+            "hash": "80ba17854e812b9c65f7253483bbdcafe186efdb",
+            "message": "pack all med hist command/parser to package",
+            "insertions": 67,
+            "deletions": 27
+          },
+          {
+            "hash": "45e34094956356a97121419ebed1159d5c033b90",
+            "message": "checkstyle",
+            "insertions": 21,
+            "deletions": 16
+          },
+          {
+            "hash": "6fa622c009aafa33b2d04675e16762ca82c955f8",
+            "message": "checkstyle of tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4773e055a0166f7ca69832a739bb7e89601b8d84",
+            "message": "checkstyle of tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d5b92e1baab65bf07401cfc4e98b173f3f60756f",
+            "message": "checkstyle of tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0249b676aad2b71aa0da78c5e1a64472c7fda19e",
+            "message": "checkstyle of tests",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "469f304847bb7692fb7d6ac27f2ba79c5c1b9cda",
+            "message": "update user guide",
+            "insertions": 32,
+            "deletions": 24
+          },
+          {
+            "hash": "fdc30ef5e18660f4b1db50fdad5ebd7cca1e7210",
+            "message": "modify sort command",
+            "insertions": 66,
+            "deletions": 22
+          },
+          {
+            "hash": "c9f1d6099c8c68cfc4b36ec912ebf519b1e6601e",
+            "message": "change package to medicalhistory",
+            "insertions": 40,
+            "deletions": 40
+          },
+          {
+            "hash": "e8603e42a76613e9829ec55524af35f11c523d75",
+            "message": "update DG",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 627,
+        "deletions": 520,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "36942950ef8188e66ec8d5d592ec7bb9d6f172ca",
+            "message": "update MedHist when patient/doctor is edited",
+            "insertions": 87,
+            "deletions": 14
+          },
+          {
+            "hash": "a3984c4a6a1fc366efb15298519d0f4522636f10",
+            "message": "update Appt when patient/doctor is edited",
+            "insertions": 75,
+            "deletions": 7
+          },
+          {
+            "hash": "2d1ba83e5dee663026d6af5b7d00e53b04ed1a25",
+            "message": "Update DG",
+            "insertions": 31,
+            "deletions": 0
+          },
+          {
+            "hash": "35e763567e899a80970204659dbbb8f759050d0f",
+            "message": "Update DG",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "6d72a238461fe38ce34196a9661e020ab0327f61",
+            "message": "Update DG",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "f480cdba51aa69c6764899c383675703ed4b39e5",
+            "message": "Update DG",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "bfae46dc3a1c1aa180d97100ca2aa16809e8c8a2",
+            "message": "Update DG",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "ced557a5a2dbea4c2b0deb3dd4c23e9b5d8ad8de",
+            "message": "Update DG",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "a67a9a2c106740933a93df1b5c7e8bbdac791f64",
+            "message": "update DG",
+            "insertions": 19,
+            "deletions": 46
+          },
+          {
+            "hash": "8ef23e6887ed40e1d1bea5c3f1949025bc6039d9",
+            "message": "update DG",
+            "insertions": 19,
+            "deletions": 46
+          },
+          {
+            "hash": "5fd9dff400e0ddabcbb9096b84f731dd42f9aca5",
+            "message": "update DG",
+            "insertions": 19,
+            "deletions": 44
+          },
+          {
+            "hash": "476e86ddab67c7996b274efdb37dc1909ed61805",
+            "message": "update DG",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "29e604753c13868a841ed0a4455373e2f8cb6654",
+            "message": "update DG",
+            "insertions": 0,
+            "deletions": 42
+          },
+          {
+            "hash": "c1a6b1d45101d5e0344e2af59d2c6a88e3340b59",
+            "message": "update DG",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "46fbd2af0c200fdd3f9b721af8b1dd0a3d790716",
+            "message": "update DG",
+            "insertions": 19,
+            "deletions": 2
+          },
+          {
+            "hash": "b8994de5d48969da7f6a80a9f25ab974006418e3",
+            "message": "update DG",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "55e72ab5d2ebc1f7ee531768cf832bea4c00e64b",
+            "message": "Update PPP",
+            "insertions": 49,
+            "deletions": 40
+          },
+          {
+            "hash": "c7fd153fb2b900695e79d5e7972991a33bf64dc6",
+            "message": "Update PPP",
+            "insertions": 49,
+            "deletions": 40
+          },
+          {
+            "hash": "5e29232bb31226903a40ffc8f448ed5fbcc87ff3",
+            "message": "Update PPP",
+            "insertions": 49,
+            "deletions": 40
+          },
+          {
+            "hash": "9b143e70a56d8902b4c62828b134afa324901ff5",
+            "message": "Update PPP",
+            "insertions": 49,
+            "deletions": 40
+          },
+          {
+            "hash": "24d37bc1dac021ec215ca53b1336ad3abdf5a7e0",
+            "message": "update UG, PPP",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "ee08e96b4aa77255a20d1c6e8b7f306cbe57af2f",
+            "message": "update UG, PPP",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "e8b45d784ccfd421b1a892334dc8a3131d52c02b",
+            "message": "update UG, PPP",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "e3683cc577385ea86b6e9866ef76b1aecaaa1ea0",
+            "message": "Update DG",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "78c1739fa2963517a76e1bd2a43ebd499170be57",
+            "message": "Update DG",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "02e94f0ca169a47b6c4ae6da3baed0aaf37ac9e8",
+            "message": "Update DG",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f4700b96ab21c5478b2df465c4bb8ac5ecdbabfc",
+            "message": "fix conflict",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "a4d38805ffca1b2896561084191833b07c693bb7",
+            "message": "fix conflict",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "4e5d3c4536cecf2f5f8ae6bbb3798f670be5e4f4",
+            "message": "minor change of DG",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "62e9f2f2b1335aa31e287505a514b6b5c86dfd00",
+            "message": "minor change of DG",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "dca9320d2d1bb01986890dddeddda10ed99183ac",
+            "message": "slight changes",
+            "insertions": 3,
+            "deletions": 90
+          },
+          {
+            "hash": "c9a1532ebb1a1d67a99f0ec8d51fe0a459f82c95",
+            "message": "slight changes",
+            "insertions": 85,
+            "deletions": 0
+          },
+          {
+            "hash": "4bd0775b1aa5231d47121573fababe6fb5bd3329",
+            "message": "slight changes",
+            "insertions": 6,
+            "deletions": 13
+          },
+          {
+            "hash": "aa57b091f1afc7fe3ada1c948a1b6ec925ad3f4d",
+            "message": "very minor change",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "siyingpoof": 7518,
+    "wayneswq": 7177,
+    "amuletxheart": 3857,
+    "GongChangda": 3064,
+    "Liuyy99": 3748
+  },
+  "authorFileFormatContributionMap": {
+    "siyingpoof": {
+      "adoc": 509,
+      "cs": 0,
+      "css": 0,
+      "fxml": 61,
+      "gradle": 0,
+      "html": 0,
+      "java": 6743,
+      "js": 0,
+      "json": 205,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "wayneswq": {
+      "adoc": 384,
+      "cs": 0,
+      "css": 15,
+      "fxml": 89,
+      "gradle": 0,
+      "html": 0,
+      "java": 6547,
+      "js": 0,
+      "json": 142,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "amuletxheart": {
+      "adoc": 755,
+      "cs": 0,
+      "css": 0,
+      "fxml": 104,
+      "gradle": 4,
+      "html": 0,
+      "java": 2966,
+      "js": 0,
+      "json": 28,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "GongChangda": {
+      "adoc": 214,
+      "cs": 0,
+      "css": 0,
+      "fxml": 71,
+      "gradle": 0,
+      "html": 0,
+      "java": 2772,
+      "js": 0,
+      "json": 7,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "Liuyy99": {
+      "adoc": 196,
+      "cs": 0,
+      "css": 0,
+      "fxml": 66,
+      "gradle": 0,
+      "html": 0,
+      "java": 3473,
+      "js": 0,
+      "json": 13,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "siyingpoof": 1390053.0,
+    "wayneswq": 1325648.0,
+    "amuletxheart": 262260.66,
+    "GongChangda": 40265.43,
+    "Liuyy99": 152652.23
+  },
+  "authorDisplayNameMap": {
+    "siyingpoof": "ONG...ING",
+    "wayneswq": "SEA...UAN",
+    "amuletxheart": "YON...HEN",
+    "GongChangda": "GON...GDA",
+    "Liuyy99": "LIU...ANG"
+  }
+}

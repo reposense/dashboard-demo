@@ -1,0 +1,3119 @@
+{
+  "authorDailyContributionsMap": {
+    "Anand270294": [
+      {
+        "insertions": 24,
+        "deletions": 9,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "aa94563ad6b2ac80aeeb8fea7f3e6e1adb717547",
+            "message": "README.adoc updated",
+            "insertions": 24,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 690,
+        "deletions": 49,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "513cee85b662a56f923f6610abd7f18f49657f0e",
+            "message": "Added new Package ModuleInfo and moduleinfostorage",
+            "insertions": 418,
+            "deletions": 4
+          },
+          {
+            "hash": "0a246bd564b0c66c5945bab7cd8d641ec1e1fdaa",
+            "message": "Json file now can be read and created by Json classes",
+            "insertions": 260,
+            "deletions": 38
+          },
+          {
+            "hash": "b78af55da12adf55f58d51ce53006c1f593fcba5",
+            "message": " fixed travis error checkstyle",
+            "insertions": 12,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 421,
+        "deletions": 50,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "780bb3104ca7da04485ff73366800aeeb58342a5",
+            "message": " added sub classes for ModuleInfo class except for preclusion and prerequisites and workload",
+            "insertions": 231,
+            "deletions": 23
+          },
+          {
+            "hash": "7a251f52b0484a02fee8f3ab3cbed9de1eb6b037",
+            "message": " added moduleInfoWorkload class which splits the workload into int",
+            "insertions": 190,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 152,
+        "deletions": 19,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "5c18f0fe2ed96449f4b055943aca13060c1218b2",
+            "message": "updated UG/DG",
+            "insertions": 152,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 555,
+        "deletions": 58,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "d82315b7160a15b29236cf30b72359fe9580916e",
+            "message": " Prerquisite Tree Complete",
+            "insertions": 348,
+            "deletions": 49
+          },
+          {
+            "hash": "0c674f8a5800160377c146fbb481a5ea45bb2c87",
+            "message": "fixed checkstyle issus",
+            "insertions": 11,
+            "deletions": 9
+          },
+          {
+            "hash": "8c4bb7db74d193fcfcf0cd6e0df3b5c27d8b343f",
+            "message": "add gui classes and fxml;not integrated yet",
+            "insertions": 196,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 329,
+        "deletions": 84,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "e03ef0814344ec93aa78ff691cf10379ac617527",
+            "message": " gui and fixed bugs for prerequisite Tree",
+            "insertions": 273,
+            "deletions": 47
+          },
+          {
+            "hash": "ce7f9da69fa13d9755881d2b5dfd8475eb83c54f",
+            "message": "fixed checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8e17f41e5002ed99ca4f5ff54fa9424c797ed776",
+            "message": "fixed junit test",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "b5f1a336aa4000beeb88d289dec04b0b545a5e9c",
+            "message": " fixed junit error II",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "c127391fce035fd952ec17a4d96a7ebfe089e014",
+            "message": "attempted to fixed Codacy Error",
+            "insertions": 15,
+            "deletions": 22
+          },
+          {
+            "hash": "3b0a8008076ee99f854a2723ebfa83f83a025f5c",
+            "message": "Fixed checkstyle II",
+            "insertions": 25,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 270,
+        "deletions": 125,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "bfa4d345e0083ae3def6831b78ba7dcb4c24bcf7",
+            "message": "finished UI for displaymod \u0026 check prerequisite and prerequisite tree",
+            "insertions": 194,
+            "deletions": 78
+          },
+          {
+            "hash": "e97d05023f20c0be7a49eac6ab5c12b988c7f7ce",
+            "message": "fixed checkstyle",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "5325be79d88c00c3975c0bdf9cfcef07a8251efe",
+            "message": "fixed checkstyle and codacy error",
+            "insertions": 2,
+            "deletions": 9
+          },
+          {
+            "hash": "5ce56898691ba7130376b1ff3e66877cf90eaade",
+            "message": "Fixed the double issue for module workload",
+            "insertions": 35,
+            "deletions": 31
+          },
+          {
+            "hash": "3729ce75247bc9ad3b0881c3861063de8858d8e9",
+            "message": "upgraded displaymod search",
+            "insertions": 36,
+            "deletions": 2
+          },
+          {
+            "hash": "68ac522b9f4cca9ed4044c95476f4d3ed5982e14",
+            "message": "fixed checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 26,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "dc223530a59477085c3f6748d1f6b43383e78493",
+            "message": "added clisytax to displaymod cmd",
+            "insertions": 43,
+            "deletions": 15
+          },
+          {
+            "hash": "efa838bc10fc08f2d43047a7082aa30a85e76d6b",
+            "message": "updated UG",
+            "insertions": 16,
+            "deletions": 10
+          },
+          {
+            "hash": "08ddf627685b07b92513cc5cfd45ae41c809971c",
+            "message": "spelleing edit",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "0e3570d58a32c767273feaa2ef879139927a2ac3",
+            "message": "made error correction",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 156,
+        "deletions": 82,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "83165744726feb47e9b0a2263cb7aca147a6bb9d",
+            "message": "updated UG",
+            "insertions": 44,
+            "deletions": 17
+          },
+          {
+            "hash": "3b2448f4996b16dd77cda60836443c6103772c9b",
+            "message": "update UG2",
+            "insertions": 33,
+            "deletions": 7
+          },
+          {
+            "hash": "ba7d1ececcc512f63448ffa6a5eb2916c7869384",
+            "message": "updated UG3",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "340db5c81a9eb2c81b766a54b1c9bb06302b7599",
+            "message": "update UG4",
+            "insertions": 17,
+            "deletions": 20
+          },
+          {
+            "hash": "5c939984a2e80ba27fc18765103cd5c4a663f5e3",
+            "message": "ug update IV",
+            "insertions": 15,
+            "deletions": 7
+          },
+          {
+            "hash": "e5562090fc939f9cf22cb451fc5b50e6ebe33883",
+            "message": "updateUG",
+            "insertions": 6,
+            "deletions": 15
+          },
+          {
+            "hash": "7ecd9c7eb36e46e93b48e5a7d0eea39ab9f0f736",
+            "message": "update UG V",
+            "insertions": 15,
+            "deletions": 0
+          },
+          {
+            "hash": "711c573a1966851b4a08826654dfd6eba9ae2253",
+            "message": "update UG VI",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "cad563d070b8443c264ac82e691995604cf568d1",
+            "message": "update UG VII",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "16fd1807fb3ab0a364fa2dc8ac8c24582d3ca2e2",
+            "message": "update UG VIII",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "f4f3497194f15e378754a4c9f77a59e6f7517c26",
+            "message": "update DG I",
+            "insertions": 15,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 23,
+        "deletions": 6,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "06432910329ad106a83bef4d00ad9fb31db83e6a",
+            "message": "fixed bugs I hope",
+            "insertions": 23,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 231,
+        "deletions": 73,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "954c58cdf10d78cd43f89adafd0c986bd5c7865c",
+            "message": "updated DG",
+            "insertions": 79,
+            "deletions": 34
+          },
+          {
+            "hash": "477fba8f628e10265b3608990baf176a641f52b5",
+            "message": "updated DG II",
+            "insertions": 34,
+            "deletions": 13
+          },
+          {
+            "hash": "93c4bd11ac0ba5b7c5e0d640c885d74ac58aadbb",
+            "message": "updated UG III",
+            "insertions": 10,
+            "deletions": 7
+          },
+          {
+            "hash": "41a92a04ace6a666136a473cb206a273e26643c5",
+            "message": "test DG",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "447e61afd5a00cf134b57c33878d35f371e0350d",
+            "message": "updated DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "97aceedc7940ff493c848103d68ac74667a7f56b",
+            "message": "update DG IV",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "940f92e57ef083cd967d494e895bbd41abbbd3b9",
+            "message": "PPP",
+            "insertions": 90,
+            "deletions": 4
+          },
+          {
+            "hash": "219f0ec5d9a86a4d4e50c5d930ec618994c38ac0",
+            "message": "ppp",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "43c7bb6487a7b3aba791c79bbdb9ecbecf3e8263",
+            "message": "fixed errors",
+            "insertions": 6,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 790,
+        "deletions": 56,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "bfbcc87b2e6f971fed15dec3ea8b49f2fb758a0f",
+            "message": "added 2 test",
+            "insertions": 93,
+            "deletions": 20
+          },
+          {
+            "hash": "66228f7c3cc0e4cdd7f8740f0563ffd203e34aa2",
+            "message": "added some test",
+            "insertions": 121,
+            "deletions": 2
+          },
+          {
+            "hash": "b270ca2137e8c3b7d72bd22f45f2f4cce12e704b",
+            "message": " added additional test",
+            "insertions": 59,
+            "deletions": 0
+          },
+          {
+            "hash": "19225bc3c0c014be00f0bbece71dd9d2d73d13d0",
+            "message": "updated some test",
+            "insertions": 211,
+            "deletions": 1
+          },
+          {
+            "hash": "5e5e7578c52be8652e25c3c413399803b18c7adf",
+            "message": "edited error in test case",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b8a1e23e13c67537ff236ad57ef3ee56298779a3",
+            "message": "added test case for codecontainskeywordpredicate",
+            "insertions": 94,
+            "deletions": 13
+          },
+          {
+            "hash": "7c528dc87430681d146d6784a0210df8d08c56e1",
+            "message": "Pushing test cases to the limit",
+            "insertions": 101,
+            "deletions": 0
+          },
+          {
+            "hash": "171739104ea595b466395d26ae32b4d9e88c54ad",
+            "message": "edited some errors",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "ddf5394560e6777bc1e48747820a7e19a994d106",
+            "message": "parserTest",
+            "insertions": 51,
+            "deletions": 0
+          },
+          {
+            "hash": "9248a703958828bf1eb10c7e4435552dc3c5acf1",
+            "message": "changed checkstyle",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "0b1509e7dd4fb389eafc9ee38182dcd411bf58bc",
+            "message": "fixed checkstyle",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "b87ffd576e0c33d4f90786149af75889c7b207c2",
+            "message": "added more test to parser",
+            "insertions": 41,
+            "deletions": 1
+          },
+          {
+            "hash": "c058d77ebf3f1a320fc1fdced053cc0de3172601",
+            "message": "added more cases for test",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      }
+    ],
+    "crumpledpaper": [
+      {
+        "insertions": 105,
+        "deletions": 122,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "5c92f5feddfdb38e14d1e8b0c7592f3670e460a6",
+            "message": "updated Contact Us",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8b13d9bb82600071f45a41ee63c338dd058c4759",
+            "message": "Updated Developer Guide",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9b18f7b95370762784432aec564ba9a31e15ca54",
+            "message": "updated user guide",
+            "insertions": 100,
+            "deletions": 117
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "7c08c4db5c64c535717921a2a77f9c0705803dc1",
+            "message": "updated user guide",
+            "insertions": 53,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 137,
+        "deletions": 19,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "0acdeb93cbb19f61a7c981e491fd76abf3ae6a69",
+            "message": "updated user stories and use cases in developer guide",
+            "insertions": 133,
+            "deletions": 15
+          },
+          {
+            "hash": "12fa20dde949a8d815853755df55470688f7bbfa",
+            "message": "changed config for coveralls and travis in readme.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e49b3e9ff7a081826b99ab25152ad1790b7667ba",
+            "message": "updated config for appveyor and codacy in readme.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 54,
+        "deletions": 1,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "b353ad0b4a3271c98fd77051db789f283676b1b8",
+            "message": "added SetCourseCommand parser, temporary added a method \"getCourseByName\" in Course to make it work",
+            "insertions": 53,
+            "deletions": 0
+          },
+          {
+            "hash": "a808664df9a37baf3b74943e3cf7c42cd989cf28",
+            "message": "Version 1.1",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 337,
+        "deletions": 118,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "1cf525164b4a942ebacfc3bff642a2316ac5e5b4",
+            "message": "changed add command to only allow modules in ModuleInfoList",
+            "insertions": 9,
+            "deletions": 4
+          },
+          {
+            "hash": "7e2ffdb3cf5ff61afbc86fee00765793ec946717",
+            "message": "add command now checks prerequisites",
+            "insertions": 19,
+            "deletions": 9
+          },
+          {
+            "hash": "3c8ef249dacbaf230e4b7eaf9dc9af0b946d80ba",
+            "message": "delete command now only allows deletion if module is not a prerequisite for other modules",
+            "insertions": 43,
+            "deletions": 1
+          },
+          {
+            "hash": "f8cd412f17913a4360ade42c4b019a59c1647ed3",
+            "message": "edit command can only change module code if prerequisites are satisfied",
+            "insertions": 18,
+            "deletions": 16
+          },
+          {
+            "hash": "5850147405b0e80d38588d5be5e3adec55bf909f",
+            "message": "fixed edit to allow user to edit a prerequisite to another prerequisite that still satisfies all checks",
+            "insertions": 60,
+            "deletions": 2
+          },
+          {
+            "hash": "9cdbd4fac180a8597f2ad3e9225add46ddee6060",
+            "message": "merged changes",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "8bb1ff8a779dc659c83fca6d939290c2a11cdf20",
+            "message": "checkstyle",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "0de0255c8184f7d4fba9cf8fb9eac9a409adfce0",
+            "message": "JUnit Tests",
+            "insertions": 134,
+            "deletions": 22
+          },
+          {
+            "hash": "7922f9ec6c8f8821ec7324f812f9d7b5b3cdd2de",
+            "message": "JUnit Tests",
+            "insertions": 32,
+            "deletions": 47
+          },
+          {
+            "hash": "b8ec4d407cfb6fc2bccb982f251ff240d71d0b27",
+            "message": "JUnit Tests",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9d5c265caeb9fe3ffbd6d348bca26b1e6b9f4031",
+            "message": "checkstyle",
+            "insertions": 8,
+            "deletions": 9
+          }
+        ]
+      }
+    ],
+    "monikernemo": [
+      {
+        "insertions": 3,
+        "deletions": 285,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "7e54b4906078e86e84bdb58df87a03c95a74498b",
+            "message": "Made changes to build.gradle and developer guide",
+            "insertions": 3,
+            "deletions": 285
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-22",
+        "commitResults": [
+          {
+            "hash": "61d29bf1cb0a4672c9bf12a8b1cf355ddc4dfd04",
+            "message": "Updated BrowserPanel.java in accordance to : https://github.com/nus-cs2103-AY1819S2/forum/issues/22",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 171,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": [
+          {
+            "hash": "720fca6205ee3796a84af2e75ff75fe59eb461dc",
+            "message": "Added some files to update module class. Will complete remain tests and classes later",
+            "insertions": 171,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 698,
+        "deletions": 15,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "80b36981a2b4ebc52c93472be01f160db131ffc1",
+            "message": "wrote new classes for modules and corresponding tests for modules",
+            "insertions": 698,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 372,
+        "deletions": 193,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "a2c514ad6de92c93c8e7e3aafc239b79646a9b52",
+            "message": "Updated tests and added Module - classes",
+            "insertions": 141,
+            "deletions": 36
+          },
+          {
+            "hash": "315519aa89e004521d70780d6366c87bd24d51e1",
+            "message": "Updated code to comply to checkstyle",
+            "insertions": 197,
+            "deletions": 155
+          },
+          {
+            "hash": "04892f345ba3004922333bd71f995ab910e944a9",
+            "message": "Updated Module to comply to CheckStyleMain",
+            "insertions": 34,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 134,
+        "deletions": 35,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "39503016a539f58327070cfefa8343018480bcf2",
+            "message": "Added Grades and Semester Enumeration classes",
+            "insertions": 94,
+            "deletions": 0
+          },
+          {
+            "hash": "368937944d5e1efe68270acb1bad64936ed8616e",
+            "message": "Edited formatting to conform to checkstyle",
+            "insertions": 40,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 430,
+        "deletions": 244,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "1e558d5c6625f1c0e1e75814d7f18daf9c495d76",
+            "message": "Fixed formatting to conform to CheckStyleMain and CheckStyleTest",
+            "insertions": 409,
+            "deletions": 222
+          },
+          {
+            "hash": "94753651a87ba9cb2539cb19b38a09cadc37819c",
+            "message": "Fixed all non-gui and non-storage tests",
+            "insertions": 20,
+            "deletions": 21
+          },
+          {
+            "hash": "059f513e845d500b7638b832517ada9a9b643e67",
+            "message": "Fixed minor bug for paserutil",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 628,
+        "deletions": 129,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "f17b4fb784a9912192a53dc922e1f490a4df2854",
+            "message": "Edited some test storage and fixed some existing bugs",
+            "insertions": 59,
+            "deletions": 42
+          },
+          {
+            "hash": "ec53bafcc0670c08aa360e6555d4f15d59d956d1",
+            "message": "Fixed fields for labels in PersonListCard.fxml files Fixed some bugs in GUI tests",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "f334b7ecff3a5936bf6af33c3a2e051fd3dfa111",
+            "message": "Reformatted to conform to checkstylemain, checkstyletest",
+            "insertions": 30,
+            "deletions": 4
+          },
+          {
+            "hash": "0bc766bb9881f6947fe86994efe7a6282bf9683f",
+            "message": "Created and modified Course Requirement Class",
+            "insertions": 155,
+            "deletions": 39
+          },
+          {
+            "hash": "1d58c616d8f9f03f9f762e0b4b74e8abfc464f2d",
+            "message": "Updated Course-related classes",
+            "insertions": 99,
+            "deletions": 5
+          },
+          {
+            "hash": "7dcc189a927674a21299b8b43ceddbbdba7fc6d4",
+            "message": "Included some tests classes for attribute classes of CourseRequirement and Course",
+            "insertions": 258,
+            "deletions": 19
+          },
+          {
+            "hash": "53d4f3b1a38a30fcfedf37a1056c95c13e81f8f2",
+            "message": "Added some notes for Builder classes",
+            "insertions": 11,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 164,
+        "deletions": 11,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "f9423204b019df929e2d606718fc11c68d199baf",
+            "message": "Edited formating for courserequirementbuilder, course builder classes",
+            "insertions": 156,
+            "deletions": 11
+          },
+          {
+            "hash": "c042629aeea385665a3b6ad2882c6095ec6b29b8",
+            "message": "Added storage components for Course Requirements; to be completed",
+            "insertions": 8,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 57,
+        "deletions": 1,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "71c626ef4e54044b3061494715530b1e6aa34c0c",
+            "message": "written course requirement class",
+            "insertions": 57,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 883,
+        "deletions": 108,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "25511b12079b175580e4281656ae1ef57bbfaf54",
+            "message": "Merge Anand\u0027s work",
+            "insertions": 687,
+            "deletions": 43
+          },
+          {
+            "hash": "0fb47ca3007dc21645571d82a7a7852b7d7baeea",
+            "message": "Added new Parser for Course Requirement, Course",
+            "insertions": 196,
+            "deletions": 65
+          }
+        ]
+      },
+      {
+        "insertions": 96,
+        "deletions": 747,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "9877baa0e96538b275f139228ee34275d1a726b5",
+            "message": "Deleted some Course Req classes Redesigned CourseRequirement class as interfaces instead",
+            "insertions": 96,
+            "deletions": 747
+          }
+        ]
+      },
+      {
+        "insertions": 96,
+        "deletions": 59,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "fc08ffe5376ceef8382ad06863047b7ab9fd22cf",
+            "message": "made changes to Course Requirements",
+            "insertions": 96,
+            "deletions": 59
+          }
+        ]
+      },
+      {
+        "insertions": 154,
+        "deletions": 61,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "11d8ee0b5523f2eac17ca3bbcf3c38f0438b1cc7",
+            "message": "made constructors more defensive added some test cases for contains all, contains at least and coourse requirement",
+            "insertions": 152,
+            "deletions": 59
+          },
+          {
+            "hash": "9619389220a2d31766daae13ad206e033ca43365",
+            "message": "Fixed some check style errors",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 128,
+        "deletions": 23,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "1275a9dc3609ef18ba95c952b653392c412db40c",
+            "message": "Created Json for adadpted Course and Course Requirement classes",
+            "insertions": 81,
+            "deletions": 0
+          },
+          {
+            "hash": "8acb4cd7cfc96b4ced5e64b56228ff04cdbc66b7",
+            "message": "updated Developer guide for Course/CourseRequirement section",
+            "insertions": 44,
+            "deletions": 4
+          },
+          {
+            "hash": "464ab605f64a6f85aa586a6ad364e0835a82113c",
+            "message": "made small changes to Set command",
+            "insertions": 3,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 56,
+        "deletions": 30,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "e64ddfaec129c431c41111606b59834d13eb2ccf",
+            "message": "updated Course, Course Requirement classes",
+            "insertions": 56,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 260,
+        "deletions": 249,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "fff7101f32121ab0e7694bd1a6e49f5000e09ef8",
+            "message": "some changes to CourseRequirement classes",
+            "insertions": 1,
+            "deletions": 29
+          },
+          {
+            "hash": "54e4a24fcf42cec0f492a66c70c13434c7dc9ad1",
+            "message": "Redesigned CourseRequirement class into interface; two classes that implements CourseRequirement are now CompletedAll, CompletedAtLeast",
+            "insertions": 259,
+            "deletions": 220
+          }
+        ]
+      },
+      {
+        "insertions": 243,
+        "deletions": 100,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "39f7fcc8c33ed33a80d19c9ca8244f769c1e4a65",
+            "message": "made structural changes to CourseRequirement implementation again Applied Composite design pattern to CompositeRequirement",
+            "insertions": 243,
+            "deletions": 100
+          }
+        ]
+      },
+      {
+        "insertions": 395,
+        "deletions": 8,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "d0f6be40d5949dad7a0ebfbbad0bd3a1a2d78a2c",
+            "message": "Added storage components for CourseRequirement classes",
+            "insertions": 394,
+            "deletions": 7
+          },
+          {
+            "hash": "f20a21248b9de4726590faa699e0a2fd6cf21d15",
+            "message": "Fixed check style errors",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1907,
+        "deletions": 1942,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "191f11d2fa988c63d06618988576d4c098553a79",
+            "message": "Made changes to Person class into ModuleTaken class. Changed attribute of name to ModuleInfoCode and also made some changes to some tests.",
+            "insertions": 1904,
+            "deletions": 1936
+          },
+          {
+            "hash": "3b7f504841750a9e76fbfc68b0bb0d67e7dc49e9",
+            "message": "Conform to check style errors",
+            "insertions": 3,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 738,
+        "deletions": 1768,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "60d53c310f9550372261c07c29bff471e491ec39",
+            "message": "Deleted Module Files and tests. Renamed more variables that previously contained addressbook/addressbook related to gradtrak related",
+            "insertions": 738,
+            "deletions": 1768
+          }
+        ]
+      },
+      {
+        "insertions": 784,
+        "deletions": 394,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "27e949c0d585d7b5256c7df65c60e7ecfa10e86f",
+            "message": "Expanded on storage component of the seedu.address.storage.coursestorage package Added new class, CourseList Added SampleCourses and CourseRequirements",
+            "insertions": 784,
+            "deletions": 394
+          }
+        ]
+      },
+      {
+        "insertions": 888,
+        "deletions": 132,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "d8f6d35dae404d771d67d59cb956e0e634abae29",
+            "message": "Branched to create JSON files",
+            "insertions": 584,
+            "deletions": 49
+          },
+          {
+            "hash": "f28e46c3683bdedc3829f0080665247239201dc7",
+            "message": "added commands, displayReq, to check whether courserequirement satisfied",
+            "insertions": 304,
+            "deletions": 83
+          }
+        ]
+      },
+      {
+        "insertions": 2721,
+        "deletions": 718,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "d3ebcc0d7bc4723209f890bb4ecb53f9d61e91d9",
+            "message": "added test cases for SetCourse",
+            "insertions": 539,
+            "deletions": 134
+          },
+          {
+            "hash": "ed7ad18d94ad01278b34e6dbd6d641d2c559f3ff",
+            "message": "Conform to check style errors",
+            "insertions": 33,
+            "deletions": 11
+          },
+          {
+            "hash": "03c209aba99897269449622cffb9d03f7e045669",
+            "message": "Merge branch \u0027JSONCourses\u0027 of https://github.com/monikernemo/main into monikernemo-JSONCourses",
+            "insertions": 2148,
+            "deletions": 572
+          },
+          {
+            "hash": "f1c9207584c82d01d03b1ca844d7dd1e90e5bcf3",
+            "message": "Json Check style error",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 724,
+        "deletions": 72,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "7a22d7d39db46427d432a0534871b99a44945b3d",
+            "message": "Added UserInfo class along with relevant UserInfo storage classes",
+            "insertions": 416,
+            "deletions": 54
+          },
+          {
+            "hash": "45afe746b6ef89761eaf04ae4e830afbd8690c05",
+            "message": "included a default userinfo json",
+            "insertions": 154,
+            "deletions": 0
+          },
+          {
+            "hash": "7ed2d8394eb4c296c23c5171d10c0ebf03a77542",
+            "message": "Modified logic to store UserInfoStorage if there are any modfiications to UserInfoStorage. Added listener classes to UserInfo class.",
+            "insertions": 154,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 560,
+        "deletions": 252,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "4d1d440e8dd2b4afba3d59e4ed5295d181d6005f",
+            "message": "some changes to CompopsiteReq class",
+            "insertions": 144,
+            "deletions": 91
+          },
+          {
+            "hash": "fdf78fc94bdbbec568f2de8af8cfcc342d3c99c9",
+            "message": "Added GUI components for DisplayReq Command Modified Displayreq command",
+            "insertions": 415,
+            "deletions": 160
+          },
+          {
+            "hash": "9a747152151c64a0254e3ff8c0a1c464d7966d4c",
+            "message": "added new line for userinfo.json to fix",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1265,
+        "deletions": 388,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "a6cd3d80d4e184457f57df49b43374b84721bad9",
+            "message": "Made additional changes so that changes to ModulesTaken will reflect in the GUI",
+            "insertions": 298,
+            "deletions": 165
+          },
+          {
+            "hash": "bb9138ba90df5f2fd2157746d1094b027ca6f784",
+            "message": "added progress bar and progress indicator. Will add modules that can be taken to complete the requirement",
+            "insertions": 19,
+            "deletions": 4
+          },
+          {
+            "hash": "b2a5f0e7a6f399d3fa748177df1095a6d877b480",
+            "message": "Fixed some compilation errors",
+            "insertions": 2,
+            "deletions": 9
+          },
+          {
+            "hash": "ec4dff775dc3ca2bc284bf504aa2ce56eb3b56ba",
+            "message": "Updated developer guide",
+            "insertions": 39,
+            "deletions": 36
+          },
+          {
+            "hash": "b82d42f35ba043f82f53f9fe9ddf2ad90af9cb1a",
+            "message": "Fixed Checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "a73075ae484feacb8ffea1fc0dc55f0e12a1f2c3",
+            "message": "Refined some of the Sample Courses Corrected some of the Requirement classes",
+            "insertions": 522,
+            "deletions": 74
+          },
+          {
+            "hash": "8dbde7e9034d1219f698f3a4181f6612d47a48c4",
+            "message": "wrote some more tests for Course, Course Requirement classes",
+            "insertions": 226,
+            "deletions": 16
+          },
+          {
+            "hash": "114caacc5c68973f8363ef86a62ecc123ba21332",
+            "message": "added more test to increase our ever plummeting coverage added PPP for myself, updated UG for the following sections: Introduction Installation (new section) Quick Guide (replaced Quick Start) Displayreq command Study Command",
+            "insertions": 159,
+            "deletions": 83
+          }
+        ]
+      },
+      {
+        "insertions": 622,
+        "deletions": 668,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "c04b4c007549f3ab95c895ea31b94463311eaea3",
+            "message": "Updated UGDG, updated some diagrams, updated PPP Fixed some errors in courses.json changed some files, refactored some codes",
+            "insertions": 75,
+            "deletions": 30
+          },
+          {
+            "hash": "7b9b7edd4fe4cf0ff702ae31f9647b555ec7f4df",
+            "message": "somemore local changes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ec5529b64abcb631577b15676820e3a2be0c60ba",
+            "message": "no message",
+            "insertions": 35,
+            "deletions": 23
+          },
+          {
+            "hash": "03d74beb6f10a027894d41b8dd7b9a2cfa17e8d9",
+            "message": "some more changes to documentation",
+            "insertions": 33,
+            "deletions": 20
+          },
+          {
+            "hash": "51faca447817331ceaf801e17dfc32fb2a7bc048",
+            "message": "Commiting some unfinished changes",
+            "insertions": 477,
+            "deletions": 593
+          }
+        ]
+      },
+      {
+        "insertions": 596,
+        "deletions": 662,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "03a5ef6e560c648f0293f07e94b7969789693bfe",
+            "message": "fixed some bugs for course requirements",
+            "insertions": 378,
+            "deletions": 440
+          },
+          {
+            "hash": "a6ced27c5a4162ba9163b7739a701bc14f3f193a",
+            "message": "Modified some tests, fixed some bugs in course requriement class",
+            "insertions": 164,
+            "deletions": 218
+          },
+          {
+            "hash": "f6a30242e2bde0fc0ae95d7ff71e9626f7be50ad",
+            "message": "Some structural changes to PrimitiveRequirement and Condition class. Now condition stores a Pattern, pattern, and an int, minToSatisfy (signifiying the minimum number of unique modules must match the pattern in order to satisfy the condition). Removed conditionName attribute from Condition class. PrimitiveRequirement stores a list of Conditions.",
+            "insertions": 54,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 666,
+        "deletions": 76,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "e34bd896a7f08c2aacb308e37b5116a1c77621e0",
+            "message": "Updated JsonUtil - added readJsonFileFromInputStream method Creates Json object from an string that contains the path of the file to be read as an input stream Updated ModuleInfo related storage and Course related storage components to accomodate reading from input stream",
+            "insertions": 665,
+            "deletions": 75
+          },
+          {
+            "hash": "9d0fd1185c7cf5def74a1e51544dee44bca30d4b",
+            "message": "added new line at EOF of course.json",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 120,
+        "deletions": 14,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "520122df4d3a12d9632c6f674abc5faeec93cd57",
+            "message": "some changes to code list",
+            "insertions": 120,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 59,
+        "deletions": 51,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "f998ffe5d71d5c2be27f2e2297fbb7392eed9af2",
+            "message": "Updated Developer\u0027s Guide",
+            "insertions": 59,
+            "deletions": 51
+          }
+        ]
+      },
+      {
+        "insertions": 48,
+        "deletions": 22,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "05fad439b23a3861227ee5e5199c76627dd28ee8",
+            "message": "Updates to DG",
+            "insertions": 48,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 69,
+        "deletions": 44,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "3c3573ea5554bae8b2aee3c18ba844f97772e807",
+            "message": "changes to DG",
+            "insertions": 24,
+            "deletions": 13
+          },
+          {
+            "hash": "6db7e362396501a75102a1b48234e87a1f8282bf",
+            "message": "Update DG",
+            "insertions": 13,
+            "deletions": 8
+          },
+          {
+            "hash": "6c7f1caf83439883d31d188a3a15e50b458de6b4",
+            "message": "updated UG",
+            "insertions": 32,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 1013,
+        "deletions": 519,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "737828f6cfdfd615d5391ed55fa26a9da303296a",
+            "message": "Increased test coverage for Course package Renamed variable and classes for some of the UI classes Updated UGDG",
+            "insertions": 1009,
+            "deletions": 515
+          },
+          {
+            "hash": "4f1c998fdcef58eabce80269f132ad31bd4509ea",
+            "message": "Fixed some test errors",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "3cf16a92ca1434cc21e03b3b96d0735c46c25324",
+            "message": "fixed checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1201,
+        "deletions": 434,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "082c4626b50df58dbafb7bcde831afa18d9b2171",
+            "message": "changes to UGDG",
+            "insertions": 14,
+            "deletions": 291
+          },
+          {
+            "hash": "74a5f78eb5fe8ec34cf85deef7881d550ff024c9",
+            "message": "Updated UG, DG, PPP. Updated readme to reflect changes to the app more accurately Fixed allignment of some error messages.",
+            "insertions": 122,
+            "deletions": 83
+          },
+          {
+            "hash": "48956a8840d3aeb9687ffa78764d91230d6e6497",
+            "message": "added new tests for coursestorage packages",
+            "insertions": 1065,
+            "deletions": 60
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 6,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "be0945062a90396633e58e2efd7754ef2f93fb24",
+            "message": "add new line at EOF for DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "55268db8510c11f2b829df56fa3fcf453398c5c1",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "2df46bc0c6659cdd1004bb7d60faffe23d3389e4",
+            "message": "renamed annotated-UI.PNG to annotated-ui.png",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "alexchong711": [
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-23",
+        "commitResults": [
+          {
+            "hash": "64dd5ea821fcb0df910d3af9c587673148dffe08",
+            "message": "fixed typo",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 104,
+        "deletions": 105,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "6b5e8500f7a5ffb0a3d1369b03c156f911847eee",
+            "message": "rename the Grades.java enum to Grade.java renamed the grade variable names",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "897ff4df3b1e34a6e4d34e9b6e682e9876f7aba6",
+            "message": "shifted Grade and Semester modified person attributes to become module attributes",
+            "insertions": 23,
+            "deletions": 24
+          },
+          {
+            "hash": "ddc0df3889d9718b19d0dc73b8ef04c5fd8d41c1",
+            "message": "renamed the method names for person",
+            "insertions": 62,
+            "deletions": 62
+          }
+        ]
+      },
+      {
+        "insertions": 1283,
+        "deletions": 1088,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "464692c2ada9b7e79899e5ad91d21e27707f17e0",
+            "message": "changed the email attribute of persons into the expectedmingrade of the module",
+            "insertions": 334,
+            "deletions": 364
+          },
+          {
+            "hash": "963fac1ade7e79e8af58c60768aba4e757a8475c",
+            "message": "fixed GUI expectedmingrade",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "ba84ab761a3f524f6f69dd0b5abebe20df78072a",
+            "message": "Revert \"fixed GUI expectedmingrade\"",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "535a0cd896cc9a3890abe0b156e4e65a73b29ce2",
+            "message": "deleted unneeded constructor in Grade",
+            "insertions": 0,
+            "deletions": 8
+          },
+          {
+            "hash": "df8e9e9d4d142082188047b351863ad0f75b3ddc",
+            "message": "fixed GUI expectedMinGrade",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "f0bcb6db7fe14d11662e5d99fc86a592fbd13c3a",
+            "message": "removed print statement",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "1d82c3c3b1e2a6acdde6bc794ad18312febc426e",
+            "message": "changed phone to semester",
+            "insertions": 584,
+            "deletions": 565
+          },
+          {
+            "hash": "9df118427a69d5a148757cdd37bafaa4476fde07",
+            "message": "undid test removals",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "78d8e0faed86775a3ec4361b22807a863322a198",
+            "message": "modified default help commands",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "06964230ba7919f1ff4b8510c7842a6d95d7f9bf",
+            "message": "ModelManager partially morphed into the UserPlan class placeholder classes and setCourse command are added that don\u0027t work yet",
+            "insertions": 222,
+            "deletions": 4
+          },
+          {
+            "hash": "84af2fbb0ba3c00c05332a68e66181315bd76ada",
+            "message": "Fixed some tests",
+            "insertions": 70,
+            "deletions": 73
+          },
+          {
+            "hash": "970aabfd73c762a4eb5d2dcf8fea58369e41dfe7",
+            "message": "updated userguide",
+            "insertions": 44,
+            "deletions": 41
+          }
+        ]
+      },
+      {
+        "insertions": 171,
+        "deletions": 2,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "8c0a8b2c74ac5e20135ce0111b0163be17b0cf5e",
+            "message": "Revert \"Before changing grade and workload\"",
+            "insertions": 171,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 428,
+        "deletions": 127,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "fcbaa07abf0072a7db93ad3e193c62e01f51ae5b",
+            "message": "Fixed the grade bug. now grades with _PLUS and _MINUS works. added workload and grade. tests are working",
+            "insertions": 428,
+            "deletions": 127
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 20,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "2a766f12de5c7051c400c99150f47c2a5f335a7f",
+            "message": "modified some tests for code quality changed GradeRange attributes to final",
+            "insertions": 8,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 412,
+        "deletions": 293,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "55098142cd11b5a8576019af7a0e566d72156e5a",
+            "message": "edit command can edit lecture hours with lec/",
+            "insertions": 264,
+            "deletions": 111
+          },
+          {
+            "hash": "1c1b97b957c5fe6b19e2a5755841a145be264bc5",
+            "message": "edit command can edit lecture hours with lec/ fixed some variable names with refactors",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "b1e37c1f077a34ff3f1b923ab5acd178d5707ae3",
+            "message": "changed variable name with Workload to WORKLOAD",
+            "insertions": 57,
+            "deletions": 57
+          },
+          {
+            "hash": "13e9aa8acbba2bf7a4905c32375f941b92a66781",
+            "message": "workload test quality modifications",
+            "insertions": 6,
+            "deletions": 18
+          },
+          {
+            "hash": "12ec95e942028b40bde1cf79e7d99ab624b543f9",
+            "message": "changed back WORKLOAD TO Workload",
+            "insertions": 54,
+            "deletions": 54
+          },
+          {
+            "hash": "017c88c02a16b5391a6172f369b70da149f7a629",
+            "message": "add command only needs name and semester to work. other attributes are optional. tests are adjusted",
+            "insertions": 30,
+            "deletions": 48
+          }
+        ]
+      },
+      {
+        "insertions": 194,
+        "deletions": 138,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "2973baf5fb95369296d3ea94dab140ec796e157a",
+            "message": "add command only needs name and semester to work. other attributes are optional. tests are adjusted",
+            "insertions": 50,
+            "deletions": 26
+          },
+          {
+            "hash": "b993f3d6bb9cb3e9a57837fe78fa0dc342673cf0",
+            "message": "user guide changes",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "1c3a3d951f63aacbaff487314e2b4405a01ab3c9",
+            "message": "reordered and updated user guide",
+            "insertions": 137,
+            "deletions": 107
+          },
+          {
+            "hash": "f039c1a3864348d5aa15181ff08656bcb4e27ce6",
+            "message": "updated user guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1d6e61c140fecd9776f3517a87c4ddd2c5521d40",
+            "message": "updated user guide",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "bce68129015f9e5e895c1cf4f0cdddc633ee61e4",
+            "message": "updated user guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1083,
+        "deletions": 221,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "f8d3330a8f9480e34714fe14129a89eb7970c0b7",
+            "message": "Semlimit and currentSem classes added",
+            "insertions": 1083,
+            "deletions": 81
+          },
+          {
+            "hash": "a6c4981a326e15f59acb559c986dcdc2930f1fa6",
+            "message": "merged changes for renaming addressbook",
+            "insertions": 0,
+            "deletions": 14
+          },
+          {
+            "hash": "6c18d202d7bbceb1c20cf85e9596f4614ceb15e7",
+            "message": "removed jsonadaptedlimit",
+            "insertions": 0,
+            "deletions": 126
+          }
+        ]
+      },
+      {
+        "insertions": 1134,
+        "deletions": 83,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "3eb279a99d08498afa0fb144c62370b3e9eca43b",
+            "message": "Semester limits editable",
+            "insertions": 1069,
+            "deletions": 80
+          },
+          {
+            "hash": "dd34a9eac9208b47bdb3172ffc57818cff0aa8f6",
+            "message": "checklimit partially written",
+            "insertions": 65,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 749,
+        "deletions": 215,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "fad2bf6471578fb36fadf222991830e52723e617",
+            "message": "checklimit partially written",
+            "insertions": 278,
+            "deletions": 75
+          },
+          {
+            "hash": "da64f44ae368507b829eea1fd35b0fb0445aada6",
+            "message": "cklimit implemented. prints results to console",
+            "insertions": 467,
+            "deletions": 54
+          },
+          {
+            "hash": "5699f43b2c92d2ecf63106634ae1fdbeffc898c6",
+            "message": "removed unneeded jsonadaptedsemlimit",
+            "insertions": 4,
+            "deletions": 86
+          }
+        ]
+      },
+      {
+        "insertions": 128,
+        "deletions": 54,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "edb2b080c97dab46537886f617795a42ef0cb658",
+            "message": "cursem implemented. changed semester index to zero based",
+            "insertions": 87,
+            "deletions": 41
+          },
+          {
+            "hash": "9894fcd897e9a049508c67b1753398a53ccb8348",
+            "message": "tests for GRAD counted as valid and invalid semester",
+            "insertions": 30,
+            "deletions": 9
+          },
+          {
+            "hash": "546fecdfb6e077ed78e83a0eb239a940fdda2ecd",
+            "message": "tests for GRAD counted as valid and invalid semester",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ad456cc451c6d0d7a278f757be2d5203707d6ea3",
+            "message": "updated developer guide",
+            "insertions": 10,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 195,
+        "deletions": 1434,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "d38aa5e00810b1fa8b400df5bf30661d829c764b",
+            "message": "updated docs/DeveloperGuide.adoc",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "1f8bfa9966eb16c76880705f16ba7bf6a875a1f7",
+            "message": "cklimit results printable to browser panel",
+            "insertions": 172,
+            "deletions": 1430
+          },
+          {
+            "hash": "f3c38eeb9cfc66aa71c6aab84df21fd984193a81",
+            "message": "default workload populating",
+            "insertions": 12,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 124,
+        "deletions": 36,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "0b32645c440e584d1d63a66feb4d7ea7b01b0e25",
+            "message": "fixed default data for jar file",
+            "insertions": 42,
+            "deletions": 0
+          },
+          {
+            "hash": "1aa988d22817d2bfb471bd23cb4f2e0bffdc0517",
+            "message": "fixed error messages for set limit command",
+            "insertions": 26,
+            "deletions": 12
+          },
+          {
+            "hash": "37eeb1b20c85cf560fd7b39a55780500dfac34a5",
+            "message": "some javadocs and clisyntax changes",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "bba02df77b2b0d3ed23827ba18138479cb11ee50",
+            "message": "fix cklimit to get a full filtered list",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "38b41b88f44da071765870e1d34b951d4b8c6b7b",
+            "message": "fixed clear command clearing the sem limits",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "3f715cbc21506079e72746fbc5355f3906fc4d19",
+            "message": "added validation for grades on add and edit. fixed limit check",
+            "insertions": 37,
+            "deletions": 17
+          },
+          {
+            "hash": "65cadf7af6c1eb2899a0cfe503ba029033deeece",
+            "message": "fixed adding default sem limits",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "cad1398296b1a7565649429ba21a5788a50a9e2a",
+            "message": "fixed cklimit gui panel and help for cursem",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 134,
+        "deletions": 71,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "b5eb020b510c50d841c23d302f0ed9e7876decad",
+            "message": "fixed adding too many semesters on jar startup",
+            "insertions": 15,
+            "deletions": 36
+          },
+          {
+            "hash": "3136077d2a5b928c7ce10b216808f6840c2cad81",
+            "message": "workload and MCs populated from moduleinfo on add/edit",
+            "insertions": 103,
+            "deletions": 25
+          },
+          {
+            "hash": "ffffafa12b9df044445e47e305332298e4d5fec2",
+            "message": "removed empty if blocks",
+            "insertions": 12,
+            "deletions": 8
+          },
+          {
+            "hash": "8c73322e86c68e0c3bef3e2191293ff354f5f724",
+            "message": "refactored the boolean in grades to make it clearer",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 32,
+        "deletions": 14,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "1bf72029487b4803a6807a689ced202a29440d53",
+            "message": "fixed limit checker indexes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "03afcb42dcbc9555569e605a4b05f1f9847cc26f",
+            "message": "javadocs and clearing wordings",
+            "insertions": 30,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 1064,
+        "deletions": 197,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "f9971ad3bb68bf6dfa5cf1d300e60dc7f0a357ff",
+            "message": "setlimitcommandparser tests",
+            "insertions": 636,
+            "deletions": 159
+          },
+          {
+            "hash": "044fa9897fea92a0928debeb0227e51539609911",
+            "message": "fixed sem limit command parser test",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "bdcd640e02ceda72f7a1fd300fdc2cbbea521ed6",
+            "message": "checkstyle fixes",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "e975e76ff453e0977da9104985de1b0dd272721a",
+            "message": "SetSemLimitCommandTest",
+            "insertions": 417,
+            "deletions": 32
+          }
+        ]
+      },
+      {
+        "insertions": 842,
+        "deletions": 878,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "7930c60047fcad7fd10012f18fdf63da2b52d766",
+            "message": "Refactored SemLimit to SemesterLimit added image for developer guide",
+            "insertions": 361,
+            "deletions": 579
+          },
+          {
+            "hash": "0d0d0e3942c401efa42c7d033e9e280ba0e0eb55",
+            "message": "Refactored SemLimit to SemesterLimit added image for developer guide",
+            "insertions": 60,
+            "deletions": 30
+          },
+          {
+            "hash": "a3e1c52d7fefd872acb3c408d205e873e5f500c4",
+            "message": "fixed import order. renamed SemLimit to SemesterLimit",
+            "insertions": 62,
+            "deletions": 63
+          },
+          {
+            "hash": "32b04c24b688872234d7974edd7362ea14474c95",
+            "message": "fixed line too long",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "1a90ab4dbe75378556ef7dccd538904f5353f500",
+            "message": "renamed SemLimit to SemesterLimit updated UG and DG",
+            "insertions": 180,
+            "deletions": 25
+          },
+          {
+            "hash": "6fbfb58295a095563e7fcad7bf33760c9cfba227",
+            "message": "fixed long line",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "5ccf8e9f54a1de42bed608caf612ff500eb35b8c",
+            "message": "updated UGDG",
+            "insertions": 65,
+            "deletions": 140
+          },
+          {
+            "hash": "a96d2fbeba93f18c6d99510001b6725909fabd8b",
+            "message": "fixed default modules",
+            "insertions": 75,
+            "deletions": 25
+          },
+          {
+            "hash": "52cbc3908d165b9e4c74ec905ccd3e6ae9a5bc7a",
+            "message": "fixed default modules",
+            "insertions": 14,
+            "deletions": 6
+          },
+          {
+            "hash": "8dc3763d4050f07c1a5ef9d17c2e7eb112d13b9e",
+            "message": "fixed limitchecker printing and editcommand grades finalizing edited UG with new images",
+            "insertions": 17,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 554,
+        "deletions": 132,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "c277a254397606cae006c66dae6ab8fdd292a41b",
+            "message": "userguide changes",
+            "insertions": 82,
+            "deletions": 40
+          },
+          {
+            "hash": "f7e58f7327f1ba746e13a79ff2a769719c5596f1",
+            "message": "UG,DG,PPP changes",
+            "insertions": 60,
+            "deletions": 10
+          },
+          {
+            "hash": "6c54e09e179c8b0ad0ddd151fccda4b021c72e18",
+            "message": "added LimitCheckerTest. updated PPP",
+            "insertions": 231,
+            "deletions": 13
+          },
+          {
+            "hash": "2a7dd581a59ca4c10750edffd5830af475377186",
+            "message": "updated LimitCheckerTest",
+            "insertions": 26,
+            "deletions": 0
+          },
+          {
+            "hash": "8f32773264862f78670c2a4b64140d6a5f2dc09c",
+            "message": "added newline at EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a7ba88316e73a0320b8fff81c243f669e9ebf3e4",
+            "message": "refactored the classforprinting, DG,PPP updates",
+            "insertions": 142,
+            "deletions": 58
+          },
+          {
+            "hash": "158d37addb957f2bbb1f5b26674e5f27494ca5ed",
+            "message": "PPP updates",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "a20622e4b8340c5895cc52a2315fcb0b451aad55",
+            "message": "fixed line too long",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 197,
+        "deletions": 129,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "462326260e9fef11f59b129698adf549a2e3ebfc",
+            "message": "fixed line too long",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "329f3eec7b55a44c3b3651512ffafa5619f13d39",
+            "message": "added new lines",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "67cb766ee4278556f43c90aa4c0e2fce4175c1a6",
+            "message": "changed user to student to standardize actor name",
+            "insertions": 40,
+            "deletions": 40
+          },
+          {
+            "hash": "54d262097c262f3fdd15d5cb014d4368e7fce141",
+            "message": "DG updates and javadoc changes",
+            "insertions": 39,
+            "deletions": 32
+          },
+          {
+            "hash": "19d1ce369ad9739be39cbbd0c5b8c4acd03a7e1f",
+            "message": "UG,DG,PPP changes",
+            "insertions": 37,
+            "deletions": 37
+          },
+          {
+            "hash": "78df81829803ca8f29dcfd61978fffc64188ca01",
+            "message": "DG fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1bf985e30479f84207364eab0cb3c94e37fd2819",
+            "message": "UG changes",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "abe353c8cc95a4e900f9289f21897059d127a909",
+            "message": "weightedgradetest added",
+            "insertions": 59,
+            "deletions": 0
+          },
+          {
+            "hash": "a05418bc002ab2f3ce52c28f882eab94dd3c36d4",
+            "message": "UG,DG,PPP updated",
+            "insertions": 11,
+            "deletions": 11
+          }
+        ]
+      }
+    ],
+    "lshwayne96": [
+      {
+        "insertions": 23,
+        "deletions": 23,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "2858fd8ecb86fb02dce38fd7e0c41e5240095289",
+            "message": "updated AboutUs.adoc added photos of team members removed old photos",
+            "insertions": 23,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 202,
+        "deletions": 1,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "7ed7bcefb32a108283aa7d07c48ea64575f315fc",
+            "message": "added/updated classes required for find command (not finalised)",
+            "insertions": 202,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 165,
+        "deletions": 118,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "bc41729aa321510abb975006f8c9068814daee81",
+            "message": "updated find command to use Person class for now instead of Module",
+            "insertions": 24,
+            "deletions": 31
+          },
+          {
+            "hash": "0919ee72d48ea59d679d61d03661cf73a9fec314",
+            "message": "fixed some checkstyle errors",
+            "insertions": 48,
+            "deletions": 21
+          },
+          {
+            "hash": "94bc3e386c768cf2c00c8630fe1993bbce1ceb16",
+            "message": "fixed some checkstyle errors",
+            "insertions": 11,
+            "deletions": 7
+          },
+          {
+            "hash": "3a62bbbecb85aff766a5ef631c5a554f227a3564",
+            "message": "updated some parts of User Guide",
+            "insertions": 82,
+            "deletions": 59
+          }
+        ]
+      },
+      {
+        "insertions": 67,
+        "deletions": 43,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "b5d7ae234b2510c436f13a20974fa76c555a178b",
+            "message": "updated User Guide (edit your own parts if necessary)",
+            "insertions": 67,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 262,
+        "deletions": 999,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "a1b66645bbaa3542a49e9b351c9ec82a6dee5a0d",
+            "message": "changed PREFIX_MODNAME (n/) to PREFIX_MODTITLE (t/)",
+            "insertions": 26,
+            "deletions": 24
+          },
+          {
+            "hash": "2038b81ce130b8f8f39bab24e70a70d8a0c96b58",
+            "message": "moved Grade, Semester, FindModulePredicate to \"module\" directory updated Module, ModuleInfo class updated FindCommandNew, FindCommandNewParser, FindModulePredicate based on previous update added GradeRange class",
+            "insertions": 209,
+            "deletions": 952
+          },
+          {
+            "hash": "6c7a4690bab767e1490d37aa91da346f2e3c28d3",
+            "message": "fixed checkstyle errors",
+            "insertions": 27,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 44,
+        "deletions": 303,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "b03a1e68dfb182022f69a79548a4ea4f0f4c149c",
+            "message": "resolved conflicts",
+            "insertions": 44,
+            "deletions": 303
+          }
+        ]
+      },
+      {
+        "insertions": 1225,
+        "deletions": 445,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "7476f291fe0dc07bd230dd24d2fa46902cb0f488",
+            "message": "merged from team repo",
+            "insertions": 1180,
+            "deletions": 411
+          },
+          {
+            "hash": "0bff14a727e6c72565af2d995a9151f3cd746ad6",
+            "message": "added isWithinRange method to GradeRange added getGradeRange method to Person",
+            "insertions": 45,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 194,
+        "deletions": 241,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "920f733948d51b7387619e3f1744d95f88685c80",
+            "message": "moved isGradeWithinRange method in GradeRange class to isWithin method in Grade class removed finding of modules based on module title integrated new find command into app",
+            "insertions": 35,
+            "deletions": 57
+          },
+          {
+            "hash": "a148e86800923015ccf21e2cccd1df80dd29851a",
+            "message": "shifted FindCommandNew to FindCommand",
+            "insertions": 100,
+            "deletions": 176
+          },
+          {
+            "hash": "2f9fe147324578c75d01b50efd855da1ba9a1fdb",
+            "message": "updated User Guide for find command",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "86028f52663872f8819d80accae806eebf42721e",
+            "message": "added FindModuleDescriptorBuilder",
+            "insertions": 51,
+            "deletions": 0
+          },
+          {
+            "hash": "a1e85a215f0a500e2bac1e00369ed341d5b5f7db",
+            "message": "updated setCode and equals methods in FindModuleDescriptor class",
+            "insertions": 5,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 323,
+        "deletions": 204,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "5241f96ed1849c3e74ef2beafd7d0ec8a1a3652a",
+            "message": "updated FindCommandTest",
+            "insertions": 122,
+            "deletions": 37
+          },
+          {
+            "hash": "db3930d5447047f4bb8d8823da199bc7f63560e1",
+            "message": "changed PREFIX_NAME value to \"c/\" for consistency",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "244a6e3a0f419cc928fa10cf4c8b704a93d9b04a",
+            "message": "updated AddressBookParserTest, FindCommandParserTest",
+            "insertions": 134,
+            "deletions": 14
+          },
+          {
+            "hash": "4d0c4479f5f9c8a927549010abfb24c23284ba25",
+            "message": "adjusted showPersonsWithName method according to new find command format",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "4a248cd38c64f48790cff094ec4f26cfbb5c05d2",
+            "message": "updated FindCommandSystemTest (not completed)",
+            "insertions": 12,
+            "deletions": 55
+          },
+          {
+            "hash": "352f23a61f35d9d3d4fbcbda38b03845287c0c6d",
+            "message": "updated GradeRange",
+            "insertions": 0,
+            "deletions": 34
+          },
+          {
+            "hash": "10e8e147bbc05e76e3938a7e1ac5730773023f25",
+            "message": "fixed checkstyle for tests",
+            "insertions": 52,
+            "deletions": 62
+          }
+        ]
+      },
+      {
+        "insertions": 82,
+        "deletions": 22,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "e5acf61525485e3d067fed3a6a54bcf5b18613dd",
+            "message": "added recommend feature to UG",
+            "insertions": 18,
+            "deletions": 11
+          },
+          {
+            "hash": "7d34b38825b2989c43b4092b58ff86353aff7677",
+            "message": "added PREFIX_FINISHED in CliSyntax added parseBoolean() method in ParserUtil updated find command to accept new parameter [f/IS_FINISHED] updated UG tests not updated",
+            "insertions": 64,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 103,
+        "deletions": 3,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "12a729dbd54a10a9dcdb14f1124c2f2d4eb4f24b",
+            "message": "removed excessive description for find command message",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "d744b662a9cbcd2b9ea98eeec6f0c9dc3005eea7",
+            "message": "setting up for recommend command",
+            "insertions": 103,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 337,
+        "deletions": 73,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "6189aa52ae850b4212caaffa3798845a04bf244d",
+            "message": "added recommend command (in progress) added methods to AddressBook, ModelManager, Person",
+            "insertions": 96,
+            "deletions": 9
+          },
+          {
+            "hash": "483c98c8d7d9dcbe784274949fcff969cf08564a",
+            "message": "small touchup to find command",
+            "insertions": 24,
+            "deletions": 24
+          },
+          {
+            "hash": "fde12be5e27c6119681ff7c8998b9077bc435ee5",
+            "message": "changed parseBoolean() to parseFinishedStatus() in ParserUtil which can parse any String updated some tests updated UG",
+            "insertions": 41,
+            "deletions": 27
+          },
+          {
+            "hash": "b0e0cc3223827cd2e9664e9423feb85ea7223d80",
+            "message": "updated some tests (left system tests)",
+            "insertions": 17,
+            "deletions": 5
+          },
+          {
+            "hash": "974f14ceb490b0dec5fdceffc0937bd2626ba3cb",
+            "message": "added FINISHED_STATUS_TRUE to ParserUtil",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "6c92c41adf3642b4a2219c33abd7dc507c1a4721",
+            "message": "added FindModulePredicateTest",
+            "insertions": 149,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 251,
+        "deletions": 71,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "46dd96e9a3796bcb1d06240817009d78494709e3",
+            "message": "updated DG user stories for find and recommend features",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "c4eee74465d1803fc874a53490fc0135f7b7e1c5",
+            "message": "updated recommend feature added getPassedModuleList() in AddressBook added getCourseReqTypeOf(ModuleInfoCode), isReqFulfilled(CourseReqType, List\u003cModuleInfoCode\u003e) in Course updated enum order of CourseReqType (CORE first) updated CourseRequirement to accept ModuleInfoCode in its methods instead of ModuleInfo //TODO: add tests for recommend feature, change Name to ModuleInfoCode in Person",
+            "insertions": 211,
+            "deletions": 70
+          },
+          {
+            "hash": "628d66abb8a8c886d273c041db84a5ed702d9f1f",
+            "message": "added implementation description for module recommendation feature in DG",
+            "insertions": 37,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 92,
+        "deletions": 216,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "9fbd027a1f1fc2648cb191b3144c0ddb075b4db7",
+            "message": "added RecModuleManager to handle recommendation feature changed ModuleInfo to ModuleInfoCode for rec list updated DG",
+            "insertions": 92,
+            "deletions": 216
+          }
+        ]
+      },
+      {
+        "insertions": 150,
+        "deletions": 57,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "69991eaf72fca8c66ce29428a1a8e8d7a45d7a8f",
+            "message": "minor changes to some classes and tests added req type satisfied when printing rec module list",
+            "insertions": 83,
+            "deletions": 33
+          },
+          {
+            "hash": "7672162e79fa7ef3cd972d25bd087a44cbd34443",
+            "message": "fixed checkstyle error",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "7bb572cdeb9a687ccbec400c88ccc245b61d6f85",
+            "message": "minor changes",
+            "insertions": 24,
+            "deletions": 14
+          },
+          {
+            "hash": "147e4f3b3e5936539d205b6c04a201b4e229aaa0",
+            "message": "updated FindCommandSystemTest",
+            "insertions": 41,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 148,
+        "deletions": 131,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "96d67a807bb82c190f16246880f7fd801f2be5a6",
+            "message": "changed getModuleInfo() in ModuleTaken to getModuleInfoCode() moved currentSemester into versionedGradTrak (hardcoded to be Y1S1 for now) updated some methods in ModuleTaken updated some methods in GradTrak FindCommand now accepts FindModuleDescriptor instead of FindModulePredicate updated tests related to find feature NOTE: changing the hardcoded currentSemester will cause some tests to fail, wait till I update the tests",
+            "insertions": 148,
+            "deletions": 131
+          }
+        ]
+      },
+      {
+        "insertions": 353,
+        "deletions": 164,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "77441c13363687d584b7656c567d2161a9ec1a52",
+            "message": "small change to GradTrakBuilder",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "2f4c29d5e0e8c4887d589aa92571adee28436471",
+            "message": "added loadContent() to BrowserPanel",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "bc089e4ffbea4ea2e06ddb3ed3f1f22ae034f822",
+            "message": "updated loadContent() in BrowserPanel to read newline added String result to CommandResult for displaymod, rec commands; this result is printed to the panel",
+            "insertions": 47,
+            "deletions": 24
+          },
+          {
+            "hash": "73a84028f518b5d9924016b0b87e854f5eca887c",
+            "message": "fixed checkstyle errors",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "a947f13ab46206f5d5025d3518b9d960ac7202cb",
+            "message": "renamed/changed some strings in Messages updated tests related to find feature",
+            "insertions": 282,
+            "deletions": 127
+          },
+          {
+            "hash": "2c9de1674e575c63f89b9a05e07a63a03dbcf63e",
+            "message": "added GradTrak constructor with Semester as parameter (for reading from storage) set default current semester as Y1S1 in GradTrak constructor without parameters changes to GradTrak constructor with ReadOnlyGradTrak as parameter (now copies currentSemester)",
+            "insertions": 12,
+            "deletions": 3
+          },
+          {
+            "hash": "372c4e853f04be3a7e4aaedc0f2ed4fa9e964a73",
+            "message": "removed previously added constructor (just use setCurrentSemester when reading from storage)",
+            "insertions": 1,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 514,
+        "deletions": 290,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "5dd06e726eb71044dc2618427a0a4095a51732a5",
+            "message": "updated some javadocs",
+            "insertions": 34,
+            "deletions": 24
+          },
+          {
+            "hash": "2516f9c427bc8e50f033d3894033d480c83764d2",
+            "message": "restructuring of recommend feature",
+            "insertions": 128,
+            "deletions": 135
+          },
+          {
+            "hash": "d4755a7fb37af6129c3b0967312df4c1b0a55e52",
+            "message": "added equals() in RecModule",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "76c235fdf2e86a6695e87a931bc55466dcdc6ce5",
+            "message": "integrated recommend feature into the command panel",
+            "insertions": 212,
+            "deletions": 22
+          },
+          {
+            "hash": "6402f25a8ac549501e44d7f292dd080158c42937",
+            "message": "added loggers to FindModulePredicate and RecModulePredicate, updated isLowerOrEqualTo() in Grade",
+            "insertions": 21,
+            "deletions": 3
+          },
+          {
+            "hash": "69b1f7dadcf1d8b8806fa96ad69f491c086140a7",
+            "message": "updated DG and diagrams",
+            "insertions": 105,
+            "deletions": 106
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 287,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "81ef0cee8c382db6ef2b4eab1c1b28201db5b462",
+            "message": "changed size of recmodule card",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0f39241f6b26ffc93f5c6aba43dd21321bc5adc9",
+            "message": "changed course req type to use name() instead of toString() for json",
+            "insertions": 4,
+            "deletions": 165
+          },
+          {
+            "hash": "17f41adf935e8ea659efb1570ef6f8d6baf1c6f8",
+            "message": "added select command to panelhandler hashmap, changePanel() now doesn\u0027t change panel when newPanel is null",
+            "insertions": 14,
+            "deletions": 10
+          },
+          {
+            "hash": "c4bf27892b773bd633b8297de917381194300882",
+            "message": "restructured rec classes",
+            "insertions": 74,
+            "deletions": 111
+          }
+        ]
+      },
+      {
+        "insertions": 279,
+        "deletions": 405,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "a8af1814bc8c2b86845d94fae5a3d194faa12f6c",
+            "message": "changes to Course, RecModulePredicate",
+            "insertions": 26,
+            "deletions": 11
+          },
+          {
+            "hash": "3a6e2075ee3cf90fd8d216fbbf7539d1fd1893ec",
+            "message": "small change to rec fxml",
+            "insertions": 0,
+            "deletions": 205
+          },
+          {
+            "hash": "2cea07ff8d608c7b3dcf55ddcaf148b0544d0c42",
+            "message": "fixed bug in getUnsatisfied() in Condition (for single regex in list) added IE and FAC in CourseReqType added getLevel() in ModuleInfoCode updated RecModuleComparator updated SampleCourseRequirement",
+            "insertions": 144,
+            "deletions": 114
+          },
+          {
+            "hash": "357396f18b37d55a29e2607012d706c2d09e20da",
+            "message": "newline added to course.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "09c3b871e9425cf3691848398908f6f10a80e64b",
+            "message": "UG updates",
+            "insertions": 44,
+            "deletions": 44
+          },
+          {
+            "hash": "67a49606398c50627371c9f34e8853c246104047",
+            "message": "updated DG",
+            "insertions": 64,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 358,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "a95227f91e10dff9aef9baa43c777b0805d95cd9",
+            "message": "added directory for json files in src/main/resources",
+            "insertions": 3,
+            "deletions": 344
+          },
+          {
+            "hash": "9ae24ffe43704be6b4a385a13f13452df775c831",
+            "message": "updated UG and small changes to strings",
+            "insertions": 21,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 275,
+        "deletions": 220,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "f3a598f891ab8970e803731b6c6c22607679e45d",
+            "message": "added new modules to start of AllModules.json; changed paths to AllModules.json and course.json in Manager classes; changes to SampleCourseRequirement",
+            "insertions": 212,
+            "deletions": 106
+          },
+          {
+            "hash": "2205b3981bf49d4431855854a0494c90432fe3ab",
+            "message": "minor updates to UG, DG",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "4680b989fe63a4d1ee5df767de532b89634c072c",
+            "message": "start with empty gradtrak when user data not found",
+            "insertions": 3,
+            "deletions": 10
+          },
+          {
+            "hash": "f740da3dec6633c327496b7a27efe6a63af60835",
+            "message": "removed sampledatatest",
+            "insertions": 0,
+            "deletions": 45
+          },
+          {
+            "hash": "c7d3b84a1350e59ada1ee8127d98a667e07a4c28",
+            "message": "changed regex for GER and GEQ, small changes to strings",
+            "insertions": 55,
+            "deletions": 54
+          },
+          {
+            "hash": "f364ff50cd56fca50664b2d02a0363dcaf50bd4b",
+            "message": "newline",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 175,
+        "deletions": 15,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "b21c65bd5316a1263ed9e36bba4650dc0821f787",
+            "message": "new tests for RecModule",
+            "insertions": 175,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 104,
+        "deletions": 63,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "3b7891b51de0c4d7934159b61cc0e3978f85c67e",
+            "message": "updates to UG and rec tests",
+            "insertions": 77,
+            "deletions": 41
+          },
+          {
+            "hash": "6468d974100d76308030b5a2effaa271631039ac",
+            "message": "changed behaviour of browser panel: when running commands without panel, previous panel will be removed",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9ec1a3ee56ea883310029405eee5fcc95ab4f197",
+            "message": "updated DG for rec",
+            "insertions": 19,
+            "deletions": 14
+          },
+          {
+            "hash": "0428bc6bea933075ab7f229cd265b3cdc6cd6aeb",
+            "message": "small changes to diagrams",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 9,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "deed1e5f8006ac63d0785e39afdeb98d7ce79c92",
+            "message": "width change for png",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cd671a0593602d6cb754fd2f4b65483ba4745cb4",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "00e480b80f454e297b1c9ce3fbaf69ef5ce5fbb4",
+            "message": "updates to DG for rec",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "03466621dd66a2d294ac4af8f297e96172c175f0",
+            "message": "minor changes to DG",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 15,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "3ea8b0833f4209e9de6543a013bf9e19f64baafc",
+            "message": "added assertions",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "b8a269361c501ee1819d1ba56f12207089407a07",
+            "message": "removed extra diagram, updated some diagrams in DG",
+            "insertions": 1,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 193,
+        "deletions": 305,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "53ab123132e6b0f4e7c90205087df9b61bd9448f",
+            "message": "dg,ug,ppp",
+            "insertions": 87,
+            "deletions": 8
+          },
+          {
+            "hash": "ea7731fe474fb97b8daea154e70d875dce517628",
+            "message": "added method in GradTrak to get missing prereq",
+            "insertions": 16,
+            "deletions": 27
+          },
+          {
+            "hash": "3ca0edb844ce95a7167066d9f656c04f201aaa1e",
+            "message": "ppp",
+            "insertions": 0,
+            "deletions": 20
+          },
+          {
+            "hash": "fee8dd78f1cf12f8e88b1b6bd4669a74524755bc",
+            "message": "keep emp first",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "757a8fbd329184a0926b460a508663b40680e227",
+            "message": "updates to rec, eligiblemodulepredicate not working yet",
+            "insertions": 45,
+            "deletions": 245
+          },
+          {
+            "hash": "00784c3ea44eddbb0a74a538db47917cf396b2df",
+            "message": "ppp update",
+            "insertions": 18,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 241,
+        "deletions": 21,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "6c5a16fc4c7f816f1a33a1e88a409659a376abb3",
+            "message": "slight changes to docs",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "3b48533291b369e043f17267d4ac7bb551e88f9a",
+            "message": "updated rec tests",
+            "insertions": 173,
+            "deletions": 0
+          },
+          {
+            "hash": "b62f7503968a0e6f37c4885701d89159f789c06e",
+            "message": "updated some tests",
+            "insertions": 31,
+            "deletions": 8
+          },
+          {
+            "hash": "3c03787aa3d1686a09797a3ce249c8d1dc3bf41d",
+            "message": "attempt to fix prereq stuff problem: dummy node can be AND/OR",
+            "insertions": 30,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 397,
+        "deletions": 138,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "722155a9627e6f8030aee89a2ed137956cf1c917",
+            "message": "some changes to UG,DG",
+            "insertions": 53,
+            "deletions": 86
+          },
+          {
+            "hash": "1011756968d3c57d18a69a89012722c22ea8d485",
+            "message": "added some use cases for find and rec",
+            "insertions": 33,
+            "deletions": 5
+          },
+          {
+            "hash": "ce35a464b43dfc2d7c53ed33940679278e729efd",
+            "message": "updated diagrams in DG",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "17f6279cab3298573e8bf8c138c43d34012cabba",
+            "message": "small changes to UG",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a3fe1296bee4ade00e6881cadd9ec391e00a58b9",
+            "message": "DG update",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "5a227649f3944b549e54171f6b49d4f1b41377c5",
+            "message": "changes to science requirements; hopefully i fixed the check prereq bug",
+            "insertions": 34,
+            "deletions": 27
+          },
+          {
+            "hash": "1979a3d8449c2194e84c27044763d0428a7d3079",
+            "message": "ppp",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "461b872e0b0ab9b6bea260c80dbbc64fd9bd49ac",
+            "message": "added test",
+            "insertions": 239,
+            "deletions": 0
+          },
+          {
+            "hash": "667bb0733e53fad57a38529196675ed31f682c27",
+            "message": "check prereq now treats modules with/out letter as equivalents; removed CS3213 from course.json (discontinued); updated course lists in typicalmoduletaken",
+            "insertions": 21,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 489,
+        "deletions": 103,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "9cffafef7e7df9b6429be174ecca64b0ef4d8d9b",
+            "message": "fixed hasParent() in Node",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6dec48a8721f11858f025cf591ee5f3f9af259db",
+            "message": "rec no longer displays UE mods; updated UG,DG,tests",
+            "insertions": 134,
+            "deletions": 41
+          },
+          {
+            "hash": "6c2fd8f48124d1ac649f3c8fb502a9f944d0d7e8",
+            "message": "removed CS3213 from course.json and SampleCourseRequirement",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "5e293bac70e7fc1315e767942d403859ef0ec611",
+            "message": "ug dg update",
+            "insertions": 19,
+            "deletions": 10
+          },
+          {
+            "hash": "38079b439f78c606657fb84f754dc988f4c01027",
+            "message": "module code, semester, grade now case-insensitive (change made in ParserUtil)",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "96fc21f8c772a42a397b14b9ac6b1bb44a781bf4",
+            "message": "changed recmodulepredicate and eligiblemodulepredicate to take in ReadOnlyGradTrak instead of GradTrak; updated the interface and test accordingly",
+            "insertions": 45,
+            "deletions": 21
+          },
+          {
+            "hash": "1e110b4c79bbde607869944e6976535be21e152e",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "812ee3161d8943199a53ec33ca3e05a7399ed4f9",
+            "message": "shifted a level check to gradtrak",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "f545149abea3a690435022b10baa62a9aefdda25",
+            "message": "added  reccommand test",
+            "insertions": 167,
+            "deletions": 0
+          },
+          {
+            "hash": "4ebdbb849cc9fdfe1ebed15f0ef55da1b9749f05",
+            "message": "added more mods to a level regex",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "a612af583937c01c29e55a59f023f3718e771cdb",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5f3e86063d73676d6aad71f37b7bf57a9ce15795",
+            "message": "updated geq regex",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "a773839f5f865668a5690f077f4bf659f41c67ac",
+            "message": "test update for geq regex",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f04e5be872e84b9e405e745468f6c936694394b5",
+            "message": "updated alevel regex again",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "b56d56ca4f8a7b98e8a91e35785779522ef902f7",
+            "message": "update test",
+            "insertions": 94,
+            "deletions": 1
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "Anand270294": 2888,
+    "crumpledpaper": 418,
+    "monikernemo": 7408,
+    "alexchong711": 5577,
+    "lshwayne96": 3022
+  },
+  "authorFileFormatContributionMap": {
+    "Anand270294": {
+      "adoc": 295,
+      "cs": 0,
+      "css": 50,
+      "fxml": 77,
+      "gradle": 0,
+      "html": 0,
+      "java": 2466,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "crumpledpaper": {
+      "adoc": 85,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 1,
+      "html": 0,
+      "java": 330,
+      "js": 0,
+      "json": 2,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "monikernemo": {
+      "adoc": 343,
+      "cs": 0,
+      "css": 0,
+      "fxml": 63,
+      "gradle": 2,
+      "html": 0,
+      "java": 6310,
+      "js": 0,
+      "json": 689,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 1
+    },
+    "alexchong711": {
+      "adoc": 507,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 4625,
+      "js": 0,
+      "json": 445,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "lshwayne96": {
+      "adoc": 385,
+      "cs": 0,
+      "css": 0,
+      "fxml": 36,
+      "gradle": 0,
+      "html": 0,
+      "java": 2559,
+      "js": 0,
+      "json": 42,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "Anand270294": 32059.9,
+    "crumpledpaper": 4230.092,
+    "monikernemo": 604461.3,
+    "alexchong711": 239326.72,
+    "lshwayne96": 96406.36
+  },
+  "authorDisplayNameMap": {
+    "Anand270294": "T A...MAR",
+    "crumpledpaper": "ONG...YAN",
+    "monikernemo": "LEE...UAN",
+    "alexchong711": "CHO...YUN",
+    "lshwayne96": "LIM...ONG"
+  }
+}

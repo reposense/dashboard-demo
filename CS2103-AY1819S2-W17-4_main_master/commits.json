@@ -1,0 +1,5326 @@
+{
+  "authorDailyContributionsMap": {
+    "yunjun199321": [
+      {
+        "insertions": 4,
+        "deletions": 1,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "0f0858f2a1b718c191bd40c22fc19dac547088a3",
+            "message": "first commit",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "88250c678b29738f944fc5f2f399622259baa310",
+            "message": "adds new message",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "a1e8cea0c81f717d7909c08e67bee65d5df34ed2",
+            "message": "first commit",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 175,
+        "deletions": 30,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "523e076d4cc95b0a59f76f33c7b2d27296033d9f",
+            "message": "commit before pull",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "e463142eed2184525de6cfb05ff4232ec13aa7df",
+            "message": "merge local branch with master branch",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "fdebab157ac65b8bd300441caef09a6fe68e9d8e",
+            "message": "Modifies about us page",
+            "insertions": 22,
+            "deletions": 27
+          },
+          {
+            "hash": "bcfa9193d85f5ddd4a2b46082a10bbce426fa575",
+            "message": "modifies developer guide",
+            "insertions": 106,
+            "deletions": 0
+          },
+          {
+            "hash": "844bc014be029b6bb6cc61d9f46a87f5f619be16",
+            "message": "adds login and logout command class",
+            "insertions": 43,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 80,
+        "deletions": 61,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "a6828d0834b5d1729d01ee6f1d59e0a8870fab2b",
+            "message": "Changes Minhs image in about us page",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3cc7b970b8d1e3d4a64e790aeae8069328a82322",
+            "message": "Adds new prefix in CliSyntax.java",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "b1161e4a4fa340f21bf108f07a37141cf7e0abde",
+            "message": "Updates message_usage in AddCommand.java and AddCommandSystemTest.java",
+            "insertions": 53,
+            "deletions": 22
+          },
+          {
+            "hash": "1d8d500f41569529bb031845e91c82b9f60fe53b",
+            "message": "Formated AddCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f173dc88e9f8d01df5df89e53d93dcb9ed11ebe9",
+            "message": "formats Application.java",
+            "insertions": 8,
+            "deletions": 25
+          },
+          {
+            "hash": "6850d3b3fcedab3bbd319a6018d7ef8891a6bb8b",
+            "message": "Formats 2 java files",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "7a127b40aee750f53bc2ac6ec75e31f1a3a98bdc",
+            "message": "Updates developer guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "33f680f779b1171cc0c70b44ba8c4a0e90633778",
+            "message": "Updates user guide",
+            "insertions": 6,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 53,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "dd1b4a8b8e44beeaafea28c8e39bd48eea1cc075",
+            "message": "Changes app name to ePiggy",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "50bbc49db7897ee0627333e96f7f17346a95c6fe",
+            "message": "changes app name",
+            "insertions": 52,
+            "deletions": 52
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 8,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "d1687a3922cd925d81632b78e4f3359167df2d55",
+            "message": "Changes icon and name of the app",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b8b5ae58a0bfd2209026aee8f83c129a8127d390",
+            "message": "Updates UG of add command",
+            "insertions": 6,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 140,
+        "deletions": 3,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "7187a7819041ae61848d740ad9588bf54a29efea",
+            "message": "Adds SummaryCommand class",
+            "insertions": 29,
+            "deletions": 0
+          },
+          {
+            "hash": "9d21ca49bd2642701cf51cc6114cee2625586625",
+            "message": "Creates summaryWindow.java and fxml file",
+            "insertions": 111,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 203,
+        "deletions": 38,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "727ecaaf07c0c147e878069866e353dded003e29",
+            "message": "Update issue templates",
+            "insertions": 68,
+            "deletions": 0
+          },
+          {
+            "hash": "1abe252869dd5e769e009273a5cd0c713f297120",
+            "message": "Creates PieChart, areaChart and lineChart with dummy value",
+            "insertions": 135,
+            "deletions": 38
+          }
+        ]
+      },
+      {
+        "insertions": 120,
+        "deletions": 72,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "558e2ada115f2370d1606a391c6a62e378ce2e9b",
+            "message": "Changes UG, DG for report command",
+            "insertions": 114,
+            "deletions": 65
+          },
+          {
+            "hash": "92568a7a89ba9e8a9ac58be8592ec6c16bcfaaa3",
+            "message": "Formats ReportWindow.java",
+            "insertions": 6,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 225,
+        "deletions": 31,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "17e48dfc8f152ba857fbe41ac729d03f20c493be",
+            "message": "Adds report parser, GUI button",
+            "insertions": 207,
+            "deletions": 24
+          },
+          {
+            "hash": "cbd57d6300d7d071c2bde59bf3691a4997b3e673",
+            "message": "Updates UG",
+            "insertions": 18,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 65,
+        "deletions": 2,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "fcc384f89b82596b30448aa47c6f4b64151e67c7",
+            "message": "implements auto complete function for textField.",
+            "insertions": 65,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 193,
+        "deletions": 35,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "973d04c98008db39cb471fb86df580012d5a30fe",
+            "message": "Changes dummy data to real data in yearly report",
+            "insertions": 186,
+            "deletions": 25
+          },
+          {
+            "hash": "946788b174efb388a3315a0a30452554e38bfbf2",
+            "message": "formatting checkstyle",
+            "insertions": 7,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 235,
+        "deletions": 181,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "f25d9db2a900061ee5e072e4f96f5957c62f2234",
+            "message": "full summary done",
+            "insertions": 18,
+            "deletions": 17
+          },
+          {
+            "hash": "48264376aabe09118fcdcf7792a80866d3a093cf",
+            "message": "Updates report command",
+            "insertions": 108,
+            "deletions": 60
+          },
+          {
+            "hash": "4423c6df2e30bb306f582a0e5c5307632e70ad26",
+            "message": "Updates specified day report",
+            "insertions": 109,
+            "deletions": 104
+          }
+        ]
+      },
+      {
+        "insertions": 136,
+        "deletions": 87,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "afe6d898e0d3b1f5dd7f6074595f0cd53bbb6361",
+            "message": "All chart show real data completed",
+            "insertions": 126,
+            "deletions": 79
+          },
+          {
+            "hash": "5eafc74e08238294d0b757e2f76439c30c9a07b9",
+            "message": "changes config.json format",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ade5f3cb836d304d1c9fe523937c005b0d8395f4",
+            "message": "changes config.json format",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0a4fd107e55b02a86aca0b28bd965e11bdfa59c8",
+            "message": "changes config.json format",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "f009fe73679da48ecbe2756f38e815224c8981c7",
+            "message": "modify .gitignore",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2af055f1131f879ee11c25fcb09b9bff43e3d914",
+            "message": "updates config.json",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "400a5945e844614773db4316575fd5f214d61ed3",
+            "message": "format checkstyle",
+            "insertions": 5,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 285,
+        "deletions": 116,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "c2d45c1446c00a27bb0cc96f5068634633407572",
+            "message": "creates report command test class",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "2b027eddc52355f86bd586bf565fb2b31bed715d",
+            "message": "Tests report command by large and negative date",
+            "insertions": 208,
+            "deletions": 37
+          },
+          {
+            "hash": "652cd6189c2a6d6a068594bf1a9adca79ce2ee6c",
+            "message": "format checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d26699d0c4a0547acf8ab6d1e857cef32e11de4d",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a64227847f66c224021ca68dbd00f3795b60e265",
+            "message": "fixs ui test bug",
+            "insertions": 54,
+            "deletions": 61
+          },
+          {
+            "hash": "2fbbac132dc8b52009ff0905c0b18ee2f736c1de",
+            "message": "changes checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "97264ece58a02353dcb65bd032433189526213e4",
+            "message": "changes checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "072d2ae2d7e8657fdf6d4ae7f509e4422429d631",
+            "message": "changes checkstyle",
+            "insertions": 8,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 66,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "93d6c9b29cf920a94257b69764c5814c0d264092",
+            "message": "changes checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "57d2aff2af1d74a9deaffad79944ca9f8dd3cc13",
+            "message": "Updates UG, changes add and clear test from ignore to test status",
+            "insertions": 13,
+            "deletions": 65
+          }
+        ]
+      },
+      {
+        "insertions": 239,
+        "deletions": 82,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "409b63fac6c1a7a14ef70eb8f6e6564c53018e84",
+            "message": "Updates UG and DG",
+            "insertions": 75,
+            "deletions": 14
+          },
+          {
+            "hash": "7cad2d9bc4ae66aa7c99d1ee19dca29f245b02c4",
+            "message": "Updates autoComplete keywords, UG, DG",
+            "insertions": 10,
+            "deletions": 15
+          },
+          {
+            "hash": "31725cdd7bf2ed5be73c073c3474f2be2818d9d1",
+            "message": "Updates UG",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "225aa93979c3bf8b219a96ce84f8a893aafad0f4",
+            "message": "Ignores 2 old test case",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "c933cf6794c3a441957a158d2b51118b4ba17dd8",
+            "message": "Upload ppp",
+            "insertions": 72,
+            "deletions": 0
+          },
+          {
+            "hash": "f68de4f41802cf22ee1ca084b11dcdfd69d629c3",
+            "message": "Updates aboutUs page",
+            "insertions": 76,
+            "deletions": 40
+          },
+          {
+            "hash": "c404bc89f89481603f814455983a27b6f1195b9a",
+            "message": "changes aboutUs page",
+            "insertions": 2,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 271,
+        "deletions": 47,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "031f67e3e492c5a8ecc16b229857ca7229b90682",
+            "message": "Shows detail in the report of the day",
+            "insertions": 40,
+            "deletions": 8
+          },
+          {
+            "hash": "ffcbae40a5c130567493a278289306ba2ef1f30c",
+            "message": "Shows total amount of expense and allowance on month report",
+            "insertions": 36,
+            "deletions": 4
+          },
+          {
+            "hash": "83ae727f10f905eaa9039812ebe771792bec2131",
+            "message": "show the day of min, max spent",
+            "insertions": 39,
+            "deletions": 10
+          },
+          {
+            "hash": "d0a570669a0adb21a0a742d072c7b240f7d07606",
+            "message": "year report done",
+            "insertions": 81,
+            "deletions": 10
+          },
+          {
+            "hash": "1bdf4a94ad49777ad1ed1acaea1345225c718299",
+            "message": "Updates Completed report",
+            "insertions": 75,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "b647bbb8f2d8cf5275661cde5b0b266e34e096a9",
+            "message": "commit before fix the ui test bug",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 862,
+        "deletions": 7,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "625557d1cad694587338c875e66e3e8db74721b9",
+            "message": "reportCommandTest has bug",
+            "insertions": 306,
+            "deletions": 1
+          },
+          {
+            "hash": "6efbd6fbaf22ca523268e09d56697b347843b599",
+            "message": "creates ReportCommandTest class",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "16577bb5b3fb0e1378b0dc5fb8d8230251f885b3",
+            "message": "creates some new java classes",
+            "insertions": 471,
+            "deletions": 0
+          },
+          {
+            "hash": "4e546b9869af4c3b3d3fc1013536c354001e8bb1",
+            "message": "add new typicalReports class",
+            "insertions": 84,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 687,
+        "deletions": 499,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "ea142e68e43b2f2e8f7ec181008af6ac649e8bdf",
+            "message": "Writing TypicalReports class",
+            "insertions": 68,
+            "deletions": 343
+          },
+          {
+            "hash": "8cb923ff73b91af9e771ab99fa69a321e44a5f12",
+            "message": "Creates system test classes with empty or default value",
+            "insertions": 374,
+            "deletions": 34
+          },
+          {
+            "hash": "c8e1dd38db0c9c3f8e8ec434b28492010c6d131d",
+            "message": "modified two charts",
+            "insertions": 43,
+            "deletions": 13
+          },
+          {
+            "hash": "0b83ab3942985f7e154299eeecd4891970522c00",
+            "message": "solve conflict",
+            "insertions": 113,
+            "deletions": 41
+          },
+          {
+            "hash": "14663993f2edb493839ebb2f9061f65f4e1423d0",
+            "message": "fix check style",
+            "insertions": 7,
+            "deletions": 9
+          },
+          {
+            "hash": "82461630c71db7b40c2d598d5c2d56015517997d",
+            "message": "increases report test coverage to 100%",
+            "insertions": 82,
+            "deletions": 59
+          }
+        ]
+      },
+      {
+        "insertions": 385,
+        "deletions": 129,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "9157714093bc5a93524990aa00214526ed16567a",
+            "message": "Updates system test case in HelpCommandSystemTest.java",
+            "insertions": 141,
+            "deletions": 10
+          },
+          {
+            "hash": "e36417c11ddd0c2ca2ff1f0458c540d5d642319a",
+            "message": "Update config.json",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "e66f796459bb915cfc74ffce7fc2a03a68420428",
+            "message": "Update config.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "78ff3b65a5034ddcb327ae82cc66d5e9b6eedc18",
+            "message": "Update config.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "84c02d96acd964a1b8104e558345ffc105176ecb",
+            "message": "save before refactor EpiggySystemTest",
+            "insertions": 139,
+            "deletions": 40
+          },
+          {
+            "hash": "5d17535c5bfb6d7d2076d671d854ba1f9900f073",
+            "message": "adds clear command system tests",
+            "insertions": 57,
+            "deletions": 40
+          },
+          {
+            "hash": "400f67f16792033a7a5c25574f5df1f3da42115f",
+            "message": "factors EPiggySystemTestOld to EPiggySystemTest",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "80dca7cd2d3129bc8fd89a5329b46509787b6bf6",
+            "message": "merge new PR",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "13e95e73f22a17ed0ce3e9d17b8c16cf558b793a",
+            "message": "change invalid date in addAllowance command example",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "376963a6290287be762cc02dfc5592ebea11e8cb",
+            "message": "fix small bugs for report command",
+            "insertions": 22,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 407,
+        "deletions": 163,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "70ebe0af3046f9aa1beb0d490483de5e0d0a7246",
+            "message": "Modify system test case",
+            "insertions": 219,
+            "deletions": 2
+          },
+          {
+            "hash": "f0bbf608f4a4385843b6bb60afd4f068b05e069c",
+            "message": "remove 2 ui test cases in report and 1 ui test case in help",
+            "insertions": 10,
+            "deletions": 7
+          },
+          {
+            "hash": "df83073df79ff7e22f8655c65475b51aa6b79d32",
+            "message": "adds number short cut for CS2101 OP2",
+            "insertions": 65,
+            "deletions": 19
+          },
+          {
+            "hash": "b5c48a52932d021de3469c35631dd3108baafcf5",
+            "message": "changes check style",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "1196e4fed400d8efcb19dc9558b1277e2642235a",
+            "message": "fix checkstyle",
+            "insertions": 107,
+            "deletions": 130
+          }
+        ]
+      },
+      {
+        "insertions": 37,
+        "deletions": 65,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "150813426a113a920576168bab606493888b143d",
+            "message": "removes 1 to 12 short cut in autocomplete function",
+            "insertions": 0,
+            "deletions": 41
+          },
+          {
+            "hash": "fd0f26c0997fb4322454a3c0b254a89fe41c342e",
+            "message": "updates UG and DG",
+            "insertions": 37,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 143,
+        "deletions": 39,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "33ed23410fab3536c9601c2b3cb25cab4ba9c62a",
+            "message": "Updates UG, DG and ppp",
+            "insertions": 60,
+            "deletions": 33
+          },
+          {
+            "hash": "5f6cd7e0c2831a6790c4768c58e059d1daa38466",
+            "message": "report feature DG updated",
+            "insertions": 17,
+            "deletions": 6
+          },
+          {
+            "hash": "918db09a3f0d320f33d893bd62bd9dda5497d2ae",
+            "message": "Writting DG for autocomplete",
+            "insertions": 66,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 208,
+        "deletions": 58,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "fad5ab8ad613977e71eda7163e221f6c6c980e38",
+            "message": "adds autocomplete activity diagram",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "007275c04a20d164eaf376a15537f46bb15fef82",
+            "message": "UG, DG PPP are done, update autocomplete to non-case sensitive",
+            "insertions": 27,
+            "deletions": 37
+          },
+          {
+            "hash": "2d22af2e2fb3f0d8b023eb2526c732c88783ece9",
+            "message": "add autocomplete ui test",
+            "insertions": 101,
+            "deletions": 13
+          },
+          {
+            "hash": "ae8b3dc0b5706f9c4129148a438b42ef9531ee3b",
+            "message": "add allowance to report system test",
+            "insertions": 78,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 512,
+        "deletions": 198,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "1d1c58de5714aab8dfc8bc20216c7aeb2221478e",
+            "message": "adds clean text button, accelerator and clear text function",
+            "insertions": 238,
+            "deletions": 43
+          },
+          {
+            "hash": "db5c84b12525511d1f062aca6cac0c25e3591b2d",
+            "message": "adds clean text",
+            "insertions": 23,
+            "deletions": 16
+          },
+          {
+            "hash": "33ebbf2592bbef91f9fe10e23c0dd8e6568d57cf",
+            "message": "adds integration test for report command",
+            "insertions": 42,
+            "deletions": 52
+          },
+          {
+            "hash": "244a65ba73eb2a0ed8f86eb5321e2746ea98328e",
+            "message": "fix checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "c01c8fbe1ee9b421df42b095417e8f044d75a7c1",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "3c71a179760dacea5bc6467167c5ae55f7c4135e",
+            "message": "fixed undo and redo unit test",
+            "insertions": 36,
+            "deletions": 26
+          },
+          {
+            "hash": "a06cc9f4de11d96ec18538532a743e2a8dbfe314",
+            "message": "fixed two errors in find and sort integration test",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "bf6f1524492c36aba226438793f1118a4a23da31",
+            "message": "modified report parser test",
+            "insertions": 36,
+            "deletions": 8
+          },
+          {
+            "hash": "3af3829b0006cece0fba3050895d88edae16d8c3",
+            "message": "deletes helpCommand undre epiggy folder",
+            "insertions": 115,
+            "deletions": 35
+          },
+          {
+            "hash": "ed4b524953ee71c91db39b9a07112ec0a94edcc0",
+            "message": "update reportCommand",
+            "insertions": 19,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 206,
+        "deletions": 319,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "ff1d82d6224757954edf865117ff0da9c8ef67cc",
+            "message": "changes string to stringBuilder in report system test",
+            "insertions": 125,
+            "deletions": 175
+          },
+          {
+            "hash": "85d88a96f47f5518ef2a2ba4f8e77063cdc303cb",
+            "message": "fixed checkstyle",
+            "insertions": 5,
+            "deletions": 10
+          },
+          {
+            "hash": "f1d80e26fda1f325e82d33362a5fef74ea90be72",
+            "message": "update DG and PPP",
+            "insertions": 32,
+            "deletions": 9
+          },
+          {
+            "hash": "bb7f206216f3b4f8658c5f56c3431d76f97a0477",
+            "message": "commit before merge",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "a0e67ce083c3df03b513c79d5d7a6e3cba8e09f1",
+            "message": "remove title in the aboutUs page",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "de901a064a381dbc9260cb2981c2d2769bff99e0",
+            "message": "removes v2.0 in ppp",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "e509c0892685fb1b5a9a4f94f62a8498621bbbfc",
+            "message": "modify autocomplete to auto-complete",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "109d4e5dc8a8418b312d9fcb50d11c0e24ba43e5",
+            "message": "update ppp",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "b1f5c9e667c8c6a87ca1589595488a14ceb69bec",
+            "message": "update ppp",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "f8493f7bd1182cb90422dd04e141ef8a75bf589c",
+            "message": "modify ppp",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3af75d36ead7a3e678b2b64c31c093679292c11c",
+            "message": "modify ppp",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e6dbea7fdf52e79ec80345052d64a6453395314d",
+            "message": "modify ppp",
+            "insertions": 9,
+            "deletions": 88
+          },
+          {
+            "hash": "7672e429df8b27b53473b07c851f3b0a9cdddf55",
+            "message": "fixed bug in commandbox test",
+            "insertions": 9,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 43,
+        "deletions": 8,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "a4cd538cd61a47d8cbe1a59d560beac09e414339",
+            "message": "update user story, use case and manual test.",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "b5772663a3590fb5e1d31a2d076a55f5bb4605d1",
+            "message": "fix checkstyle",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "c621cd01a79eb5925e100d91ed7e8a9bb974527f",
+            "message": "changes ppp",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7592cf6e61d440e240ff5e1f26e896e2198346a6",
+            "message": "changes completed report image",
+            "insertions": 3,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 32,
+        "deletions": 23,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "2ccf9ca2c071696b517b2f494fa27e07abc70e84",
+            "message": "add @@author tag in the code",
+            "insertions": 30,
+            "deletions": 21
+          },
+          {
+            "hash": "1da28dcdef7ac962c44ecc4a06fa02336d8f6b24",
+            "message": "remove white space at aboutUs page",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "08f076cc77f215f125e851a283439c82dd7268aa",
+            "message": "adds reposense",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "kev-inc": [
+      {
+        "insertions": 117,
+        "deletions": 81,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "662fecac3d024b17679034a66d398e2252b430c1",
+            "message": "updated command list and command summary for user docs",
+            "insertions": 116,
+            "deletions": 80
+          },
+          {
+            "hash": "a051cc93e437f63a81559846e54f1bb243f6cd0a",
+            "message": "formatting changes to user doc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 102,
+        "deletions": 98,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "5046afedac24c4da8a391b84a5a767604efa2155",
+            "message": "updated userdocs",
+            "insertions": 102,
+            "deletions": 98
+          }
+        ]
+      },
+      {
+        "insertions": 43,
+        "deletions": 18,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "f079f4addfe2254222766ccf6b609fd9fa13a21d",
+            "message": "fixed date formatting error",
+            "insertions": 34,
+            "deletions": 11
+          },
+          {
+            "hash": "918b904fc4d87bbfff2a241482c93ee10f0b8900",
+            "message": "fixed checkstyle formatting",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "c91c6af904290454177f5f7c2e04ae5a06ce1b4a",
+            "message": "fixed ViewGoalCommand formatting",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 15,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "f0d99ad433d3741491aafcc6798527407b4f5191",
+            "message": "fixed negative price issue",
+            "insertions": 19,
+            "deletions": 5
+          },
+          {
+            "hash": "a6681527105f164b974435818a98c75ef979ba11",
+            "message": "removed check for negative savings",
+            "insertions": 3,
+            "deletions": 8
+          },
+          {
+            "hash": "a2e3a9bb0b112e52461985b3cc40dcc4fae01387",
+            "message": "removed unused import statement",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "351dcddd54343100950d9ad359f92b9ce98ba91a",
+            "message": "added reposense",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "598cba96f7ee82b225488bef1d62e101b6e5d547",
+            "message": "added EOF for checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 4,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "52a008dc817b65b28affb36d86403b5cb2170a6c",
+            "message": "Delete config.json",
+            "insertions": 0,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 293,
+        "deletions": 64,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "63c226d194db6f43efd092dd8e2f77515a926925",
+            "message": "fixed edit expense functions on ui and storage",
+            "insertions": 48,
+            "deletions": 5
+          },
+          {
+            "hash": "3af0f9318fb72a8f833605ed7b58436580694a3c",
+            "message": "added sequence diagram for setgoal command in dev guide",
+            "insertions": 55,
+            "deletions": 0
+          },
+          {
+            "hash": "46bc1d4f5ca97af3b3ead352b55f2ba92393117c",
+            "message": "added javadocs for new recalculateSavings function",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "1a56ccc08a8b7bd579993114ad1afeac076c2874",
+            "message": "fix data folder accidental move",
+            "insertions": 0,
+            "deletions": 40
+          },
+          {
+            "hash": "6a36d9867bdb9f5b0241de52930c71c394710160",
+            "message": "removed print lines",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "991e81539d155e3bc8b901d966822a496357cf18",
+            "message": "ppp",
+            "insertions": 61,
+            "deletions": 1
+          },
+          {
+            "hash": "6eb3426fa035bbaa99d4ddc5c41e933adcf6b37d",
+            "message": "completed ppp",
+            "insertions": 25,
+            "deletions": 3
+          },
+          {
+            "hash": "c5b491be62ae742a11d6c1f7b5afa7a761f9a9f6",
+            "message": "fix aboutus link to my portfolio",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c3ac1e38e3f1c3846e769c4bb9d088b790273ce1",
+            "message": "created jsonadaptedbudget",
+            "insertions": 33,
+            "deletions": 1
+          },
+          {
+            "hash": "244a0de466b44c66d140982454d341490d02b5a8",
+            "message": "fixed storage expense date",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "a8e2be34cec0369689ac75495f0f7c70340011fe",
+            "message": "budget partial",
+            "insertions": 59,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 57,
+        "deletions": 40,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "4cf13e8e226c780e645646b4805fa59739d9fafd",
+            "message": "implemented storage for budget",
+            "insertions": 8,
+            "deletions": 13
+          },
+          {
+            "hash": "7632e5f8e918f4022f71450e537f9811ff071b32",
+            "message": "fixed checkstyle",
+            "insertions": 38,
+            "deletions": 22
+          },
+          {
+            "hash": "720e7344628025ade1316cd1e1ed36bec3fd3543",
+            "message": "fixed nullpointer for null goal",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "238e2afd7b887f2132b412a176205462a1766603",
+            "message": "checkstyle fixes",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 113,
+        "deletions": 43,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "765141fdd0f831f3ff1a100b087cbab27ecdb285",
+            "message": "shifted main window items",
+            "insertions": 113,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 90,
+        "deletions": 48,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "1a771a831f1a9ee356ddb67f8a2f81dc9ddb94ce",
+            "message": "added autocomplete for my commands, and setgoalcommandparsertest",
+            "insertions": 90,
+            "deletions": 48
+          }
+        ]
+      },
+      {
+        "insertions": 1005,
+        "deletions": 96,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "ca0c2bb1d2e318d1c6b873dc98d19fef9a1c9a2c",
+            "message": "added addallowancecommandparsertest",
+            "insertions": 131,
+            "deletions": 1
+          },
+          {
+            "hash": "b9f3a2dec24dd9d344de4a965526d3635431525e",
+            "message": "added deleteallowancecommandparsertest",
+            "insertions": 31,
+            "deletions": 0
+          },
+          {
+            "hash": "7fffde6da4368e6a138a73a060ba37121e95b5fc",
+            "message": "added editallowancecommandparsertest",
+            "insertions": 403,
+            "deletions": 27
+          },
+          {
+            "hash": "9b2359ccf66698c4cfa660bdae5d9205b7a5d357",
+            "message": "added addallowancecommand system tests and some storage tests",
+            "insertions": 429,
+            "deletions": 50
+          },
+          {
+            "hash": "78493d121a164ed5dd1ea9e7d284d85efae0ce88",
+            "message": "fix merge",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "530e54f7bc152055b06f3deedcb73ca7a6bbca01",
+            "message": "added back some ignored tests",
+            "insertions": 10,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 130,
+        "deletions": 85,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "cf57a072f54bbfa3838b50d5670681cfe19d19a2",
+            "message": "unignored somemore tests",
+            "insertions": 52,
+            "deletions": 36
+          },
+          {
+            "hash": "60dffcb43b16dae6be694eaaa9ba267ff9ee749a",
+            "message": "removed unused commands from UG",
+            "insertions": 53,
+            "deletions": 46
+          },
+          {
+            "hash": "4ee68f2251caac95798797f2f2453c9c8fcaee07",
+            "message": "prevent user from creating allowance and expense tags",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "501952d6c05cc68c42ec745529a8216ac3a368d2",
+            "message": "corrected formatting for UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3acd25c605c408e9f46bc48ef4526b08ea1c67b1",
+            "message": "fixed broken test cases",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 205,
+        "deletions": 35,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "e305718d7d5f6f23425ebb6acbcbbdeacb2aa0f5",
+            "message": "fixed goal-savings difference to 2dp",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "b2dfae7b0e96f0c115bf193cc8b309bbc183e860",
+            "message": "added text wrap for goal in UI",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "5cf0364bb4f7286d325b224790f4b14da667cf6d",
+            "message": "refined my commands and tests",
+            "insertions": 97,
+            "deletions": 23
+          },
+          {
+            "hash": "1c8aa089c12f6ebe5aa1b38c5c7e36dd4b7ee43b",
+            "message": "added editallowancecommandtest, nametest and costtest",
+            "insertions": 101,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 161,
+        "deletions": 51,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "2f3ba1cbcee2516c2531820d10e8ea873684cb35",
+            "message": "added email to reposense",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "3bbdfcb7f01dbefe9299adf331632e483d0c8fc7",
+            "message": "travis fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a7e4f8190cad768f3de09c25dec2791ec63dfcca",
+            "message": "fix trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "97da63c9b21967dfd751720a72bf91ece5f8762e",
+            "message": "added author tags",
+            "insertions": 76,
+            "deletions": 2
+          },
+          {
+            "hash": "76c22274dfc783d4069bde53f49b21f00f60a051",
+            "message": "fix setgoalcommand picture in DG",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "1560a2bfa5c8259adf41cde3b38ad3c37f6e4f1f",
+            "message": "shortened PPP",
+            "insertions": 19,
+            "deletions": 17
+          },
+          {
+            "hash": "df24dbe408037551cc4392f80755a8bca36e15b8",
+            "message": "updated ppp",
+            "insertions": 29,
+            "deletions": 10
+          },
+          {
+            "hash": "b33c1c0165f94bf1779721b1b00f0eac48f44598",
+            "message": "changed header name to ePiggy",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "118994a7608030030a21966a15291081f63ca6cf",
+            "message": "minor changes to README",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9e3a77c4331007d61f86de3d29ecd6f2955f477e",
+            "message": "changed formatting for contact us page",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "7ddb51ed883039296729791020cb2982f47dbf2d",
+            "message": "shortened ppp",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "16dd9984f27c13fa2446f72450ff28455ab1ae45",
+            "message": "changed to v1.4 and added in clear command",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "1c9fe57cb6694831f07039f84aa44cf3c15334a9",
+            "message": "changed github link and fixed expense link in DG",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "pdnm": [
+      {
+        "insertions": 40,
+        "deletions": 30,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "47f840f404ea8e18aec1c3b5c01d47b04a3e25d1",
+            "message": "Fix style",
+            "insertions": 33,
+            "deletions": 25
+          },
+          {
+            "hash": "46ce8536ae2fd81e6093441deef24a7af9da0cd1",
+            "message": "Add author name for reposense",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "863d24546b488a76e61bcbfc644638a217e7d040",
+            "message": "Fix minor bugs",
+            "insertions": 6,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 446,
+        "deletions": 17,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "e21c2df9800d33b146c385af8849ebccdc9b0463",
+            "message": "Add delete expense command",
+            "insertions": 130,
+            "deletions": 1
+          },
+          {
+            "hash": "f6b9f7d8bcd2f95a0334d6713bcda8894b5dae1f",
+            "message": "Implement edit command",
+            "insertions": 304,
+            "deletions": 1
+          },
+          {
+            "hash": "8c4c59da57cd10adae3f95c48648ee6e2f66e198",
+            "message": "Fix delete command",
+            "insertions": 12,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 64,
+        "deletions": 24,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "c70e28dfc9c5e890bf1af26d3c72053280879f22",
+            "message": "Update User Guide",
+            "insertions": 13,
+            "deletions": 24
+          },
+          {
+            "hash": "e79933b717bba69e11dbf195e9ee486a0516c74e",
+            "message": "Add ppp",
+            "insertions": 51,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 35,
+        "deletions": 24,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "6f86fe6a043c3f8a9d098520b9735955ef9d52e5",
+            "message": "Fix undo/redo",
+            "insertions": 17,
+            "deletions": 18
+          },
+          {
+            "hash": "84d737010f2e9bf6c5b79181e99d36b41c15e216",
+            "message": "Fix JsonAdaptedGoal",
+            "insertions": 18,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 25,
+        "deletions": 4,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "22a5b401ad2ea44ae3c6b452068e934070e6426c",
+            "message": "Fix undo/redo budget",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "866c52692b928b1eec493adeddcb53d97f590177",
+            "message": "Autofocus on new/changed expense",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "4c51301727f759b0ab100828def81f54d7d713a8",
+            "message": "Autofocus on new/changed allowance",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "97b8b6bc674619b15b5524dc8ecbff447281dc0d",
+            "message": "Fix edit expense tags",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 70,
+        "deletions": 1,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "00070413834c2cd7633b7b6bb8922f748a9516ed",
+            "message": "Typetag on seperate line",
+            "insertions": 70,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 219,
+        "deletions": 24,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "861dac5df37a073a0b2f1b86da6e949e1dc42634",
+            "message": "addExpense command system test",
+            "insertions": 213,
+            "deletions": 18
+          },
+          {
+            "hash": "ddd32c68a0c5890ba9f690f974ed75b037a8e211",
+            "message": "Fix test dates",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 4,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "640ffef828afdb3268e2f9d5d6dbb12ad18a222b",
+            "message": "Update UG \u0026 DG",
+            "insertions": 10,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 144,
+        "deletions": 31,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "b097e41196cd81c09bd7321c9abe723bf369e16e",
+            "message": "Add DG for basics",
+            "insertions": 60,
+            "deletions": 0
+          },
+          {
+            "hash": "48fd90b2c436f887bc151fe762bdc2a3415414e6",
+            "message": "Update ppp",
+            "insertions": 72,
+            "deletions": 19
+          },
+          {
+            "hash": "9868c215efcdb180a7cf8536e09032afda6fe9f6",
+            "message": "Update PPP",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "4c3029a5a92a8b27770ec4fc4b2d6c59d9186993",
+            "message": "Update Undo / Redo DG",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      }
+    ],
+    "tehwenyi": [
+      {
+        "insertions": 74,
+        "deletions": 4,
+        "date": "2019-02-16",
+        "commitResults": [
+          {
+            "hash": "fc4f91dd6a2c33fa696207a617ab55b564541287",
+            "message": "changed ui: different colours for different tags",
+            "insertions": 73,
+            "deletions": 3
+          },
+          {
+            "hash": "e77b91017df2a08629c19016f49bc04a374d8393",
+            "message": "changed font colour for turquoise",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 324,
+        "deletions": 175,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "66dc7f4f2f5b6cb804e6a38ad5ddbc796dabd91d",
+            "message": "updated contact us and user guide",
+            "insertions": 209,
+            "deletions": 159
+          },
+          {
+            "hash": "f7edf433c583bfe8d6721deddbf79ae356961af6",
+            "message": "update first line and title of user guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "10a689b2f7c181979634bbca3ede550df272fa0f",
+            "message": "add 6 user stories",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "181d325baeff9fc5bc132b2582e4ab0c76e175ba",
+            "message": "add use cases: edit, setBudget, recommend, forecast",
+            "insertions": 98,
+            "deletions": 1
+          },
+          {
+            "hash": "8bfe28d383269a6ef95dd1b197d765f19bd87203",
+            "message": "formatting changes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "79b3cde21003f0b827df851b08cfb808d4ff7645",
+            "message": "formatting changes to personCard",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "024184230553be16de00a93704f9f0e2b130b824",
+            "message": "remove trailing white spaces from PersonCard",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "893ebb36d36ec31348797519d32aaa06394b4e1b",
+            "message": "fix failing test cases",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "0921086d70bea575cca45a4282f1379ef76126ac",
+            "message": "update edit feature in user guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 58,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "6c10282f195f78a846b5379b65d13959bc7aa0f3",
+            "message": "add date class in model",
+            "insertions": 58,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 9,
+        "deletions": 69,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "75ea1ef9ddcc1b0788e258c38fe42de42a4cda45",
+            "message": "Revert \"add date class in model (testing)\"",
+            "insertions": 0,
+            "deletions": 58
+          },
+          {
+            "hash": "995dc3a1ba82910c969623d0a595744208e91929",
+            "message": "update aboutUs doc to change roles",
+            "insertions": 9,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 447,
+        "deletions": 120,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "ce348a3f7a25363db253ab02d5259a4f07f8c9a4",
+            "message": "add period prefix",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "e36fec1fc3aad28b9955989d3e92b29904fa701b",
+            "message": "add new constructor with no parameters for Budget",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "4a12e2a62d81a9e6f4c19db61525daa88de7316c",
+            "message": "create SetBudgetCommand class under logic",
+            "insertions": 62,
+            "deletions": 0
+          },
+          {
+            "hash": "161ec55cac3b427b8d7e52de0e44c8c135d62d9d",
+            "message": "add Budget to addressbook",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "baef76ec873e74e5a0bfedf7bc3f4db41bbf7c9b",
+            "message": "add setBudget to Model, ModelManager and ReadOnlyAddressBook",
+            "insertions": 13,
+            "deletions": 8
+          },
+          {
+            "hash": "549b8d10483d2b606977ec9f96b181858e0e552c",
+            "message": "edit addcommandtest and addressbooktest to remove getBudget temporarily",
+            "insertions": 11,
+            "deletions": 4
+          },
+          {
+            "hash": "654699638f38e5034da7f33631793471a90025a9",
+            "message": "changed budget in AddressBook to SimpleObjectProperty",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "d266c25155c8b3270e8457ede9566c8649184baf",
+            "message": "Add a new Period object in model, which represents timePeriod",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "360effa5c131f7c7fa7323945508b56b0d7c495a",
+            "message": "add a parser for setbudgetcommand",
+            "insertions": 54,
+            "deletions": 0
+          },
+          {
+            "hash": "e51c525fb6c3551fa6e15a783c5230fe6fd9eb76",
+            "message": "add setbudgetcommandparser to addressbookparser",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "66da6beb6cc504cf4f4d43b096d73af5aeb58f45",
+            "message": "add parsePeriod in parserutil",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "101f8b8b467236299f1f587321b51c6440bb1ed2",
+            "message": "add validationregex and messageconstraints in Period to check if period is valid",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "bbf45a8c787427d4e47570ab3054cba966db4593",
+            "message": "add validationregex and messageconstraints in Price (will need to change the validationregex when we change amount to double)",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "98be24f20fe90319b340002e5b25118f31f206e9",
+            "message": "add check for validity for time period input in ParserUtil",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "f58e7b5de3bc2753cc3e7e228d9c2f606b19b711",
+            "message": "minor formatting changes in SetBudgetCommand",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "193b49963d7f8dcc1d707b70ffe591d469ca15ad",
+            "message": "Add a temporary second constructor in Budget which doesn\u0027t require the Date",
+            "insertions": 18,
+            "deletions": 7
+          },
+          {
+            "hash": "b27b7982b7a88917af9ccb770204fa3b72bf1677",
+            "message": "changed message for addCommand for my debugging",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "646c0fcb8673a6b51a5b73bd8cde4bfb1659219e",
+            "message": "add toString method for Budget",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "2d0b3e8de0c1fc314fb13732f67747e82ceaa3ab",
+            "message": "add toString method for Price",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "8058c757724c4496ad64578641f97ca343800411",
+            "message": "add toString method for Period",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "b6d763b19875e19c2d17296d5c84282cbb030fd0",
+            "message": "changed formatting for budget toString",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cce8786ed67e24463256bfd498784fc02ccab0a5",
+            "message": "formatting changes for budget and setbudgetcommand toString",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "3a951f8a5aa1cd2cddd05e5f5a951ed2084e7554",
+            "message": "formatting changes for budget toString",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "62f3d25559ec56fc85481f108285da7233e9bd6d",
+            "message": "Add new Date class with constructor and check for validity",
+            "insertions": 65,
+            "deletions": 0
+          },
+          {
+            "hash": "2c06631398ea6199c1569293039278acb2f53451",
+            "message": "refined date class and allow date class to be used for setBudget",
+            "insertions": 87,
+            "deletions": 55
+          },
+          {
+            "hash": "fbbaa03de01c6deb946f85aad50c179a4a5b94db",
+            "message": "fix bugs for Date class",
+            "insertions": 3,
+            "deletions": 9
+          },
+          {
+            "hash": "8d4a1f0d6c2759f29cbaa960026664307e514cd5",
+            "message": "checkstyle changes",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "75c21cf9e8f697c9d408946c8add10820f9edb35",
+            "message": "checkstyle changes in Date",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "3090cb2005e7c86ae5a24468ae81af94004f1347",
+            "message": "checkstyle changes in Budget",
+            "insertions": 9,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 66,
+        "deletions": 13,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "ccee719b7dedd52e1c6d30963a242f07803ba1d9",
+            "message": "change period to be a period of days instead of weeks",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "503d07534842cb8c753315b8e222f2b48aaf8d81",
+            "message": "edited user guide so that period is in days and not weeks",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "09aace9bb49f22140bb97463fe021283828026b2",
+            "message": "add getBudget in addressbook",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "8b14dcc295a7479bdaf1a03bdd6a6af332741738",
+            "message": "add getBudget to Model and ModelManager classes",
+            "insertions": 10,
+            "deletions": 1
+          },
+          {
+            "hash": "6a2f109a98d8c4f2b4227230fab75f5d81b77742",
+            "message": "created new basic class ViewBudgetCommand to contain viewBudget command",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "200003eee6af09fe65c915e6e0c68ca2ff868070",
+            "message": "edit test case in addCommandTest to accommodate getBudget",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "00b9a321278e2f6771a8d6f6730f7cdee0cc102c",
+            "message": "correct checkstyle error in addcommandtest",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 206,
+        "deletions": 94,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "1fc62aeffc8f688d8516c01358f78b1bf6145733",
+            "message": "add addDays method in Date class to calculate the Date after adding a certain amount of days",
+            "insertions": 84,
+            "deletions": 13
+          },
+          {
+            "hash": "55f9207bbe9340a909b42bf4301f67acb04784c2",
+            "message": "add calculateEndDate method in Budget",
+            "insertions": 2,
+            "deletions": 20
+          },
+          {
+            "hash": "cb0497ac759afb7704841d7219ec54c7243f9c2a",
+            "message": "Add javadoc for getNoOfDaysInMonth of Date",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "b96120118f5f9469a1c2e1a92e2abbc882044987",
+            "message": "Edit User Guide: update setBudget, remove forecast",
+            "insertions": 4,
+            "deletions": 24
+          },
+          {
+            "hash": "abad450075526ddfe18c312754e5f01f20472cb4",
+            "message": "formatting Budget class",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "0bff4c874fb2d4df66778d9a335193dc51e1295f",
+            "message": "add fxml budget panel",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "d2cdb0634ed80078304ab93b04dd98b822ef8e1c",
+            "message": "add getBudget to logic",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "ca3b8ef71ea9668ce140e003eac13d00f74e1039",
+            "message": "Add a new Panel for Budget",
+            "insertions": 82,
+            "deletions": 0
+          },
+          {
+            "hash": "e6dd7150ccbe5b73b7f425c71f272c17543a3e11",
+            "message": "Updated BudgetPanel which prints Hello World",
+            "insertions": 0,
+            "deletions": 17
+          },
+          {
+            "hash": "80a22ca51d95011c190e9570e0f6ce21bc783ecf",
+            "message": "fix checkstyle",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "5526e73af17105d12625bad35e959bb924d15fa4",
+            "message": "fix checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "6c6eb7f9fba994248cfeb553f5efc0b8dfcc1626",
+            "message": "Ignore HelpCommandSystemTest case",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 178,
+        "deletions": 29,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "e883307d77d9759bd8f842fd87db9e1b86702d39",
+            "message": "Create BudgetCard in UI",
+            "insertions": 99,
+            "deletions": 0
+          },
+          {
+            "hash": "f2d6b4a5bed36701d3923b4e33f1250d54338915",
+            "message": "Edit BudgetPanel",
+            "insertions": 27,
+            "deletions": 7
+          },
+          {
+            "hash": "2fc441764eaa4d51b515b634f024a984e73bd037",
+            "message": "add ViewBudgetCommand into parser to test if it works",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "e32756d2a399c2bff64e7f831fb5d11703b9a2c1",
+            "message": "Create BudgetListCard fxml file",
+            "insertions": 32,
+            "deletions": 11
+          },
+          {
+            "hash": "0056d4fe0a6042f69449e4359add203fdff7fe78",
+            "message": "Changed return type of getBudget to that of SimpleObjectProperty\u003cBudget\u003e instead of Budget",
+            "insertions": 14,
+            "deletions": 9
+          },
+          {
+            "hash": "c71494ce12408059d3f48515b7f61e68f6812f96",
+            "message": "Checkstyle fix in AddCommandTest",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 113,
+        "deletions": 36,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "e1111457cf03320202081216f47777f7006c84ae",
+            "message": "format toString of ViewBudgetCommand",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "ad6d096ab959b001af8dbe8a56ee681852e7e95e",
+            "message": "initialise budget in constructor of AddressBook",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "e5dd9d7fd441a817afbb7644564eea9bcd397a74",
+            "message": "Edit formating of BudgetCard ui",
+            "insertions": 11,
+            "deletions": 10
+          },
+          {
+            "hash": "6616f80b7d901676f0838b6d03f4a590fe46f065",
+            "message": "Edit BudgetPanel ui",
+            "insertions": 24,
+            "deletions": 1
+          },
+          {
+            "hash": "abbcdb281e6e5ae101feeb53dc4985451a1f5da2",
+            "message": "Edit BudgetListCard fxml file",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "43f27fce8827bdbef1fdac9ef7a7f4e8d73e7247",
+            "message": "Add a deduct price method in Price",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "6bd56275362f9bdc5ae877c9a12eda3c5dcb4c8b",
+            "message": "Add a new constructor in Budget which does not need to take in any parameters",
+            "insertions": 22,
+            "deletions": 1
+          },
+          {
+            "hash": "1e883622ae29592c51df50d5b4281442f6bc2e3e",
+            "message": "Edit UI formatting for the Budget Panel",
+            "insertions": 12,
+            "deletions": 8
+          },
+          {
+            "hash": "04c9476d8d7649955f6085f90a07387ca5c37305",
+            "message": "Add Consumer into BudgetPanelfor ui",
+            "insertions": 22,
+            "deletions": 8
+          },
+          {
+            "hash": "e14d6e80c0022deb21caa2bd7311562f22db6042",
+            "message": "checkstyle fix",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 541,
+        "deletions": 178,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "e73d2c60ca104592b57d44e6c9f322bf0a07a201",
+            "message": "Edit budget part of addExpense in AddressBook",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "ef80fafbab01b99b873fe4e73f0758c49d9af7a0",
+            "message": "Only allow budget of \u003e/usr/bin/bash to be set",
+            "insertions": 19,
+            "deletions": 2
+          },
+          {
+            "hash": "91e3d7e5cb80d61cda35aed27c64b218d993416c",
+            "message": "Add a new isAfter method in Date class to calculate if the date comes after another date",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "7d9c16f1e52b6cecf4a86d30f53d22dc51e7ee4c",
+            "message": "Change Date in Expense, Allowance to the Date class in ePiggy",
+            "insertions": 20,
+            "deletions": 14
+          },
+          {
+            "hash": "bd096026f6979e9846aafea3b10169dce593205d",
+            "message": "Add a new addBudget command which adds a budget to an Observable List of Budget called BudgetList in AddressBook",
+            "insertions": 36,
+            "deletions": 1
+          },
+          {
+            "hash": "7330d66d70fd10415c483ef98a77e38fa8bef840",
+            "message": "Will automatically add a new Budget everytime the end Date is exceeded when created a new add Expense",
+            "insertions": 88,
+            "deletions": 37
+          },
+          {
+            "hash": "7bc5a5d76347419d0a18cbeb4efd341d523a7db9",
+            "message": "Add timePeriodBetween method in Date to calculate the time period between two dates",
+            "insertions": 61,
+            "deletions": 0
+          },
+          {
+            "hash": "9178c7956393904859ce8dfe905d6e0c7c484c13",
+            "message": "everytime a new budget is added, it will take into account the current expenses",
+            "insertions": 35,
+            "deletions": 7
+          },
+          {
+            "hash": "adc7eca50472920a3add575cb1d77f5d8aa5544e",
+            "message": "Changed all the Date to java.util.Data",
+            "insertions": 66,
+            "deletions": 37
+          },
+          {
+            "hash": "998dc33114bcf7ec649d5861907a801be937fa3f",
+            "message": "Minor changes to parseDate in ParserUtil",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "470214f0189b374762b24b32a9ae0f836b6b6574",
+            "message": "Add TODO for parseDate in ParserUtil",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "a037f22ddf69b848da88475c7bc7ee583afa50ac",
+            "message": "allow remainingDays of old budgets to always be 0",
+            "insertions": 67,
+            "deletions": 19
+          },
+          {
+            "hash": "4d2ea009532bd10af8260e32b201d7ac935314c3",
+            "message": "minor changes to AddressBook",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "b3be1695f3ebb0822baba6bc39b721acda075eac",
+            "message": "calculate remainingDays when new expense is added",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "d6955c6272b3e9659f4696dee8a7696a96efaf32",
+            "message": "Add a status in budget to show whether it\u0027s the old or new budget",
+            "insertions": 84,
+            "deletions": 45
+          },
+          {
+            "hash": "aff3c2b81bd6b5f18448f0226c92587feb62dc2d",
+            "message": "checkstyle fix",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "c8bbe7c03e4f1d02f021cb1e51eaf9daa7980595",
+            "message": "Updated user guide",
+            "insertions": 34,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 157,
+        "deletions": 5,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "552b8e3299ce74cc79cf7f4d79c8e69f051bb5dc",
+            "message": "edited startDate of newly created budget to be the same as the endDate of the previous budget",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "acc93205b29a623d37839ee7b4307cc69d61bbbe",
+            "message": "create editBudgetCommand",
+            "insertions": 156,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 597,
+        "deletions": 258,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "5237fd198ca383bbb5a0599cb909b67094c0108a",
+            "message": "add editBudget command",
+            "insertions": 328,
+            "deletions": 113
+          },
+          {
+            "hash": "2359ff08924aa2217720b209e4092341809ff371",
+            "message": "Added editBudgetCommand, changed budgetList in AddressBook from ObservableList\u003cBudget\u003e to UniqueBudgetList which contains an ObservableList\u003cBudget\u003e",
+            "insertions": 24,
+            "deletions": 15
+          },
+          {
+            "hash": "03ddce693c0536d9b758a7927aa9faeb26031566",
+            "message": "Add EditBudgetCommandParser class",
+            "insertions": 64,
+            "deletions": 2
+          },
+          {
+            "hash": "57c2c96d34f41dec0290b1a291a17633a6f09faf",
+            "message": "Add EditBudgetCommandParser and EditBudgetCommand to AddressBookParser",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "7325e369b5f55cab9e9b39490e61b52430ff068f",
+            "message": "Edit MESSAGE_USAGE of EditBudgetCommand and SetBudgetCommand",
+            "insertions": 70,
+            "deletions": 29
+          },
+          {
+            "hash": "e089fd90f462f52dcb3cedcd39c746063a8a3a78",
+            "message": "checkstyle fix: comment indentations",
+            "insertions": 18,
+            "deletions": 30
+          },
+          {
+            "hash": "9392c71a8b3929e97225107d592a1c53a426d4e5",
+            "message": "standardise user guide and update budget segments",
+            "insertions": 87,
+            "deletions": 67
+          },
+          {
+            "hash": "7b62e4bafbab7994fffc23fe86b3344299f2971a",
+            "message": "checkstyle fix: remove unused imports",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 24,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "51ef4213d649a7cd6a1d4bc76bc133d44a0352f9",
+            "message": "clean up UniqueBudgetList",
+            "insertions": 18,
+            "deletions": 5
+          },
+          {
+            "hash": "db2ca1951524a9365c42d12df2f5df4ce380a967",
+            "message": "minor changes to uniqueBudgetList and AddressBook such that most recent budgets are on top rather than below",
+            "insertions": 5,
+            "deletions": 19
+          },
+          {
+            "hash": "fa1dea45b92ec2b263846b7d6734471df0cf4bd1",
+            "message": "limit budget list size to 20 max (number adjustable)",
+            "insertions": 18,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 259,
+        "deletions": 78,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "df7e3e177ffb55f79e6ed098349c266359f9dd3c",
+            "message": "Allow budgets to be added anytime and introduce a future budget status",
+            "insertions": 91,
+            "deletions": 27
+          },
+          {
+            "hash": "c75311cfe576009b32f46feb02b369ce023c11a9",
+            "message": "added index on ui for budget for deletion purposes and allowed editBudget to edit the current budget",
+            "insertions": 91,
+            "deletions": 20
+          },
+          {
+            "hash": "e86fc8fcdba90986f938c8266cbf347dfc2ab772",
+            "message": "reformat date format in UI",
+            "insertions": 15,
+            "deletions": 3
+          },
+          {
+            "hash": "3d86d6d95160315dc25e2bdd8b11772a90cd5d14",
+            "message": "edit updating of remainingDays to fit current date",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "f7abcb92b85a0bb27d21deb6b75287bcd7ff5ed8",
+            "message": "clean up code",
+            "insertions": 52,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 136,
+        "deletions": 22,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "fc5038c9f305fef874b5aac3b644141120864c32",
+            "message": "Add deleteBudgetCommand",
+            "insertions": 135,
+            "deletions": 10
+          },
+          {
+            "hash": "adddafa98220573913da45253b5a3f773f94ff46",
+            "message": "checkstyle changes",
+            "insertions": 1,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 76,
+        "deletions": 467,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "e35664110a9edbfead1ee829288b20b5abaf9284",
+            "message": "edit README to add coveralls",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7215fdf776f1b2803c228b4dd4491945a4549ec9",
+            "message": "disallow allowance to affect budget",
+            "insertions": 3,
+            "deletions": 242
+          },
+          {
+            "hash": "d327afe0124bc7c9a1a69cedac0b71a859fb581e",
+            "message": "clean up AddressBook.java",
+            "insertions": 31,
+            "deletions": 75
+          },
+          {
+            "hash": "5ae29e27e03532c43306d832d65eff83b43d624c",
+            "message": "remove unused hasBudget method",
+            "insertions": 0,
+            "deletions": 20
+          },
+          {
+            "hash": "a6e731543302584b1afd4e787bf69e0f5df13139",
+            "message": "fix previous bug in budgetPanel",
+            "insertions": 7,
+            "deletions": 12
+          },
+          {
+            "hash": "1fad90336adf9e25c13d2aa8f684558320db9402",
+            "message": "Remove unused viewBudgetCommand and budget SimpleObjectProperty in AddressBook",
+            "insertions": 0,
+            "deletions": 82
+          },
+          {
+            "hash": "d590ddf5a2e14627bb55558e0473b6c2643b5cd4",
+            "message": "remove the relevant methods from other classes",
+            "insertions": 0,
+            "deletions": 18
+          },
+          {
+            "hash": "c5a2593749492db0c07e29da53b83f01a45131d9",
+            "message": "fix budget bug where an expense added on a day at 12am will update the previous budget rather than the budget that starts on that day",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "de72595a62cd5f7d468c97878a39151d5efa3b6f",
+            "message": "Add a new line to inform the user about the status of the budget",
+            "insertions": 30,
+            "deletions": 12
+          },
+          {
+            "hash": "78e99ae094b4ed114574970af57d39f466ea0fd8",
+            "message": "checkstyle fix",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "f2f52b5f89084755267887e352110d8d44f93e14",
+            "message": "checkstyle fix",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1037,
+        "deletions": 252,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "b5fc7c04cb253d4a8d36a147353b9b13e0f166b8",
+            "message": "update user guide",
+            "insertions": 23,
+            "deletions": 9
+          },
+          {
+            "hash": "9a6b148931309656860ad53206de3c969569ac32",
+            "message": "Add a constructor in Price which takes in String, for testing purposes",
+            "insertions": 454,
+            "deletions": 0
+          },
+          {
+            "hash": "3df0ff307a3c42ab8bf2567c3d02b65636781538",
+            "message": "Add a constructor in Period which takes in String for testing purposes",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "c5bd16a57a56b2f2d2fd8b929c433b0c88e2b7c3",
+            "message": "Add BudgetBuilder class for testing purposes",
+            "insertions": 33,
+            "deletions": 61
+          },
+          {
+            "hash": "9fe921303a8b7fd87aacd1300f9ff95171c45f26",
+            "message": "Refactor a method which checks if the budgets overlap into Address Book instead of in SetBudgetCommand",
+            "insertions": 31,
+            "deletions": 9
+          },
+          {
+            "hash": "87c0abc9a874347684d3f015bd03e1cda2aeb8e7",
+            "message": "Complete refactoring by adding it the method into AddCOmmandTest",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "dbcb414f114ef82c0eaa2fe298635800bdf88d80",
+            "message": "fix bugs in BudgetBuilder",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3a9cb49631e97dddca9360dc122e9a3b5247fde7",
+            "message": "create SetBudgetCommandTest to test the command",
+            "insertions": 65,
+            "deletions": 49
+          },
+          {
+            "hash": "26e0951168e3fefee215aa2ff166d184dcb0372c",
+            "message": "remove unused method in Budget",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "25893d3ccbe9572c9603566ea2844926459f4cd0",
+            "message": "Add 2 more test cases to SetBudgetCommand",
+            "insertions": 46,
+            "deletions": 1
+          },
+          {
+            "hash": "4a27e8e3054d5560363c5d633f529c04db1e50c9",
+            "message": "Make the MESSAGES in DeleteBudgetCommand public",
+            "insertions": 179,
+            "deletions": 2
+          },
+          {
+            "hash": "6a097853be18614e51eb4e2cb33e1c16dbd79a24",
+            "message": "create typical budgets and add typical budget indexes to TypicalIndexes",
+            "insertions": 78,
+            "deletions": 0
+          },
+          {
+            "hash": "c24007a9fb0a8fd71f57cac308ae19f42ebedca3",
+            "message": "Add DeleteBudgetCommandTest",
+            "insertions": 110,
+            "deletions": 115
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 18,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "82b20b35d6a7b482919345481a3f5391a794e190",
+            "message": "checkstyle changes",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ae726c659945f1ee434473c880943ab2f5327c13",
+            "message": "checkstyle changes",
+            "insertions": 11,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 240,
+        "deletions": 92,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "85c933ce7c26fff187d924d7eaafe0f7b1e0c2d8",
+            "message": "Add shadowJar plugin",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "ac8480845dcb5cc6f0bbcbcb4abea5d17b1fa6a6",
+            "message": "create jar file in build/jar/data",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c2002cc99271db9feefff0aa575b3ac51c80e024",
+            "message": "update user guide with the jar file link and developer guide with our project url",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "94d3258fcb0d629daa3aca842f5be69ac88e560d",
+            "message": "setBudget to change to addBudget, refactor all relevant classes",
+            "insertions": 33,
+            "deletions": 33
+          },
+          {
+            "hash": "563917cfa2066cb938b7fbd56a298b16fc694505",
+            "message": "further refactoring",
+            "insertions": 20,
+            "deletions": 20
+          },
+          {
+            "hash": "58a1b5bd57ff8501ea0cfcd849c83843b8ededba",
+            "message": "update user guide to include more budget information",
+            "insertions": 11,
+            "deletions": 8
+          },
+          {
+            "hash": "1ba34de3dcaf311d57b63ccafd20ceb10c2d4f67",
+            "message": "fix UI bug in budget panel",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "135aaf2a29160f1f4c1bf24ab153684cc99e5e1e",
+            "message": "Refactor setbudgetcommandparser to addbudgetcommandparser",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "c63a695d8c7c62791fdf4b5b8d7a4f8b1a005d4e",
+            "message": "Update developer guide with AddBudgetCommand",
+            "insertions": 41,
+            "deletions": 0
+          },
+          {
+            "hash": "98ec1780696a4a842bc3f323570249b248ce87d7",
+            "message": "fix minor mistake in the sequence diagram",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "93e47444dbcb798d0d7a70ce6d9b73e1a3736cbc",
+            "message": "format developer guide",
+            "insertions": 30,
+            "deletions": 1
+          },
+          {
+            "hash": "6032d7e01ec56a76ee080311f00a3efa3a322f61",
+            "message": "edit text in dev guide",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "4cf7656666aa533d444ec6a4e111094cdad0f8af",
+            "message": "Formatting changes",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "aee8ed98cdcfdc14658fd04b02cfff6833e4a4e2",
+            "message": "formatting changes to dev guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0107704cff90bc200d393b5b0913af6cde531f62",
+            "message": "Add feature implementation for deleteBudgetCommand",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "adc9ce0640ec67c2ba146052311c7ef9ce502289",
+            "message": "Add editBudget feature command implementation in developer guide",
+            "insertions": 56,
+            "deletions": 2
+          },
+          {
+            "hash": "b2154d1cc92609842549f516039729565b6681a6",
+            "message": "checkstyle changes",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e5f84cd36441084d9af044dc35fd78d398202369",
+            "message": "add header picture for user guide",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "bfd86e7a96c89d02d1a404a1953c21d5520bbcd4",
+            "message": "update user guide header",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 189,
+        "deletions": 68,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "1fd89f332cc3124bed3aa751d6d494f22cd4d23e",
+            "message": "update user guide header picture",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "66f8340d77dee1768f3af1b2c27a2d370d2ca409",
+            "message": "fix header issue",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5cf9914278893034b65b943f7a4b117a3e1cebc5",
+            "message": "decrease size of header",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b48db8c91bb8f3f893bd65dc33fa1cb60116b502",
+            "message": "increase header size",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2c0709d22969af02eed81fc8908017f199ab36f4",
+            "message": "edit introduction of user guide",
+            "insertions": 13,
+            "deletions": 21
+          },
+          {
+            "hash": "451d7b0f7c4535d0d9ba0c899185da79d9e6c5cf",
+            "message": "test colour",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c0d465c7a6c02d8adff1b92cf750df2cfc08be5f",
+            "message": "normal colours test",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "024b27783f66a8eed3928ccf8786cad3e783d5e7",
+            "message": "Add gif before introduction",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "191a9f7d453f06faccd064a5b80b5ca4b8a847f4",
+            "message": "increase size of previously added pic",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f3784c408044686d45c7cfe4cae2063301bccc8a",
+            "message": "add dev guide header",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "f6583d9f3385cd7df160694f8d778d87eda67621",
+            "message": "increase size of header",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "cd6dab25d371ff18891f6a763565e40b07ecc3c7",
+            "message": "Fix bug where editing or deleting an expense will not change the respective budget",
+            "insertions": 15,
+            "deletions": 6
+          },
+          {
+            "hash": "a77797c6c1f12528d1e2005f9f4bb0fa38919a72",
+            "message": "Add new notification message for budget UI when budget is /usr/bin/bash",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "a853f087655a98f8d527505c2d405b00857d84cd",
+            "message": "try out different box colours for budget panel",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "f286ed1034bdde6889c49b031a10781fc86f16bd",
+            "message": "Add PPP for tehwenyi",
+            "insertions": 96,
+            "deletions": 0
+          },
+          {
+            "hash": "b0de515ad4638975ca2734cb05ef1b975186922f",
+            "message": "change colour of the reminder box in budget panel",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "671fe64cf50ecc221a4ff2c0eb575583825c95bd",
+            "message": "fix minor bug",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "402b5cc25454e53204547b8aa3fbff98628375c1",
+            "message": "fix checkstyle",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "fc127155e5a288137c09eb723d18d19a7fa15158",
+            "message": "add content to PPP",
+            "insertions": 15,
+            "deletions": 8
+          },
+          {
+            "hash": "9af35b25b43f90b9ccf947c7244073f782bab8aa",
+            "message": "change word phrasing ui",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d84676a11987eb373844ffb87229c7218beeb507",
+            "message": "add content to PPP",
+            "insertions": 10,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 1963,
+        "deletions": 1306,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "0ccef52d32143cd2d89dac18a4d7ea0e20b1da08",
+            "message": "fix formatting dev guide",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "17d76559482633ee6189ca45a2ba069a50b7e2a2",
+            "message": "add content and test colour",
+            "insertions": 6,
+            "deletions": 11
+          },
+          {
+            "hash": "8aa2c9e4a54b68f3a08ae444b5a9e37006f5f2ec",
+            "message": "test colour",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "163e5b39341ee9f809d4b613e382fcf72ebf2d61",
+            "message": "try different colour",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0c963cff1f9418af7e5a94f6fe9d8c8c522b675a",
+            "message": "test colour on normal text",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "316f73dc33c1225c7fd0b5509f641fb81a66ac6a",
+            "message": "revert to no colour",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1c8e125eeff18b661af7854dc428ada99031a677",
+            "message": "update content for PPP",
+            "insertions": 15,
+            "deletions": 12
+          },
+          {
+            "hash": "99a2c317ec80d6580c872cd058f49a1d67ca6005",
+            "message": "remove duplicated ReadOnlyEpiggy",
+            "insertions": 63,
+            "deletions": 81
+          },
+          {
+            "hash": "14b4cc28b6b51f489ed329f9208b963ba183b80a",
+            "message": "Refactor AddressBook to EPiggy",
+            "insertions": 244,
+            "deletions": 242
+          },
+          {
+            "hash": "d6a371316b190b27511e0a9b2b23effc680302b2",
+            "message": "Refactor variable names addressBook to ePiggy",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "b80146a1c7a99f1febf0107c8eba29baafb4024f",
+            "message": "Rename parts in dev guide still using AddressBook to ePiggy",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "4032c5f890f369bc41e8b8aefcca6a9e289a7fdf",
+            "message": "Change info in documents that contains Address Book to ePiggy and change command prints",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "ece4dd1a9f4f29d543192c0a532c26daf66404e7",
+            "message": "Refactor AddressBookParser to EPiggyParser",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "54992f84eebac570ae87a1d96cd2715978ead987",
+            "message": "Refactor wrong",
+            "insertions": 398,
+            "deletions": 398
+          },
+          {
+            "hash": "91fc5b15599374ed831123c13f90108c5b2fbc99",
+            "message": "Fix typo in doc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8c4edf744c174587ec83c63e8b03a721bcd7d3cb",
+            "message": "fix wrong refactoring",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b1cc502fbc3a2b9164b431403f6f947aa4df5a30",
+            "message": "add contributions to PPP",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "f2e00322f217fbfcc382cf8dee212b9e50f6bfd7",
+            "message": "Fix mistake where address became ePiggy",
+            "insertions": 52,
+            "deletions": 52
+          },
+          {
+            "hash": "b1436d81d87666cd953c5a5d6cfde8d9f8b264eb",
+            "message": "Ignore test cases",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "3a63ff732e6ec5fea5211c646de2d7ae4e96749d",
+            "message": "finalise PPP for milestone v1.4",
+            "insertions": 18,
+            "deletions": 9
+          },
+          {
+            "hash": "36d4142e5b83cb41d0d3b4aa3f1e054fa492c034",
+            "message": "Add test cases to cover lines in AddBudgetCommandTest. Test coverage increased from 62% to 85%",
+            "insertions": 120,
+            "deletions": 4
+          },
+          {
+            "hash": "76dd1aca0a48cd388bd66dd48cef5ced23bfe087",
+            "message": "Create new EditBudgetDetailsBuilder class",
+            "insertions": 317,
+            "deletions": 0
+          },
+          {
+            "hash": "8932ad1aafb06e621208e65831ad05b2374e7144",
+            "message": "Add two test cases for editBudgetCommandTest",
+            "insertions": 559,
+            "deletions": 213
+          },
+          {
+            "hash": "aa7ebc603453f0470442be42922fdd4d0664f105",
+            "message": "Add some new test cases for editBudgetCommand",
+            "insertions": 80,
+            "deletions": 186
+          },
+          {
+            "hash": "dcd07cd836f5a93185faadcb050843278f91c0ae",
+            "message": "Fix code problem in README",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "0f4c92c087e916fa9a82ff55b5d808a790d08472",
+            "message": "update about us",
+            "insertions": 10,
+            "deletions": 2
+          },
+          {
+            "hash": "e4acef0e8a62935834e224e907d7a0019cdf08f3",
+            "message": "move recommend feature to v2.0",
+            "insertions": 4,
+            "deletions": 20
+          },
+          {
+            "hash": "9d459b84fbdc0a5cc09db6249e2f5f7306d2225c",
+            "message": "Add html link of PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "299cb5a733c0ba3783a8b39f9f24ba3083d27bf6",
+            "message": "fix html link to PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8dae827e7cf0797383e2ae6bc3d256ec8fdfc25d",
+            "message": "Update AboutMe",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e07eb7e698f96ba45f6e5d8e96a4b599ee3fa398",
+            "message": "increase user guide header to match dev guide header",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9903b6ab8a1248251582829e499d1931f1a0d3ad",
+            "message": "add html links in about us for group",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "60a99b84067d1e1bb8223514a7ddf38b733f6f29",
+            "message": "edit aboutus",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b1da99dff2d433d3332dcfc1ff4ed9a262c89d12",
+            "message": "update version number in mainapp",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9c6fe42b0f5001e2ab61a06201647a718c22461f",
+            "message": "edit aboutUs",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "51e35211b74efe02016ee8177159d8587c914e3d",
+            "message": "fix stylesheet error in PPP",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "eaf8c148c38b7f73f850b76cfdfe73527ad31ce2",
+            "message": "fix PPP problem",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "fbe94bcf8496505ebcb65ce357487b48cb17aa68",
+            "message": "fix readme no UI picture problem",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b705b7e4c24da862f0077b5b3eb61bd4136cdc61",
+            "message": "fix ppp issue",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8d9a5fbf600e9b0882d09404c9a8f0223ce320b2",
+            "message": "add project portfolio header",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "bc1966d2f2db788b94c2896ebd56d0d9716403a7",
+            "message": "resize header",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "160efd34897c5c0cf065fd0a330bff6e902c0187",
+            "message": "change ppp header",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 1081,
+        "deletions": 699,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "0281b5dd0d9c288b4277e53b28b477f5de2210ab",
+            "message": "Create BudgetTest",
+            "insertions": 408,
+            "deletions": 28
+          },
+          {
+            "hash": "e7e0e35f4bbff4792acae073de4e0b2c71f8e708",
+            "message": "Disallow negative integers in period and create PeriodTest",
+            "insertions": 98,
+            "deletions": 48
+          },
+          {
+            "hash": "1ce7db4456fcb300c496a20508b4cb8f7a45e741",
+            "message": "Increase coverage of BudgetTest to 100%",
+            "insertions": 31,
+            "deletions": 32
+          },
+          {
+            "hash": "b878e1764b6e1581c7b19026e87dae3d47a98aa5",
+            "message": "Create UniqueBudgetListTest",
+            "insertions": 123,
+            "deletions": 109
+          },
+          {
+            "hash": "e6146bd71bf650fd5c70f58345f723503da1768a",
+            "message": "Remove unused methods in UniqueBudgetList",
+            "insertions": 9,
+            "deletions": 13
+          },
+          {
+            "hash": "648de16b0c7b7205276c58c0f9246652a29ff50b",
+            "message": "refactor the names of some budgets in typicalBudgets and CommandTestUtil to reduce confusion",
+            "insertions": 67,
+            "deletions": 61
+          },
+          {
+            "hash": "8af90256cba3727cd6d5b43e5ea395c54795bbf6",
+            "message": "Finish UniqueBudgetListTest",
+            "insertions": 157,
+            "deletions": 144
+          },
+          {
+            "hash": "10776abf8650a515b1e018c7024f3d409cf5ad39",
+            "message": "Fix budget bug where it does not notify when budget remaining amount is /usr/bin/bash",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "6d484779d11b9087393d62158020a53298943f12",
+            "message": "Remove parser for budget amount and let the addBudgetCommandParser use the parser for cost instead",
+            "insertions": 2,
+            "deletions": 16
+          },
+          {
+            "hash": "1eb235e5590f56bf8026007f6757eefd5ff731a4",
+            "message": "Change method name getCost in Budget to getBudgetedAmount to reduce confusion",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "6ce39af07acc6db95fc7b6ef11d1a9e9ca0eb639",
+            "message": "Edit messages",
+            "insertions": 30,
+            "deletions": 32
+          },
+          {
+            "hash": "12de9d8fcad6acfce8365669707ddc2b691ac47b",
+            "message": "Add new method in budget and updated budgetTests",
+            "insertions": 33,
+            "deletions": 12
+          },
+          {
+            "hash": "98d21dd16c96ee837f6c729cc57127d0733bba2b",
+            "message": "Fix order problem in periodtest",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "a13d19600dfd907b95a13a66bebab58b9a1a6a70",
+            "message": "Fix bug in budgetTest",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "3a1f1dd4d267924b565a154d15975e259edc027f",
+            "message": "Fix new time period limit of 1 million days",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "ad25052afad0a96faa026a55cb90ce26a0d2164c",
+            "message": "update user and developer guide",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "42409070c65627f5e8adcb4604fd6eefc498339f",
+            "message": "Add date formatting to budget string",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "44210ce0aff4846b9b52340b4117e8de72e5eff9",
+            "message": "Edit PeriodTest to reflect changes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c257a283e6901a1fe50f6c8218892bfee4488a5a",
+            "message": "More changes to PeriodTest",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6d5df4172b79101f4a616af840c185d50cd2d420",
+            "message": "Add new test to BudgetTest to increase coverage to 100%",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "41211eebafcc16beeeb185733a11b10179b9fe96",
+            "message": "Revert \"implemented storage for budget and fixed goal storage nullpointerexception\"",
+            "insertions": 25,
+            "deletions": 124
+          },
+          {
+            "hash": "12322577dd76036dfd7adf31627b06f9640b9e4c",
+            "message": "Add new test for budgetTest",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "3de61eb3cb219897d3f72ddefdef08381b3d7695",
+            "message": "checkstyle changes",
+            "insertions": 13,
+            "deletions": 14
+          },
+          {
+            "hash": "d9c20318474599244ede816ddc40ef25d5b557cb",
+            "message": "checkstyle changes",
+            "insertions": 24,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 40,
+        "deletions": 40,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "f86a35a31db3a8ee1c31f72776e30db5da1fe56c",
+            "message": "checkstyle changes",
+            "insertions": 40,
+            "deletions": 40
+          }
+        ]
+      },
+      {
+        "insertions": 535,
+        "deletions": 249,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "9e03c0b2e04420ac29429d01280a4bc255fc2e5b",
+            "message": "Add equals method in Cost",
+            "insertions": 155,
+            "deletions": 0
+          },
+          {
+            "hash": "593fb2e37a59841ce97670366437917590db9939",
+            "message": "Edit equals method in Budget",
+            "insertions": 25,
+            "deletions": 3
+          },
+          {
+            "hash": "aad1e22554c93f77875f339492d3a944673b1769",
+            "message": "Add new tests for the equals methods of BudgetTest and AddBudgetCommandTest",
+            "insertions": 11,
+            "deletions": 3
+          },
+          {
+            "hash": "b649b1ec5dcfe8a5d2b6703505ca909dcd0b3c98",
+            "message": "Add new Test Utils",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "ef09b6129418a6d81f5069bcd8af2de0f56edcfd",
+            "message": "Fix bug of date deprecation in BudgetBuilder",
+            "insertions": 15,
+            "deletions": 3
+          },
+          {
+            "hash": "adb5502c23e196ec6d59d6ff55812906d2b6101c",
+            "message": "Create new test: AddBudgetCommandParserTest",
+            "insertions": 93,
+            "deletions": 121
+          },
+          {
+            "hash": "607ed4979391b567a4e9401f5754ed35496ec310",
+            "message": "Add message constraint for Date in Messages class",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "adb0311063d6feb4123f4fe780ee20ee3b0eb336",
+            "message": "New complete test: AddBudgetCommandParserTest 100% coverage",
+            "insertions": 51,
+            "deletions": 65
+          },
+          {
+            "hash": "62d08b996edf5177ac2ba4dfec65da6a2b0c6111",
+            "message": "Fix bug in AddBudgetCommandTest",
+            "insertions": 25,
+            "deletions": 25
+          },
+          {
+            "hash": "127581dc0ebd34bd88701a03e2cd44be7a38d6f1",
+            "message": "Add new EditBudgetCommandParserTest, coverage 100% but still need to update 2 tests",
+            "insertions": 140,
+            "deletions": 1
+          },
+          {
+            "hash": "0e8b0ebe7a60a4a9f13fe243f0ebfbeac44cab7d",
+            "message": "Change default window size to height 700 and width 1000 compared to initial height 600 width 750",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "bc84d896df8735d1e0223a251a269795942242a8",
+            "message": "checkstyle changes",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "e8d489f7381c57041c013810d5d4f347405a170e",
+            "message": "update user guide to remove recommend command",
+            "insertions": 0,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 1047,
+        "deletions": 175,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "007b2d122a2378ea61527fa15ed636299c26d691",
+            "message": "Fix date deprecation in editBudgetDetailsBuilder",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "46121c2d4316b1ea0e90573ff432a8db7a416bde",
+            "message": "add 2 new test cases to EditBudgetCommandParserTest",
+            "insertions": 28,
+            "deletions": 28
+          },
+          {
+            "hash": "cf7100e76796407e4445072e4e15a8b238f4afb0",
+            "message": "Add new DeleteBudgetCommandParserTest, 100% coverage",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "63931fc640d4b2204ea614d20366e493026c96aa",
+            "message": "Complete EditBudgetCommandTest",
+            "insertions": 166,
+            "deletions": 1
+          },
+          {
+            "hash": "07dd9319385d30bd9f3c2ab43e192b64c605d5cc",
+            "message": "add new test in EditBudgetCommandTest",
+            "insertions": 13,
+            "deletions": 11
+          },
+          {
+            "hash": "7a7613d435d4682d368537841b386c1c95b33acf",
+            "message": "Change naming of certain variables to reduce confusion",
+            "insertions": 255,
+            "deletions": 9
+          },
+          {
+            "hash": "113810c9db6dc43f378fcb45e1d2d27905d21c67",
+            "message": "Add GUI handles for Budget",
+            "insertions": 106,
+            "deletions": 99
+          },
+          {
+            "hash": "a84607b5c0017eb6f898295d359af5681ffb7a42",
+            "message": "Add BudgetUtil and add AddBudgetCommandSystemTest",
+            "insertions": 243,
+            "deletions": 0
+          },
+          {
+            "hash": "ca50e1124d08c7931027b59396d4a67682461e18",
+            "message": "add AddBudgetCommandSystemTest",
+            "insertions": 42,
+            "deletions": 16
+          },
+          {
+            "hash": "85abcb4c57009715267fdf78b11d4cec1c2a130c",
+            "message": "Add tests to EPiggyTest to cover Budget methods",
+            "insertions": 26,
+            "deletions": 1
+          },
+          {
+            "hash": "e1f769aa7c224a3c8143ebf27637424b194df4d4",
+            "message": "Add new budget in AddBudgetCommandTest",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "b673ac308e01e066e925897ca2d83718ab02c0e2",
+            "message": "Add tests to uniqueBudgetList",
+            "insertions": 26,
+            "deletions": 2
+          },
+          {
+            "hash": "8bbf4eb6cf28476a8f8b6632d62ba91395f9c7a5",
+            "message": "Add new test case to AddBudgetCommandTest",
+            "insertions": 49,
+            "deletions": 0
+          },
+          {
+            "hash": "5fd0200155da36ef1a9296a5cf182a5a57d8730a",
+            "message": "add new test to AddBudgetCommandTest",
+            "insertions": 28,
+            "deletions": 3
+          },
+          {
+            "hash": "78e0f92f03318457f0dd441113fd6d50c4dd77ba",
+            "message": "Update cost Message Constraints",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7a73c30f5aca3df47b6a851609cdca76cb03029b",
+            "message": "checkstyle changes",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "7fe4af550953d1a6ebf8e1c9b12c540e83c81d02",
+            "message": "Ignore budgetTests\u0027 toString method",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 7489,
+        "deletions": 2034,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "6e496a3045eda794beb62acb40a7c8d0fd0e1a6f",
+            "message": "fix checkstyle in CommandTestUtil",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "209ee339b78e58884443337cb3f312327bc3c759",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6cd23e05125351e2fafbdd2ba7845fc06b634916",
+            "message": "fix checkstyle",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "86d7529062be24d56a720eb890e8ea275552b5e8",
+            "message": "Change clearCommand to clearExpenseCommand",
+            "insertions": 38,
+            "deletions": 38
+          },
+          {
+            "hash": "1144dbf853afeae4095c6ff31ba88675b6cfdea9",
+            "message": "change result display to include break between commands",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "76651ae942f7cb0c150a46535c6c6975f3916fdb",
+            "message": "change messageHistory for system tests",
+            "insertions": 26,
+            "deletions": 24
+          },
+          {
+            "hash": "7571368e553657871e2e9e5648e14870440dd404",
+            "message": "Revert \"Fix undo/redo for budget\"",
+            "insertions": 1,
+            "deletions": 16
+          },
+          {
+            "hash": "41bd6afc11be91e653e69ed74482f6bc76ae0b41",
+            "message": "Revert \"Fix checkstyle from previous PR\"",
+            "insertions": 9,
+            "deletions": 16
+          },
+          {
+            "hash": "124f78f3939bb2acf060d6855d200ebb680c4edb",
+            "message": "Revert \"Remove old\"",
+            "insertions": 7175,
+            "deletions": 1701
+          },
+          {
+            "hash": "20cd26b7a1d4fc377db2b4725b6ddd3fb5fa0858",
+            "message": "fix undo/redo for budget (copied from minh\u0027s code)",
+            "insertions": 48,
+            "deletions": 32
+          },
+          {
+            "hash": "3818a2153bbceb2879d5df68455118442235b0ae",
+            "message": "Fix budget updating bug",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "e7188809f6d426c1c896f1c01034f81c80854f83",
+            "message": "Change clearExpense back to clear",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4ce63eca9a06c95eebb508198c2ae76f0c69cc43",
+            "message": "Remove irrelevant addressbook commands from epiggyparser",
+            "insertions": 0,
+            "deletions": 28
+          },
+          {
+            "hash": "cdea2a57d513e933dbc06328d2cdc8e01ff0ca8a",
+            "message": "Checkstyle changes",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "0601f195d8c7a54d36100fd955224f10e0893fcf",
+            "message": "checkstyle - remove unused imports",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "6dbb71724b4bb44725550d9507547ac9e95296ca",
+            "message": "Fix parser tests",
+            "insertions": 107,
+            "deletions": 77
+          },
+          {
+            "hash": "86d769bcdc5307ea43e6b30dcedcf538d61a6502",
+            "message": "checkstyle fix",
+            "insertions": 4,
+            "deletions": 10
+          },
+          {
+            "hash": "a39bda77b8383105193787e6949f47f26f93c15e",
+            "message": "Edit clear message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "93eefab057b59517d6a262df583552d3717082fb",
+            "message": "Remove select command from helpcommandsystemtest",
+            "insertions": 10,
+            "deletions": 12
+          },
+          {
+            "hash": "ba320592aeeae42795e4c872d8370fdf91cd009a",
+            "message": "checkstyle fix",
+            "insertions": 5,
+            "deletions": 7
+          },
+          {
+            "hash": "009e4559ffee41ddd6286a694329eb4810e0f6c9",
+            "message": "add todo in epiggyparsertest",
+            "insertions": 7,
+            "deletions": 16
+          },
+          {
+            "hash": "60a55d81b60a29396e7a34068d65e85e6902918f",
+            "message": "change toString $ in cost to just a number",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "13f7e93eb49fa933d3c354524dedc8a7668d3601",
+            "message": "reformat ui for budget",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "9862df95a7e5f602766b691af666881b11eb748b",
+            "message": "Remove duplicate INVALID DATE FORMAT message",
+            "insertions": 19,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 210,
+        "deletions": 205,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "b6724e4d0c7b0275a78866b691ea7d574ca7e867",
+            "message": "Change messages to make it more readable",
+            "insertions": 43,
+            "deletions": 41
+          },
+          {
+            "hash": "28ad69fcf590703efffec51c93b87a412c273df0",
+            "message": "Change toString method for Budget",
+            "insertions": 7,
+            "deletions": 12
+          },
+          {
+            "hash": "77f83a16fa88903480c09f7b1601e6d7bfbb0fb1",
+            "message": "Add toString method in BudgetTest",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "e3cfdbc31c9532915255c2da7cc9ca4798c7611e",
+            "message": "checkstyle fix",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "17e3612be996631c4631b116da25bc264b474d35",
+            "message": "Update figure 3, component interactions for deleteExpense 1 command",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c4195da57bb783bce240623725e784e4927df93f",
+            "message": "Update Ui class diagram, figure 4",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f1b16ed24164ac91a207f8c3f27b220edeea1692",
+            "message": "replace address book with ePiggy and change delete to deleteExpense in dev guide",
+            "insertions": 62,
+            "deletions": 62
+          },
+          {
+            "hash": "179d69aae4ae1f55c499966061ac6412509fb19d",
+            "message": "Update addBudgetSequenceDiagram and ui class diagram",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8bfb8f25c54bbfb5b8b82c321a13c438789ec55f",
+            "message": "Add deleteBudgetSequenceDiagram to developer guide",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "da4a24f122ad0a14fe24ac82a009747de7fce4ac",
+            "message": "update user guide for budgeting parts",
+            "insertions": 28,
+            "deletions": 25
+          },
+          {
+            "hash": "17d934d9465dc1c57e120717cbc1e339d09f4a3f",
+            "message": "Fix typo in command summary",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "571e3726883a2dfca4ab19d6173fc4c47c62f84b",
+            "message": "update user guide",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "fbe8772a7966e5e268e37c68d3ec57e9df9a0a66",
+            "message": "update PPP",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "76852ae031a492b0711d8ca338c37ebcb55beb89",
+            "message": "Add alias to user guide",
+            "insertions": 41,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 208,
+        "deletions": 150,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "f524fc4474aa5f54ad6068ccc9473fd2a3f8d019",
+            "message": "Add user guide and dev guide into PPP",
+            "insertions": 15,
+            "deletions": 9
+          },
+          {
+            "hash": "db0e3174357419f9eb6d1b751db80c34c8a3636f",
+            "message": "update PPP",
+            "insertions": 58,
+            "deletions": 2
+          },
+          {
+            "hash": "b9dbabda03c84a3d46c826266910bc344a707ca3",
+            "message": "remove About segment in UG",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "c92f4ae5034ba85844b7226430a063ec4fc6e014",
+            "message": "update user guide",
+            "insertions": 25,
+            "deletions": 42
+          },
+          {
+            "hash": "31a4b23c6b2c9a575be4fe283768ab440f6aef2c",
+            "message": "arrange command summary in alphabetical order and rephrase future implementations",
+            "insertions": 36,
+            "deletions": 33
+          },
+          {
+            "hash": "8d7f59774437887a85ee2a2de4c6bc1e0072acad",
+            "message": "rephrase future implementations",
+            "insertions": 4,
+            "deletions": 13
+          },
+          {
+            "hash": "110d348d97babb098a979a8bf1df3660d5d52002",
+            "message": "rephrase FAQ",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "e8e681be9d4d3377ddf35463337f32e3069c28de",
+            "message": "move goal feature above report",
+            "insertions": 20,
+            "deletions": 21
+          },
+          {
+            "hash": "76be5afccb2d463ba599fb0db7f318493e7b0858",
+            "message": "Add new filled UI image",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "93d0e61ba993138292681a632b2314d514c16ab6",
+            "message": "Add status and reminder of budgets",
+            "insertions": 22,
+            "deletions": 2
+          },
+          {
+            "hash": "57e9eb15fd087551b1371eab8bcbee100aeeb7f3",
+            "message": "update PPP",
+            "insertions": 4,
+            "deletions": 11
+          },
+          {
+            "hash": "1d11bb49611035c808290485df28cce19ece934a",
+            "message": "checkstyle changes",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "beb4f39940f294eed2240e9e0bf8c8aecf691887",
+            "message": "fix missing addBudgetSequenceDiagram in dev guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 337,
+        "deletions": 357,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "ab340257eeb0b01bf8324c0cf159015221b34d75",
+            "message": "Add section headers for user guide and dev guide, command format and callouts",
+            "insertions": 18,
+            "deletions": 2
+          },
+          {
+            "hash": "8ee23c79c164a1e0d9d5325034bbc052a2f54af4",
+            "message": "edit section headers",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d878e9116b2e50af0e7c1bee6029f7334a59e899",
+            "message": "update section headers",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "a46bc1887d4aa98d32641ffb0968b3d60519f417",
+            "message": "decrease size of section headers",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "492290d00b41276918a9769799a0ac6e810843d3",
+            "message": "Add more section headers",
+            "insertions": 11,
+            "deletions": 8
+          },
+          {
+            "hash": "07f5ac3b63387848abff8a2bd1bbfe21b83838ed",
+            "message": "Add additionalInformation header",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "bd3a354958dfb8c858b1eb11f32b36e1edd88c29",
+            "message": "Add spaces",
+            "insertions": 52,
+            "deletions": 13
+          },
+          {
+            "hash": "6c4b9343e515165be11d32f5351991f7a4256d7f",
+            "message": "remove spaces",
+            "insertions": 2,
+            "deletions": 30
+          },
+          {
+            "hash": "9ff5062993c13825233f18f070f8706848b23db5",
+            "message": "Add example section headers",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "37a1bbcdd6c9807e08f3695a505521fb386e523e",
+            "message": "reduce size of example section header",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "0e33821583ca1c0b49fc541cc48e46690b70b82a",
+            "message": "Add budget status",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "663d31c22e7dc2e0266b3cb7ad63d68e8045ec47",
+            "message": "standardise spaces",
+            "insertions": 2,
+            "deletions": 15
+          },
+          {
+            "hash": "0c7de9b17d7c8351782228a69c6865838242bb10",
+            "message": "Add FAQ header",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "5001193b25a649627a38712567da898e85a2da4c",
+            "message": "increase size of FAQ header",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c0db6f4ee36388692d438511c0761a59f9babae7",
+            "message": "change autocomplete to auto-complete",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "547b219bcda4998729aa61e57a4bbb4bb7882683",
+            "message": "standardise diagram size",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "31bc30c139c25b0f422a982fd13a57fe43de1e6c",
+            "message": "update PPP",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "ad2748d124c05f90c502c2a863821ef4d8e47a3e",
+            "message": "add headers to PPP",
+            "insertions": 18,
+            "deletions": 10
+          },
+          {
+            "hash": "e421b2802212f309b4edd1f482a70f92d7cd70d7",
+            "message": "Add more section headers in PPP",
+            "insertions": 27,
+            "deletions": 17
+          },
+          {
+            "hash": "6216bef9a2073fc12329251c806d3e52caa03e53",
+            "message": "reformat PPP",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "a54c39c6a4f4d8b1e9f26d5da60aadb62ce1e9fa",
+            "message": "update PPP section headers sizes",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "584c6267004e5612aa88f165b7991ac9c17fa024",
+            "message": "increase section headers sizes",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "2d1d78504e5cfd8c8ba51dce1ebcc6ca89ce3c63",
+            "message": "format PPP",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4a490c1b87827be14cc9b8914fb3ecfe82f6bd4b",
+            "message": "reformat PPP",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "4caf676831288d3c048422995159966574a68866",
+            "message": "udpate major enhancement",
+            "insertions": 11,
+            "deletions": 7
+          },
+          {
+            "hash": "599bfc6c9f581e3216426d389e84b62a0fb343d6",
+            "message": "update PPP and update Ui in user guide",
+            "insertions": 52,
+            "deletions": 44
+          },
+          {
+            "hash": "9d3d9d52b0c7831d0892b81c8a8d7657abf7114c",
+            "message": "fix typo in PPP",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "015d2ef99217377c0feb5e6f1977d0ba0b561998",
+            "message": "update PPP",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "3ca339bb10782f9f9f3ebd61bb22a580051f907a",
+            "message": "edit tags in dev guide",
+            "insertions": 14,
+            "deletions": 6
+          },
+          {
+            "hash": "5b89459598d2400bf26fdd2a1ada4b4ee8097548",
+            "message": "update PPP",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "869e91e588063f377e9a9254d40cc352450d4db7",
+            "message": "remove links from appearing on PPP",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "f8735c071037308fa1aef6a59ff18c338630e942",
+            "message": "fix extracts not showing up in PPP",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "d70004e36a108098ca9c9ddf949c3d1471bbe12d",
+            "message": "fix extracts not showing up in PPP",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "ceb2a2ea511123a1340b2f086485598a53d96ebc",
+            "message": "update ppp",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "6cdc7de123afe1e09eee3b1feddd0b2a8089e84e",
+            "message": "delete johndoe ppp",
+            "insertions": 0,
+            "deletions": 72
+          },
+          {
+            "hash": "4802b6b7997aff9765520c26fafbb6e728f2217d",
+            "message": "remove title for PPP",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "49f4c309e4a181de19bd58ec320bb459538e5b45",
+            "message": "Cut down on PPP",
+            "insertions": 17,
+            "deletions": 26
+          },
+          {
+            "hash": "af592189588bb3a92860bd5a8bbf615c244b04a4",
+            "message": "cut down further on PPP",
+            "insertions": 5,
+            "deletions": 11
+          },
+          {
+            "hash": "2cd502cd0f0c4d5277e6f174826a4041a79e4adf",
+            "message": "fix typo in dev guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 251,
+        "deletions": 184,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "0c30d559c58b399b8c94ba720328c1bc7c723b4c",
+            "message": "checkstyle fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2b7a4072810891827d5c0ceb198950032fabe22e",
+            "message": "checkstyle fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a8ca55f59258aefa5d490cd5e28a55647b07b81d",
+            "message": "update PPP",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "3b63f3163bddee1c05931fa387b87b75f0831489",
+            "message": "add section picture for dev guide",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "516111e58723778c3d723ab7599b884c17a913e7",
+            "message": "Add section headers to developer guide",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "d58cecf20890039f2faf4c1fa6f87908ba8c5dde",
+            "message": "update PPP",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c67d504e0d5326d8ea364bc9e683eabb55868a8f",
+            "message": "Update About Us",
+            "insertions": 21,
+            "deletions": 9
+          },
+          {
+            "hash": "4004127e8c4146566c3f296df2866c6c37d365d8",
+            "message": "fix formatting issue in dev guide",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "0ef56cdb1671b5061b7314b9023ff149312debf7",
+            "message": "update DG",
+            "insertions": 64,
+            "deletions": 59
+          },
+          {
+            "hash": "85781639a4914ce04c7e30b1700d4c342db15d91",
+            "message": "update use cases",
+            "insertions": 38,
+            "deletions": 65
+          },
+          {
+            "hash": "ea9c846de79fece85a011c689962a86c049abd82",
+            "message": "add manual testing instructions",
+            "insertions": 52,
+            "deletions": 0
+          },
+          {
+            "hash": "12a1abe3e10dbf5410f2d02337f181663a507b4e",
+            "message": "resize pictures:",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e2987dbfbd3e77c0d3141a7c0e0c97c887b3f1bc",
+            "message": "standardise language",
+            "insertions": 32,
+            "deletions": 22
+          },
+          {
+            "hash": "d040900236753954a55a5bdb36024bab5f8880b3",
+            "message": "fix wrong formatting in PPP",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "83db550d360cd905266299c424054d5056ec4f0b",
+            "message": "change width of startup screen",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "92297fcf0a4eb9a4dee766fd0bfb449671c21ffd",
+            "message": "Update Ui picture and make it more filled",
+            "insertions": 5,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 655,
+        "deletions": 678,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "0dcb547982a386d046f7ba18e87d0c9be1f18140",
+            "message": "final checkthrough for UG",
+            "insertions": 77,
+            "deletions": 83
+          },
+          {
+            "hash": "a8a89f83abb831e3e5ad44e62808fc259ea820f6",
+            "message": "update README",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "2dd1b2547231113face7ce6c26878743b020bdab",
+            "message": "edit readme",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0a7a80917dffc84c1e23225cbdbedfed2609b3ae",
+            "message": "edit README",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0287cda69f7031485e34504fc7a5134b45fe86c6",
+            "message": "fix typo in user guide",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f761198f580145d61784ced9f1560e65eab15f91",
+            "message": "remove commented code from budgetPanel",
+            "insertions": 3,
+            "deletions": 56
+          },
+          {
+            "hash": "73993f8a04cac10f6c48cf250b9dfe90ea5bd71a",
+            "message": "remove TODOs",
+            "insertions": 4,
+            "deletions": 26
+          },
+          {
+            "hash": "e52f41ed0eac48de8db609c941efc74ec2dc4d47",
+            "message": "checkthrough java docs",
+            "insertions": 76,
+            "deletions": 34
+          },
+          {
+            "hash": "832e3260f69022d7e742f97bcce1e0bc8b430648",
+            "message": "update PPP",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "999019d45e48e861538917a581bb96efddaf4b04",
+            "message": "update PPP",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "45a928b14637ba37c1c886057e11b2f4df0f31f0",
+            "message": "update PPP",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "94331725f1d8f8243c296159e85bfce29bc5a371",
+            "message": "rearrange history to after list",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "f85a1021af1c1da7763d256a3fcc34f5a46747b5",
+            "message": "reformat TOC",
+            "insertions": 259,
+            "deletions": 258
+          },
+          {
+            "hash": "b6d0b942d208841a1770627f104d3c5112c0d37e",
+            "message": "reformat toc in DG",
+            "insertions": 36,
+            "deletions": 41
+          },
+          {
+            "hash": "0d98d99bbe3c71532a3d0bd54a4e4eec41df6333",
+            "message": "change TOC",
+            "insertions": 8,
+            "deletions": 9
+          },
+          {
+            "hash": "c73aaa91d328f2b9eaec65236a0f6ae540fec475",
+            "message": "Revert \"change TOC\"",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "426f8dfdd102c93892649a39a681811a7370a803",
+            "message": "update levels of TOC",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "e386d9ca2c46a2049d254a4075671536c5658af6",
+            "message": "reformat TOC",
+            "insertions": 29,
+            "deletions": 31
+          },
+          {
+            "hash": "d4dd0a16461f5844df4d89ec29137eb088279529",
+            "message": "reduce toc level",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e0af48dadc2b4e89b1433f054c46927aeb6b19e7",
+            "message": "fix typo in TOC",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "a268c951e045aa98b7f2e7a7a801f7ee11ea1918",
+            "message": "fix typo for TOC",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "42766ae4a9e38fdcc8d6980bb92949b32d19a073",
+            "message": "confirm TOC",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e188d7bfe52e2b11cd09537cc5ae6501ffdc93c3",
+            "message": "reformat DG",
+            "insertions": 52,
+            "deletions": 62
+          },
+          {
+            "hash": "d8ef002711a93858549ddbf093e798427c47d95e",
+            "message": "standardise figure names",
+            "insertions": 11,
+            "deletions": 19
+          },
+          {
+            "hash": "81f9484fc1e65c01ad797bced1c3efd58ae14bbe",
+            "message": "fix shortform",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "176386974b9dde204885b05c9c6b707aa2715393",
+            "message": "Add undo and redo into UG",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "5067464a9ee5e41481c35881012437d2ec917731",
+            "message": "Add additional info in UG",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "af0f11955ef11e640d8dba1e7257e7e9818530b4",
+            "message": "fix typo",
+            "insertions": 3,
+            "deletions": 5
+          }
+        ]
+      }
+    ],
+    "rahulb99": [
+      {
+        "insertions": 602,
+        "deletions": 178,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "fa999bda20f64e52549b14b5f5d12bfac323c1b4",
+            "message": "added FindCommand",
+            "insertions": 48,
+            "deletions": 0
+          },
+          {
+            "hash": "252bf61aac602beb0c633bb0df4f77dfc0e64791",
+            "message": "added FindCommandParser",
+            "insertions": 34,
+            "deletions": 0
+          },
+          {
+            "hash": "df44e5e86d39086d0d563cdfba34e8fc86a65c09",
+            "message": "added ExpenseContainsKeywordsPredicate",
+            "insertions": 151,
+            "deletions": 0
+          },
+          {
+            "hash": "a52b4bff1b3bbf4da4f7f0d55ec40f586d0cb210",
+            "message": "added updateFilteredExpenses method in interface model",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "8353028af7963e47194a9ff32a879fecc71bb0bc",
+            "message": "implement find expense feature",
+            "insertions": 256,
+            "deletions": 76
+          },
+          {
+            "hash": "ababfe010305f32d86469a8a48f2d7a493c2b51b",
+            "message": "checkstyle changes",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "9124dfa446740132d314fb7ea3b75a42a286b019",
+            "message": "checkstyle changes",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "d79bbf7a6cbbfe3fd875e1ccc4f57c2e44308888",
+            "message": "checkstyle changes",
+            "insertions": 96,
+            "deletions": 96
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 3,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "f20b7c986befd5fa789fce768d62f918e126c751",
+            "message": "ExpenseCard: Removed white tag color",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d3d08a40016f7a8a646efc42b4dd3924d051901a",
+            "message": "fixed date in ExpenseCard",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "59d1371085193cbe696264a6404531fb35ec4471",
+            "message": "fixedExpense formatting issue",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3f669afe1d3f5a98a7b49b7c40465cbfa38dc1db",
+            "message": "IU-2018.3.5 \u003crahulbaid@Rahuls-MacBook-Air.local Create checkstyle-idea.xml",
+            "insertions": 9,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 11,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "79a2a68b537238741b2fc14c50883e1701339505",
+            "message": "checkstyle changes",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "e03d6f702dadca2d2e1432dc44a68caaada33927",
+            "message": "checkstyle changes",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 35,
+        "deletions": 469,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "2af9faf35eeb81bdb6f590d6fb002d5a92825cc5",
+            "message": "added eof",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "fdaf37171dc0b5de6507685a4c44b2cf489707c4",
+            "message": "Revert \"Merge branch \u0027master\u0027 into master\"",
+            "insertions": 27,
+            "deletions": 464
+          }
+        ]
+      },
+      {
+        "insertions": 742,
+        "deletions": 332,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "ba600fad862a991e90bfd9f1931357a52e24814d",
+            "message": "added FindExpenseCommand.java",
+            "insertions": 51,
+            "deletions": 0
+          },
+          {
+            "hash": "e655b438b9a675ae3605c9222ffd534127982c5a",
+            "message": "added FindExpenseCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "051f9a7409844a1f05d72ed2e7f4369285ad5cdc",
+            "message": "added HelpCommand.java",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "c0dd068c949f633033590bceb531eafdc0c57ac0",
+            "message": "added parser for FindExpenseCommand and ExpenseContainsKeywordsPredicate.java",
+            "insertions": 209,
+            "deletions": 0
+          },
+          {
+            "hash": "8585cff1dcdcd0b98335f5dadf2a72dced83f139",
+            "message": "added ExpenseList.java",
+            "insertions": 134,
+            "deletions": 0
+          },
+          {
+            "hash": "e0a4fb2d160e378fab1da33d13947a5f9dc7629e",
+            "message": "added removed white tag color",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "82d0a139408bd4d9c0ac9dfcee85fa5a1e3af78f",
+            "message": "help window does not maximise",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ececb68e425b932c636d87c2e2aad3eec57acff8",
+            "message": "some change in MainWindow.fxml",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2ab7908a7374eb79ce9231a5e628a6904115d53f",
+            "message": "fixed Date on expense card",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c5b0c34278500c65993512fcd28050cbb19a1969",
+            "message": "fixed added find expense parser in AddressBookParser.java",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "caad650621f707b0f1150d4d0a707619e6fd249d",
+            "message": "changes in AddressBook.java",
+            "insertions": 28,
+            "deletions": 11
+          },
+          {
+            "hash": "b5254fc9c5dbf1e538c8cc831731fcd8246b289e",
+            "message": "changes in Model.java",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "5bdab57042f56da96844ec30d354ede926e43282",
+            "message": "changes in ModelManager.java",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "fc381d3e09b4661aaff973a18347bcb7459a110a",
+            "message": "checkstyle changes",
+            "insertions": 38,
+            "deletions": 67
+          },
+          {
+            "hash": "0d6c3bdcbaa81e801c8d65009a1c625ad20b0d15",
+            "message": "IU-2018.3.5 \u003crahulbaid@Rahuls-MacBook-Air.local Update Default.xml",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "b24db1fac782263832270b40503bb3febd20726c",
+            "message": "removed some library",
+            "insertions": 0,
+            "deletions": 189
+          },
+          {
+            "hash": "db08e9c672d247850af09c10dc020820a1c28fcc",
+            "message": "removed some library",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "c9082ed5aadfb2c7625d80d463e21e4e41708fe7",
+            "message": "again checkstyle",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "a6cc15c84c54add068af89a8c42466979b9e5a2f",
+            "message": "added SortExpenseCommand.java and updated UserGuide for sort",
+            "insertions": 54,
+            "deletions": 13
+          },
+          {
+            "hash": "be94ad82d829632911e394cc81ba76ad69f28c0d",
+            "message": "implemented sorting feature",
+            "insertions": 152,
+            "deletions": 33
+          },
+          {
+            "hash": "c971d2dcb25b869d6709e06b8bbeb04cb212eb0e",
+            "message": "implemented sorting feature",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "ca5585fda8f52af10502b51f94bc98da6b352c3e",
+            "message": "completed list feature",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 133,
+        "deletions": 60,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "7255ae05c56783a676a8d965d25702b6a7bbf4ca",
+            "message": "IU-2018.3.5 \u003crahulbaid@Rahuls-MacBook-Air.local Update Default.xml",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "d278c117468ea7489f14b38ea38e14418a8a331f",
+            "message": "fixed formatting",
+            "insertions": 43,
+            "deletions": 28
+          },
+          {
+            "hash": "460ece753ca8598c69b599676a4d2468025fb09b",
+            "message": "fixed formatting 2",
+            "insertions": 16,
+            "deletions": 5
+          },
+          {
+            "hash": "13647188f3c8208482925e8051a0b95ba63fbc7f",
+            "message": "fixed formatting 2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "71a8e7fa2310e13d1fad159be014712bb466f7c6",
+            "message": "fixed formatting 2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1e76c3a61c37cee935adace72bd578e35b6dea1a",
+            "message": "fixed addcommandtest",
+            "insertions": 25,
+            "deletions": 6
+          },
+          {
+            "hash": "ed29c6fa4cfd928a5d09a1a0777a30d0ee45b52b",
+            "message": "fixing something",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "312936758dc526cf8b87ce1527f907c238c5b9b9",
+            "message": "fixed (ignored :p) failing tests",
+            "insertions": 38,
+            "deletions": 0
+          },
+          {
+            "hash": "69994b961966a0d9d7f8d8aee70ad452658b317c",
+            "message": "fixed travis error",
+            "insertions": 0,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 73,
+        "deletions": 39,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "b974cc12cc700d751de34c80307267d26f5e455e",
+            "message": "fixed Date on ExpenseCard, now Date is optional prefix",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "bc8d0f28a780c9e93ed775dbc22c8d598ba8d4c0",
+            "message": "some changes",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "1e9ad78fec664784e3fc1ca393946abca1131927",
+            "message": "changes for sort expense feature",
+            "insertions": 59,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 21,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "d2724f72009f19be7bcc67b3cbc8a8b541179f27",
+            "message": "working on sorting",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "25ea0b28dd7ad8775de083591fe3606e4a4cacf7",
+            "message": "rectified tests",
+            "insertions": 20,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 117,
+        "deletions": 10,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "6ba00d71fa502b896b737821f9ae37e2e31cad18",
+            "message": "model manager",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "7e1f4db008f81b4b4f17ccc2dd81e2fb77a3a713",
+            "message": "gitignore change",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "9d5ad5a678dbc65a450728bd772504747f5051bd",
+            "message": "added newline in config",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "dd0499dba1d72364940ec7e586fd18a15ecfbc14",
+            "message": "checkstyle",
+            "insertions": 110,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 630,
+        "deletions": 166,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "af6d555d1034a8976f498d379c2442e9e396532c",
+            "message": "fixed travis error",
+            "insertions": 0,
+            "deletions": 103
+          },
+          {
+            "hash": "a58581bd407e9b12c25a423fbfc5767531848f6c",
+            "message": "added tests, mainly FindExpenseCommandTest",
+            "insertions": 613,
+            "deletions": 58
+          },
+          {
+            "hash": "0a5ee9b78f8fd4645c484fa6030577eb2ce2384c",
+            "message": "fixed checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "0e161d4d1f5db48f72c429c49b4e9f3f5d7c29c0",
+            "message": "ignored failing tests",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "00a7074373af9782f3ec4a8ef7d4695d136fc348",
+            "message": "fix checkstyl",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 403,
+        "deletions": 63,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "da416cf2691f1c6153187fd8c9667c8c24ad9346",
+            "message": "Updated DG",
+            "insertions": 50,
+            "deletions": 0
+          },
+          {
+            "hash": "50d51d38fadc04e233f6ec692bca13a079e6b66a",
+            "message": "Updated UG",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "d391a27cc50d6662540d5db2011ebccf683fa486",
+            "message": "find expense test",
+            "insertions": 66,
+            "deletions": 38
+          },
+          {
+            "hash": "d5f3618e951575e4fde367557e9feedfcc748ffa",
+            "message": "checkstyle",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "e502e2f3504951f52a98c23e3518dc390a8bd7f9",
+            "message": "added rahul PPP",
+            "insertions": 277,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 346,
+        "deletions": 126,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "32e140cc495b3cdecdd7c7e2d2834406c5dbec78",
+            "message": "remodeled the sorting feature and it is bug-free now",
+            "insertions": 112,
+            "deletions": 78
+          },
+          {
+            "hash": "456c98134c2b244e236146abe9fc20a15d99356c",
+            "message": "fix checkstyle",
+            "insertions": 22,
+            "deletions": 8
+          },
+          {
+            "hash": "caf4127fb778ea011be3357ade7ee48698595bc9",
+            "message": "added test for sort expense",
+            "insertions": 80,
+            "deletions": 28
+          },
+          {
+            "hash": "8014f5974ae15ed50a664570d93c91aa73f111a6",
+            "message": "fix checkstlye",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "263450b45c8cf1e824848401728ba489e46a1d53",
+            "message": "implemented reverse expense list",
+            "insertions": 56,
+            "deletions": 0
+          },
+          {
+            "hash": "3e987752cca9e680345f440778841c3dc26f4d21",
+            "message": "added test for reverse expense list",
+            "insertions": 66,
+            "deletions": 5
+          },
+          {
+            "hash": "0462f51a986cde669feee2f77d54c8ec1d33bcd8",
+            "message": "modified sort command from person to expense",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "35796c376055d13bfce41ee5bfefca62350d322a",
+            "message": "fixed checkstyle",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 33,
+        "deletions": 20,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "7514f054b1833433c7a235736b7785ba272e580b",
+            "message": "Update UserGuide.adoc",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "da3ec477a1c76f7d4ea30640a9ecd930e49301d9",
+            "message": "added totalspendings in expenselist",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "fe73cf7837e47a9c6c8fdb05963aca1148b94a6f",
+            "message": "added totalspendings in expenselist",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "a87583b2155873f0232c3866e9376646070a0c0b",
+            "message": "Update UserGuide.adoc",
+            "insertions": 9,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 1118,
+        "deletions": 6254,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "22fca4d0736c39ea6a4a156401fe371c78676d2e",
+            "message": "Part 1: removed old code, modifying guitests and systemtests, more commits to follow",
+            "insertions": 1118,
+            "deletions": 6254
+          }
+        ]
+      },
+      {
+        "insertions": 511,
+        "deletions": 624,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "5dbe2db6f7701c4947981a6626793e40ecf36858",
+            "message": "fixed checkstyle",
+            "insertions": 186,
+            "deletions": 176
+          },
+          {
+            "hash": "102efae1a643dbfeaf292b14bc3bf3eb60c16c6a",
+            "message": "fixed checkstyle",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "01c1fdd924c77796c18768857bcdc7d5664ea480",
+            "message": "fixed checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "841f51fcde1d33c1c1f2d5a46e3f596e98b9e780",
+            "message": "fixed checkstyle in test/",
+            "insertions": 12,
+            "deletions": 16
+          },
+          {
+            "hash": "72197b41759caa2b055bdc7c8625ef5b5dd12449",
+            "message": "resolved conflicts 2",
+            "insertions": 244,
+            "deletions": 355
+          },
+          {
+            "hash": "8b474af2be31c4956510014c2cd36a109b9c3558",
+            "message": "fixed checkstyle 3 and improved search feature",
+            "insertions": 50,
+            "deletions": 58
+          }
+        ]
+      },
+      {
+        "insertions": 231,
+        "deletions": 146,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "3762e6bb03cef1b702c45c52530587cf3d3b6e52",
+            "message": "fixed checkstyle 4",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3c0193989de8028b2b9cc132682b97494d5c4e9b",
+            "message": "IU-2018.3.5 \u003crahulbaid@Rahuls-MacBook-Air.local Update find.xml, Default.xml",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "b59cbe5c8eb36aa897ac062914b81b3657f53ab3",
+            "message": "refactoring",
+            "insertions": 179,
+            "deletions": 123
+          },
+          {
+            "hash": "b6d030a85181f9beb40c0ef76ec14defd188dcd2",
+            "message": "date format in findexpense is dd/MM/yyyy",
+            "insertions": 22,
+            "deletions": 6
+          },
+          {
+            "hash": "0244405d35b83da81a123d7bacf8a925882148c4",
+            "message": "date format in findexpense is dd/MM/yyyy",
+            "insertions": 1,
+            "deletions": 6
+          },
+          {
+            "hash": "1f49e669aea3f2a31eb2011f41be4ad299e9a8a0",
+            "message": "final",
+            "insertions": 20,
+            "deletions": 5
+          },
+          {
+            "hash": "14c7f3ead888a02041a19fbfb154ec80841a7e1e",
+            "message": "IU-2018.3.5 \u003crahulbaid@Rahuls-MacBook-Air.local Update find.xml",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "7dc0f77d443868b943093417818230e286d430b1",
+            "message": "IU-2018.3.5 \u003crahulbaid@Rahuls-MacBook-Air.local Update find.xml",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 174,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "6cc590aeca249954de42d5d936756726eafb8bd7",
+            "message": "some changes",
+            "insertions": 4,
+            "deletions": 163
+          },
+          {
+            "hash": "02d7ba80e98880c05ba100353e32abc81a1baa16",
+            "message": "fixed error",
+            "insertions": 0,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 608,
+        "deletions": 184,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "a589820ba0faa0636d7e6f79ebb05d7e22cae2a3",
+            "message": "added FindExpenseCommandParserTest",
+            "insertions": 112,
+            "deletions": 0
+          },
+          {
+            "hash": "614bf838c9110fbad8acc98dfc47a7b0e0d99bf4",
+            "message": "keywords validation for findExpense feature",
+            "insertions": 272,
+            "deletions": 109
+          },
+          {
+            "hash": "b922b70444cd2c4f071b13af8dd283f4257ed653",
+            "message": "pass most tests including findExpense",
+            "insertions": 48,
+            "deletions": 25
+          },
+          {
+            "hash": "5eb0e29c28c5560fd990a1bc0f6bae60550112b4",
+            "message": "fix systemtest for fE",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "f6118884c739fdacf95089da1acb05d6f719ca4d",
+            "message": "added parser test sortExpense",
+            "insertions": 87,
+            "deletions": 4
+          },
+          {
+            "hash": "1912f99d033fdeb2225a34163ca287b2bd3d75c8",
+            "message": "updated ppp and ug",
+            "insertions": 80,
+            "deletions": 37
+          },
+          {
+            "hash": "67632759498276c7070958248f83a84b634af25a",
+            "message": "fixed checkstyle",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "1a8ab5e11b3cb736824f0fd90e036b23f54c5121",
+            "message": "fixed checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 55,
+        "deletions": 91,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "c145890ca554efaa71547d0ace6522de5ce7f125",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c446fcafaf18ef61c0e09a98e6f687b60aca4e93",
+            "message": "Update UserGuide.adoc",
+            "insertions": 16,
+            "deletions": 15
+          },
+          {
+            "hash": "96f5e3f3f3475b5ea9b078639c1431583d37e3e8",
+            "message": "Update and rename rahul.adoc to rahulb99.adoc",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "2232cec15098a924ecb5a1ff1302dfea2468c294",
+            "message": "Rename FindExpenseCommandTest.java to FindExpenseCommandIntegrationTest.java",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "aaecd6915ca44e95198a8e8aeb475d482b6d967c",
+            "message": "Rename SortExpenseCommandTest.java to SortExpenseCommandIntegrationTest.java",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "b21e795b0f4c4f84eb1fb03f30a7f942ca564785",
+            "message": "updated PPP, UG",
+            "insertions": 25,
+            "deletions": 62
+          }
+        ]
+      },
+      {
+        "insertions": 350,
+        "deletions": 146,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "2cf9300ed84fad475435f36f57c3340ebe5227dc",
+            "message": "removed helpcommand in epiggy/",
+            "insertions": 1,
+            "deletions": 34
+          },
+          {
+            "hash": "e377d6ce4adf7790eba3955d624975c92bf75202",
+            "message": "updated README for coverage",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "79b4e1cd2e7f1e34cde61949255b01ce22c46bc5",
+            "message": "updated README for appveyor",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "bfa02f8f64cbe32003dd71105c9a6d8fa0eeb6e1",
+            "message": "updated README for codacy",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5d885c4948235889598725f8303f64cd0a6a25c5",
+            "message": "added netlify to readme",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "f3d6ecc83d77c01de33aa4e63579bafdd92fd739",
+            "message": "Update UG, DG and PPP",
+            "insertions": 117,
+            "deletions": 82
+          },
+          {
+            "hash": "e00984a9f786e8f49674366ee78799b3902c2371",
+            "message": "added SortCommandSystemTest",
+            "insertions": 181,
+            "deletions": 13
+          },
+          {
+            "hash": "46447c184f3c0d3a91baec4da0d7cb17ffdecfe1",
+            "message": "updated UG",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2ab474d85051d32646863193586f13d60b82c0b0",
+            "message": "empty commands don\u0027t come in history now",
+            "insertions": 25,
+            "deletions": 3
+          },
+          {
+            "hash": "07c13b1605ad115ef6dd9385338aa5b212b19a48",
+            "message": "updated PPP",
+            "insertions": 18,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 232,
+        "deletions": 127,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "f970a043627fc8597e3c83a39fbb1ca17a07dea0",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "31d88e3ba8b83ab8e5dea5c53c0e36ed432a2d80",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bb8eb1d1667d4d181b1c24c0dfd297dd85c2c6e0",
+            "message": "updated DG and PPP",
+            "insertions": 143,
+            "deletions": 22
+          },
+          {
+            "hash": "c651407c880446d2f41d7e9fd670df4ba254a63c",
+            "message": "updated everything",
+            "insertions": 80,
+            "deletions": 89
+          },
+          {
+            "hash": "d8edd7634caadc8b67676a17dba80eaded1bf00f",
+            "message": "Update UserGuide.adoc",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9eb0636957aa5a2e7655850138f7ca5dbc0d7817",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 5,
+            "deletions": 11
+          },
+          {
+            "hash": "4767fb526b28dc975009003e1e21411b6da084c5",
+            "message": "Update rahulb99.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "0b6a0f3c43893e81257d21ba801889e082ef49db",
+            "message": "Update rahulb99.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "yunjun199321": 3580,
+    "kev-inc": 3873,
+    "pdnm": 807,
+    "tehwenyi": 7222,
+    "rahulb99": 2567
+  },
+  "authorFileFormatContributionMap": {
+    "yunjun199321": {
+      "adoc": 337,
+      "cs": 0,
+      "css": 0,
+      "fxml": 52,
+      "gradle": 0,
+      "html": 0,
+      "java": 3121,
+      "js": 0,
+      "json": 2,
+      "jsp": 0,
+      "md": 68,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "kev-inc": {
+      "adoc": 154,
+      "cs": 0,
+      "css": 0,
+      "fxml": 3,
+      "gradle": 2,
+      "html": 0,
+      "java": 3685,
+      "js": 0,
+      "json": 29,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "pdnm": {
+      "adoc": 164,
+      "cs": 0,
+      "css": 62,
+      "fxml": 1,
+      "gradle": 0,
+      "html": 0,
+      "java": 579,
+      "js": 0,
+      "json": 1,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "tehwenyi": {
+      "adoc": 1063,
+      "cs": 0,
+      "css": 56,
+      "fxml": 72,
+      "gradle": 2,
+      "html": 0,
+      "java": 6028,
+      "js": 0,
+      "json": 1,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "rahulb99": {
+      "adoc": 448,
+      "cs": 0,
+      "css": 0,
+      "fxml": 2,
+      "gradle": 0,
+      "html": 0,
+      "java": 2117,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "yunjun199321": 53415.055,
+    "kev-inc": 22860.6,
+    "pdnm": 4671.4897,
+    "tehwenyi": 1581082.8,
+    "rahulb99": 865983.5
+  },
+  "authorDisplayNameMap": {
+    "yunjun199321": "WU ...JUN",
+    "kev-inc": "KEV...ONG",
+    "pdnm": "PHA...INH",
+    "tehwenyi": "TEH... YI",
+    "rahulb99": "RAH...AID"
+  }
+}

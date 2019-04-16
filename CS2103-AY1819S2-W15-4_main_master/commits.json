@@ -1,0 +1,4106 @@
+{
+  "authorDailyContributionsMap": {
+    "Valatheking": [
+      {
+        "insertions": 27,
+        "deletions": 35,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "e0e9ac0492de642b7cc84ecbce047948075109f7",
+            "message": "Updated Readme to reflect the new scheduler app",
+            "insertions": 5,
+            "deletions": 17
+          },
+          {
+            "hash": "37533e56228cbbb86d3962f0f13d56c5319d3606",
+            "message": "Updated valid phone numbers to allow plus sign infront and max 20 digits. Test cases updated as well",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "cd1301c8dc33fd636c7a87baecc24e002b06ee12",
+            "message": "Updated Developer Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "edec527a8d36c5bed9d617dc4d327ef7f43267a2",
+            "message": "Edited for style check",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 370,
+        "deletions": 66,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "847da567c0da3880296f067366de997a9d46061d",
+            "message": "Added Unit and NRIC Classes",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "a25a1b457277988ced48fe9a44cad7d87f26d43a",
+            "message": "Updated Unit, NRIC and Person classes to reflect the new changes",
+            "insertions": 88,
+            "deletions": 18
+          },
+          {
+            "hash": "09821409c34de8fd408fbbaeb704a18ea7bec0cf",
+            "message": "Updated Unit and NRIC classes",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "dae4c57326f4479083e7d6e252288364dec400f3",
+            "message": "Updated NRIC Regex",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ec3b542b7aa329502b8275c1154520fd449419f0",
+            "message": "Updated files for add command to allow for NRIC and Unit",
+            "insertions": 133,
+            "deletions": 29
+          },
+          {
+            "hash": "da7551e20494fac3f8b586dfa256880998dc1f35",
+            "message": "Updated Edit command to allow for Unit and NRIC",
+            "insertions": 43,
+            "deletions": 2
+          },
+          {
+            "hash": "338fd6893cd5a1d20c7d46428aa2065689e5ade9",
+            "message": "Updated certain test cases to take into account Unit and NRIC",
+            "insertions": 42,
+            "deletions": 10
+          },
+          {
+            "hash": "5146bd693a64754e4e10f5a9f46b7986ca805d5d",
+            "message": "Tried changing unit parser",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "0e97c2caacb17d89455d502b2a2f59c25b441736",
+            "message": "v1.1",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 329,
+        "deletions": 279,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "a8b7a1db6d724a219b8b11e2bb7e15654674a1b8",
+            "message": "Removed NRIC File with caps",
+            "insertions": 0,
+            "deletions": 56
+          },
+          {
+            "hash": "971a0551d97f8ca2542e83fd538b0ca1f2c52b27",
+            "message": "Removed Nric with no caps",
+            "insertions": 0,
+            "deletions": 52
+          },
+          {
+            "hash": "dd834d896afab097507b38eb0ff75b9361b7053d",
+            "message": "Added Nric File",
+            "insertions": 52,
+            "deletions": 0
+          },
+          {
+            "hash": "aec76fdd3ec5e5c6829aad73957fbae60f02fc2a",
+            "message": "Travis Edit",
+            "insertions": 19,
+            "deletions": 6
+          },
+          {
+            "hash": "d794a63ea0ae90dd054f094f3d4bd185975f450d",
+            "message": "Travis Edit",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "f79d9829c5187822ad7e81b3868abccc177689fa",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "3a7846df20d538f0d04a727a00ffdb40781c9b19",
+            "message": "Travis Edit",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "fac37376df99ee108bcc27791ca5e2ea045709d7",
+            "message": "Travis Edit",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "34cec596753d1f18721d6250658fa7788bb15076",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a7332fbd2f4cfcae588e8f633994253ec572defc",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9b2dde122303db8513aefd46e0366cbc96b9b732",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b0328c8e6b9c5a4873d349f229eddab43efff938",
+            "message": "Travis Edit",
+            "insertions": 27,
+            "deletions": 13
+          },
+          {
+            "hash": "d8444779e49981923f810d1cace95248a75730bc",
+            "message": "Travis Edit",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "4745284d9f3a55826eb386fee1f893ad4caed868",
+            "message": "Travis Edit",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9314ba9d47e8c9d6e1895ac66303ee524432f6ec",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "37d368629c69cfae80f83004d401c329caf74120",
+            "message": "Travis Edit added javadoc",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "2eda3a3c0156f5dd08de32700e1b91791fca19b2",
+            "message": "Travis Edit",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c0e53099a97d2a7c7952e668b68210f678e1cd41",
+            "message": "Travis Edit",
+            "insertions": 14,
+            "deletions": 2
+          },
+          {
+            "hash": "8b8717909830235b177fca2eedd2ee95dcf05872",
+            "message": "Travis Edit",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "69150162511ebaf562557b753d293b46382a1963",
+            "message": "Travis Edit",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "8df3416389beda65966cbe1ded00bf9028eb4a0e",
+            "message": "Travis Edit",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "7cbd3f639324480909cb17216e975a67acf11f8f",
+            "message": "Travis edit",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9d467ec38101fb65c927fc8c92bf0aadc7f8fe04",
+            "message": "Travis Edit",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "dc72523ec72a7880ef33c9c61a5a65ea0d199105",
+            "message": "Travis edit",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "3fca5b8a06bb55dbc4a0b579fdb68189d7e08902",
+            "message": "Travis Edit added javadoc",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "68785b40ff7f24a7dbb983d1519d8c20e741f499",
+            "message": "Travis Edit added javadoc",
+            "insertions": 13,
+            "deletions": 9
+          },
+          {
+            "hash": "adc5907a99e8a47d8250e55eaf909fb65d9e130b",
+            "message": "Travis Edit added javadoc",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "7ee993e3ac9809ad2a0c84702d8f4b9a32d53a9a",
+            "message": "Travis Edit",
+            "insertions": 43,
+            "deletions": 31
+          },
+          {
+            "hash": "20a1d5f2943712f04ff40abe7b9dfe09496abe15",
+            "message": "Travis Edit",
+            "insertions": 12,
+            "deletions": 4
+          },
+          {
+            "hash": "db774fa1d439af81160f309cbd629f92d1123f4e",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "d8eee962589733501f5aa0ca031a5c6d2ff6d970",
+            "message": "Travis Edit",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "c1f8c4f9a0a63476eb3a8e5dde8ac7e0774fb859",
+            "message": "Travis Edit",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "7fd00354ab71c8552b5ac42de77fe33a390d1819",
+            "message": "Travis Edit",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "ac8332db61dbe01dedc38409d22d30f9b4635a5b",
+            "message": "Travis Edit added javadoc",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "fb4d70d978f743e6c3ed346b5f3966ba79045376",
+            "message": "Travis Edit added javadoc",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "5ba45477a2e3a0308f8aca5de76c190bd414ffd0",
+            "message": "Travis Edit",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "87ec55be9b03db16b474d16fce748ae751dbcfd2",
+            "message": "Travis Edit",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a9d5aa32fc8feaac6053e26f546b205ca87d145d",
+            "message": "Travis Edit",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "a8159b0a7c68c52186c2c1b0188e7ffb6222f543",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "08e07c52164ef638982ced958a41eaa4bfac7db0",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "533e020a252907270394b618f6d6b256b6062e52",
+            "message": "Travis Edit",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "10771e18de5fe5c0f9251c2f2a8e8120b361ba91",
+            "message": "Travis Edit",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "31388b88bfc52a054857436c3f368decbfcdc977",
+            "message": "Travis Edit",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "500b9a386ee08c3fcbc938125674729b5412d66e",
+            "message": "Travis Edit",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "678a3b8df65db64e9e37ccdbadaa20b96184ce7b",
+            "message": "Travis Edit",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "0e2ef51bc4524ef399bf71aed5021469526e7820",
+            "message": "Travis Edit",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "050e3f0d0e8b0f3cae7814106e96208a5a216dc7",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9e3a3f3526e25bd70cd7d6533b06337425500268",
+            "message": "Travis Edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "131f9b2a3d76838c48a14a75c7513d5e557aa316",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8d0c8f724f4e783b02d2af6527d2bdc25aea2e2f",
+            "message": "Updated developer guide to reflect changes made",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 177,
+        "deletions": 110,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "379d0691b77e8cb21d75fe6da1267e151aa2cb35",
+            "message": "Travis Edit",
+            "insertions": 14,
+            "deletions": 10
+          },
+          {
+            "hash": "483c7e2ff8d783bde46de74112a351decf656bcd",
+            "message": "Travis Edit",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "bdc86cb60b15343be518ea798abbc76129bc1d72",
+            "message": "Travis Edit",
+            "insertions": 84,
+            "deletions": 48
+          },
+          {
+            "hash": "ef1d399429246e88cf4080c7c86036a3157410c1",
+            "message": "Travis Edit",
+            "insertions": 50,
+            "deletions": 31
+          },
+          {
+            "hash": "1c1e2f07719db0809fc945d6b2abf57142baf0e2",
+            "message": "Travis Edit",
+            "insertions": 16,
+            "deletions": 15
+          },
+          {
+            "hash": "61334571ec24cd99365fc3a143826517da7d432b",
+            "message": "Travis Edit",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "6e01c78ab7b30cf46546ad85a3f19a274a03ffb2",
+            "message": "Travis Edit",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9e84d96c70f393740760fb7a10383232cb06730d",
+            "message": "Created additional constructor for testing",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "40bf0f7a2a70768d7ab1fb0464e60862641fd34f",
+            "message": "Travis Edit",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "ebc213450b0dd10ee96795c2a0f209537db9e7c7",
+            "message": "Updated Version Number",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 202,
+        "deletions": 79,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "550f70ec02443021434afc62646c75103fedb4eb",
+            "message": "Added Block Duty Command",
+            "insertions": 72,
+            "deletions": 16
+          },
+          {
+            "hash": "632842879f39b8980300e50d40c6536007c73b60",
+            "message": "Allow storage of currentUser",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "dbf7c44f047d9523f8a77659fb4b6e9a6f938dc1",
+            "message": "Block date parsed",
+            "insertions": 50,
+            "deletions": 13
+          },
+          {
+            "hash": "cf71a75ef7ba304d12d1c40d67916e73f71a828a",
+            "message": "Block Date Command implement using findPerson",
+            "insertions": 8,
+            "deletions": 17
+          },
+          {
+            "hash": "b937ee904a07afaa33bf6682da348145f0088508",
+            "message": "Added BlockDateCommand Logic",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "a5b488b0908df249042c66ae9624a7918dfe2646",
+            "message": "Edited for compiler errors",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "d1b1de18329b3e4a1139c81dc7a447c20eb8fce1",
+            "message": "Edited for Compiler Errors",
+            "insertions": 14,
+            "deletions": 11
+          },
+          {
+            "hash": "19edbd909f43d5ff8d4e52c04b1220da93602314",
+            "message": "Edited Block Duty Command",
+            "insertions": 19,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 298,
+        "deletions": 9,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "ebf3672e3eb1e72d79326b94bf42931f2bafaf2d",
+            "message": "Added adoc files",
+            "insertions": 288,
+            "deletions": 0
+          },
+          {
+            "hash": "c9129df05df97ed9a5b1c6f81f3910fb516a59b9",
+            "message": "Update valatheking.adoc",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "22377dead580e946e08ba4a17e45808272320a77",
+            "message": "Update valatheking.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 151,
+        "deletions": 75,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "783ad124bae974bd6b978205a561cd24480a4e77",
+            "message": "Checkstyle Edits",
+            "insertions": 142,
+            "deletions": 66
+          },
+          {
+            "hash": "31fe1c58d8bf8b59fd4cdae972449d424e766cc5",
+            "message": "Checkstyle Edits",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "64dbe2e012a735579f0f10b56ff6ff3fe7a820df",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 2,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "ef0af9c50ea6f7b1426ef86bc3ec19dbf2f0ba98",
+            "message": "Updated block date command word to \"block\"",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "cfe7cfc127b353158ae814c3b611d5feee1ad46f",
+            "message": "Update Block Command",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 86,
+        "deletions": 63,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "4b03e9505bd80f6bbcf355feaa5b28a930215a51",
+            "message": "Checkstyle Edits",
+            "insertions": 22,
+            "deletions": 22
+          },
+          {
+            "hash": "9da256ca13dfea89b6922a8ea288610245f6f7ca",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "c7e8b3a09ba9e5f7855338d3ee541747153e1a25",
+            "message": "Update mechome.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "03ed6f644c90a5325bd8c112c305d2e46ecfde59",
+            "message": "CheckStyle Edits",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "69d45f3c9aedf8c956398b7d4a881376f2e476bd",
+            "message": "Checkstyle Edits",
+            "insertions": 60,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 661,
+        "deletions": 251,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "fa8d6db0f85c60c1fdeef0c725e3ec9a5af62cd2",
+            "message": "Checkstyle Edits",
+            "insertions": 63,
+            "deletions": 39
+          },
+          {
+            "hash": "83a574d676e0dedc3e3734dfb1c9dfe600a64951",
+            "message": "Checkstyle Edits",
+            "insertions": 34,
+            "deletions": 27
+          },
+          {
+            "hash": "41dc8873f31a105260c64de1bdacd01f1e9c3b8c",
+            "message": "Checkstyle Edits",
+            "insertions": 28,
+            "deletions": 24
+          },
+          {
+            "hash": "53a8aad922492e0d18050cf5ce412a858ac02393",
+            "message": "Checkstyle Edits",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9bf768f27c96cb8281856adcb3f7ec691da196fb",
+            "message": "Checkstyle Edits",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2f19c6ac2e9c44a759643d5ae0e040c3565d6b55",
+            "message": "Edited out tests",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "9b13aa12777ac87cced8bd9cff6b5a5f58ee0e88",
+            "message": "Checkstyle Edits",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "09fdb81194b0f110fd33acc65e7da7dc536c2478",
+            "message": "Commented out tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "86d4cdec8399340bfff6f12c1a2fbfce830f60e3",
+            "message": "Added Viewblock command",
+            "insertions": 63,
+            "deletions": 0
+          },
+          {
+            "hash": "cbeb2cfb33fb931af0570eb1b990d155e6b250ce",
+            "message": "Added undoblock command",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "2a2603463259ce2800ca846ad4c935cdaec37b51",
+            "message": "Updated block dates command",
+            "insertions": 19,
+            "deletions": 2
+          },
+          {
+            "hash": "fa5e9df606c5206ff14f0da4ce6b65f99aea71f5",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "068c551e70375f3e0bba248c7fa7c395b71cfa7d",
+            "message": "Checkstyle Edits",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "92caebee0fc297b85c7c3bf443a0b0b0ecec7f9b",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1747c72e7bf02cb72cec2cb46d042314ad5a4358",
+            "message": "Added BlockDateCommand Test",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "01b6b1ff8a171d00b13f37c4f286c1fa610999a4",
+            "message": "Added UndoBlockCommandTest",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "80830f6597df18eb9288fd7156360b9c70771633",
+            "message": "Added ViewBlockCommandTest",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "9a541b73244832534e31e6972dfdc6218a50ad83",
+            "message": "Checkstyle Edits",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8b36f994603dc06507b796bf16830e5f874c8f63",
+            "message": "Checkstyle Edits",
+            "insertions": 10,
+            "deletions": 8
+          },
+          {
+            "hash": "ed67c6a2dd6f59dfa3ad3e7c4ddd7fe26ca9a6fe",
+            "message": "Checkstyle Edits",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "9daf32de5bdaef212552ce7825922dac7a5a113b",
+            "message": "CheckStyle Edits",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "4bdb558bbe129ea9a62146d39c8bba9478aa9ce6",
+            "message": "CheckStyle Edits",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "43b07f1765e4e36a21e57891d81cf58a92b182c1",
+            "message": "Updated Block Command Test",
+            "insertions": 21,
+            "deletions": 3
+          },
+          {
+            "hash": "2b92b8d8f22aa8cddc7406d71e55a5de01493f47",
+            "message": "Added ViewCurrentCommand test",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "6c632f6cb35f85ba894bc1fd238edddf288b8a04",
+            "message": "Added ViewNextCommand test",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "777a4dc50ecb269fb3ec2ad6eae556b3b9fac3fb",
+            "message": "Updated ViewBlockCommand Test",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "690986d10f6ccdebd604bf04f1de9dacb66c46d6",
+            "message": "Updated remove Block Days method",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "8ad0da74cb3452067a227533d22945937dfc8dcb",
+            "message": "Update UndoBlockCommand Test",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "02d8d87e8775ea9d81780c5e773dfe5088d66c74",
+            "message": "Checkstyle edits",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "192b605f47b7db37cb66fe98a216761d20d31cb7",
+            "message": "Renamed UndoBlock to RemoveBlock",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "04d74b8b907788f1e016bf6f0c269d38370e8d57",
+            "message": "Checkstyle Edits",
+            "insertions": 20,
+            "deletions": 13
+          },
+          {
+            "hash": "a7f13f4c9f915d015f973d37a67ab17f06044a4e",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "48f1188661501014328da070a7f166b62ddf10f0",
+            "message": "Checkstyle Edits",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "c13c6d001d8bf45906adbee3fd683f499a2c5161",
+            "message": "Updated Tests",
+            "insertions": 7,
+            "deletions": 33
+          },
+          {
+            "hash": "fb74c34a1d01e99a33bba29490fa9fa7ffcbd827",
+            "message": "Added SortCommand Test",
+            "insertions": 29,
+            "deletions": 0
+          },
+          {
+            "hash": "619521449e0534d55340b3897229ee593237ad3d",
+            "message": "Updated sort command test",
+            "insertions": 0,
+            "deletions": 19
+          },
+          {
+            "hash": "54236220105fa4f466cec6697334aef1f4740b69",
+            "message": "Added DutySettingsCommand Test",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "31230d8d793d0861925db3dd7f3c77a321858b50",
+            "message": "Updated DutySettingsCommand Test",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "c7a470d9eb6b5a7ac99454d52f95c8599609b83e",
+            "message": "Updated DutySettingsTest",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0a7eb9a5f0afc10916d6007a161bdde698243370",
+            "message": "Added DateUtil Tests",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "c9740f14ef86609a282f304656fd2c7b94b47bec",
+            "message": "Added DateValidity Tests",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "d8d0aec4f35c7fa68f684a1926249aa0a8cb136b",
+            "message": "Checkstyle Edits",
+            "insertions": 14,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 390,
+        "deletions": 141,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "d6c2915ebe39bf1a538f29cbc19a5fdac77f63a7",
+            "message": "Updated Parser Tests",
+            "insertions": 44,
+            "deletions": 0
+          },
+          {
+            "hash": "52a413a9687d5ee06af2411ab473818b711a0d59",
+            "message": "CheckStyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "179698ed41ba6ef9dfeb3b690adcb1b9b7b63838",
+            "message": "Updated Tests",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "6c360bc816198e0b9d3c427060ed30e5d07a5504",
+            "message": "Checkstyle Edits",
+            "insertions": 13,
+            "deletions": 10
+          },
+          {
+            "hash": "107f10214c62db4ff5f4f9e8825fdb9c374902ce",
+            "message": "CheckStyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d8db8e7663922fcce3a4ef420663a3ae7803408c",
+            "message": "Updated UserGuide",
+            "insertions": 43,
+            "deletions": 16
+          },
+          {
+            "hash": "6eb11f0ededb9f1f2922366e78a0cd0af2362d73",
+            "message": "Checkstyle Edits",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "640b16041bf5898cf01be4ea08775a8fdec81c30",
+            "message": "Userguide Updates",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c06917cc8e0e80ec99b079ee1347fdf0b0687f41",
+            "message": "Travis Check",
+            "insertions": 26,
+            "deletions": 26
+          },
+          {
+            "hash": "d07a05f96e7f3bf168835dff68805f61994050fb",
+            "message": "Travis Edit",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "3a1c37cef518705b95a49a3f1f7bed9bb6cd4300",
+            "message": "Updated Tests",
+            "insertions": 29,
+            "deletions": 29
+          },
+          {
+            "hash": "158f0eb8c68f6275e0cdd28f2b8b40f2209bb2ed",
+            "message": "Checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4e28457181d630e72bf8e678cd065fe4d5e9bf96",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9cb7d19dff67fe4c762eddba54d6fcf08cc6f1a6",
+            "message": "Printing Tests for duties",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "eae3ca2b0b32dc43f2b13bc3cba15a947635c9ab",
+            "message": "Updated Tests",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "544c378ae7c7c5a178d1920a7e27e8919bd68ef3",
+            "message": "Checkstyle Edits",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "0c1519aacfdf2a5b590c7883de20c190d1806e68",
+            "message": "Updated Parser Tests",
+            "insertions": 80,
+            "deletions": 1
+          },
+          {
+            "hash": "d5124f7e22e00131f0e29e657e0d5cec11232dfc",
+            "message": "Checkstyle Edits",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "769d622e125dbf46ddf94c3204fb535cd08a7c8f",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "67d55586703111568c6f3b154ca4963b312d01ee",
+            "message": "Checkstyle Edits",
+            "insertions": 19,
+            "deletions": 24
+          },
+          {
+            "hash": "ccc5d6cec44f3db05da452e284d23662cd9c990f",
+            "message": "Updated Userguide",
+            "insertions": 30,
+            "deletions": 8
+          },
+          {
+            "hash": "ff4bcfaf2e34561f65e4de4a74c9ce597be8e5d6",
+            "message": "Updated UserGuide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e1ba62d949fa313a357af258b4a65d0965ece9ff",
+            "message": "Updated UserGuide",
+            "insertions": 21,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 630,
+        "deletions": 246,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "ba767ba940a623c56423bf21788c9753e74a39f4",
+            "message": "Updated User Guide",
+            "insertions": 33,
+            "deletions": 4
+          },
+          {
+            "hash": "e744d1cfbf1f1947fa989e33658369e3ad294fe5",
+            "message": "Checkstyle Edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "69d8a308c65cb806dc571193f3d247f941d21228",
+            "message": "Stopped user from submitting same request",
+            "insertions": 31,
+            "deletions": 0
+          },
+          {
+            "hash": "2cbc69d7fddb4c687aa0bfe8065c1f1df4207603",
+            "message": "Checkstyle Edits",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "d0bec1f175142e5a8612492db658543be51c32e3",
+            "message": "Edited Test for Travis",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "c549138ebb8be50559a6ff3dcc6fda41639d63dd",
+            "message": "Travis Edit",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "dfbe50dbbd2c5e12743549d1725644e6aa0900f0",
+            "message": "Checkstyle Edits",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "562ca13e076c7840dd724880e12fe0d514ee36f3",
+            "message": "CheckStyle Edits",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "e5e8fb6cafdcd74f5f7411baeceb68fec8f9f8dd",
+            "message": "UserGuide Updates",
+            "insertions": 21,
+            "deletions": 14
+          },
+          {
+            "hash": "ddd5310ac71d1880429b19092b4fc4adc4067c45",
+            "message": "Modified Swap Tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b54ee1cd0db614daec1b825d50844832c27ba1cb",
+            "message": "Updated Developer Guide",
+            "insertions": 49,
+            "deletions": 0
+          },
+          {
+            "hash": "9b5796d32caec0323fc93e52bab183fb7ee8b5e2",
+            "message": "Updated BlockDateCommand",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "0ba8419525b390214eff65643e4b50c6c873f771",
+            "message": "Updated PPP",
+            "insertions": 126,
+            "deletions": 8
+          },
+          {
+            "hash": "f9e6e354acb23dec6723fc34b2e663e2818388d8",
+            "message": "Travis Edits",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "09076e9b483402160593f99774e55fce664a4eee",
+            "message": "Updated Developer Guide",
+            "insertions": 145,
+            "deletions": 5
+          },
+          {
+            "hash": "5c891956074056feebc15b36f211cfcc17a6529c",
+            "message": "Travis Check",
+            "insertions": 34,
+            "deletions": 35
+          },
+          {
+            "hash": "ba7a1479da3e6cdc9d14c7b112269ddcf240d81b",
+            "message": "Updated Use Cases",
+            "insertions": 35,
+            "deletions": 72
+          },
+          {
+            "hash": "9b6fecff6ff22dbc4ba830680b8dc33f7e15ce08",
+            "message": "Travis Edits",
+            "insertions": 5,
+            "deletions": 11
+          },
+          {
+            "hash": "6cf574e82842a8726fb579f536cc231dc3e004d8",
+            "message": "Updated Docs",
+            "insertions": 47,
+            "deletions": 30
+          },
+          {
+            "hash": "f17e07bc0ee4efd371691405f0702183e2aaf4f5",
+            "message": "Updated Docs",
+            "insertions": 17,
+            "deletions": 8
+          },
+          {
+            "hash": "6c5d55f13ed67d4c8eb8f7dc99765aaa27b77f84",
+            "message": "Updated Docs",
+            "insertions": 20,
+            "deletions": 3
+          },
+          {
+            "hash": "8512b374aa32de2938dbb06723728d20a53c3a67",
+            "message": "Updated Adoc Formatting",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "a09bd6f5972e6ef0dd714021613327282228fe6f",
+            "message": "Updated Formatting",
+            "insertions": 23,
+            "deletions": 20
+          },
+          {
+            "hash": "d36d4a9794746189c8c04f738def1316990396de",
+            "message": "Updated Developer Guide",
+            "insertions": 5,
+            "deletions": 6
+          }
+        ]
+      }
+    ],
+    "yjpan47": [
+      {
+        "insertions": 47,
+        "deletions": 47,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "889dcf4b51de4d3c620a9e1d7eac2654769f4bdc",
+            "message": "Updated Tests",
+            "insertions": 2,
+            "deletions": 37
+          },
+          {
+            "hash": "b9bc2d9581cc1b6086116294cce4c2b8e5aa1fa8",
+            "message": "Updated Developer Guide",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "26aafb62bb042e07bda1826833dbfbaa4a490e35",
+            "message": "Remove Duty List from Person",
+            "insertions": 30,
+            "deletions": 9
+          },
+          {
+            "hash": "97e54df3029ef717f28cdf25cf3fbf2efe90f4d5",
+            "message": "Updated developer guide: duty algorithms",
+            "insertions": 13,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 418,
+        "deletions": 191,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "d137d9cee58b02916a33cdcb556680225614d5cf",
+            "message": "Implemented the Algorithm, Updated DutyMonth and Duty classes",
+            "insertions": 311,
+            "deletions": 100
+          },
+          {
+            "hash": "7543d92139b20a5ebb400b00781e8d0e1566309d",
+            "message": "Updated DutyCalendar",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "6895e178d6f3f958dd5fcbd008004a160e5a97fc",
+            "message": "Updated parameters of DutyCalendar",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "293358e452da82fd08bc3a70c574880604218446",
+            "message": "Updated some formatting for test",
+            "insertions": 24,
+            "deletions": 52
+          },
+          {
+            "hash": "34977fc4cb4a7c84899e858ec410f8e30841c732",
+            "message": "Edited minor details",
+            "insertions": 30,
+            "deletions": 7
+          },
+          {
+            "hash": "2018f4a9dee9afa3cedfe500c2451794711b384d",
+            "message": "Edits for CI test",
+            "insertions": 41,
+            "deletions": 21
+          },
+          {
+            "hash": "cd0f87c10a9c394c9f4178d66cdb0f13e3bc7fb0",
+            "message": "Even moe attempts to pass the tests",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "bb8d47c50389218aee5164fab69d638ef21dd374",
+            "message": "Created an additonal constructor for dutyMonth",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 124,
+        "deletions": 52,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "747d0f2ccbf618f74e684aed19703b158b7d3272",
+            "message": "Addition of Schedule Command",
+            "insertions": 66,
+            "deletions": 8
+          },
+          {
+            "hash": "4fd6ea2ced48057a1f0a33390aa76b70b23576a5",
+            "message": "Updated Schedule Command",
+            "insertions": 29,
+            "deletions": 22
+          },
+          {
+            "hash": "695318b642fa29f1027802dd034ab4b4d320f79e",
+            "message": "Scheduler Algorthim finally worked (at least for 1 person)",
+            "insertions": 29,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 43,
+        "deletions": 25,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "f8de985788927e7a2691ff851f57a632aa8f58db",
+            "message": "Some changes",
+            "insertions": 43,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 456,
+        "deletions": 491,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "adae995de1b84573c19744ae2239883e49dcda84",
+            "message": "Major Updates to Duty Files (Duty, DutyMonth, DutySettings, DutyStorage) Included a DateUtil in Common",
+            "insertions": 456,
+            "deletions": 491
+          }
+        ]
+      },
+      {
+        "insertions": 262,
+        "deletions": 269,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "a0b84ac573129f760bc0aefbad0c556c66e4dba7",
+            "message": "Updated DutyCalendar",
+            "insertions": 28,
+            "deletions": 13
+          },
+          {
+            "hash": "309de0b3e62d1181ae73b38fc00847f713996632",
+            "message": "Added pointers to DutySettings and DutyStorage in DutyCalendar",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "8b1cab1cf0bdaf6a5a1706babf1e6934e1cc615a",
+            "message": "Changes to Duty Module",
+            "insertions": 219,
+            "deletions": 256
+          },
+          {
+            "hash": "b5cb3dc672a80b5c010ddb31363aef25cd2808ad",
+            "message": "Update Developer Guide",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 547,
+        "deletions": 402,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "ba39a893f2a7edb94fdf5a20c89207884f570404",
+            "message": "Added DutySettingsCommand, Updated ScheduleCommand, Included DutySettings as a UserPrefs",
+            "insertions": 419,
+            "deletions": 67
+          },
+          {
+            "hash": "56cdde76f87edc50f6141702473e188e03b6e785",
+            "message": "Fixed issues regarding swap command",
+            "insertions": 25,
+            "deletions": 282
+          },
+          {
+            "hash": "f49b45d5f7d023ad07a2e4db4170411b2b27ddef",
+            "message": "Minor changes to Schedule and ConfirmSchedule Command",
+            "insertions": 19,
+            "deletions": 5
+          },
+          {
+            "hash": "1d7a745b4a2e0b8515624c15983a2c856166a5f6",
+            "message": "Minor Updates to DutyMonth",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "109bb7ef09b15025189188de651e4c6c05a44f5f",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "297c89d0f810ac54742cab9d7ad8d834cb6bd80f",
+            "message": "Update UserGuide.adoc",
+            "insertions": 14,
+            "deletions": 2
+          },
+          {
+            "hash": "b8101e8f03bd1c7c974c113fe6dcb58061c5f76b",
+            "message": "Update UserGuide.adoc",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "2272303f378f2c4fac83579372b9fc930ed08750",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9f352ba192eec2754cb65ac2adc635260b5c4f70",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b02ccde38978849fe6568bd96c2598af677f5eb6",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2d27c44e1928ec085aa67d8f577f74d18b416c6d",
+            "message": "Update UserGuide.adoc",
+            "insertions": 5,
+            "deletions": 8
+          },
+          {
+            "hash": "57b00b86d98a113379f2386ea218befc255d9406",
+            "message": "Update yjpan47.adoc",
+            "insertions": 28,
+            "deletions": 11
+          },
+          {
+            "hash": "3dbaded56ba6e58a6dc4e54afae66442cef5fdc4",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5b79267aa98bbbe4c124cea511383b3f85aa157c",
+            "message": "Update something",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "74bb1faa3c430cc285c9fa831e7f9b8013ec695f",
+            "message": "Update yjpan47.adoc",
+            "insertions": 15,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 9,
+        "deletions": 4,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "288b27508318ae109139b7d49afb39055e65fe13",
+            "message": "Updated ViewCommand and Renamed command word for ConfirmScheduleCommand",
+            "insertions": 9,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 2,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "a5bc96a77a1e7938b94398474730f96441591c7d",
+            "message": "Temporary fix for the schedule bug",
+            "insertions": 7,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 27,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "afcab5351aaac3d0302e823953c1b724b347e3cb",
+            "message": "Added equals() and hashcode() to DutySettings",
+            "insertions": 27,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 143,
+        "deletions": 7,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "a2a04f600381d2454e40aeef17fbe455201f4b1b",
+            "message": "Added DutyStorage into DutyCalendar",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7dd1bf75886c121ead5778e3c95ccfc3210f65e9",
+            "message": "Created toString() for Duty",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "fa0245f0de46c34be7ffcb683d5e55c3c4546905",
+            "message": "Updated DutyStorage and created JsonAdaptedDutyStorage and JsonAdaptedDutyStoragePerson",
+            "insertions": 134,
+            "deletions": 5
+          },
+          {
+            "hash": "93a3e0c45329e9ad301dc59567a825f83bc8a786",
+            "message": "Debugged dutyStorage issue",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 262,
+        "deletions": 52,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "f9fcc9e7b8cf17899b8902c5e369d86586201f11",
+            "message": "Enable DutyPoints in DutyStorage to revert back to previous Points",
+            "insertions": 88,
+            "deletions": 19
+          },
+          {
+            "hash": "d37a7877c60b90ce3f359db81c4f1ec5e638c688",
+            "message": "Debugged issue of Edit and Remove Command screwing up the duty list and points",
+            "insertions": 79,
+            "deletions": 18
+          },
+          {
+            "hash": "beb9f5042f262c209926f6cb46538ade3aae6181",
+            "message": "Added PointsCommand that allows Admin to view points",
+            "insertions": 78,
+            "deletions": 0
+          },
+          {
+            "hash": "e99c0647e18622eeab3571634390f54722a825aa",
+            "message": "Minor edit to command message of ScheduleCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6e36824f0becb5f0d6ae78f6aeb5cb6916b1fea5",
+            "message": "Changed toString() of Person",
+            "insertions": 1,
+            "deletions": 14
+          },
+          {
+            "hash": "5fd5ce8a728e5a7f45cd5ad9ee194949a214eb00",
+            "message": "Updated PointCommand",
+            "insertions": 15,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 19,
+        "deletions": 6,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "b138f70a3657bd060bdd4003905bb4a371fd7471",
+            "message": "Added swap() method for DutyMonth",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "61fe75927a408fb116b2a4ac78dcd8172850696d",
+            "message": "Updated swap method in DutyMonth",
+            "insertions": 10,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 387,
+        "deletions": 80,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "9ec3a59b6106f3d13d7a4bb08845ba89fc2ef396",
+            "message": "Added RewardCommand and changed parts of duty module",
+            "insertions": 236,
+            "deletions": 59
+          },
+          {
+            "hash": "4ba31bbc522060347b7df9e8679d6a8162d0f697",
+            "message": "RewardCommand and PenalizeCommand",
+            "insertions": 149,
+            "deletions": 17
+          },
+          {
+            "hash": "0800119e68edf0d387493fbe95d052049090aeb6",
+            "message": "Updated PersonalDatabaseParser",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "c72ebca019374ba882fae04ef4f3f3315ee61f53",
+            "message": "ScheduleCommandTest",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 495,
+        "deletions": 204,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "f48e838998a9f0d182c699e67974071e1903d756",
+            "message": "Added DutyAlgorithmTest",
+            "insertions": 198,
+            "deletions": 9
+          },
+          {
+            "hash": "2a337ebc4f7c5fcc3f46e9a0bfc3cdaabbb6231c",
+            "message": "Fixed some changes with confirm command",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "420d7befc90f8fc23b018e6bd276d560a42938a9",
+            "message": "StyleCheck issues",
+            "insertions": 59,
+            "deletions": 43
+          },
+          {
+            "hash": "e9212f2f0c8c62aeda34deeeec224e62f2795875",
+            "message": "Travis Updates",
+            "insertions": 62,
+            "deletions": 24
+          },
+          {
+            "hash": "f10f7eeda134bc34b91d1a64b733eac8e5ca4701",
+            "message": "Travis Check",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "ad62dd191e57b79aab782e919ef56ec6dfea0a16",
+            "message": "Travis Test",
+            "insertions": 18,
+            "deletions": 24
+          },
+          {
+            "hash": "34f48d0d1c905f090b23a0f73f75e6ee5f948f4b",
+            "message": "Travis Test",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "3f59deeac06a1cfb0227f99e6243a48eec457fc4",
+            "message": "Tests",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "ce8f60935e95c3191c84252e9633fb86d3f40e31",
+            "message": "Changes",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "27f86f31d802d6d1df1eb118b51010333dfb4261",
+            "message": "Allowed NRIC to be displayed on Calendar",
+            "insertions": 15,
+            "deletions": 4
+          },
+          {
+            "hash": "94677494dba51fe1d35cddee9f24deb53377315c",
+            "message": "Fixed test issues",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "c01a03c54bf5a4b5bfc206998af3310e9a20f5ac",
+            "message": "Unit Test for penalize and reward",
+            "insertions": 27,
+            "deletions": 18
+          },
+          {
+            "hash": "f4ad4338a1b92b5526ebdad0694a949d129b19e6",
+            "message": "Update Duty Agorithm Tests",
+            "insertions": 11,
+            "deletions": 7
+          },
+          {
+            "hash": "c9626bfd2b9721f7eec2b231b024b52170e5049c",
+            "message": "ScheduleCommandTest and ConfirmScheduleCommandTest",
+            "insertions": 68,
+            "deletions": 31
+          },
+          {
+            "hash": "ec741a917729c882b3645d7665d2e5e20d9715b7",
+            "message": "Revert \"Update README.adoc\"",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "69382af3f8f38426153a6c96f06aab32a04dea48",
+            "message": "Increase size of pane",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 355,
+        "deletions": 224,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "b394236a4a0d985651eb32ceb4e18beb22239ad9",
+            "message": "Some UI enhancements (adding spaces etc.)",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "29574befa6585e345f0ada046c37cc691d00a3d8",
+            "message": "Minor style problem",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0d088a8054d613aec3132375cd545f45e1c24219",
+            "message": "Update UserGuide.adoc",
+            "insertions": 73,
+            "deletions": 0
+          },
+          {
+            "hash": "dc8be1f55e0cdd25c3bb485a749dad99e30352ab",
+            "message": "Update UserGuide.adoc",
+            "insertions": 13,
+            "deletions": 22
+          },
+          {
+            "hash": "75bbf4f7a14de95c0266ce92f3ef44c97692566f",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "46a506fe3b02cdddc394431a5d99210e35846177",
+            "message": "Edit messages for some commands and remove white spaces in user guide",
+            "insertions": 44,
+            "deletions": 41
+          },
+          {
+            "hash": "44f2d120fe93c478daa946d17827f1118f3f1529",
+            "message": "Travis Edit",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "4d8d670a131c53e58308102b0723a81456d90da0",
+            "message": "Fixed PersonnelDatabaseParserTest test",
+            "insertions": 2,
+            "deletions": 17
+          },
+          {
+            "hash": "841638bc422b7785c78f23edd4ffd6097d7cd1c6",
+            "message": "Travis Edit",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "02a135feb920f3ea97c21c5f49880d52a1bdc183",
+            "message": "Some change",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d89c3db6f1e433f90f33213de45dd3345751841b",
+            "message": "Updated Developer Guide",
+            "insertions": 38,
+            "deletions": 20
+          },
+          {
+            "hash": "e0d53ce62645fa4fbf6ce8fac175fd0018d317d5",
+            "message": "Updated Developer Guide",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "252fe8893a6d36e4f85d48669f8fe9f4e7873bb4",
+            "message": "white spaces",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "c34b55f291deace358acf2dd0e8d58d66b1c1cef",
+            "message": "Updated PPP",
+            "insertions": 7,
+            "deletions": 17
+          },
+          {
+            "hash": "5e6595b6f3998b0377e8c41f82031a28593d6595",
+            "message": "Update Developer Guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c97fb9efe5fcb233091b57531c16779e6c3adeaf",
+            "message": "Update PPP",
+            "insertions": 2,
+            "deletions": 16
+          },
+          {
+            "hash": "98230492cbc8de09b547fea785dc2c8ab042f9fa",
+            "message": "Update PPP",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9c7f2af86b1c56c6bd591da5d87890cc5b679207",
+            "message": "edit",
+            "insertions": 4,
+            "deletions": 6
+          },
+          {
+            "hash": "a6bd23cf84876ba402839fca414ac457d61dbb06",
+            "message": "Updated Dev Guide",
+            "insertions": 87,
+            "deletions": 13
+          },
+          {
+            "hash": "770c56d2c9f6b518a657e66c2cb1c97e734ac116",
+            "message": "Update docs",
+            "insertions": 21,
+            "deletions": 1
+          },
+          {
+            "hash": "ffce676c139a17e3fab805f5a08b7ff27d52403a",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "a9256ca200fec32fb4e405a8b08c4d9c6fd79061",
+            "message": "Update yjpan47.adoc",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "0ed9e95a6290cf39a0951eaf484037797af966af",
+            "message": "reposnese",
+            "insertions": 1,
+            "deletions": 21
+          },
+          {
+            "hash": "6c764a53e6539656e63cd371411503ce1bdbbd34",
+            "message": "edit",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "b21a6879d129a2551b20edf0491b5e9e8ca3c75d",
+            "message": "edit",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "dreampursuer95": [
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-02-10",
+        "commitResults": [
+          {
+            "hash": "0f6fbe304c71c2c76307278021a50b55e945890b",
+            "message": "Travis Test",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "9d67d168a16ddcf8b53ae04468c1415c154c7f8d",
+            "message": "Auto publish test",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "2e077cefdbcb84d20c9bd66f43860be8d5529c6f",
+            "message": "deleting Test",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 6,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "178462af497feabbd75a71e76e7dcf541de46ddc",
+            "message": "pull request test",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "81b5320d0d185860df2109430774ec1cd01a44a5",
+            "message": "Pull request test 2",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0f45876641e4af60d874285458cd3da3b1ea53ec",
+            "message": "Pull request test 3",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "bd4691743bac309a9c849699f5b9b59de4a7ecbd",
+            "message": "Edited Developer Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5e1f22deb7f2e5f1dceb958c9d6b200fb6aba835",
+            "message": "travis",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "e297156ed7ce191629f2c0e090e0b1c03fed83cb",
+            "message": "Travis again",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "929251e0af7abb8285b96fe4b3640b4168aa2dbd",
+            "message": "Travis again again",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 136,
+        "deletions": 23,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "a9dffcc47bb90945cf61c2fd1d2a0abef5517838",
+            "message": "Added DutyCalendar, DutyMonth, DutyDate classes DutyDate is temporary, may merge with Duty class",
+            "insertions": 103,
+            "deletions": 0
+          },
+          {
+            "hash": "f651a3092061b2d29816cd78571c5e47a97a2137",
+            "message": "Indentation correction",
+            "insertions": 33,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 488,
+        "deletions": 546,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "6a83a692b07dc67abb675fdc9832c45a87c79e3a",
+            "message": "Updated a bunch of test classes Small edit to the DutyCalendar and the constructor for Model Manager",
+            "insertions": 194,
+            "deletions": 229
+          },
+          {
+            "hash": "3ffe6e9c132e180bcdbc0b79a42ddd21bd340174",
+            "message": "Did some edits to the tests such that it can at least compile. However, much work needs to be done to make them all work properly and pass.",
+            "insertions": 286,
+            "deletions": 309
+          },
+          {
+            "hash": "c8e41973164058d530ba7fc6b6c7f8ad1b7c06db",
+            "message": "Travis edit",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 222,
+        "deletions": 168,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "f994caca30cf10d613c4660020fdd79f07beba38",
+            "message": "Nric.java fix",
+            "insertions": 17,
+            "deletions": 13
+          },
+          {
+            "hash": "bc3df1eb39474373e421eabe43d33741a0132e16",
+            "message": "edited addressbook.json edited PersonnelDatabse.java to contain dutyCalendar as an attribute edited ReadOnlyPersonnelDatabse interface",
+            "insertions": 97,
+            "deletions": 78
+          },
+          {
+            "hash": "634f697a1ef89e8e7125056f36c75b2f5c28fd9c",
+            "message": "travis",
+            "insertions": 40,
+            "deletions": 31
+          },
+          {
+            "hash": "2dbcb040bd4bb1dea9c998c09665c0253b2ad8e3",
+            "message": "test fixing partly done",
+            "insertions": 36,
+            "deletions": 45
+          },
+          {
+            "hash": "29a0dca475d8aa307680fddcd44ee1c9c2ad155e",
+            "message": "travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "66ff1baa1cc72509536d1d78674c43d490dca11a",
+            "message": "Added 3.5 Duty Calendar and allocation algorithm",
+            "insertions": 31,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 59,
+        "deletions": 8,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "725897a4b05c5c3b46a62d750e5411c9caacda29",
+            "message": "Storage for Duty Calendar",
+            "insertions": 59,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 150,
+        "deletions": 76,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "3b3e0772ff0577eb2291b2fc989b9633675dcd4c",
+            "message": "Storage for Duty",
+            "insertions": 118,
+            "deletions": 49
+          },
+          {
+            "hash": "43388426e040f1e131bdf86feb739cdb1ae92eda",
+            "message": "Travis",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "56eca860091dcb17a73acd28afdf5ee24be89230",
+            "message": "Oh travis",
+            "insertions": 14,
+            "deletions": 16
+          },
+          {
+            "hash": "fc18ed012d3976720fa7cf766d326db91cdfd78b",
+            "message": "I love travis so much",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1edc79243d5eb40b1a7ffce6c0722edb8b496b07",
+            "message": "Travis Edit",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "d21c96149012a70206a9f449e9e6a0346a27e298",
+            "message": "Travis Edit",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "d1060707fdf4a4ab128ec0050093b9d282d086d9",
+            "message": "Traaaaaaaaaaaaaaaaavis",
+            "insertions": 1,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 117,
+        "deletions": 120,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "d42a069e0ba4be294f75f69b6e864026f955c97c",
+            "message": "DutyCalendar overhaul",
+            "insertions": 55,
+            "deletions": 32
+          },
+          {
+            "hash": "2ecb4ad59039e28adf0981edd3fac0a3f73307ff",
+            "message": "Small edits to duty system",
+            "insertions": 44,
+            "deletions": 85
+          },
+          {
+            "hash": "480d662912eb252730cd64402d6dd0a3236e71d1",
+            "message": "style check",
+            "insertions": 18,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 460,
+        "deletions": 25,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "2231c25cccd87f093f2b9e6162c39232ea3727c8",
+            "message": "CalenderUtil test added \u0026 other tests corrected",
+            "insertions": 444,
+            "deletions": 22
+          },
+          {
+            "hash": "d0052c77ec7cdfed4339caf4ba15eacbd87e8d33",
+            "message": "Stylecheck",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "3e4760d66d45369141039f576979fdfd1c58bb26",
+            "message": "Checkstyle",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "9d3cc6cba49a951d2564013969bf1684111f2844",
+            "message": "Year for DutyCalendar",
+            "insertions": 13,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 14,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "800f86452bafea297da6fecbfc91a08f6db50be0",
+            "message": "fixed schedule() commit issues",
+            "insertions": 16,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 277,
+        "deletions": 382,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "385ca207499c5a331117f677c09d3501ee36683c",
+            "message": "Added view command Duty Storage still has an issue which I will fixed later",
+            "insertions": 208,
+            "deletions": 309
+          },
+          {
+            "hash": "32499b79b92483cda8d646416a4bd918d90678ec",
+            "message": "Edited ViewCommand",
+            "insertions": 27,
+            "deletions": 17
+          },
+          {
+            "hash": "b8bcdb352da82f61f7f5d97dbde0fa8499b7e0d7",
+            "message": "Fixed Storage",
+            "insertions": 4,
+            "deletions": 8
+          },
+          {
+            "hash": "2bad63ccc3d3832152d621ed4b34ba3dd69e762b",
+            "message": "Update dreampursuer95.adoc",
+            "insertions": 16,
+            "deletions": 32
+          },
+          {
+            "hash": "6a49a50ad89c06a67f69d121ca8e7f8e2c6cdf04",
+            "message": "Update dreampursuer95.adoc",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "eaf21f79d200e2c311c6b7873d88b0a7fda354b2",
+            "message": "Update dreampursuer95.adoc",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "c6a56d11c518d0eb797c17de4c8e042ea453f9ad",
+            "message": "Update dreampursuer95.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0ea5f0894965f0228c5687fb7a1faa729d1fcd49",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 14,
+            "deletions": 4
+          },
+          {
+            "hash": "e8415bfb02dd6f7b75e7828aad86aee69c6698e3",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 19,
+        "deletions": 28,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "9c457f17dc4f053c94a6f36ac60b8e9e266c9eb7",
+            "message": "Edited UserGuide",
+            "insertions": 19,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 157,
+        "deletions": 47,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "7d8915134cb004fc8846270cf5944a7ed42112a3",
+            "message": "Fixed schedule command",
+            "insertions": 107,
+            "deletions": 47
+          },
+          {
+            "hash": "f2e1ec83aa744d6b6b0b10eb5b5e332f20d20ba1",
+            "message": "Added unconfirm command for debugging purpose",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "992a6150289c14ced48da88a618658843f6707e4",
+            "message": "AddCommandTest fix",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 150,
+        "deletions": 375,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "6bcb48e5d904603b30eafd4cf0aeb7896e1e7ce6",
+            "message": "Edited addCommand, deleteCommand, editCommand so that the changes in Person are reflected in duties",
+            "insertions": 66,
+            "deletions": 3
+          },
+          {
+            "hash": "3861915d73eaed3eac26057b73ca4dd3c50bc393",
+            "message": "AddCommandTest fix",
+            "insertions": 84,
+            "deletions": 372
+          }
+        ]
+      },
+      {
+        "insertions": 1967,
+        "deletions": 192,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "e78eb95f784304374efc1f490e3ba3126c624e31",
+            "message": "Fixed blocked date storage issue",
+            "insertions": 88,
+            "deletions": 65
+          },
+          {
+            "hash": "44be3ec46ee50b6a8b878faa327a82949ad70a79",
+            "message": "Fixed JsonSerializablePersonnelDatabaseTest.java",
+            "insertions": 108,
+            "deletions": 54
+          },
+          {
+            "hash": "898cc3a9627089e031bdc48917b658d6b65d9a17",
+            "message": "added new tests for duties for JsonSerializablePersonnelDatabaseTest",
+            "insertions": 1471,
+            "deletions": 4
+          },
+          {
+            "hash": "554227d269265c43368f810aecfa54e0e3bea1a4",
+            "message": "Checkstyle",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "dc7e71b1ff2ccab5a25e5b5239ea71809efa1d5b",
+            "message": "Checkstyle issues",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "77e8907c2d932e95750513c9ecb934e4bd36b93d",
+            "message": "travis makes my life harder than it should be",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "abe94cdfdebb95700808400c9998b2ea0abc3edd",
+            "message": "ViewCommandTest added",
+            "insertions": 55,
+            "deletions": 4
+          },
+          {
+            "hash": "8434c285475af3714ea1321a800c1365b5577a69",
+            "message": "undo DutyStorage",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "722d9d13a21936437f1b2571ad45a56b89286689",
+            "message": "undo DutyMonths",
+            "insertions": 18,
+            "deletions": 2
+          },
+          {
+            "hash": "f4927ce4c8f61a56db8045be5ea88a32ac4a6fe9",
+            "message": "Updated DutyTest.java",
+            "insertions": 207,
+            "deletions": 26
+          },
+          {
+            "hash": "cd6bb58853fda9b10e82ccc3b87b766b2294b48e",
+            "message": "Checkstyle",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "42c0361b589f6869f988760a585b4eedff2c4dea",
+            "message": "deleted unnecessary CalenderUtil method and test",
+            "insertions": 0,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 294,
+        "deletions": 60,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "1c3d331569bba07969ba30a8d641cda3d93305e8",
+            "message": "Confirming schedule is now not allowed when not all duties are filled",
+            "insertions": 47,
+            "deletions": 8
+          },
+          {
+            "hash": "007d887f698f53e3bc560c0c164fe95418dc15b3",
+            "message": "clear command MESSAGE_SUCCESS edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "eb4f0da1e666b176ff641c46772db82c5da9f2a5",
+            "message": "Checkstyle",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "ad0e274a475bf086d9ad608888920b348890942a",
+            "message": "deleteCommand now clears all the duties",
+            "insertions": 8,
+            "deletions": 12
+          },
+          {
+            "hash": "f878a608520cd4868280d9ebd08fe1b9dbf219be",
+            "message": "Checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "d1b1e41520c14201997defcd744f3e517aa3eb9f",
+            "message": "blocked scheduling when PersonList empty",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "df9a2074f25421895ea2bf8eb91e18385176d7ac",
+            "message": "fixed NullPointerException problem with confirming schedule",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "483c06ce3eeebf1a06e29daffc3faf7ec9a7c0b5",
+            "message": "Checkstyle",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "c49294b7555d93341727009878a56f0c5d52eb4e",
+            "message": "Small edits to UserGuide",
+            "insertions": 22,
+            "deletions": 12
+          },
+          {
+            "hash": "83eb3f8ca359bf00b249fc01304c09c8c492109a",
+            "message": "Added User Stories and templates for Use Cases",
+            "insertions": 197,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 186,
+        "deletions": 69,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "a7261454a63b5f9d76091992e18769125283f7e7",
+            "message": "Added use cases in dev guide",
+            "insertions": 61,
+            "deletions": 16
+          },
+          {
+            "hash": "d0707f03cd1b4140465c2aaeba30bad7a3feec45",
+            "message": "edited PPP",
+            "insertions": 59,
+            "deletions": 35
+          },
+          {
+            "hash": "a159cb8c8dba47fe49140078e9a39ff8efc3520d",
+            "message": "PPP edit",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "472d0547923abe2aba3f7ff0e3039175d19c4d56",
+            "message": "PPP edit",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "c8376c6f22ba86eabaed0a3a7e0cd1fc19821c77",
+            "message": "added some v2.0 commands into User Guide",
+            "insertions": 27,
+            "deletions": 1
+          },
+          {
+            "hash": "b6b6dcbdbd7085ab4527ef6baa054d76d9171646",
+            "message": "Dev guide use case",
+            "insertions": 13,
+            "deletions": 10
+          },
+          {
+            "hash": "9ad186a67b071aa287ac5f3f2486394a5efe87b6",
+            "message": "small dreampursuer95 PPP edit",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "mechome": [
+      {
+        "insertions": 18,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "0fa696217dd68b1f175c71360a03d0e57444a5de",
+            "message": "docs/UserGuide.adoc: add Q\u0026A entries",
+            "insertions": 18,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 2120,
+        "deletions": 2078,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "bd56d13ebe6cad633561872377ac82054504812f",
+            "message": "add PersonnelDatabase classes",
+            "insertions": 1232,
+            "deletions": 0
+          },
+          {
+            "hash": "4ffe5f4d55d2aa6d40efa8a9fe0835b72a98d6b3",
+            "message": "remove AddressBook classes",
+            "insertions": 0,
+            "deletions": 944
+          },
+          {
+            "hash": "26a213f0a450485c3a6ccf02c012a103dec72ebe",
+            "message": "model/person: add new person attributes and remove obsolete ones",
+            "insertions": 179,
+            "deletions": 83
+          },
+          {
+            "hash": "95cbe4f287a64bc9d934b30e56cb88c8914050a9",
+            "message": "src/test: change test classes to suit new attributes",
+            "insertions": 117,
+            "deletions": 120
+          },
+          {
+            "hash": "b380886d65a0607b2f831ba6777195cad23d6df1",
+            "message": "address/logic: edit command and parser classes to suit new attributes",
+            "insertions": 163,
+            "deletions": 113
+          },
+          {
+            "hash": "e349accef489f6d0a782600deb82338eb1017b3c",
+            "message": "seedu/address: edit general classes to suit name change and new attributes",
+            "insertions": 102,
+            "deletions": 95
+          },
+          {
+            "hash": "a6426d4f613b599c90d101c062f5f0a0b452332d",
+            "message": "edit one more test class",
+            "insertions": 0,
+            "deletions": 287
+          },
+          {
+            "hash": "a57aa33643c4321dd32670e46395dd9178174710",
+            "message": "address/model: change name from AddressBook to PersonnelDatabase",
+            "insertions": 130,
+            "deletions": 130
+          },
+          {
+            "hash": "ea5eee64042dd95359da5251bc1f8e560580a9a5",
+            "message": "address/ui: edit ui classes to suit new attributes and new name",
+            "insertions": 15,
+            "deletions": 9
+          },
+          {
+            "hash": "44bdd796d9daa488f8bebf81a7bb0c5f91894961",
+            "message": "address/storage: edit storage classes to accommodate new attributes",
+            "insertions": 76,
+            "deletions": 49
+          },
+          {
+            "hash": "8ae30ec3869236c47a349e09c4df2fd85a5d15fd",
+            "message": "docs: edit DeveloperGuide and UserGuide in line with new attributes",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "f0bf3af834eb6b85a981f9f9ab8becd609352836",
+            "message": "seedu/address: touch-up merge issues",
+            "insertions": 1,
+            "deletions": 80
+          },
+          {
+            "hash": "49b1017bb11c7306e86dcfe60bf55990c1c4ae5b",
+            "message": "src/test: Edit test classes to suit new person attributes",
+            "insertions": 93,
+            "deletions": 156
+          }
+        ]
+      },
+      {
+        "insertions": 1136,
+        "deletions": 1066,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "db6aa874d02fea77a1caf18c66c9fde45deb20cf",
+            "message": "seedu/address: refactor AddressBook to PersonnelDatabase",
+            "insertions": 70,
+            "deletions": 74
+          },
+          {
+            "hash": "f01d3b815343a81d9940c031fe755a0a386a19f8",
+            "message": "src/test: Rename AddressBook further to PersonnelDatabase",
+            "insertions": 338,
+            "deletions": 347
+          },
+          {
+            "hash": "7601157e5d060eb13056133f4a958d20b49c2984",
+            "message": "test/.../logic: Adapt logic tests to suit new Person fields",
+            "insertions": 290,
+            "deletions": 240
+          },
+          {
+            "hash": "4c619103614f64afa8fa5d69986578049fe7490a",
+            "message": "test/.../model: adapt model tests to suit new Person fields",
+            "insertions": 22,
+            "deletions": 53
+          },
+          {
+            "hash": "c56628f23958b378711338981f23400607f8b434",
+            "message": "test/.../model: Change the tests for the Person fields",
+            "insertions": 154,
+            "deletions": 99
+          },
+          {
+            "hash": "52f205267d816aa4b971fc492b2d032708d35cab",
+            "message": "test/data: Adapt json files to suit new Person fields",
+            "insertions": 109,
+            "deletions": 83
+          },
+          {
+            "hash": "971264520e5ad770c4dfd8ab686fe604961db532",
+            "message": "test/java: Adapt miscellaneous tests to suit new Person fields",
+            "insertions": 150,
+            "deletions": 167
+          },
+          {
+            "hash": "6423b4a69bf064eab0a034aaf4bd682c76ff6a67",
+            "message": "docs/UserGuide.adoc: Change \u0027edit\u0027 instructions",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 185,
+        "deletions": 241,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "fb84dde9bce580d516ea621847dcb64a1ca9cf06",
+            "message": "test: edit test files so that TestApp can run",
+            "insertions": 38,
+            "deletions": 81
+          },
+          {
+            "hash": "8f106986c5299714aa9f62df7706d0315d37f030",
+            "message": "NRIC.java: try to git ignore",
+            "insertions": 0,
+            "deletions": 56
+          },
+          {
+            "hash": "844625a0a9258526fbd174ac77fc029343b4e7ea",
+            "message": "MainWindow.java: change calendar view",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "84fa6c56052ec1552ecdd3fe9e192b404f6f1926",
+            "message": "Travis",
+            "insertions": 23,
+            "deletions": 19
+          },
+          {
+            "hash": "53fa4690ee4971125dd3189690afa5a56bdc50f2",
+            "message": "Travis ++",
+            "insertions": 123,
+            "deletions": 84
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 10,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "118afcd34a72ce9b733cb98897e57607046ac2e8",
+            "message": "DutyMonth.java: Fix minor code issue",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "120ac348284225b839a97e3eb0e4f3ff9482d9ad",
+            "message": "LoginBox.java: Fix minor code issue",
+            "insertions": 8,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 570,
+        "deletions": 117,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "2c1ebff725babf5e5069495397d3307b086fec7b",
+            "message": "add swap request functionality",
+            "insertions": 344,
+            "deletions": 14
+          },
+          {
+            "hash": "20fc6a7d73b0aa451f845f6c72b328b36446f70a",
+            "message": "logic/Logic.java: refactor address book to personnel database",
+            "insertions": 10,
+            "deletions": 12
+          },
+          {
+            "hash": "4b970a512b3643e31712a5dc69266adbf3bc6f23",
+            "message": "*.java: implement swap command",
+            "insertions": 32,
+            "deletions": 12
+          },
+          {
+            "hash": "9c4d4eb55391372d495b634baf3145669d60b675",
+            "message": "DutyCalendar.java: fix calendar indexing issues",
+            "insertions": 20,
+            "deletions": 12
+          },
+          {
+            "hash": "9fbf46f8858357d411257e1eb5f831423cebd3b2",
+            "message": "model and storage: add swap request management",
+            "insertions": 114,
+            "deletions": 35
+          },
+          {
+            "hash": "d34ed20a1ca14c2a80dcb4fca837de112e072035",
+            "message": "ui: display swap requests on browser panel",
+            "insertions": 50,
+            "deletions": 32
+          }
+        ]
+      },
+      {
+        "insertions": 233,
+        "deletions": 126,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "83a4c7808078f61af7cbc7b444cab0327842f12f",
+            "message": "resolve issue with saving duty schedule",
+            "insertions": 57,
+            "deletions": 22
+          },
+          {
+            "hash": "051ca97692c64d10b7e468ce2d6cc71f5d263a9f",
+            "message": "JsonAdaptedRequest.java: Fix constructor issue",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "166106bcc18be5331b2a0c60ca3f2f1547938f1e",
+            "message": "extract \"Admin\" as a public static final",
+            "insertions": 64,
+            "deletions": 62
+          },
+          {
+            "hash": "d484d7ab82bc4c37ca993089f52ac541db8c9ef5",
+            "message": "add import UserType",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "11c699a96927f30e7dbcc8b28838de79ddb10c85",
+            "message": "SwapCommand: allow Admin accounts to request swap",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "7d09ae21da7270147816501102d4d7c401956031",
+            "message": "Request: add additional functionality",
+            "insertions": 30,
+            "deletions": 14
+          },
+          {
+            "hash": "5a4000d9f370d7265527b06e5eb0a540f8e8af6a",
+            "message": "show requests on browser panel",
+            "insertions": 73,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 184,
+        "deletions": 56,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "490125c45fc0851ba2c775dca8d452a3bdad5d35",
+            "message": "Edit PPP and UserGuide",
+            "insertions": 14,
+            "deletions": 31
+          },
+          {
+            "hash": "a05e4bd70e4b19513503fb14f43a35f267ac9bde",
+            "message": "SwapCommand.java: edit to only allow swaps within next month",
+            "insertions": 22,
+            "deletions": 25
+          },
+          {
+            "hash": "0b42666fec5f3dbf1a746cced5c1ced974237a14",
+            "message": "add AcceptSwapCommand",
+            "insertions": 148,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 143,
+        "deletions": 240,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "714aedf99b23ced90660e0130dda0bf15e69794c",
+            "message": "Edit tests regarding WebView and BrowserPanel",
+            "insertions": 57,
+            "deletions": 154
+          },
+          {
+            "hash": "ef5994196ea65c4eb6e6e84f0cb28772d37d7f15",
+            "message": "Edit test bugs",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "f3b5f5c03fcbca82c8db9f231bc78ddec30adc46",
+            "message": "UserGuide.adoc: edit block command",
+            "insertions": 7,
+            "deletions": 11
+          },
+          {
+            "hash": "7e52c553028fda9fe85f61a4610e6a60181e825f",
+            "message": "Edit BlockDateCommand tests",
+            "insertions": 40,
+            "deletions": 34
+          },
+          {
+            "hash": "d208fe37706b5f263c415bdb7cf6a49be556ad86",
+            "message": "UserGuide.adoc: Fix some typos",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "89768e3f4c029e03fabdd10eaea0e1866fb12182",
+            "message": "mechome.adoc: Updated PPP",
+            "insertions": 7,
+            "deletions": 12
+          },
+          {
+            "hash": "fe06f96fc8bec5cd21a73558914aed14b0850f99",
+            "message": "LogicManagerTest.java: edit test",
+            "insertions": 21,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 397,
+        "deletions": 65,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "77e3a3ce53b97c3eb25272923f7736e65d72ae72",
+            "message": "move ViewNextCommand and ViewCurrentCommand to commands package",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "b6c891fdd3db11ae36c625e6d045f2aea7601368",
+            "message": "implement view swaps",
+            "insertions": 53,
+            "deletions": 2
+          },
+          {
+            "hash": "1acc71bb0620d58a24b73c84544b0d475b9f71b9",
+            "message": "Refactor requests",
+            "insertions": 17,
+            "deletions": 6
+          },
+          {
+            "hash": "8c8ae612e9fb753aea19d16090cc3fafb57b03cd",
+            "message": "create new ApproveSwapCommand",
+            "insertions": 79,
+            "deletions": 0
+          },
+          {
+            "hash": "51c20bbf51de01931fa946bb574c7b7c517ea136",
+            "message": "DutyMonth.java: change swap command",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "a3aa52d0a35e054b2f8774622ef1ca99087cd19b",
+            "message": "create ApproveSwapCommand",
+            "insertions": 46,
+            "deletions": 3
+          },
+          {
+            "hash": "b7aa8c5de2010290d8443fe8933bf0567ba33f3a",
+            "message": "create new RejectSwapCommand",
+            "insertions": 111,
+            "deletions": 0
+          },
+          {
+            "hash": "c65a6eb9093a1820341d4b4452590ce889f4ebbf",
+            "message": "PersonnelDatabase.java: implement rollover for requests",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "41b74ac57d51d005ea497b9e7ecaccff56081dc1",
+            "message": "Request: refactor to save Person instead of nric",
+            "insertions": 54,
+            "deletions": 45
+          },
+          {
+            "hash": "170bcb58579c7b681103d190a5c5a54517fbeb93",
+            "message": "DeleteCommand.java: implement new method to delete requests with a person",
+            "insertions": 22,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 33,
+        "deletions": 17,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "e70cdb77f828e2f76bfd4ac07fd4c6ff75ff3b25",
+            "message": "fix bugs related to edit and swaps",
+            "insertions": 33,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 84,
+        "deletions": 63,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "903d80c69840560dedc3660a547db800a814de1c",
+            "message": "edit for checkstyle",
+            "insertions": 58,
+            "deletions": 41
+          },
+          {
+            "hash": "307e513603d6f6e0c053e70f72a4fda45b6694c9",
+            "message": "More Checkstyle",
+            "insertions": 13,
+            "deletions": 15
+          },
+          {
+            "hash": "077dc0361c301f71e67344fe03f7198f06af2c86",
+            "message": "more Checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d8f2cc3e33253de111dd2087b2edbae3d09810ac",
+            "message": "edit tests",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "9ccc05d664a9680d019b1225ae10dccde0f49f60",
+            "message": "edit compile error",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 373,
+        "deletions": 65,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "d685f15fd1ce631d8760cf71910926aab6424f42",
+            "message": "Add SwapCommandTest",
+            "insertions": 53,
+            "deletions": 1
+          },
+          {
+            "hash": "9f3483b71b725b2e50dab6797b544addabac2006",
+            "message": "Add more tests for AcceptSwapCommand and ViewSwapsCommand",
+            "insertions": 140,
+            "deletions": 11
+          },
+          {
+            "hash": "92244c0d330a45e257904bcc15eff87b40fd5374",
+            "message": "edit checkstyle",
+            "insertions": 10,
+            "deletions": 7
+          },
+          {
+            "hash": "0e5d37d670e48bc707fbb476d74cea9324b80336",
+            "message": "edit tests",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9011528fd9e0e8d371dfc0cecf5c0a03909f388b",
+            "message": "edit AcceptSwapCommandTest",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c4c5c72f24c602eb416f7cdafeb375a1e36c2a35",
+            "message": "edit AcceptSwapCommandTest",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "80ac0955dd858cf90e13eb61b0a4975827508650",
+            "message": "edit UserGuide",
+            "insertions": 60,
+            "deletions": 23
+          },
+          {
+            "hash": "99a742fa97678e84c93d20fcdad78b5ec8efd702",
+            "message": "Edit checkstyleeeee",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a62a0719ea04d2dc37abc76ed4b3fae9b2875337",
+            "message": "Edit docs",
+            "insertions": 56,
+            "deletions": 11
+          },
+          {
+            "hash": "41875565c6f093ba851653f851cb82fd2d85975a",
+            "message": "edit AcceptSwapCommandTest.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "86ec89750ecfe0eb4469495d67001538df516398",
+            "message": "edit checkstyle",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "927ea4c75b89cbc52d136f7d1a334f3018a1592d",
+            "message": "edit checkstyle",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "6e12dcbd57ec5aaadb05c7230ddf491736f75623",
+            "message": "Edit DeveloperGuide.adoc",
+            "insertions": 44,
+            "deletions": 0
+          },
+          {
+            "hash": "4ec3bb29af6d421b885c158247f6f3121ff45e30",
+            "message": "Edit DeveloperGuide",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "exactlyprecise": [
+      {
+        "insertions": 9,
+        "deletions": 1,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "b8f6235bdbe6f448e6cc42e4921c59a2f3b59f7a",
+            "message": "Messages.java: change message shown to user who input unidentified command",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "07bce1667a3d776606d5fd703e3d06be22f47e36",
+            "message": "DeveloperGuide.adoc: Add user stories to include user swap duty and log in",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 319,
+        "deletions": 46,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "049f1276752536068684e6dab0b85ceab30d01d0",
+            "message": "Add calendar grid prototype UI",
+            "insertions": 243,
+            "deletions": 13
+          },
+          {
+            "hash": "94db64e0051218ae04c76cd238306ba010895f36",
+            "message": "Change checkstyling for files",
+            "insertions": 13,
+            "deletions": 8
+          },
+          {
+            "hash": "0e63e7619cd8342039b22dc88655e09a6d7ebbfa",
+            "message": "Change ListCommand to bring up personnel view when used.",
+            "insertions": 32,
+            "deletions": 8
+          },
+          {
+            "hash": "0278beff2011ca684ca50f16d403ad3cdfffdc4f",
+            "message": "Modify testcases to encompass added functionality of ListCommand",
+            "insertions": 20,
+            "deletions": 11
+          },
+          {
+            "hash": "060ee946b603b9c0326cf6ad7fc66a61cdedeb04",
+            "message": "Change a line to fit stylecheck",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "d71650357a3473b1355d9d2bf54ec67eb732b8f5",
+            "message": "CommandResult.java: Change a line to fit stylecheck",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "211f8fffc19d08640e9200e0ffb0f76ef7f87a14",
+            "message": "Change line to fit checkstyle requirements",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "40379f8bac9f06c37e5a0137a5db13979655497a",
+            "message": "CommandResultTest.java: Add extra hashcode testcase",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 58,
+        "deletions": 67,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "4c16b8aad463f4e2a6954554330beb5bc20c7de2",
+            "message": "Change CalendarView to be more suited to final product. Fix a few resizing issues.",
+            "insertions": 57,
+            "deletions": 66
+          },
+          {
+            "hash": "2f3d14821da7b07eb4e0fb435652b574467b03c1",
+            "message": "MainWindow.fxml: Change title \"Address App\" to \"Duty Planner App\"",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 59,
+        "deletions": 74,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "714e2fbdd755f9f21b0b95059a0e3daec9740c61",
+            "message": "Change calendar view to include days and current date.",
+            "insertions": 59,
+            "deletions": 74
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 7,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "d09b573d862b50acca855e79637bdb21a5406856",
+            "message": "Edit relevant UI files to fix current bug due to changes in PersonCard",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 115,
+        "deletions": 4,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "9e5e948ca1f6dc975ae0b3077b16f3c055c98ef8",
+            "message": "Allow calendar to pull duties from temporary class TempClass",
+            "insertions": 115,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 191,
+        "deletions": 16,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "3961c809736def8935cc88d53ccef1f10ef3a5ae",
+            "message": "Change commands to allow different level of authority: admin and general",
+            "insertions": 191,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 3,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "273b03e4cf2565b441b09776c3a335a2b8d0982f",
+            "message": "Add LoginBox for account functionality",
+            "insertions": 72,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 45,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "5a541ad492d8645c7571b16eda893bdfdc18307d",
+            "message": "UserGuide.adoc: Update UserGuide to reflect changes in log in",
+            "insertions": 6,
+            "deletions": 9
+          },
+          {
+            "hash": "fea79887d57c26919cb2b6c84174ccdbb3b3541f",
+            "message": "DeveloperGuide.adoc: Change Developer Guide for description of implementation of enhancement",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "b5aeb708cbd3262f64e4c9788e7be495f9b48862",
+            "message": "Fix checkstyling issues for errors and warnings",
+            "insertions": 4,
+            "deletions": 10
+          },
+          {
+            "hash": "ce93e20f3a2f9b33bcbe8a4ace1b99c4c7a8cd80",
+            "message": "LoginBox.java: change user and password prompts",
+            "insertions": 9,
+            "deletions": 12
+          },
+          {
+            "hash": "c14f239e57be71359db2f282a56b36668affa724",
+            "message": "LoginBox.java: Change login NRIC and password prompts",
+            "insertions": 9,
+            "deletions": 12
+          },
+          {
+            "hash": "9649b046848df29e58747a698715349e091f7e81",
+            "message": "DeveloperGuide.adoc: fix checkstyle issue",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 84,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "274f39d8e02c5416b81bc4c2f0b1aa96b54dc194",
+            "message": "LoginBox.java: Change prompt text",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "cbaa3ddc85bfafadb09de1c78260ffea77531839",
+            "message": "MainWindow.java: chnage UserType to public final field",
+            "insertions": 8,
+            "deletions": 10
+          },
+          {
+            "hash": "80ef01c65c97fb0edf1210b2c8d2c8eb62f60705",
+            "message": "MainWindowCLoseTest: Change initialization of MainWindow",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "405fb13bf8f33d2842f9ab3a97d28ccb56f86e2c",
+            "message": "Fix Errors in tests for parsers",
+            "insertions": 13,
+            "deletions": 44
+          },
+          {
+            "hash": "b8c6a3bcda789bcb803ebbbd28e645b2de844777",
+            "message": "Fix errors in UI tests",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "3d028baecac3067e6fe10ba89e517d116878c27f",
+            "message": "Edit system tests partially for admin commands",
+            "insertions": 27,
+            "deletions": 23
+          },
+          {
+            "hash": "8c7a0e6ba16ff3816632a99c569d01bf71d434ac",
+            "message": "TypicalPersons.java: Fix person DANIEL so FindCommandSystemTest.java works",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 310,
+        "deletions": 93,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "250cf9d8560dcba8558b2814bc9e714aa68474cf",
+            "message": "Add password and UserType field to Person class",
+            "insertions": 89,
+            "deletions": 2
+          },
+          {
+            "hash": "1f084aaf9b6758c63511c7d7ae9ed43b589a90d7",
+            "message": "Login Box searches for accounts when logging in",
+            "insertions": 82,
+            "deletions": 19
+          },
+          {
+            "hash": "a1f30e202133244e35d4f55c1030f2b977ea1fb8",
+            "message": "Have MainWindow save a username string as well",
+            "insertions": 24,
+            "deletions": 6
+          },
+          {
+            "hash": "57c7ec8d9620a1ab08747590bca161d16cdbe1c5",
+            "message": "Allow edit to change password field",
+            "insertions": 43,
+            "deletions": 34
+          },
+          {
+            "hash": "00cc10b8f714dc8fe54e87bccdbc874789f4846d",
+            "message": "Change checkstyling issues",
+            "insertions": 35,
+            "deletions": 7
+          },
+          {
+            "hash": "58896af88b7ebf226d493d0dd23075849036a4d4",
+            "message": "MainWindowCloseTest.java: Change constructor to resolve compile error",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "0cf5746c7a7ab4e5bd9afcefc03ebd1c8adb3d8c",
+            "message": "Change Parsers to allow for different account types",
+            "insertions": 35,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 46,
+        "deletions": 5,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "ddb05baeb475d6d0d3d01c7e6d1c45565dbab80c",
+            "message": "DeleteCommandParser: Throws exception when General user tries delete command",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "e81ce2c94d9eb455945de64da66eb6464b523d36",
+            "message": "Change checkstyeMain errors",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "223c4f9fc2caa186edb117363b57eec150b788c4",
+            "message": "JsonAdaptedPerson.java: Allow storage to access password and UserType",
+            "insertions": 26,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 345,
+        "deletions": 138,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "7816d3b7fad77db353d3c046ea3c505e2cf0b9be",
+            "message": "Change EditCommand to act differently for general account",
+            "insertions": 131,
+            "deletions": 5
+          },
+          {
+            "hash": "3e34a72cfc559516641cc9f1f13c4b469023de49",
+            "message": "Person.java: change Person to force nric to be unique",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "3b5da51e6024dce46fe570aa8b02f7e58fd3ddaf",
+            "message": "commands/EditCommand.java: Change variable access",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6b2692ae444e92b3f0d2c085801725ba321c1ad1",
+            "message": "Allow EditCommand to change UserType",
+            "insertions": 43,
+            "deletions": 6
+          },
+          {
+            "hash": "8ac29926333e8c34b32d05df957129154d7393e0",
+            "message": "ParserUtil.java: Change regex for UserType",
+            "insertions": 8,
+            "deletions": 13
+          },
+          {
+            "hash": "9e2c3b7a8df800ee01d8af17d6be00270c30606f",
+            "message": "EditCommandParser: break parse method into smaller methods",
+            "insertions": 18,
+            "deletions": 10
+          },
+          {
+            "hash": "bda3bf121ffadbc701ab8cc6202f3a5ad1a3fbc7",
+            "message": "Fix Checkstlying issues",
+            "insertions": 23,
+            "deletions": 9
+          },
+          {
+            "hash": "8f5b36788493c1bda8d81cdd7d5452a8a5a4a309",
+            "message": "Edit tests so they compile",
+            "insertions": 59,
+            "deletions": 49
+          },
+          {
+            "hash": "52abae8d32a2e421b3ef016c13cbe0e973aed218",
+            "message": "Change tests so they compile",
+            "insertions": 62,
+            "deletions": 44
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 83,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "9d5b03e94af36f556bd9640c0e9c7e52b9165607",
+            "message": "docs/UserGuide.adoc: Add explanation about different login account types.",
+            "insertions": 8,
+            "deletions": 16
+          },
+          {
+            "hash": "30428248110649f48276d2e2a1891c48cb0ebbc7",
+            "message": "docs/UserGuide.adoc: Change userguide Admin commands, edit, add and delete",
+            "insertions": 42,
+            "deletions": 37
+          },
+          {
+            "hash": "ed2eeb4a74c25a281c03cccaac7409c02b95953c",
+            "message": "docs/team/exactlyprecise.adoc: Update PPP",
+            "insertions": 11,
+            "deletions": 23
+          },
+          {
+            "hash": "e0f2b3c120d3cd761b50850da6aebea02e3260b1",
+            "message": "Change UserGuide, DeveloperGuide and PPP",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 354,
+        "deletions": 209,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "504bc007fef28f420319063278efdb3f2ad19b7d",
+            "message": "Fix some checksytling issues",
+            "insertions": 14,
+            "deletions": 10
+          },
+          {
+            "hash": "877866c550f5fda8300261b4d67c146197a8de49",
+            "message": "Allows calendarview to pull duties into view",
+            "insertions": 63,
+            "deletions": 74
+          },
+          {
+            "hash": "4bde0daa08744fcc7984c5e7674eb94f46cb87c0",
+            "message": "Change checkstyling errors",
+            "insertions": 7,
+            "deletions": 13
+          },
+          {
+            "hash": "29919ac346c2c9bf782be3f9ebddd190ff29cba7",
+            "message": "CalendarView.java: Change date indexing issues",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6b84a869a459b86cd7025a8e96dd7d810e6eb616",
+            "message": "Change file methods to fit Law of Demeter",
+            "insertions": 24,
+            "deletions": 5
+          },
+          {
+            "hash": "4cc9a8a0d84daed19b7ce2bb23453aafd442368b",
+            "message": "Change checkstyling issues",
+            "insertions": 42,
+            "deletions": 31
+          },
+          {
+            "hash": "5b5fc536f5edacec322d499838c3295508aab40a",
+            "message": "Fix checkstyling issues",
+            "insertions": 9,
+            "deletions": 12
+          },
+          {
+            "hash": "4e0b7c3feecbf32dbf432c99a22565790d4e7842",
+            "message": "docs/team/exactlyprecise.adoc: change PPP by addings to userguide",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "a38eb46fe56fc0a048129fe896652649960c895e",
+            "message": "UserGuide.adoc: edit commands",
+            "insertions": 158,
+            "deletions": 45
+          },
+          {
+            "hash": "c4e18b752e7c60e87a4945beb1b9e484aeab5aff",
+            "message": "UserGuide.adoc: edit commands in userguide",
+            "insertions": 22,
+            "deletions": 13
+          },
+          {
+            "hash": "1aaef1e5a74445b8589c8933b1220473e847d30e",
+            "message": "Change PPP",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "172f513bb38ce96aa3d209653efe40ef4f62b886",
+            "message": "Change calendarview days and confirm schedule keyword text",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 69,
+        "deletions": 70,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "8f010bdb1e4025810a53ccecb1f43e52e2bf74a3",
+            "message": "ui/CalendarView/java: change view of calendar",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "b15dbeb85ccb0ca90eef844a45d64194ab1bf83c",
+            "message": "Change AddCommandTest to compile",
+            "insertions": 40,
+            "deletions": 1
+          },
+          {
+            "hash": "0727104f68c14d7d8eb6cadba1f9ee6ea171869a",
+            "message": "Remove Username and Usertype storage in modelmanager",
+            "insertions": 21,
+            "deletions": 64
+          },
+          {
+            "hash": "5c14f5463f68131f5f2514cefe5d07564dbe55f1",
+            "message": "Change checkstyling issues",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "cc208fc54efdda0fec1446805131579a4b2d8760",
+            "message": "docs/UserGuide.adoc: Edit UserGuide to include case of closing loginwindow",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "1dafc0098ba27897c51d7d485a56a7a46e96cd99",
+            "message": "Change tests to allow them to compile",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 328,
+        "deletions": 85,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "ce0a81dead02ebee2179aef4844fc1d9e587bd80",
+            "message": "DeveloperGuide.adoc: change team name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c7152fac06e6f039d21b9dde4a371d4937a41148",
+            "message": "Change Edit command tests",
+            "insertions": 121,
+            "deletions": 36
+          },
+          {
+            "hash": "1dc3d529227753199f450378f3e2333ce4f67916",
+            "message": "Change EditCommandSystemTest to include invalid password and usertype",
+            "insertions": 16,
+            "deletions": 6
+          },
+          {
+            "hash": "0916c54c0f2834a72a2771bd3e2de8f7ac993b87",
+            "message": "Change checksytling of DG and UG",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "5f197585d969ae0d8e0811c8e266d8b366ee7c50",
+            "message": "EditPersonDescriptor.java: Position literals first in String comparisons",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "18131b92a3495952f5c2fd3d128d6ab740737a49",
+            "message": "Change AddCommandSystemTest to add more test cases regarding fields of NRIC and Rank",
+            "insertions": 55,
+            "deletions": 16
+          },
+          {
+            "hash": "cefe97a7020e809473c20219b904bcb60ecf77ef",
+            "message": "Add extra tests",
+            "insertions": 53,
+            "deletions": 0
+          },
+          {
+            "hash": "0416dff8f3f2c46abc63737715677928b7f7c070",
+            "message": "Change tests to pass and add test cases",
+            "insertions": 41,
+            "deletions": 14
+          },
+          {
+            "hash": "e091c2598a6498b443b2b3345c9dc5cf108b4252",
+            "message": "Edit checkstyling to pass code review",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c1b5b85d4559431635d79a735a1c0315136ad69c",
+            "message": "Change CommandParserTestUtil to have more UserTypes",
+            "insertions": 31,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 890,
+        "deletions": 216,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "818f83b04c40ccd4ddcd2aa213cc72b43b12a161",
+            "message": "Change edit command parser tests to include accounts",
+            "insertions": 332,
+            "deletions": 4
+          },
+          {
+            "hash": "6db59914d37a2d99486941b91f7be850027f14e1",
+            "message": "Change checkstyling errors",
+            "insertions": 41,
+            "deletions": 48
+          },
+          {
+            "hash": "93abe2c811fb424a5e5eecf380d28f912c4a1ec4",
+            "message": "Add loggers to LoginBox and CalendarView",
+            "insertions": 18,
+            "deletions": 2
+          },
+          {
+            "hash": "0226d53500fd573d6b270e665ef0f3bce63a8384",
+            "message": "Change info to warning for nullpointerexception",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c46af88f62b5a7a5c67823f7c3d4a2df43417b5e",
+            "message": "Fix parsertest",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "19914c3ded678201398ab0c314c4bd274385cb46",
+            "message": "Remove execute from Command abstract class",
+            "insertions": 94,
+            "deletions": 82
+          },
+          {
+            "hash": "03223688f1d170121c06ee6758a865b8d87dc35c",
+            "message": "Change test cases to include general commands",
+            "insertions": 46,
+            "deletions": 0
+          },
+          {
+            "hash": "2b72972e7b9173767bf1719e37a69cfecdddc87b",
+            "message": "Change test cases to include executeGeneral()",
+            "insertions": 324,
+            "deletions": 37
+          },
+          {
+            "hash": "9cfbde2f0342697c174e29accf0e4fa74996846b",
+            "message": "Change checkstyling due to code review",
+            "insertions": 33,
+            "deletions": 40
+          }
+        ]
+      },
+      {
+        "insertions": 341,
+        "deletions": 127,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "8330e495eded36835a74a462f0a586ea93808d90",
+            "message": "Change password to include hashing",
+            "insertions": 26,
+            "deletions": 10
+          },
+          {
+            "hash": "7d4834f8e8f7b5bd93e51a421ebad12528fba39c",
+            "message": "Fix logicManagerTest",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "66079a65d219fbaf106a23fa0e9558453478f6a8",
+            "message": "Change method name to fit codacy",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8f0f26f1cfef16932b62887caf319b6fdc9c26ad",
+            "message": "Add functionality to bring up calendar view or person view for different commands",
+            "insertions": 282,
+            "deletions": 87
+          },
+          {
+            "hash": "b019d65b2fa2ff342d1d849474949b7d4afa010d",
+            "message": "UserGuide.adoc: add viewNext and viewCurrent commands",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "9d33a74f2ee6d9149aa5e4ec9e0df923f8cc750c",
+            "message": "Change checkstyling issues",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "e60307bd35a708596481beed116c3d5e65b9a7cb",
+            "message": "Change checkstyling",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 57,
+        "deletions": 3,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "cb0d43c9d3a2ed0ebd6b933a5a8cb385648fafa8",
+            "message": "Create test for login functionality",
+            "insertions": 56,
+            "deletions": 1
+          },
+          {
+            "hash": "ec38e508df8162bb308d642945187be3c6d3f2ab",
+            "message": "Change to fit codacy review",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 431,
+        "deletions": 97,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "df90c2f2471079fca43e9ee66a6aa8f06071adc6",
+            "message": "Allow SystemTests to test general accoutns",
+            "insertions": 136,
+            "deletions": 8
+          },
+          {
+            "hash": "15f507bf3a2eb90cbdba1220c0ad867609bac823",
+            "message": "Resolve checkstyling issues",
+            "insertions": 124,
+            "deletions": 4
+          },
+          {
+            "hash": "049921c2c62a9d5785ac39abf00046b1916d8255",
+            "message": "Fix testing issues",
+            "insertions": 73,
+            "deletions": 73
+          },
+          {
+            "hash": "9e6b364a94b5823e5c5a72fcc6c8d13fdd3e40cc",
+            "message": "Change PeronCard to not display usertype and password",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "0fdd7fa5735006bb6cb23466b8af06e905d4f181",
+            "message": "Fix test case",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "6eb7a2e843436cac77a5c11d822d8d92c86206f1",
+            "message": "EditCommandSystemTest.java: Add more test cases",
+            "insertions": 98,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 146,
+        "deletions": 41,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "7ce1789619eb63de63e1bdd98f987916102b5a34",
+            "message": "Change to fit codacy review",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "992b4f2607639a464f0fd953bf8dfb1bb8e3bf71",
+            "message": "Change checkstlying issue",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "3d896770769354ce2617ed4e9c75e5f941942c7c",
+            "message": "Exits program when admin deletes own account or chagnes username or usertype",
+            "insertions": 121,
+            "deletions": 19
+          },
+          {
+            "hash": "26ee8390c1997764d54ecba4b142ee733f57c184",
+            "message": "Change checkstyling issues",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "e25a8bf777d43d929557924420dba1ff066f0701",
+            "message": "Fix checkstyling",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "a6b71860565000b80faa83eda1faf031d9f7e27d",
+            "message": "Change checkstyling issues",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6c6b8b848fa085deb3642cd9b0c628af5b6f3d45",
+            "message": "Change DG and UG",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "17f40003eb992ed1a6198adcb38ffaa8aee6573f",
+            "message": "Change UserGuide info about edit",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "c062115a6bcd1d31b311045e83854fad97de3a6c",
+            "message": "Add tags to UserGuide for PPP",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "2fe6ec3bfd895518e5b804e7412cd700126fe498",
+            "message": "exactlyprecise.adoc: Change link to reposense",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 90,
+        "deletions": 23,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "1f3deb31b09ad52ec490acde05f039610fa002be",
+            "message": "Change link",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cbe80b2ed2e9f80aae79d24b6d3356678b94b36e",
+            "message": "Change PPP to include cross-testing",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3920c679761db121935e8a05d484cd23b6136d2c",
+            "message": "Add sequence diagram to DG",
+            "insertions": 12,
+            "deletions": 6
+          },
+          {
+            "hash": "397dbf5a067eac861e9d1b60829a59276c7ec28c",
+            "message": "Change personal implementation part of DG",
+            "insertions": 26,
+            "deletions": 5
+          },
+          {
+            "hash": "e446527eb1466e9be3585babe1589d72fbe26755",
+            "message": "Change tag of PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f6762fc4e61db321df0096a19328af139050e6b2",
+            "message": "Change UserGuide",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "425ca484db7215b776c695ffb98519447ea3509c",
+            "message": "Add extra diagrams to DG",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "7a2d015cfddd88f6922db4f9fec710585a46a745",
+            "message": "change clear",
+            "insertions": 17,
+            "deletions": 4
+          },
+          {
+            "hash": "12ffeb6cd3cc745a5491fd402c62c93722377ff0",
+            "message": "Bugs",
+            "insertions": 28,
+            "deletions": 4
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "Valatheking": 1655,
+    "yjpan47": 2244,
+    "dreampursuer95": 3136,
+    "mechome": 3824,
+    "exactlyprecise": 3139
+  },
+  "authorFileFormatContributionMap": {
+    "Valatheking": {
+      "adoc": 520,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1135,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "yjpan47": {
+      "adoc": 286,
+      "cs": 0,
+      "css": 0,
+      "fxml": 2,
+      "gradle": 0,
+      "html": 0,
+      "java": 1956,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "dreampursuer95": {
+      "adoc": 322,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1191,
+      "js": 0,
+      "json": 1623,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "mechome": {
+      "adoc": 179,
+      "cs": 0,
+      "css": 0,
+      "fxml": 5,
+      "gradle": 0,
+      "html": 1,
+      "java": 3542,
+      "js": 0,
+      "json": 97,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "exactlyprecise": {
+      "adoc": 232,
+      "cs": 0,
+      "css": 0,
+      "fxml": 85,
+      "gradle": 0,
+      "html": 0,
+      "java": 2822,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "Valatheking": 37469.5,
+    "yjpan47": 48722.85,
+    "dreampursuer95": 99648.164,
+    "mechome": 345558.28,
+    "exactlyprecise": 37125.3
+  },
+  "authorDisplayNameMap": {
+    "Valatheking": "VAL...JAN",
+    "yjpan47": "PAN...ING",
+    "dreampursuer95": "YOO...YUN",
+    "mechome": "CHO... EN",
+    "exactlyprecise": "NG ... LE"
+  }
+}

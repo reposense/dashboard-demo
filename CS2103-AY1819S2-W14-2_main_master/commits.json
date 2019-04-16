@@ -1,0 +1,4647 @@
+{
+  "authorDailyContributionsMap": {
+    "itszp": [
+      {
+        "insertions": 100,
+        "deletions": 18,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "ddce911baebb9f18a72e983b59d7ac1ea4db4c26",
+            "message": "Implemented Open Function",
+            "insertions": 87,
+            "deletions": 0
+          },
+          {
+            "hash": "d41e4c6d2bda2b9455eb45d52be150bbcd36ffe5",
+            "message": "removed unused import",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "a75db68651c6e5dd6c8e654014188eb45eaa6106",
+            "message": "fixed Import Command parsing messages and changed method name",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "7104a3658ed765f109cff332c387e537651c3bf2",
+            "message": "remove unused import",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "e64be17732380e49b6e07a79d2d6f7525126b2d4",
+            "message": "checkstyle edits",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "2378df12845d8d5822eee905e9b0d2e62f5592aa",
+            "message": "bug edit",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 76,
+        "deletions": 12,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "09d1fe70b12669de65e396d81c35c917d28b350b",
+            "message": "edited user story",
+            "insertions": 19,
+            "deletions": 6
+          },
+          {
+            "hash": "34f5abe2b50bcbf7a3054d801ee7af175ddf62fc",
+            "message": "AddCommand V0.1. Requires parsing still",
+            "insertions": 54,
+            "deletions": 3
+          },
+          {
+            "hash": "e28b86d315625f61f47651fc738c1ca1726e84e8",
+            "message": "checkstyle edits",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 59,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "c8e318ed506cf36c4fee6718c5b6ec1267769f03",
+            "message": "Added ListFiles Command. Added sample2.png for future testing.",
+            "insertions": 39,
+            "deletions": 39
+          },
+          {
+            "hash": "b6ca599ad48fe266733d88bdbb4cd557c403eb25",
+            "message": "checkstyle edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e8d86403654d3378c8ccdab69871716a92d24507",
+            "message": "change method name to avoid confusion",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "a544a371e78250c34294739699dd81537ebff585",
+            "message": "checkstyle edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "81e041a9a7eb9dcc1bca8f59cfdac7756520229b",
+            "message": "created constant for assets file path. Updated all usages",
+            "insertions": 21,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "ca1a6420529a478b39ffe7fbd165bd2d1a4218e5",
+            "message": "Changed Contrast success message",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 161,
+        "deletions": 80,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "3f53d1424cdc7ad4305b9973dcd013db1a328302",
+            "message": "updated open command",
+            "insertions": 23,
+            "deletions": 1
+          },
+          {
+            "hash": "7aa648ed6ec795e8dc07db7c8f9fa221ee8b41b9",
+            "message": "removed stray letter",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c0bf748841e1adbacd62dc9ad58de8a320027569",
+            "message": "removed stray letter",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bf39f16adcfcdddad5df520c587b39cbfd45b749",
+            "message": "rename tempImage to currentImage",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "93d14d47fa67b1b8b0f85adabdc4c95c7046004a",
+            "message": "Developer Guide updates for Open",
+            "insertions": 32,
+            "deletions": 1
+          },
+          {
+            "hash": "43dc7262f7db12f92e04102a6d0a1ce0431e4ad0",
+            "message": "checkstyle edits",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "a737707d4aac9e09f45b21104bce3860257d96c2",
+            "message": "Updated UserGuide",
+            "insertions": 96,
+            "deletions": 68
+          }
+        ]
+      },
+      {
+        "insertions": 179,
+        "deletions": 45,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "d25ea531feb27750007625ea4787bed00359e689",
+            "message": "Updated Open method",
+            "insertions": 38,
+            "deletions": 19
+          },
+          {
+            "hash": "3264a17fc511df73bbaa4ad2e00319f3a121ea9a",
+            "message": "Open Command Updated",
+            "insertions": 7,
+            "deletions": 12
+          },
+          {
+            "hash": "50110f31587a060e0a35dc13166cbda7a1120681",
+            "message": "checkstyle edits",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "4d16739977d074cb549e0c4362bec3a6f0af7b09",
+            "message": "travis edits",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "3a101aaa3a0080637ea4565b1b4de308bb07231a",
+            "message": "Save Function",
+            "insertions": 113,
+            "deletions": 4
+          },
+          {
+            "hash": "ae6e7082731097d38fc277158c91f04d27e4c626",
+            "message": "travis edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fc0f70521c56911abf0f89e45d5ac6a5c50bd578",
+            "message": "checkstyle edits",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "3a9209b66979b0e9ee8dc0316b11e28371242cdd",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d97891cdc63bb5b88580d6e6020938937d904f1c",
+            "message": "Added save to user guide",
+            "insertions": 13,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 2,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "9204577bff2cce020de71a91329cf1192a09a5d9",
+            "message": "Bug fix.",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 128,
+        "deletions": 29,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "4d6617044da6d91d64d04817419d990898d71c59",
+            "message": "refactored save command",
+            "insertions": 51,
+            "deletions": 8
+          },
+          {
+            "hash": "e511eadc828d89aef9ab5901373206433528f89b",
+            "message": "changed icon and title of app",
+            "insertions": 20,
+            "deletions": 13
+          },
+          {
+            "hash": "4c9066e2b1eb784bc82c4fd7666dc8a9176ecbff",
+            "message": "refactored save and listfiles",
+            "insertions": 30,
+            "deletions": 7
+          },
+          {
+            "hash": "2403d7abd9f5c8817e58198cf3612ebc06439a73",
+            "message": "checkstyle edits",
+            "insertions": 27,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 50,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "62a8df92d29bcfb1748b5f6a421d5135d9442e3f",
+            "message": "fixed bug in save",
+            "insertions": 27,
+            "deletions": 28
+          },
+          {
+            "hash": "c97396e9f335589b83d278f8c747f8013ec79107",
+            "message": "fix docs",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "ab12f0e348f7d16332ba9744cdfd478c0ade94ff",
+            "message": "fix conflicts",
+            "insertions": 2,
+            "deletions": 10
+          },
+          {
+            "hash": "ba5b0d6769368f617654618f7f7dc498c866e8ec",
+            "message": "bug fix for save",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "2ed0000387a5801b692bc5c9e0bc90a7e86dd53c",
+            "message": "typo",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 33,
+        "deletions": 15,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "7a0b4c752f9ca31e9f5948b543b907c8ba097135",
+            "message": "save bug fix",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "7a950b5f0f345280d0f7de3fb555fd77b829e11e",
+            "message": "Save will not save originalImage as ori_img.png",
+            "insertions": 16,
+            "deletions": 4
+          },
+          {
+            "hash": "c9eb387430c28e37b2cdb8c589511b1df5778dc9",
+            "message": "Save will NOW save originalImage as ori_img.png",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "24db77c9931c529d1fb1ef7cb1ee86e375db1663",
+            "message": "fixed Save",
+            "insertions": 16,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 137,
+        "deletions": 29,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "85aafe1d5d357d3a33f7d60a5f244538ec7b9467",
+            "message": "fixed save command error message",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "4b72df256760ffccbbca0c5776262963f510bfa8",
+            "message": "Update userguide",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "5103e9be75f6e12c7bec795d573268a0c7fa6794",
+            "message": "minor change to parsed messages",
+            "insertions": 18,
+            "deletions": 6
+          },
+          {
+            "hash": "d044df3e5001361054dc78790b142eeb0668c5c3",
+            "message": "Update AboutUs.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e2038dc1a3cbe1321012eb7c1ae99ff73decfb0c",
+            "message": "Create itszp.adoc",
+            "insertions": 72,
+            "deletions": 0
+          },
+          {
+            "hash": "099fbc9a8bc22984d76f65ebf25a7b8dcdc409ec",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9978af72035b9e4d2ce8f4cbbe9c1fbbfb5897cc",
+            "message": "Update itszp.adoc",
+            "insertions": 10,
+            "deletions": 1
+          },
+          {
+            "hash": "e782331469819722de3c9fb4f4773356d8f9301b",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "3620584c502e3322b94d848e299cf2a52cc7dc20",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 22,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 285,
+        "deletions": 183,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "d89159ae9c80afd390638892f0e3934afa271dd2",
+            "message": "shifted methods to album",
+            "insertions": 74,
+            "deletions": 56
+          },
+          {
+            "hash": "2c08bae3cf1ab218a841ed5e2dc12f2fc92d2af5",
+            "message": "changes",
+            "insertions": 30,
+            "deletions": 20
+          },
+          {
+            "hash": "38690e27e246de7b4e230d8f9fdc5f65f7379131",
+            "message": "fix ui",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "23316ceff92dad3e307c998efa03f157ab46612e",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "a4fe230e4166566e031e3ae38e1ff2440e004897",
+            "message": "changed method",
+            "insertions": 21,
+            "deletions": 9
+          },
+          {
+            "hash": "20fbd238114d627ed922212ad6fdcc4b64419f35",
+            "message": "minor changes",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "9a1525917bed14d6d1542f8df2a69cf337b9446b",
+            "message": "images",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "278565505d9fe4ff95f6cc25fbeb03a978119336",
+            "message": "refactor",
+            "insertions": 5,
+            "deletions": 11
+          },
+          {
+            "hash": "45d9ac245fe3b02416c9cf7931a4501049e148aa",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 117,
+            "deletions": 58
+          },
+          {
+            "hash": "920d08fcb1d96d6ca0046efe6e3261a0e4550e10",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 11,
+            "deletions": 4
+          },
+          {
+            "hash": "649130682031a8fb1e3bc9f954c2bf01e56718b1",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d28d09acea08c2b749b33bb780ddd2e35cef77db",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "a3b2d13050fc51986f0e9d9a810cad19c96f79d1",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "505ac335a3464d0db6e1e1b8ab628f6a038ab3bb",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 5,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 80,
+        "deletions": 73,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "4a3819c0fa2aadff7afc449ad0b7c974d10da62a",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "cf63bf693695f20d5f7d032560c0f4abd3b41b7e",
+            "message": "Update UserGuide.adoc",
+            "insertions": 11,
+            "deletions": 12
+          },
+          {
+            "hash": "3ed50f07f73205a68b46ea93e5021689fb9656e9",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "35d1f3be36a7eebb8e06618bf13feb1de4b6dbf2",
+            "message": "Update itszp.adoc",
+            "insertions": 31,
+            "deletions": 34
+          },
+          {
+            "hash": "43de24bf9fa9f1d2777c2f77e95ab7f036696b8d",
+            "message": "Update itszp.adoc",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "6f5c95b2897b7274ad85ada8d9ffd82263cbfb00",
+            "message": "Update itszp.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fdecf6f2ab19a7844cbdfb5563f24537f1d892dc",
+            "message": "Update itszp.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "130b923c57923bc1ddf1a21b872f6364bf4d0ddf",
+            "message": "Update itszp.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0c92bae23afa2a449f015de5b0bba13bda82b88f",
+            "message": "Update itszp.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "5ee3ad22314b71a855820ea52d4f295167c7f0f2",
+            "message": "Update itszp.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cccbbbbbe80e8892704c3e1aeeaf102a64457c53",
+            "message": "Added tags to devguide",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "abb8c6bc932bd3bf53d38f31d47c562f543bee9a",
+            "message": "added tags to userguide",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "9bc8447b4a4ef0b874d7c239a8f3a8a6e14357c0",
+            "message": "Update PPP",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "a6e2348c332ec41773283524a3c78c7831df0efe",
+            "message": "Update itszp.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 4,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "720a0b9d82af0ba89f624cae8029931161584f85",
+            "message": "fixed undo",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "aa55eea26eeb355674855039a3414003605225f3",
+            "message": "checkstyle",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 32,
+        "deletions": 4,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "393dde2d83d5638c27024fc428dcb874a3b25633",
+            "message": "bug fix to save",
+            "insertions": 32,
+            "deletions": 2
+          },
+          {
+            "hash": "75d6a9efd5623f2926da58736eb821cb63ebca7a",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 2,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "c7b8f74d0d33d62d55ce386c5040a57f84fa238e",
+            "message": "fixed some parser texts",
+            "insertions": 8,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 208,
+        "deletions": 19,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "7e7c07730082e082550cb753b27f4f67e649525d",
+            "message": "listfiles test done",
+            "insertions": 65,
+            "deletions": 0
+          },
+          {
+            "hash": "6a779a9be4647f3c9c6500be8eec55939fca0cb9",
+            "message": "testcase lisefiles 2",
+            "insertions": 20,
+            "deletions": 10
+          },
+          {
+            "hash": "0507aade356db06018bd71a14ca71a78591913fd",
+            "message": "OpenCommandParser Test",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "fa0dd7d8b6592c789419d7c9e059ca690bbeb599",
+            "message": "SaveCommandParser Test",
+            "insertions": 92,
+            "deletions": 5
+          },
+          {
+            "hash": "f2ed0ce86d4629f8d6f4be4aa905e7d672e664f9",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "3518af94863110e402aedbbef34727650fb5d6c5",
+            "message": "Checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 121,
+        "deletions": 83,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "d689958ea49bb1e5fffafafb236fadc3eec2b358",
+            "message": "open test",
+            "insertions": 7,
+            "deletions": 9
+          },
+          {
+            "hash": "2b0a032ae3ea30cc3a8d6485b7906314ddb440b6",
+            "message": "edit java docs",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "02637bda848c0507e7cebd7b209d8cfc113cf907",
+            "message": "javadocs",
+            "insertions": 12,
+            "deletions": 58
+          },
+          {
+            "hash": "0c038d89db005f615f1348356b08481d7356a5a5",
+            "message": "javadocs",
+            "insertions": 16,
+            "deletions": 7
+          },
+          {
+            "hash": "8b3c5c087933d2f1cd8e4fade5e64540478cbbf5",
+            "message": "javadocs",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c31227eb07ff8cac6dfdfe420dc374584d4a92e6",
+            "message": "edit java docs",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "81eeb6fbc9415ec3093808c07ba11a717f11c36d",
+            "message": "start",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "f47e0cd514fcdbae7129aa82ec4c6bbb924057dd",
+            "message": "Open command test done",
+            "insertions": 75,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 184,
+        "deletions": 30,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "8ec46d6f3f3b66c2e880281759f4cd78399c2dd6",
+            "message": "save command test done",
+            "insertions": 112,
+            "deletions": 0
+          },
+          {
+            "hash": "82f28a7a50246c38f68b5a8efef58dfdfc63e750",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "2a2523d092f008a96990da5740b4b677c2b0da90",
+            "message": "update to user guide",
+            "insertions": 41,
+            "deletions": 15
+          },
+          {
+            "hash": "f5ed7fd6b33f5d55e0a8e73e9c411223cd03fbb0",
+            "message": "Update itszp.adoc",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "707e8f3ee9138101aba6ae18c61669c93f265b06",
+            "message": "small update to ug",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "aba9ef87c2c840d47eb4387513bd4de176249cf0",
+            "message": "accepts tiff for save function. updated tests",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "36fe51ffa0270c9d268d31bd26a787f8eef5cf15",
+            "message": "update to ug",
+            "insertions": 19,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 229,
+        "deletions": 162,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "17114020b19e340ce3fc839461af91a89671d117",
+            "message": "updates to developer guide",
+            "insertions": 70,
+            "deletions": 49
+          },
+          {
+            "hash": "5a93aa9e963557d39c46f6996e3221a9ac2f41b5",
+            "message": "some changes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4ca544d84d1f03084eb91eb5306d338dab04c365",
+            "message": "some edits",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "49c4d1d9055701cc1bec1ab1e4604e949bda3c18",
+            "message": "type",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9ca45af456cafe04776c4b0aa519758bf8b7368d",
+            "message": "edits",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c56c8401c3025944446142daf72bd2724e01590b",
+            "message": "update ppp",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "053d4e354c414e6a8956a20cf01c9041358b2124",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9973905efdb1b67b3fabd18c0264bb1f9444b3d6",
+            "message": "try",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "e6ff25da218d09ea3daad8d702073fd4a362e926",
+            "message": "help",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "c618c9e95ebaa56746844a88b4107a2b7ef178ad",
+            "message": "test",
+            "insertions": 10,
+            "deletions": 9
+          },
+          {
+            "hash": "e98293d6bc2a2515ba89f5ee36ce1521dd894aa5",
+            "message": "updates",
+            "insertions": 31,
+            "deletions": 15
+          },
+          {
+            "hash": "e848688d774461f80d308eb6ba85bbb69bbe3dc4",
+            "message": "major update",
+            "insertions": 65,
+            "deletions": 50
+          },
+          {
+            "hash": "bc5e8ed87cf658e0f6e4356c48cce5fc6ef98750",
+            "message": "typo",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "e32503b8fe07849a504715b75a3d508d3c3c9b07",
+            "message": "update format",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "7d65f773fdfcaa6addee147b1cdb976d8edb2d93",
+            "message": "tweaks",
+            "insertions": 12,
+            "deletions": 8
+          },
+          {
+            "hash": "f04655ecddc5b5869fb9c8c763aded651d340539",
+            "message": "added line break",
+            "insertions": 5,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 31,
+        "deletions": 115,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "616ae994970e5179795126f9a87f7c8e6651f02f",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 5,
+            "deletions": 8
+          },
+          {
+            "hash": "8f0cdbbbaa78e559261268bacad051ee4134da08",
+            "message": "minor change",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "40ca0d57e3c35c9b86b7db853336fc78a59149ea",
+            "message": "extra",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "586bf5f07a0d33a15d4cb1a48f8a4d72c727fce5",
+            "message": "update PPP",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "56425732997e2b12be4e93e636b293c016a7dfc5",
+            "message": "remove duplicates",
+            "insertions": 0,
+            "deletions": 75
+          },
+          {
+            "hash": "6d31ca391319b90f31e34d8795ef988522c87624",
+            "message": "update",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "ff8f5dfcd2592ec1b9d802093e59226caf7e1e94",
+            "message": "minor edits to dg",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "edc97d795a4b5ca0e6136ca788b79a7c01f494a7",
+            "message": "minor edits to dg",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "98e863054b6bb835ad18b621a12fd56ee6bce071",
+            "message": "changes",
+            "insertions": 3,
+            "deletions": 7
+          },
+          {
+            "hash": "e82245345995589661cfcae38353502f9d07be8a",
+            "message": "grammar",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bc535348707386f7e592aee9609e1e77006e4aec",
+            "message": "changes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "96f3ffc80f0c040d3a48f526494d1e4e9b076028",
+            "message": "format error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9ff8b4669eeeaf5cd78f38495e5428106dfd6e3e",
+            "message": "extra space",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "kayheen": [
+      {
+        "insertions": 27,
+        "deletions": 26,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "888c3600024a7acd96538ad0112a8e75af4c2e16",
+            "message": "Change names",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "b5a904efa0136746709867458b18df0da3a4c2a7",
+            "message": "Add pictures",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "0d106d684a690869d8ba6d2a689043350b928f29",
+            "message": "Change github link",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "a831d713b2974a7c9454af799d0bd5ee795b9338",
+            "message": "Add responsibilities and roles",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "78042fedc69b0b81007131e267d25ebe6a1c5e2e",
+            "message": "Add our group name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a86fcc51227381f391559561adac930698c10b09",
+            "message": "Change links for Contact Us",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 10,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "99fab529f3222f0a85855c8deb0fa59d70ccd6d2",
+            "message": "Change jpg to png for images",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "2f885d253d8b47f36bcd8b29522459b006d827ad",
+            "message": "Add more roles for each person",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 223,
+        "deletions": 12,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "7dd479005a09446166037f96ac00bfac94dbd621",
+            "message": "add colours for tags",
+            "insertions": 85,
+            "deletions": 5
+          },
+          {
+            "hash": "13d4774f6ff057efd3adeb5a9adaee049933ccba",
+            "message": "Formatting changes`",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "15436bc447df31d155106b920b15fccc2865d8b6",
+            "message": "Formatting changes",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e946f8631953303bca30da2abb517074f9795030",
+            "message": "Changes to message and addressbookparser",
+            "insertions": 129,
+            "deletions": 1
+          },
+          {
+            "hash": "4c1c41c8ba0b5bc26ab45ba83a6bef90a10414f6",
+            "message": "Fix checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 43,
+        "deletions": 12,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "4593715f70f36fe22361cd41423f00b0ded83daf",
+            "message": "Add temp folder, change the filePath for saving images to temp folder, solve the rotation discolouration problem",
+            "insertions": 42,
+            "deletions": 12
+          },
+          {
+            "hash": "d56377c1c6361035c3e8465e87445bc5bd4633c9",
+            "message": "Delete unused files",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 172,
+        "deletions": 6,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "4271c397a1c263e662db7c4f302352eff1b38cde",
+            "message": "Add a crop command to the image editor.",
+            "insertions": 165,
+            "deletions": 5
+          },
+          {
+            "hash": "049538ea2831f97ba7ee000b6b8f00a6d1158f6e",
+            "message": "Resolve CheckStyle issues.",
+            "insertions": 7,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 69,
+        "deletions": 32,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "d542ce3159c0b64a921b47963c889fe35624e9f0",
+            "message": "Update Image Manipulation",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "c5e82b8899eb201b703fd8e497e15668ffdc45c5",
+            "message": "Implementation Sequence Updated",
+            "insertions": 10,
+            "deletions": 16
+          },
+          {
+            "hash": "9276bd9c5248ed732f6d9b7ff1063421957ccd02",
+            "message": "Solve Formatting Error",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "456613f98ef2076e6ba18b73cc194134b3183d56",
+            "message": "Travis Formatting Errors Modifications.",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "61d0db808ec0e4fd5e76845b062ab4e0591cbb16",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "d2e9c788028a42e49dc467fac0d1905d359ec554",
+            "message": "More Formatting issues.",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "0b5d2710521c1b56aff1cd8324585ef742863e78",
+            "message": "Solve more Travis things.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "15895e21855b9fa75c0e6e54a1aa60026fbc3a57",
+            "message": "Even more Travis Build Edits.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "af7f14faf560e1d22f9928ee945f2a237e779061",
+            "message": "Add Image Manipulation Developer Guide.",
+            "insertions": 38,
+            "deletions": 2
+          },
+          {
+            "hash": "0443835046aede08bdcef0959e10dfa151ace17f",
+            "message": "Edit Travis CheckStyle.",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 99,
+        "deletions": 50,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "8f5b440a44461269ae8419270171b39f48fb79d0",
+            "message": "Update User Guide.",
+            "insertions": 17,
+            "deletions": 14
+          },
+          {
+            "hash": "9564f4f5c0e129e78ba8d82a923929d547c0dbb9",
+            "message": "Edit a few lines that was missed out.",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "ac47a06df358efd5db96cd2787018355b0337b68",
+            "message": "Edit the walk through segment of the user guide.",
+            "insertions": 14,
+            "deletions": 5
+          },
+          {
+            "hash": "269bbd0ef38c0890ef5a2ea48c4d05f1013a233e",
+            "message": "Add more for Walk Through segment",
+            "insertions": 47,
+            "deletions": 11
+          },
+          {
+            "hash": "b69c186a53dcf2fa69000c75b920eb5f0d870f90",
+            "message": "Change File Types",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "b3e228f10541159ebb7d3f89801d62a0673d38df",
+            "message": "Fix Spelling Errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1c1c6ccd16ffd998834091ebb60103a1b1c3c01c",
+            "message": "Add one more line for Walk Through.",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "158930709280f836a5f02b7ab0927df0e95a2eb6",
+            "message": "Fix Travis Issues.",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "dc9de53b56f6ba375a24303354a1bf19f0d2fffb",
+            "message": "Change the width dimensions",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c3dc9d99fc1d2f0245153bf1cf2af6f4d3350e3c",
+            "message": "Change the width of the Architecture Diagram",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "be64cffe528e66b5d198e56948fb8e5d573bd6f5",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 177,
+        "deletions": 131,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "8d480e65599029ee920e6b74923213e1ee6ce7a4",
+            "message": "Refactor Rotate and Crop for the new code structure.",
+            "insertions": 65,
+            "deletions": 130
+          },
+          {
+            "hash": "c22656eda534d44edb41d94a75f73eea78b58e77",
+            "message": "Add Resize Command.",
+            "insertions": 111,
+            "deletions": 0
+          },
+          {
+            "hash": "60e8833013535848f3b864e9213674cb0e7021ca",
+            "message": "Fix a syntax error.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 14,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "68ee664c1a200e185dcb9a4c2678d19e6b52c095",
+            "message": "Update DeveloperGuide.adoc writing the CurrentEdit and Album separately.",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "cf0ba910e083562438de56bf32a3e3ef79b48576",
+            "message": "Update Developer Guide to display SD for import command.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "db7365c3b935ab903df79bc28dd5d60a04937f17",
+            "message": "Fix typo in developer guide.",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "5e7e9c6b0bab118c3506e1b6bb5e0a3e05c1f1ac",
+            "message": "Update DeveloperGuide",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "81d54110627006cbff1d74c2292ebcf639aaf946",
+            "message": "Update DeveloperGuide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e3a2389bbb03b758e9b2228da0213ac5714cd2e8",
+            "message": "Solve Travis",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "d8a79b93adcce4d8218dfe63f6eff36c52583569",
+            "message": "Solve travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6eea48684a84e258d3b452aafe64a0ae29a80943",
+            "message": "Update UserGuide with resize command",
+            "insertions": 10,
+            "deletions": 1
+          },
+          {
+            "hash": "bd10bdf18447bd4ee30061c5f25e790d8702480d",
+            "message": "Update the summary at the bottom",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 56,
+        "deletions": 36,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "94d896b35ad42cf834d825979ef820b4c0d99224",
+            "message": "Update Image Manipulation in DG",
+            "insertions": 32,
+            "deletions": 15
+          },
+          {
+            "hash": "d74e3792128b020d3fdb936a80c85f6026b47440",
+            "message": "Change width of images",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "649b01a6db7817fc159e834add96a1c21ee8868e",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "90e36caa7310f291580d5718cd1cc265fc8e231c",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "14188b2a87d852fe9d71b6eddfd073797fd419d7",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6e90220041c123e1b0d14282e5e9a2027ed5bfcf",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "40beaad25364f14ef6056f8ad056f7aef3ff2fa7",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "8ae89578187f5dc5c2f73f5f47b0483cc70a6717",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "fc6009c0e0d55905aac961a7662f457fd320885e",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 129,
+        "deletions": 31,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "8776c8cb74886be4f31ff0e0f6d82f5e05e32585",
+            "message": "Create kayheen.adoc",
+            "insertions": 72,
+            "deletions": 0
+          },
+          {
+            "hash": "64224233dc4c77eb06a2cc7f76a8ddd8eabdab56",
+            "message": "Update kayheen.adoc",
+            "insertions": 39,
+            "deletions": 22
+          },
+          {
+            "hash": "3e9c0acc40807c710e6f12bda85b421034dae1fe",
+            "message": "Update kayheen.adoc",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "39d89c33e097ed2ea16c974c0d97bf8a888e6ba9",
+            "message": "Update DG with the commands in Image Manipulation.",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "3a6c2969b1f0ff6f7d6bbc5214984a4157116af6",
+            "message": "Solve Travis",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 92,
+        "deletions": 51,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "5cb8c24dda19094f5fd64952ec4df12884cfb42d",
+            "message": "Add resize as undoable command in UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fa4879749dfa55e897fd84e0042ef7707cc205c3",
+            "message": "Edit spelling error in DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "da234981165b10fed5c89200891dbd28f7d48d48",
+            "message": "Resolve the deletion for DG for some components",
+            "insertions": 21,
+            "deletions": 6
+          },
+          {
+            "hash": "f262ce0806adde995f8b71b9b14eda08ca3bff59",
+            "message": "Change formatting for architecture component.",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "5782da86844b92cb694ec94898a7f9cd61d1454f",
+            "message": "Change filetype in UG",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "859e21338fa69535c5dc384500f7cddfd6beb44b",
+            "message": "Edit image name in UG",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "3a1d264102031765877d2070c773d1a4c5e157da",
+            "message": "Add open command into UG",
+            "insertions": 14,
+            "deletions": 2
+          },
+          {
+            "hash": "c8763a07eac3a1d011aba5138a5ff99b1ec73a13",
+            "message": "Change Ui picture in readme",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f1b016e9ca16518f2c51d212a62a8b144bec6995",
+            "message": "Solve Travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f6d0d007b286fef81c39e14567b9dcf31f838067",
+            "message": "Edit line in logic component",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8707b04e6da8e347be320745893a53c7d54603f8",
+            "message": "Edit Addison",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b95be9534feea5f903d461bb751f7eb615a0e744",
+            "message": "Edit the portfolio links",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "89006dcf08252bb2802e54daaff6f8962e938714",
+            "message": "Edit Addison",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f79587282a0dedb399bf13602d474f1c9eeddd8f",
+            "message": "Solve AboutUs Panic Problem.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "596b9bbcc0c17a26744d2588923a0d3f137246b8",
+            "message": "Update UserGuide with tags",
+            "insertions": 10,
+            "deletions": 1
+          },
+          {
+            "hash": "c3eadfa64341a7dd918bd2b9184eb9b22c0213c9",
+            "message": "Update kayheen.adoc to reflect tags in UG",
+            "insertions": 4,
+            "deletions": 6
+          },
+          {
+            "hash": "093fc46be2bf786bc77562ca7d841a8a052474d7",
+            "message": "Remove formatting error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "230cd29c39c5f53e1cc876170661ee9495510067",
+            "message": "Update DeveloperGuide with tags",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "31554a02edc439ee3a16c5879bfdb59c48f3146d",
+            "message": "Update kayheen.adoc with DeveloperGuide tags",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 6,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "124b9dad9512ff870c2741defcecc86f88b931eb",
+            "message": "Ensure that image manipulation does not allow more than specified characters.",
+            "insertions": 15,
+            "deletions": 2
+          },
+          {
+            "hash": "5ccd92a4c292aa5bdaf5ca1ddf00deda6aaaa026",
+            "message": "minor edits to message usage",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "3cce83724ae7066fa25aa1f777bd59b44e626450",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "67dbcc24452a312494f3cb6c65c80cbbd8e6d624",
+            "message": "remove extra word",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "d40a160932a3d34ab547323ca333356183c073f4",
+            "message": "Update ReadMe to contain the Ui picture Addison uploaded.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 485,
+        "deletions": 40,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "14bc1c4544c756119bf27c4148de382ca0d52d0d",
+            "message": "Add tests for image manipulation.",
+            "insertions": 448,
+            "deletions": 12
+          },
+          {
+            "hash": "992021a4b67b9943165980ec3a3afbfcc69681a3",
+            "message": "Add a line for resizeCommandTest.",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "75656ea01480b274dba326834fbd87c1e59b98e1",
+            "message": "Fix Travis CheckStyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9330d561c64749f2ba9f6cce31e652af402b67b3",
+            "message": "Fix Travis",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "46f2bd5998e6ed45bc55934e115654861bd96c42",
+            "message": "Tried to remove the album",
+            "insertions": 9,
+            "deletions": 10
+          },
+          {
+            "hash": "0ca43fa26fad8c66b1753c8aa64568e1707920d7",
+            "message": "Remove Travis problem",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e443c0e02a8c680f807d3f6a9b520b1bd2b6520f",
+            "message": "Change the album class cause it did not work.",
+            "insertions": 23,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 496,
+        "deletions": 262,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "4cae24ce6eb25260e56d497b02d3a562ac55ff8c",
+            "message": "Resolve conflicts",
+            "insertions": 132,
+            "deletions": 4
+          },
+          {
+            "hash": "4b4b14e41f9b2f63ff7641dac57ccd1d35d639e1",
+            "message": "All watermark commands and remove CommandTests",
+            "insertions": 234,
+            "deletions": 234
+          },
+          {
+            "hash": "bec901045dd415d8cec8bd0947a3f41fa2df9b2d",
+            "message": "Resolve Travis",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "b2a858c2c6002b77ebd57f0bd87fb255f9ac056e",
+            "message": "Solve bug for WaterMark command",
+            "insertions": 19,
+            "deletions": 5
+          },
+          {
+            "hash": "368f3a77ac72db863f92e1b978a4bd17ba34a27f",
+            "message": "Fix bug in WaterMarkCommand",
+            "insertions": 28,
+            "deletions": 17
+          },
+          {
+            "hash": "b65aaa5529fb71c364103ff3d5aa83c4c28d5624",
+            "message": "Add WaterCommandParserTest.",
+            "insertions": 45,
+            "deletions": 0
+          },
+          {
+            "hash": "6cab6e712509a6a5c32aad17c6f0efd66372a204",
+            "message": "Add size restriction to resize command",
+            "insertions": 22,
+            "deletions": 1
+          },
+          {
+            "hash": "30144df72f76ecb4af110a23bd5c13e18735176e",
+            "message": "Add tests for rotatecommand.",
+            "insertions": 13,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 462,
+        "deletions": 297,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "52cc225f950347cd5ae6b8f8d52065e080e30435",
+            "message": "Update userguide with watermark command.",
+            "insertions": 36,
+            "deletions": 13
+          },
+          {
+            "hash": "388d63a9a67f59e407251ff8450750fc03baf253",
+            "message": "Update kayheen.adoc to include watermark command.",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "18ce0c0fc8cd0f4731bbd5047eb52b86baa03d2d",
+            "message": "Fix Travis",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6073ee37ecaddc23f95c3572d5526fea35600880",
+            "message": "Uncomment test cases for rotate, crop and resize command.",
+            "insertions": 380,
+            "deletions": 264
+          },
+          {
+            "hash": "b373fb958621a198bcff3fda6cee0b2e82c4bb64",
+            "message": "Add WaterMarkCommand Test.",
+            "insertions": 35,
+            "deletions": 12
+          },
+          {
+            "hash": "e25617b18c041e3b2e517ef485a0603c1d5d0216",
+            "message": "Made minor tweaks to the comments for each test case.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "0f693f971c1d734e5d25513f6039a021b0c4afb0",
+            "message": "Add author for test.",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "26e1cc2962635fde1d69d235d2b8f09dcaf8dfc5",
+            "message": "Remove additional squirrel.jpg in the userguide.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e4972aa997d6c24f3ec37a72873e56c4e5d8e0e6",
+            "message": "Edit UserGuide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 189,
+        "deletions": 68,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "5d5a47518e9d16be5a6e62884d49ac7b95ca1631",
+            "message": "Edit WaterMark  command structure",
+            "insertions": 32,
+            "deletions": 1
+          },
+          {
+            "hash": "24a50f409909628d9709eb5fb962471a95681d1a",
+            "message": "Remove Trailing White Space in AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d17532048f550ea90895a10a6c8b727f794026a5",
+            "message": "Add Description for WaterMark command.",
+            "insertions": 18,
+            "deletions": 4
+          },
+          {
+            "hash": "d6d2477b70c04d4a07afd8ab2364ada35cbe3045",
+            "message": "Resolve Travis",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "61927a0c762e7cf79c4b9c4179f78b85420ebc53",
+            "message": "Resolve Travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2e72af528c8122a4601680c8c53ffb4c0fee37bc",
+            "message": "Edit starting messages to reflect FomoFoto.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "f3064e6f690960716f7e4d58513ca208f06ef590",
+            "message": "Fix spelling error.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b3a06bab0804cb86884bdda8418115999c970c13",
+            "message": "Formatted the WaterMark Command in DG",
+            "insertions": 60,
+            "deletions": 10
+          },
+          {
+            "hash": "f8b190f30f2df9d4ca21cec90f5c72ebd5a91fe1",
+            "message": "Add used commands and Made it capital letters at the start",
+            "insertions": 29,
+            "deletions": 12
+          },
+          {
+            "hash": "20f3d33a0c4d04ba9690933200472e46358030bc",
+            "message": "Fix Travis Errors",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "d831b14d49bbdc566ea8d1d09840438fd50703d6",
+            "message": "Update kayheen.adoc with watermark command contribution",
+            "insertions": 31,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 56,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "63bef6de469604de6d905f2c622f508d1891ec16",
+            "message": "Remove some lines of code",
+            "insertions": 1,
+            "deletions": 12
+          },
+          {
+            "hash": "83cf492dd87d60b018cd1ea58711db4dd13f27c9",
+            "message": "Change sequence diagram for watermark command.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f0c3a00f08ced31d218e87fd27dbe3ba4799c6ac",
+            "message": "Include WaterMark Sequence Diagram in DG",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "eb8cf42a5f9db5079f12e61a46ae42218a6b593d",
+            "message": "Fix Travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0265de9966077d4bc918401b60c839576963a1e9",
+            "message": "Update kayheen.adoc",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "efa0854885c697aff561aa9b29a0daea05dbb6b6",
+            "message": "Edit spelling errors and grammer in the DG",
+            "insertions": 16,
+            "deletions": 17
+          },
+          {
+            "hash": "7edea2a0acb332f4bc4e06bb3076696338b5521f",
+            "message": "Update kayheen.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a2b0312232bb1b97462a730960e202f92769bea2",
+            "message": "Remove the last point on kayheen.adoc",
+            "insertions": 0,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 121,
+        "deletions": 164,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "d039ddeb790e180f42394f15b1980f370b17fde0",
+            "message": "Add codacy badge.",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "a0cce8c8ed7795594b6c1a13f613b649b4663264",
+            "message": "Add codacy for asciidoc.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "535fff503f27ba8270365802bbcdcbd9d77a6b7c",
+            "message": "Add RepoSense to my PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "33e57b87a347b1e4cd2786d0487f4afefecc4dba",
+            "message": "Try to improve code quality.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "75d43fc1b57faad02a2c1cc8e283fe9acb24bebe",
+            "message": "add addison picture",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b91710bffd292ab44e6c70c19b60edc8561a98e5",
+            "message": "Add addison picture",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a6143a3d451fe76ab81a64dc8b6255fabad4c688",
+            "message": "Resolve Travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e7741f2ecabb5b47d20026acd117861a4f29c85f",
+            "message": "Edits to developer guide",
+            "insertions": 10,
+            "deletions": 71
+          },
+          {
+            "hash": "f72828aab1d48ae148eb20a74ab3150df74f70ef",
+            "message": "Edit a few lines in DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "11de42ed3085e91141feb3f5741aedce03d47585",
+            "message": "More  edits to EG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8614f1c7df3d3ed891ee5d1634163684e8730f49",
+            "message": "Edit watermark in DG",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "c11c234561da9ab3915092f546d4fc1f299c4b78",
+            "message": "edit methods for watermark",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "1246df023aee3c97a8ae87d07095703aaa1e7145",
+            "message": "Edits to watermark command.",
+            "insertions": 35,
+            "deletions": 26
+          },
+          {
+            "hash": "74c95db119ff1ba3c5bb2147d873b7998f27f00d",
+            "message": "Userguide additions",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "6021b449ea4bf8c9b688acfa07bef24122677814",
+            "message": "Edit DG and kayheen.adoc",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "0df204a6b50ec0d3bee3bd08a43126cabc489cec",
+            "message": "Refactor rotate, crop, resize command.",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "4fdcd1e0cfc599ef8571e8440ef9fd6746c76b70",
+            "message": "Fix the letters in the DG titles",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "45dba7466b43c18f42dd7f781d31636c94bfbeb3",
+            "message": "made the images smaller",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "1019b980da0882f27407a857c5baaf070a48562e",
+            "message": "made the images slightly larger",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "e2489bee831e39d4a364f93ef01fef60478097d4",
+            "message": "Revert \"made the images slightly larger\"",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "cf7a76e6bc98049996a5ec8dbdfe133e226998eb",
+            "message": "Revert \"made the images smaller\"",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "cace11a97923954b9eb55472f0a055a821a46fd9",
+            "message": "Add some changes for watermark",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 176,
+        "deletions": 153,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "7a5eb525f2213aadc1c2661bfda4039ff9ffc61b",
+            "message": "Edit kayheen.adoc",
+            "insertions": 12,
+            "deletions": 14
+          },
+          {
+            "hash": "67656da3e86cfe16cf09205cfe15b852afee4f67",
+            "message": "More edits to kayheen.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "59378089ce3fa0c6631f42edde5e1ff0c41fdb4a",
+            "message": "cut more from adoc",
+            "insertions": 4,
+            "deletions": 6
+          },
+          {
+            "hash": "75c8e78263d6ca6443e15256b0a555a2b13a35b9",
+            "message": "Further cuts",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "6c14b1071acd551cfd753fe0a9479a75175e13e0",
+            "message": "English changes and fix travis",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "918d38e02fd2cfe329f7f1c4175e2e12228cf82f",
+            "message": "Cut adoc even more",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "70b73e936f9f25e0ddaadd2f002db2bb418ada50",
+            "message": "cut out from adoc",
+            "insertions": 25,
+            "deletions": 13
+          },
+          {
+            "hash": "d6ab38e859654592f1f325c669eb1112922f2369",
+            "message": "More changes to adoc",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "ed81361cf8fe6bdf044b063d4d62389150a1a6fe",
+            "message": "cut more",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "dfa20117fac048a9565cdc60a9c0dca5b3b466ca",
+            "message": "change sequence diagram sequence",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "3c57b83f7f4a5ccad8cb8e92f9fffd0be5dc1eb4",
+            "message": "solve problem",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "deb78fc5b5a9da157a949321ec0574242b8173bb",
+            "message": "solve problem",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "cffe53e767de19f5878f27202e3317f9d7acabc9",
+            "message": "edit watermark",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "8b389ae6ddc5725a6ab399e257a999570deaeb5c",
+            "message": "more edits to DG",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "490d7f843880edf51c62bcdb2bf031371b3a7d73",
+            "message": "change sequence of rotate",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "f96cf17b7d26bd6009e26afa684a48281be5e2d8",
+            "message": "cut adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "d1ccd4592821f2cdf1f4482452efa7aad0433b98",
+            "message": "edit adoc",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "2a7805727dea37d1ad41540e79b44d92bdbf2a03",
+            "message": "change stuff",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4ee4552771d0999b58acd77bf123678a0a052c39",
+            "message": "remove walkthrough",
+            "insertions": 2,
+            "deletions": 7
+          },
+          {
+            "hash": "4b71862ef55e78bb386f5b8b8e7fd977f43c18d0",
+            "message": "changes to adoc",
+            "insertions": 27,
+            "deletions": 14
+          },
+          {
+            "hash": "26d60c83fceda5b7c5318f28707baf6723a8fc67",
+            "message": "cut abit",
+            "insertions": 4,
+            "deletions": 8
+          },
+          {
+            "hash": "d02b07703c77b7a63ae78003a97fb45a7c1235d2",
+            "message": "final edit",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "c440d88bddeebea05b7a4c33c98208d0188189aa",
+            "message": "Chnage Ui name.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b81ddc51f03c431643040f5facf9f143ff1e1d93",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0d63926bee2bb99c0aa6a3fc82c2d10475e441ec",
+            "message": "Edit grammer errors in ug, dg and adoc",
+            "insertions": 23,
+            "deletions": 23
+          },
+          {
+            "hash": "feb3097d07f07034d5ea54d1d2cc5537b4f3463d",
+            "message": "edit ug",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a0174684a8cfa1b65cdd565d6d8cdcfa1ee37bda",
+            "message": "minor edit to ug",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "c47316d835374f8f4b6a68be12c7d0c9ed182f39",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "carrein": [
+      {
+        "insertions": 12,
+        "deletions": 12,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "ba88ea08f3f3a53907c12cfe88d89296ffcd2727",
+            "message": "Update README.adoc",
+            "insertions": 12,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 202,
+        "deletions": 80,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "5ec80db7b4a0b3906e1c05d70c7e76be316dbbc4",
+            "message": "Modify browser window to show image.",
+            "insertions": 167,
+            "deletions": 80
+          },
+          {
+            "hash": "0c8f23fbf8cf9be75d7c14ac9bc740294e1556ea",
+            "message": "Add import command.",
+            "insertions": 35,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 172,
+        "deletions": 43,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "65fe7f1b6aab03317b3ba335db7032a0de20cb70",
+            "message": "Extend import command to show image on ImageView.",
+            "insertions": 172,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 177,
+        "deletions": 179,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "9bc9d83776505b762c1e206d8b5ce0318959e9ee",
+            "message": "Update ImageVIew to preseve ratio/scaling.",
+            "insertions": 61,
+            "deletions": 4
+          },
+          {
+            "hash": "f332bd2fb3ab26b10c21bb7e6277c5030b968e75",
+            "message": "Comment out browser tests.",
+            "insertions": 38,
+            "deletions": 32
+          },
+          {
+            "hash": "d3ccfb8e53763b550e80ad6d377bd43775b81df2",
+            "message": "Fix indentation and unused imports.",
+            "insertions": 40,
+            "deletions": 114
+          },
+          {
+            "hash": "da2bd85058be9fc982eb76b87ff995167079f1ee",
+            "message": "Refactor lines.",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "0d80b2edd4082619ffb373540ebe06cd2476bb6b",
+            "message": "Fix comment indentations.",
+            "insertions": 33,
+            "deletions": 28
+          },
+          {
+            "hash": "4f86c78e8a690856fb441d521e239b75efa0c55d",
+            "message": "Fix comment indentation.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 26,
+        "deletions": 2,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "bd7d4cdd415ea55eb512fcb02324c3e6c2e5c4ed",
+            "message": "Update developer guide with Import command.",
+            "insertions": 26,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 359,
+        "deletions": 37,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "14aa84128d70213d898cc9b3706b77bc1054fd64",
+            "message": "Add initPanel and informationPanel.",
+            "insertions": 354,
+            "deletions": 28
+          },
+          {
+            "hash": "46414f5e6fad2d7e0ad564b51c22e0e717d093b8",
+            "message": "Add additional text to InitPanel.",
+            "insertions": 3,
+            "deletions": 6
+          },
+          {
+            "hash": "bf98e1a10bc940eb3deb1c638b80948395292844",
+            "message": "Add author tags to respective files.",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 613,
+        "deletions": 275,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "aeed65520e7673bd9037d2f76f2b73373a680b7a",
+            "message": "Bake TabPane import cards.",
+            "insertions": 211,
+            "deletions": 48
+          },
+          {
+            "hash": "625420ce21224b63809e2c7af60754ef9a4ad8b6",
+            "message": "Wire PropertyChangeListener to TabPane. Add Album class.",
+            "insertions": 105,
+            "deletions": 58
+          },
+          {
+            "hash": "299b49a0afd54bbf7806f1458b9d9dc89b4e8b94",
+            "message": "Refactor ModelManager and add refresh method to update TabPane.",
+            "insertions": 46,
+            "deletions": 75
+          },
+          {
+            "hash": "3fd227fbabf30d1cea1f78519f80e2215ba8f0be",
+            "message": "Modularize Image class to Name, Height, Width classes.",
+            "insertions": 237,
+            "deletions": 64
+          },
+          {
+            "hash": "a3d30dafe324b7a4b269e15e3f837213da0ee7f7",
+            "message": "Add author tags.",
+            "insertions": 14,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 32,
+        "deletions": 3,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "d5cea9de9f947f525690be836e78c6430b1fe27f",
+            "message": "Remove unused imports.",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "c7e1260f59f3305f98c0c920bd9e2a08d22bdc90",
+            "message": "Add @Ignore for GUI test.",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "f70554bad4f017e4209ebb4bbcebe48e0dc188c5",
+            "message": "Temporarily @Ignore clear command unit tests.",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 62,
+        "deletions": 5,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "b278c3613c46c467f5f7bd70f2b2bd0648ca8616",
+            "message": "Add tab command.",
+            "insertions": 56,
+            "deletions": 0
+          },
+          {
+            "hash": "e85262462971a8ee1332f86f8386bbfd896032c1",
+            "message": "Update descriptions for TabCommand.",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "8163f5dff9eb43ae7882a1406a4232cd65257211",
+            "message": "Fix ModelStub test not implementing switchTab method.",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 2,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "6b8a6066c9c17783a563cf086694af4b2d1ed4ab",
+            "message": "Fix for populating Album on application launch.",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "1481eb49e644d7523ddc3d7bd127dc5f36a362b6",
+            "message": "Modify Album class.",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 14,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "c7fece87ae42b1ce43c1905a8413f99d70d2bced",
+            "message": "Remove Album reference in ModelManager.",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "9d947477e907ea8314ea9c474a7a8d4d8368cebd",
+            "message": "Remove Album references in LogicManager and MainApp.",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "c106418eca6c1a4c6b6a6f7ec781cde7ffbe2b5b",
+            "message": "Fix test containing Album references.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "a4773c601c673f2d3c541ea8a09479f927182c23",
+            "message": "Fix unused imports.",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 140,
+        "deletions": 97,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "dc2500df4ca68a33b651482c652c37666472e66d",
+            "message": "Refactor Image class.",
+            "insertions": 63,
+            "deletions": 69
+          },
+          {
+            "hash": "e704cc98cb2b4df23de716aef9656c294025c684",
+            "message": "Add method to populate detail pane.",
+            "insertions": 31,
+            "deletions": 13
+          },
+          {
+            "hash": "f7ac9ff696a4bf9185ed8268b772cb8f4920092f",
+            "message": "Add test folder for import tests.",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "34fa36c8ee479b232a32d6f6107490f5e634a9b7",
+            "message": "Fix manual testing of hidden and large images.",
+            "insertions": 43,
+            "deletions": 12
+          },
+          {
+            "hash": "23a98be46dd42b02646cecaf2918bfb00aab43b2",
+            "message": "Add tiff extension to name.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7c924ca1663347b2417a7656931c294f46ec1f58",
+            "message": "Adjust MAX_FILE_SIZE and sample image file size.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1aa9088762c6adb83048689c37f4d37c71a84d09",
+            "message": "Adjust MAX_FILE_SIZE and image sizes.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 59,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "9e8b24e1fec94632ebb4b44ed4f3f35ea59bb9c4",
+            "message": "Add thumbnail to imageCards.",
+            "insertions": 68,
+            "deletions": 59
+          }
+        ]
+      },
+      {
+        "insertions": 222,
+        "deletions": 112,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "6628a54dd71496fa6523c0179e23cdeaab2961d3",
+            "message": "Add size attribute to Image. Remove sample images. Update ImageCard margins.",
+            "insertions": 111,
+            "deletions": 21
+          },
+          {
+            "hash": "bd8f5ca3b43671c4476db3fd86de2cd2e99cabaa",
+            "message": "Remove xmlns references to JavaFX 10.0.1 for FXML files.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "e49e1410e35596aad4d480224215d0e4f0b2e844",
+            "message": "Edit theme CSS to make EXIF listview more visible.",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "5def840049b88ca031b7ef857dc2e0d7f2e92946",
+            "message": "Refactor fileType constructor in Image.",
+            "insertions": 7,
+            "deletions": 27
+          },
+          {
+            "hash": "5b23e40af9b6dc91248d7721f1f780a5c3b870e3",
+            "message": "Fix open and save errors.",
+            "insertions": 98,
+            "deletions": 57
+          }
+        ]
+      },
+      {
+        "insertions": 265,
+        "deletions": 200,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "b5d4f40ac67205f7279c39ef6609aee8d771818d",
+            "message": "Remove new instance references to Album in Commands.",
+            "insertions": 28,
+            "deletions": 53
+          },
+          {
+            "hash": "202c9956d3a9519fa8eaf27c0a933e9e2d258de6",
+            "message": "Remove new instance references to Album in Command tests.",
+            "insertions": 60,
+            "deletions": 93
+          },
+          {
+            "hash": "775b01dfc88b9217fb94cf8527d8b419f6c45088",
+            "message": "Remove new instance references to Album in LogicManager.",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "e0cb58fab76a2ffa78aa4c04bbb57f31b29bc85c",
+            "message": "Add placeholder file for assets folder. Refactor clear command to update informationPane.",
+            "insertions": 41,
+            "deletions": 11
+          },
+          {
+            "hash": "727a4cecf98fba0ca2bdcf2c0fda0fe68988703a",
+            "message": "Add alias for import command.",
+            "insertions": 32,
+            "deletions": 12
+          },
+          {
+            "hash": "d1f92939120ba2f95151abb14cd96dfecd5559a9",
+            "message": "Update initPanel prompt. Additional dev guide update on UI.",
+            "insertions": 76,
+            "deletions": 27
+          },
+          {
+            "hash": "e52767eac3296e683eb633aa51da114ad423cdc9",
+            "message": "Add placeholder file in temp folder on exit command for git to track folder.",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "86d7b82257ecfb4c302bbd0efbd4200f6fdaa829",
+            "message": "Please pass Travis.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 86,
+        "deletions": 59,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "18b3c3a7c4cee3392c3b96f8a1dcd56bb55c67c4",
+            "message": "Refactor Album class.",
+            "insertions": 39,
+            "deletions": 21
+          },
+          {
+            "hash": "7150ea150b2263b89d94424c0d864bc32f513a57",
+            "message": "Move methods out of model.",
+            "insertions": 24,
+            "deletions": 24
+          },
+          {
+            "hash": "ee07b48091cea85088c332b80f09507842fd6378",
+            "message": "Fix IOException when rewriting temp_img.",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "d5b14ab17578ba6754f99fc6792ca7073ebf0027",
+            "message": "Add method to check if temp and assets folder exists.",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "43a1cbb1c9c5782631cf085dc047de7e1396570b",
+            "message": "Pleasing Travis.",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 182,
+        "deletions": 383,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "9855ff4204fd88388d6b7c11ac64d3183fe93d57",
+            "message": "Fix temp folder generation and deletion.",
+            "insertions": 163,
+            "deletions": 138
+          },
+          {
+            "hash": "b6f8a0eaf8903d6eb28fe72549e75dca2cb845c0",
+            "message": "Set assets folder and remove shutdown hook.",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "cb6e54e6a459c41f32ba038f2e8f8e20a4b61322",
+            "message": "Refactor assets path references.",
+            "insertions": 10,
+            "deletions": 15
+          },
+          {
+            "hash": "c5fdca4ee23ed8649745a135eb8ed038610f1b91",
+            "message": "Fix checkstyle errors.",
+            "insertions": 3,
+            "deletions": 175
+          },
+          {
+            "hash": "b0c8f1c8ceedcc83a49b216cc8bee5be0776f46f",
+            "message": "Fix unused methods.",
+            "insertions": 0,
+            "deletions": 46
+          },
+          {
+            "hash": "b6a9853b8ab218bdc683545f5689b6330235e71a",
+            "message": "Fix missing private fields.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0407e7fc698a0b9f9382fc75213f300e3c5ff5b7",
+            "message": "Fix accessors for Album.",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 463,
+        "deletions": 187,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "ffe04f2c4131913d785b54211ba615b787b19737",
+            "message": "Added sample import imgaes and files.",
+            "insertions": 117,
+            "deletions": 5
+          },
+          {
+            "hash": "f313e490e36add453232b9bc4ab9466c44e84751",
+            "message": "Add toString methods to all commands for parsing command history.",
+            "insertions": 170,
+            "deletions": 16
+          },
+          {
+            "hash": "8e75ac17d196f4a22c0790809933c945ee4eec21",
+            "message": "Create UI card for history pane. Refactor Command class.",
+            "insertions": 152,
+            "deletions": 148
+          },
+          {
+            "hash": "c3b74a11750368d301ce9ae153cd4196c11c81b0",
+            "message": "Fix optional check.",
+            "insertions": 20,
+            "deletions": 12
+          },
+          {
+            "hash": "7f7371cc6fccdde51242a18b6095d7d301a895a5",
+            "message": "Fix unused imports.",
+            "insertions": 4,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 259,
+        "deletions": 43,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "59eff3112d96d9de1f0283f75ba4efb957c24b77",
+            "message": "Add TabCommandTest.",
+            "insertions": 27,
+            "deletions": 1
+          },
+          {
+            "hash": "8e3dea2120dece7f86293f9de948b5ada0f3b903",
+            "message": "Add ImportCommandTest.",
+            "insertions": 66,
+            "deletions": 0
+          },
+          {
+            "hash": "c07d56f20e600cf3e9ada3ca2f7e3559407170ea",
+            "message": "Add ImportCommandParserTest",
+            "insertions": 166,
+            "deletions": 42
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 16,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "f370f2bad1bb6d807e62daad083e07229694be1e",
+            "message": "Move Album instance getter to constructor for TabCommand.",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "bb3111f63a49dd2e640342912f9ee014662ab5f3",
+            "message": "Change Album to eager initalization.",
+            "insertions": 4,
+            "deletions": 12
+          },
+          {
+            "hash": "cf652fe8742082d9ffba8f2ca7a3034b8ca7f321",
+            "message": "Remove Album reference in MainApp.",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 595,
+        "deletions": 394,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "184d8b34c09e260a9be439bedb0a4b4296bd7de5",
+            "message": "Switch Album to lazy initialization.",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "fe9cc90372743d709974fe30692f62aca949a8cc",
+            "message": "Add try catch for Album class constructor.",
+            "insertions": 20,
+            "deletions": 10
+          },
+          {
+            "hash": "939a97d20145459f40c2c38ace725671bd9328eb",
+            "message": "Fix exceptions in Travis test cases.",
+            "insertions": 2,
+            "deletions": 10
+          },
+          {
+            "hash": "1a004561ea234e4ae2765b9d3a4238f0f0b80ef8",
+            "message": "Try fix null error.",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "5d533a1280387328b75ed88367c047b2b612e36c",
+            "message": "Fix potential IllegalArgumentException.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "636096becc41bd31c22660ed831a4a333d37533c",
+            "message": "Refactor Album class and test cases.",
+            "insertions": 92,
+            "deletions": 117
+          },
+          {
+            "hash": "8c8fc0e7eed262dcf220024aed8cbc3a72d688cb",
+            "message": "Fix indentation.",
+            "insertions": 49,
+            "deletions": 50
+          },
+          {
+            "hash": "1d4531acdd8bf7122f565793294d8df94baccf1c",
+            "message": "Fix unused imports.",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "993f5edd8b999b0e7c8014383b4c3345903acf4d",
+            "message": "Fix imports.",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "f716bb1e535f9ecf67d678b082b9cb0ff4a24c32",
+            "message": "Comment out directory import.",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "e16bafbd6d2561c452e27fb5681bb90d1050d47b",
+            "message": "Fix Indentation.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "93f8093fa06a0787107566ae7b1dbbb43dca487a",
+            "message": "Remove sample directory test.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "196a2fa8495883b1f0be7c271dbef8359a048bde",
+            "message": "Comment out unit tests.",
+            "insertions": 70,
+            "deletions": 68
+          },
+          {
+            "hash": "02da5d99027486723f808bea8ee5b8e9014a3b9a",
+            "message": "Ignore failing tests.",
+            "insertions": 81,
+            "deletions": 80
+          },
+          {
+            "hash": "4100650ad0ba51d97b1e339455aef72bf8d7fdfe",
+            "message": "Add tests for Image class and fields.",
+            "insertions": 184,
+            "deletions": 5
+          },
+          {
+            "hash": "23c6de0f62cdddd8d5be0db345d24c6cbd4c0a14",
+            "message": "Adjust max size to 10MB image file and reject files with poor magic number.",
+            "insertions": 42,
+            "deletions": 19
+          },
+          {
+            "hash": "d7978a04bc38c22e2620469d11d3962bd9494494",
+            "message": "Add additional test case for files with wrong magic numbers.",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "2d0021b1ce0f0047ff92199607c3cb6020e5abfc",
+            "message": "Update user guide to reflect Tab Command.",
+            "insertions": 13,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 320,
+        "deletions": 3895,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "2b69cda5d7bf69af1e7d36dc44006176fbb63896",
+            "message": "Remove parser reference to addressbook commands.",
+            "insertions": 19,
+            "deletions": 1696
+          },
+          {
+            "hash": "7b85936823a99533363f06f730eb341779639249",
+            "message": "Fix import conflicts.",
+            "insertions": 1,
+            "deletions": 10
+          },
+          {
+            "hash": "4900ec2a0586eaa2dfc202b0f01947107c999dc7",
+            "message": "Remove additional references to unused commands.",
+            "insertions": 3,
+            "deletions": 2027
+          },
+          {
+            "hash": "d1d8022c6797f04907567cbadee1376fbfade6f3",
+            "message": "Fix imagelist not clearing on Save Command.",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "4e4245541363524c050019ca54548a06e6ff3131",
+            "message": "Update User Guide to reflect maximum image size for import command.",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "b63849cdbbfc3b221852ebd98e5962b8a06415e7",
+            "message": "Add repo sense config.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fb0ab9e3c8d53084fed25faab29ba8cd6fd3987f",
+            "message": "Reinitalize previously failing tests.",
+            "insertions": 130,
+            "deletions": 3
+          },
+          {
+            "hash": "dca60baccb2a60541376c9ad720ab8271b446d6d",
+            "message": "Fix indentation style.",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "f850a31373c1ee630eb217ecd53199754d523627",
+            "message": "Switch assert tests out of loop variant.",
+            "insertions": 9,
+            "deletions": 14
+          },
+          {
+            "hash": "8d1b5582ff48e178ef1607302a11b3f0ad2ec558",
+            "message": "Fix case sensitivity for Travis test.",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "ab33cf1720ddcae4f19e659ccaae55a3938aabc6",
+            "message": "Revert assets to temp folder.",
+            "insertions": 34,
+            "deletions": 3
+          },
+          {
+            "hash": "bd38ccd6c1850422199c098955e2ff0d0ebd6850",
+            "message": "Add test cases for Album.",
+            "insertions": 99,
+            "deletions": 128
+          },
+          {
+            "hash": "ba5c83a83a9dba680eb9752c59ec2fb37da26451",
+            "message": "Switch assets from temp folder again.",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "110633bed25fdd3534121ecd85742119844dac3f",
+            "message": "Remove unused references.",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "568784fb47566d67737c4f54bb2a6144bdd29ae8",
+            "message": "Fix system property test.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "99a96e28f63b634732bfaa1b2517834a58c799ca",
+            "message": "Fix resource walker.",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "90b48cad5b7b50c079ae3e3a5854ea4e9c95e869",
+            "message": "Add seperator.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 9,
+        "deletions": 5,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "e60230b862323f53b779e1c421cf418c98f06ff5",
+            "message": "Fix sample import importing multiple times.",
+            "insertions": 9,
+            "deletions": 4
+          },
+          {
+            "hash": "615621ff30aa986a7f500129398e4d5d465fe170",
+            "message": "Resolve unused imports.",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 180,
+        "deletions": 35,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "8f6ae922c8cb1370c28337b562f14153a591d05b",
+            "message": "Add test for ResourceWalker and Image.",
+            "insertions": 49,
+            "deletions": 10
+          },
+          {
+            "hash": "f50cb6c63c29a3383b712421e767fca4bb3b457c",
+            "message": "Update User Guide for clear command and additional test for models.",
+            "insertions": 130,
+            "deletions": 24
+          },
+          {
+            "hash": "dc29822a3b6bcdbe40596baffe70620d96a52d60",
+            "message": "File does not end with newline.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 269,
+        "deletions": 106,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "12adb355d30d9e9a938f2a068c2c99a06eaf3838",
+            "message": "Updates to UG/DG/PPP. Minor refactoring of exisiting code. Minor unit tests updates.",
+            "insertions": 84,
+            "deletions": 36
+          },
+          {
+            "hash": "93848bf62cf681743c643cebf63ad88c5218d829",
+            "message": "Add additional details on assets, temp, and import command restrictions.",
+            "insertions": 171,
+            "deletions": 59
+          },
+          {
+            "hash": "8abc91604c2a11ea43377655ede60393bfb49604",
+            "message": "Refresh sequence diagram to fit theme.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "069a347972cd60d82076d76a68f6274a424cebd4",
+            "message": "Update author tags.",
+            "insertions": 10,
+            "deletions": 7
+          },
+          {
+            "hash": "33fd2ee277aaac5357a29c7f302c4a7ab80eed9b",
+            "message": "Update two additional image formats.",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "21222df3577f7ef592c90153891b7971a0650145",
+            "message": "Modify Gradle Build to remove web header.",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 334,
+        "deletions": 607,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "e5a08c58c2cc4935b72ed7ac4cf5eb2f9032998b",
+            "message": "Update image captions and change Gradle Build webpage and title.",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "ed5b1f1cde21c962e8cd97d58e1b4716b4de3c24",
+            "message": "Refactor error message to show descriptions as well.",
+            "insertions": 58,
+            "deletions": 73
+          },
+          {
+            "hash": "18ea9c23f3ea8b9ab1bdeea88ff3abc41ae3ba56",
+            "message": "Update portfolio and checkstyles.",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "3c1fd2e2a08e1ee3c7c4f91bd2a4d54dd706832e",
+            "message": "Update reposense link.",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "f69ba18ac45ffbebb7a14839107b16f22e7b53c5",
+            "message": "Document changes.",
+            "insertions": 56,
+            "deletions": 56
+          },
+          {
+            "hash": "e81ea13ff476e4003bfbd8cc6b1a45f38badad7c",
+            "message": "Change naming instances of photo to image.",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "1d73852d31d129d21ad18c979c3fb7f79dfbd79f",
+            "message": "Fix ambiguous walkthrough descriptions.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "20a196b0b6b2220d85dc23e5c75a6c8358fbdc7b",
+            "message": "Fix inconsistent User Guide descriptions.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8523a3e43950401af4e3dff1c319ab77f6597f88",
+            "message": "Update appendix.",
+            "insertions": 113,
+            "deletions": 358
+          },
+          {
+            "hash": "fe4e0917ffeaa42b26c3e692795bccda383c27fb",
+            "message": "Add newline EOF.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3cb6ad17f5f7f88b57bd90ce6814931bfc48d9cd",
+            "message": "Fix broken links in PP.",
+            "insertions": 19,
+            "deletions": 22
+          },
+          {
+            "hash": "2bd97a6760f62530dcfecff99a864598cc12959e",
+            "message": "Fix broken links in Documentation.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2927ab294fa9c315a47f83d52cd44a69c7fc8a24",
+            "message": "Add EOF.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2dbd8658806c167d6524333113c2d10588addf82",
+            "message": "Remove unused methods.",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "dfd524988783325397fe21f1c60c1d96d59190e6",
+            "message": "Move classes to respective folders.",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "0863c0d87d93fa005b52c4fa33b23ada5213540a",
+            "message": "Fix lexographical orders.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "fcfa5ef686d45a394a806f52410c1005358a50d4",
+            "message": "Refactor FomoFotoParser.",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "acb63981b75e7a9472ce6a1ec3ba9a6e6c94793a",
+            "message": "Update reposense for simun and randy.",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "5398c399a9b995fd261ea2f8fbc6076da52b3fef",
+            "message": "Reduce page length of portfolio.",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "58343316ff4578cbae33f2febd187aed9c29c032",
+            "message": "Reduce page length of portfolio part 2.",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "26b4036e2b879b40224bcfa7717a5537d885fda3",
+            "message": "Shorten portfolio length.",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "b3e66d9469b33a570015d921f815ddc49ca5196e",
+            "message": "Make diagrams smaller.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e5606abdf5d6608ca92bd98b8dfec1d83beaad05",
+            "message": "Update portfolio.",
+            "insertions": 5,
+            "deletions": 10
+          },
+          {
+            "hash": "52711ce2828e7a6becdb1ca8684005e3085fe7ee",
+            "message": "Resize image.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8abb7eca0abb76e339370d94977c3733b7857f7d",
+            "message": "Update tag.",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "43a7ca4ba7523edf3630b799f5716d59e4c6318f",
+            "message": "Updates to portfolio.",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 75,
+        "deletions": 76,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "012adafc266bf6b30f3b75caeb995e3bbc289330",
+            "message": "Fix portfolio spelling errors using Grammarly.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "604533f92f3020c515baa15ad3530f2616a9f3d1",
+            "message": "Fix UserGuide spelling errors using Grammarly.",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "0a475024cbe3e89319a40eff0647c5c03ef37d93",
+            "message": "Fix DeveloperGuide spelling errors using Grammarly.",
+            "insertions": 55,
+            "deletions": 55
+          },
+          {
+            "hash": "8c3e94fa2f35dc6c7c55e1fe91dfeb03e9ae3af6",
+            "message": "Fix Size Constructor bug.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "84ae985bda49f22a75f59d90270afc3e3415a20e",
+            "message": "Fix unused imports.",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "randytqw": [
+      {
+        "insertions": 27,
+        "deletions": 1,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "23b456058c8c9b5fe299cf5d45c800e257f2246d",
+            "message": "Clear empties asset folder",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "a13737299839a6594251fdaac447cd9eea2aa079",
+            "message": "fix checkstyle`",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b0e28648c0d38901f01e2041ba397e74864cbaf6",
+            "message": "fixing Travis",
+            "insertions": 5,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 2,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "57a8ae64e339bb41497033530580080b7cc4c780",
+            "message": "add list to image class",
+            "insertions": 12,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 139,
+        "deletions": 20,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "99d3e93f07e0530df8d8862e8aadb4ec8dd9e848",
+            "message": "Skeleton for UndoCommand",
+            "insertions": 90,
+            "deletions": 1
+          },
+          {
+            "hash": "b7ac706b0ab23a4f5734bd425cd46f14cbd64859",
+            "message": "Fix Checkstyle",
+            "insertions": 32,
+            "deletions": 13
+          },
+          {
+            "hash": "2716d60be5d61039abf12f86cb5e2696ba2118e1",
+            "message": "Travis stuff",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "547bd29b2f79ef4cd9264d3ac56f4655a0586488",
+            "message": "Travis",
+            "insertions": 7,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 17,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "dd298d069cc473e48fad6bf72bc88b37bd66cc68",
+            "message": "Dev Guide for Undo Command",
+            "insertions": 24,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 77,
+        "deletions": 10,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "4e694b464178c67aee89f82fbb15c6e003552b82",
+            "message": "add some stuff",
+            "insertions": 77,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 119,
+        "deletions": 55,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "63b699721b828a8c9050e12165b026fcfd50db06",
+            "message": "finish undo/redo",
+            "insertions": 106,
+            "deletions": 51
+          },
+          {
+            "hash": "fabc770fa1531f391f8fd54db0508d9d487c97fd",
+            "message": "checkstyle",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "abf2fcb14b5d838bd98427966937138e2158a62a",
+            "message": "ignore tests",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "35c5e447462065a8019efb17c0bef3ed8f183b07",
+            "message": "more tests stuff",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "23a3da6f4619df2f9e696c01d536363a3523932b",
+            "message": "bugfix",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 25,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "84d0e06b5e67286780d932007eb045bdce7d1dac",
+            "message": "Dev guide and minor changes",
+            "insertions": 68,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 358,
+        "deletions": 117,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "2151dd3fb0048413deb75643103ec5aee0a59ff5",
+            "message": "export and user dev guide",
+            "insertions": 258,
+            "deletions": 114
+          },
+          {
+            "hash": "dc52f203db48fdfe4ca54726625ed12539bc16b9",
+            "message": "fix travis",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "400046cdbd8d975ac021836ff9a46b1a8af3cb62",
+            "message": "knn travis",
+            "insertions": 26,
+            "deletions": 1
+          },
+          {
+            "hash": "a18c895b16f340d3cbb920e34a2ad1e50c9b1a3a",
+            "message": "Project portfolio",
+            "insertions": 71,
+            "deletions": 0
+          },
+          {
+            "hash": "1da113205431fcf214e6e7fe6a5b116a5a13587c",
+            "message": "add more ppp stuff",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "5c10e6fba0ba620005658cfa7b39b12bbe797efd",
+            "message": "Update randytqw.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 201,
+        "deletions": 140,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "098b87cbcce983115f57d8d48e44d022ecc15f6a",
+            "message": "fix export command",
+            "insertions": 114,
+            "deletions": 109
+          },
+          {
+            "hash": "fbfb43ed8fc68d98dd632345b76b8fc423ebacee",
+            "message": "fix undo test",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "aadbde20b952cbfb6f7b95ff6c1be231d5a40fd1",
+            "message": "travis",
+            "insertions": 12,
+            "deletions": 7
+          },
+          {
+            "hash": "70165ef7e4846f418a182f2526bb143a3eec390e",
+            "message": "redo command test",
+            "insertions": 47,
+            "deletions": 14
+          },
+          {
+            "hash": "18367fcd9423aa35ee2a51a84b8a2f709477ae6d",
+            "message": "bug fix",
+            "insertions": 16,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 220,
+        "deletions": 49,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "0b0d041e9aefb93826da1350ef646f67ba261b33",
+            "message": "add export and exportparser test",
+            "insertions": 184,
+            "deletions": 7
+          },
+          {
+            "hash": "0bb57db4b883a42445696979b5cb8554839ed8b5",
+            "message": "update DG",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "0fb71f30a165a4d5bb5659ee701c2bc675d36508",
+            "message": "Update DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b828521f9056b12ba8edbaa3f2b192f0d92adf8d",
+            "message": "Update DG",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "fedb14a49d055e88a9b41f09266d741fc9062bf7",
+            "message": "Update UG",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "19a5cbc9e59a67074e82345a80e6da713494d307",
+            "message": "Update again",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "b0f00b01c7272578e9777b4ba5b0c465800d27be",
+            "message": "more updates",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "d7c4b22ee858549e13a15f398d812ed5ae5d6628",
+            "message": "add export",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "9fd2e6a4328785bee8d9583d9e294427bf1f3787",
+            "message": "remove unused lines",
+            "insertions": 0,
+            "deletions": 24
+          },
+          {
+            "hash": "acf4f72bfe0a303799a984a6b8770f8e3f9c0b5c",
+            "message": "add author thing",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "dbb8cb7f8dd881b17ee98d69f4942c9a0a40aed4",
+            "message": "Export sequence diagram",
+            "insertions": 5,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 11,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "832c185b2022ea3b3db8f0ec3e0537a705b92d04",
+            "message": "add PPP stuff",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "9454b484acd4d2d7702465358e7358462fad0c1b",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0ca555d840de829a41b5200c29506e17e4b8b41a",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a0201d1a92f4c6e224cc9c5873f9ac755aa96807",
+            "message": "update export command",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "37eadaa8d9a8ae9b4769d2accd4f6923b74d5787",
+            "message": "Update ExportCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6a6374e04670dd6f6e054f6432dcafcbff4c9ab2",
+            "message": "Update randytqw.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "af493e810dc30d4dc706e8a65daa755398e3190d",
+            "message": "Update randytqw.adoc",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "thamsimun": [
+      {
+        "insertions": 100,
+        "deletions": 165,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "0b59fbb8e0358b468cae814f38e0addf141905cf",
+            "message": "Edit Userguide",
+            "insertions": 98,
+            "deletions": 163
+          },
+          {
+            "hash": "b0c51c58e44247d1d537e504456456370cc79fde",
+            "message": "Edit Userguide line 120",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4ecd1d177242d398b32ce44326fd2423410a2784",
+            "message": "Edit Userguide line 120",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 19,
+        "deletions": 4,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "da8961c56004ba30f001a3e1917397ee7713730a",
+            "message": "add new storage-component feature",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "34e5af95a422794452d4962d525e43d5e86497e9",
+            "message": "settle travis build",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "43861f560be66078be1dc538fea0462bf3f4f029",
+            "message": "solve travis build",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 132,
+        "deletions": 18,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "8c1f5dc2b2f89f0545cc210f9e8f5b6e28f79fa4",
+            "message": "Implement contrast command",
+            "insertions": 132,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 69,
+        "deletions": 50,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "0c4a3cd2838fc547b7b25278ce065d8373386a77",
+            "message": "fix travis build",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e11cdc3a2901d858383ca5a78d15c9a308625d02",
+            "message": "fix travis error",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "cfff6e7faf5c6381075cd9d26e13e2d4de77a486",
+            "message": "fix travis",
+            "insertions": 2,
+            "deletions": 9
+          },
+          {
+            "hash": "1973d0cccc39469dbf1464978b3dea3f97a1338d",
+            "message": "travis build",
+            "insertions": 50,
+            "deletions": 19
+          },
+          {
+            "hash": "09000edabc013de21d7838027b1fcfb86366781f",
+            "message": "travis fix",
+            "insertions": 15,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 247,
+        "deletions": 99,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "e62c1630987e1d6e91f26afdf281659e47bcc368",
+            "message": "implement contrast command that accepts numerical value",
+            "insertions": 47,
+            "deletions": 26
+          },
+          {
+            "hash": "22ef9b4229448eaa03759c50de3bd9f0e0f1c077",
+            "message": "add messages",
+            "insertions": 72,
+            "deletions": 0
+          },
+          {
+            "hash": "5c07ba979b5ba355fd2bcd76c03c5e75225c76de",
+            "message": "implement brightness command and edit contrast command",
+            "insertions": 115,
+            "deletions": 68
+          },
+          {
+            "hash": "e95d00df8362bf977449c937c5bf419d27b02570",
+            "message": "fix failed travis build",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9463c76f61a5c97176b3cd484bf52c3fcd74b12d",
+            "message": "add format error message",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "9c5fdab123983ce55fc16f8a3cbd466259ff9ca8",
+            "message": "solve travis fail",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 74,
+        "deletions": 41,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "89e9f535e582fb8822460d35f4a126a23c2e3e99",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 34,
+            "deletions": 1
+          },
+          {
+            "hash": "4752c632c0426e4565ed58a7f3e7ec63f4a4840b",
+            "message": "Rewrite developer guide",
+            "insertions": 0,
+            "deletions": 35
+          },
+          {
+            "hash": "3e853b10ac02561a91946994f4070c25377275e7",
+            "message": "update developer guide",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "16381364369fe68d4925a496f518e76ceae4c2e4",
+            "message": "fix travis",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 30,
+        "deletions": 30,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "3a7aedb9fdce8478a8870f6b7111e77671fdf31a",
+            "message": "update userguide",
+            "insertions": 30,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 408,
+        "deletions": 137,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "5a9f244405fdf15c61e6ba9e30fd8e52b6aa93a5",
+            "message": "comment out certain code in contrast command",
+            "insertions": 15,
+            "deletions": 4
+          },
+          {
+            "hash": "9826ffe0fe4a57497dcdcd5e997ca5ace9ebaa02",
+            "message": "create currentEdit class to replace AddressBook4 modelManage class",
+            "insertions": 179,
+            "deletions": 38
+          },
+          {
+            "hash": "417938840cb7378a738a3c47d7b9ba16639e30ae",
+            "message": "fix travis",
+            "insertions": 18,
+            "deletions": 9
+          },
+          {
+            "hash": "5597cde376787e5fee6dce87d90d4a44e11ee205",
+            "message": "Refactor test cases due to new CurrentEdit and Album parameters in execute method in Command class",
+            "insertions": 196,
+            "deletions": 86
+          }
+        ]
+      },
+      {
+        "insertions": 188,
+        "deletions": 13,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "5adcd6fc2419dcdbdfa7e55c29f09e77f9f4958b",
+            "message": "edit brightnessCommandParser",
+            "insertions": 24,
+            "deletions": 6
+          },
+          {
+            "hash": "11c7a94ab64257939fd2807bbdb9449b90004ffb",
+            "message": "edit contrastCommandParser",
+            "insertions": 16,
+            "deletions": 5
+          },
+          {
+            "hash": "824991036ea5430ff0b2c928e2a65b70494c4bc6",
+            "message": "create blackwhitecommand",
+            "insertions": 67,
+            "deletions": 1
+          },
+          {
+            "hash": "e319cd227ff09f702d450f7e2c02742eec75c842",
+            "message": "Implement BlackWhiteCommand in application",
+            "insertions": 81,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 190,
+        "deletions": 271,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "ed736e0a707f0e7ff74a2563d7f6106ef720a173",
+            "message": "solve overloaded method in CurrentEditManager class",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "77fe77cc90e40f5968c564807b5aa694b8a542e3",
+            "message": "delete unused imports",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "c399dfb2ef22d555a7b6d213ac678b7d344d39ed",
+            "message": "Edit contrastCommand and contrastCommandParser to work on same temp image in temp folder",
+            "insertions": 56,
+            "deletions": 90
+          },
+          {
+            "hash": "02c7af340d62f8d5709128e1f2c2f5d1e58fc32a",
+            "message": "edit currenteditmanager class",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8d91bf56ef2d93ec73f8ff23b0c0548048cc5e8f",
+            "message": "fix travis",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "1612b8231225176d4b233b840c3a2b6113b9a317",
+            "message": "fix travis",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c8f466624584ca608ad4a88bc7f440ebb446792e",
+            "message": "fix travis",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "3ee14ad7e1f1b4aa6d5b450f8b6c62b13c1e2c6f",
+            "message": "edit brightnessCommand and brightnessCommandParser to edit on temp image",
+            "insertions": 43,
+            "deletions": 82
+          },
+          {
+            "hash": "26c8a2d7d7a0cd162a39157f5eadc4782089cbb3",
+            "message": "edit blackwhitecommand",
+            "insertions": 57,
+            "deletions": 74
+          },
+          {
+            "hash": "fd53f9106631e40b4f8daae67893e1281963ac4b",
+            "message": "fix logic in filter commands",
+            "insertions": 20,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 57,
+        "deletions": 29,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "45fccb27d990366ac4634884c2eff1c69fb1d0b4",
+            "message": "edit developer guide",
+            "insertions": 17,
+            "deletions": 9
+          },
+          {
+            "hash": "432a5f1aa5728265089987bb9e28abda6b2a305d",
+            "message": "add logisequencediagram for import and rotate",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "914eafca05f13365fd611b9da2cb879a72189e95",
+            "message": "add storage component in developer guide",
+            "insertions": 13,
+            "deletions": 11
+          },
+          {
+            "hash": "90754a4d3779822522d96c0326acf5469d63030d",
+            "message": "edit image filter feature in developer guide",
+            "insertions": 20,
+            "deletions": 4
+          },
+          {
+            "hash": "5ab44e804e542246e7454dcca4169885ace2c4a7",
+            "message": "solve travis",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 15,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "aa802458084ab6a48b33dc607f05664e2c0f5708",
+            "message": "edit user guide",
+            "insertions": 21,
+            "deletions": 12
+          },
+          {
+            "hash": "b2bcf87f5bdc8e9d9c9cb9058eaa99e0c4cb803f",
+            "message": "Edit image filter command example format",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "57519962bf2fa208b38e8b1644f128be9d0808f8",
+            "message": "fix travis",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 104,
+        "deletions": 13,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "b1b084b2133f7f26268bc7e65adc7c6ea09dab88",
+            "message": "edit image filters parsers",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "d0d799c38a8788d01febcaf3e0ffa1691e48f995",
+            "message": "edit developer guide",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "31c64a0d8f456f1fd0b91b2f9076c407e7b18a23",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a609b162023ae0f4abdef57f8305cb1d6188bc60",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "6a158d40f145adf529e34c8f887cca206fb3f06b",
+            "message": "add thamsimun portfolio",
+            "insertions": 68,
+            "deletions": 0
+          },
+          {
+            "hash": "2e640f8de4f1efcb7ae12bb5288b55eccee0cd00",
+            "message": "edit developer guide for image filters to include operations used",
+            "insertions": 12,
+            "deletions": 2
+          },
+          {
+            "hash": "f367507365592a0275b291d3de855dd34f0552db",
+            "message": "fix travis",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 102,
+        "deletions": 77,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "c1b84227f9b4af6742348dec0b0575c6a998c38a",
+            "message": "Fix missing parts from developer guide",
+            "insertions": 45,
+            "deletions": 40
+          },
+          {
+            "hash": "a0715867b2ef63b43ba702988599aad41907f70e",
+            "message": "fix changes in dev guide",
+            "insertions": 5,
+            "deletions": 11
+          },
+          {
+            "hash": "d1aff3e3bf470f79143b088498096df5bcf808a9",
+            "message": "Fix travis by adding newline at EOF",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "8989f2eac438634e41a629e170bcb10cf727d902",
+            "message": "Edit thamsimun project portfolio",
+            "insertions": 19,
+            "deletions": 9
+          },
+          {
+            "hash": "f162ca8bcb7139379752e8dcca35824490f75c8c",
+            "message": "fix travis",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7a039e774f707a2240b56d59f32b2f8e3b236500",
+            "message": "fix conflict",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "56abd2b850f8294d19b23ced7e2b907c2f027aa4",
+            "message": "Fix bug in image filter command parsers",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "f9d494ad64aa6c159d02d4ae5afe4754dab7d0cc",
+            "message": "edit portfolio",
+            "insertions": 21,
+            "deletions": 10
+          },
+          {
+            "hash": "d7b0a6699837a7a12de9825805a0d80b12f026f7",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 699,
+        "deletions": 411,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "36f4c180b55b4b0bb680cf7197785065aef366a3",
+            "message": "merge upstream",
+            "insertions": 608,
+            "deletions": 410
+          },
+          {
+            "hash": "50dded93150a47d24846ae9fc64174f4f48279e5",
+            "message": "Add presetCommand",
+            "insertions": 91,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 290,
+        "deletions": 66,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "de66573665424268f28cbb24ab4cd3b76506e28f",
+            "message": "Add savePresetCommandParser",
+            "insertions": 55,
+            "deletions": 13
+          },
+          {
+            "hash": "f3516b0bff16cf4ae8610512c7e55ac2caf8540a",
+            "message": "Add AddPresetCommand",
+            "insertions": 191,
+            "deletions": 23
+          },
+          {
+            "hash": "f698b6133f89be3e7873fdad1f18716a7be9d5fe",
+            "message": "add in author",
+            "insertions": 17,
+            "deletions": 3
+          },
+          {
+            "hash": "48c268d89952ed4486ebfb40d89e3836652211e7",
+            "message": "fix travis",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e47196ad609dd5920a73b5b85efa64b1dbc6a09f",
+            "message": "refactor preset commands",
+            "insertions": 24,
+            "deletions": 24
+          },
+          {
+            "hash": "1d307d4e18c6daed4b44a7f4113cf6f42280ef06",
+            "message": "fix travis",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 356,
+        "deletions": 55,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "b9b0ec8c4bf078aa30efac56ca20b2a2ed2ba56d",
+            "message": "Fix bug in watermarkcommand and presetcommand",
+            "insertions": 17,
+            "deletions": 11
+          },
+          {
+            "hash": "0f9dc8682a29626750b47096513f395df3537d43",
+            "message": "Add contrast command parser test",
+            "insertions": 72,
+            "deletions": 9
+          },
+          {
+            "hash": "a0c9668b2573016caefb12194edf660ba6fbf10a",
+            "message": "Add brightness command parser tests",
+            "insertions": 68,
+            "deletions": 5
+          },
+          {
+            "hash": "0046e6d3285de5d0f9c316570b0edac901415623",
+            "message": "Add black white command parser test",
+            "insertions": 72,
+            "deletions": 13
+          },
+          {
+            "hash": "820e994c31c0eedac0c3fe9a8a6834c3d3802a5a",
+            "message": "Solve preset and watermark bug",
+            "insertions": 50,
+            "deletions": 14
+          },
+          {
+            "hash": "49142fa5cd8317eb50ae3924c5a8f0b4fa923f43",
+            "message": "Add javadocs to method in transformationset",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "9bd845b998051c35738ae43036a7e6cfcb0f0f8c",
+            "message": "add savepresetcommand parser test",
+            "insertions": 35,
+            "deletions": 2
+          },
+          {
+            "hash": "531bbac8ab503fa150e96487acd436661d91f6c0",
+            "message": "add setpresetcommand parser test",
+            "insertions": 36,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 386,
+        "deletions": 58,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "4a9d172662722852b2865633dd2435c87bf95835",
+            "message": "contrastcommand test",
+            "insertions": 120,
+            "deletions": 57
+          },
+          {
+            "hash": "c2fac87137e03763c97c5552ebfe08a0f9740f8f",
+            "message": "add brightnesscommand test",
+            "insertions": 61,
+            "deletions": 0
+          },
+          {
+            "hash": "57a54bb728bf9226c05b868aa6b73ed8d8689ee8",
+            "message": "add blackwhitecommand test",
+            "insertions": 61,
+            "deletions": 0
+          },
+          {
+            "hash": "f8db56dd841037b45b3a515c8a8e2f230a334da0",
+            "message": "add savepreset command test",
+            "insertions": 137,
+            "deletions": 0
+          },
+          {
+            "hash": "e56ec60f1451c691a242dd234637a78244e41fce",
+            "message": "Edit image filter test to clear album at the start",
+            "insertions": 7,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 211,
+        "deletions": 75,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "6aa96ab2eb1424fa19265c202afbed469d6c972a",
+            "message": "add empty setpresetcommandtest",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "c84af608fe309796998ce967e4e2233c28c14006",
+            "message": "add preset command tests",
+            "insertions": 175,
+            "deletions": 10
+          },
+          {
+            "hash": "7226811264e33d1fd97e98a38abc75e84a3d7805",
+            "message": "solve setpresetcommandtest bug",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d491560556eb3f7362ee2a390257e55fb46b101f",
+            "message": "Solve travis checkstyle error",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "a98ac700c9c885fdfc236d56560b021769593c43",
+            "message": "solve appveyor",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "99c7826808d7732ccb2e3d5c58ad4dba5c358248",
+            "message": "clear album in undo test",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "41d179d8b6e140bf8666c3bc117f9ab2621b1e90",
+            "message": "delete find command",
+            "insertions": 0,
+            "deletions": 54
+          },
+          {
+            "hash": "502a0c239053bb302b4c5c844aa070831c272d13",
+            "message": "solve appveyor",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 358,
+        "deletions": 201,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "35d423110a8b93e767a8c4db576fd2d0cecac6e2",
+            "message": "edit userguide",
+            "insertions": 50,
+            "deletions": 20
+          },
+          {
+            "hash": "59dec659a666ac2a52bc36c62307288ed883d005",
+            "message": "Update image filters in dev guide",
+            "insertions": 44,
+            "deletions": 42
+          },
+          {
+            "hash": "3c6303d059255084b6da8d1d0949bde86a08a614",
+            "message": "edit dev guide",
+            "insertions": 34,
+            "deletions": 29
+          },
+          {
+            "hash": "346e2221729c8daafb799dc6cadfb855f96122f6",
+            "message": "solve merge conflicts",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "06fa3aa80e001e0eda7fffb8fb87745f7bf05b0a",
+            "message": "add preset commands to dev guide",
+            "insertions": 132,
+            "deletions": 22
+          },
+          {
+            "hash": "ca7860568966f743df579873f39a29cdde03640e",
+            "message": "Edit developer guide to standardize certain parts",
+            "insertions": 96,
+            "deletions": 88
+          }
+        ]
+      },
+      {
+        "insertions": 102,
+        "deletions": 72,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "8c10eda006b058e148e66e870df64ac4b3d5f171",
+            "message": "fix travis",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "d4d8e800d0d67b66f46ffe90727f3799fe40ddb0",
+            "message": "Edit PPP",
+            "insertions": 52,
+            "deletions": 16
+          },
+          {
+            "hash": "e33dceaa3dd68a997bd572b5b08fc9b9ab7d98a3",
+            "message": "Edit a small mistake in ppp",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "28e74ba49be4ad9e778d65cedca8f93eea5b8274",
+            "message": "Remove stuff from my ppp",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "c517a6a17ab9559e1daee938f1e8a5b90c7140d1",
+            "message": "Cut ppp",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "d21f41eb21803035ee68ef81b8b081d9fdd9945c",
+            "message": "cut ppp",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "7dfc571a1869f17bedbefeafa32e62d61b114083",
+            "message": "Made ppp shorter",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "2875880958a1d70adbb7bdce83d320bdb12a674b",
+            "message": "Edit ppp",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "855121ce68e938c6e4a6d74e88b2a98a08b0eb93",
+            "message": "edit ppp",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "be802560dd5da43aaa6a104e90721cbd297aaff4",
+            "message": "edit ppp",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "fccbbd1a21816cad4a901f09369e7aa5735dad33",
+            "message": "edit ppp",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "3f0aef7849f8dae09aa60b492ed077a59d3eb648",
+            "message": "edit ppp",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "ad43a6908b9e2fee7217f64f4dc817b507bdbc0a",
+            "message": "edit about us",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "403e586bab49095aa5bbc98e65d55dc7b371d833",
+            "message": "edit user guide for standardization",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "423705e833a6ab07705aec2c307f334b9ec20ab8",
+            "message": "edit user guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "21e7349bedbb1920bad70166e4a033d1900a8362",
+            "message": "Edit command example in code",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "3d2389d383eb1ad414fdfd685244051870a34ffc",
+            "message": "edit",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "22589ef0a6cf5f623162eebb64ce3846179de7a8",
+            "message": "Correct grammar in PPP",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "7b5105fef50a882377c37823138335c3545c3370",
+            "message": "Edit developer guide grammar",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "itszp": 1141,
+    "kayheen": 1720,
+    "carrein": 2863,
+    "randytqw": 891,
+    "thamsimun": 2050
+  },
+  "authorFileFormatContributionMap": {
+    "itszp": {
+      "adoc": 360,
+      "cs": 0,
+      "css": 0,
+      "fxml": 2,
+      "gradle": 0,
+      "html": 0,
+      "java": 779,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "kayheen": {
+      "adoc": 442,
+      "cs": 0,
+      "css": 50,
+      "fxml": 1,
+      "gradle": 3,
+      "html": 0,
+      "java": 1224,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "carrein": {
+      "adoc": 424,
+      "cs": 0,
+      "css": 1,
+      "fxml": 296,
+      "gradle": 5,
+      "html": 0,
+      "java": 2137,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "randytqw": {
+      "adoc": 143,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 748,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "thamsimun": {
+      "adoc": 429,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 4,
+      "html": 0,
+      "java": 1617,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "itszp": 9449.392,
+    "kayheen": 25319.05,
+    "carrein": 308533.38,
+    "randytqw": 6840.039,
+    "thamsimun": 37471.152
+  },
+  "authorDisplayNameMap": {
+    "itszp": "TAY...ENG",
+    "kayheen": "CHO...EEN",
+    "carrein": "HO ...SON",
+    "randytqw": "TAN...NDY",
+    "thamsimun": "THA...MUN"
+  }
+}
