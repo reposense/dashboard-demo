@@ -1,0 +1,5053 @@
+{
+  "authorDailyContributionsMap": {
+    "Beesaycheese": [
+      {
+        "insertions": 7,
+        "deletions": 7,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "bca308c62a85b8ef5fcc7d03f67c2924a1a46d7e",
+            "message": "Update Contact Us page",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "3e2a0b3f3bbad136521a3f042a604993a6a740f7",
+            "message": "Adjusted it back to original",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "e593581abbbd07574798191f164b2f0d52aa7c79",
+            "message": "Update Contact Us page again",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 281,
+        "deletions": 133,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "f91e665f12150a306c48fdbcfdd036f8a7593acf",
+            "message": "Update the UserGuide",
+            "insertions": 281,
+            "deletions": 133
+          }
+        ]
+      },
+      {
+        "insertions": 80,
+        "deletions": 17,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "7b2804e44463eb0f7c81f9e14cfc34ff72e7a1ae",
+            "message": "Add hash tags colours",
+            "insertions": 45,
+            "deletions": 0
+          },
+          {
+            "hash": "e012156bed1a18761a9dc2cc08e2ced7a4ee09a5",
+            "message": "Update PersonCard.java to assign different colored tags using hashcode.",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "68a9f2c778818130f8f70670916b2f648be4cb62",
+            "message": "Remove the whitespaces to pass the building test.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "841f0d40959aa53f825d030a7c0b5e6a9df910ea",
+            "message": "Edit trailing whitespaces again.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e89a75501119289dca9f817e675ba12c419f23b8",
+            "message": "Add comments and alter the code style.",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "aa4ca9541074d2135b61c7a9fe05496494996799",
+            "message": "Adjust spacing for some of the lines",
+            "insertions": 8,
+            "deletions": 9
+          },
+          {
+            "hash": "c619467412207a2f80be19c67a67c552120ff4eb",
+            "message": "Adjust a spacing for the less spicy line",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1126,
+        "deletions": 241,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "96c19f1c083e7b285d34098501afcfac86c2b1d2",
+            "message": "Create BillCommand and BillCommandParser",
+            "insertions": 100,
+            "deletions": 0
+          },
+          {
+            "hash": "09b6576e3d8e05e8c8f859e15382803c85809d4a",
+            "message": "Add new prefix to CliSyntax.java",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "337e14245e8b33a7632eba8ef1182fa3665b6c99",
+            "message": "Changes to BillCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7d62ea1e9cc4d84235b0502d7f2e15deb0ac408e",
+            "message": "Comment out BillCommand and BillCommandParser for the time being",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "db526813413bbdfb71209537df82e70a9dfade2d",
+            "message": "Add new files for statistics in storage",
+            "insertions": 275,
+            "deletions": 0
+          },
+          {
+            "hash": "23403e7fe23809edbb9ac6ac046d974225bc0db0",
+            "message": "Add files for statistics in model. Still work in progress.",
+            "insertions": 135,
+            "deletions": 0
+          },
+          {
+            "hash": "192653c10dbb643cfbd828208a83424ece65f0fd",
+            "message": "Add files related to statistics in the storage",
+            "insertions": 134,
+            "deletions": 230
+          },
+          {
+            "hash": "639fb60005b15e4b2f994b5a6a3efcadc61c6a1e",
+            "message": "Add files related to Statistics and Bill in Model",
+            "insertions": 255,
+            "deletions": 0
+          },
+          {
+            "hash": "fce2bda080429937c6d14f7e30a1cc0f191af034",
+            "message": "Add Day Month and Year class to model",
+            "insertions": 153,
+            "deletions": 0
+          },
+          {
+            "hash": "1eaf6ce791775b7fcfa8cff30b4245b46e02a98a",
+            "message": "Edit Bill Command and Bill Command Parser",
+            "insertions": 60,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 575,
+        "deletions": 136,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "3f6ddefa497174689241c98afaec442a462210f9",
+            "message": "BillCommand still work in progress but the mode manager should be fine already",
+            "insertions": 257,
+            "deletions": 31
+          },
+          {
+            "hash": "3455b2d3a8d10c1bd8c38493af62440fa5db29d2",
+            "message": "Update Logic and LogicManager",
+            "insertions": 66,
+            "deletions": 9
+          },
+          {
+            "hash": "b64a57389f598564c95073787ad1c9eb87e26554",
+            "message": "Edit BillCommand and Add a new StatsBrowserPanel",
+            "insertions": 167,
+            "deletions": 36
+          },
+          {
+            "hash": "4aedf68c6170427492144c1c645518a6a61b59dc",
+            "message": "Update BillCommand and Bill",
+            "insertions": 38,
+            "deletions": 37
+          },
+          {
+            "hash": "faf996f6102783828ff95462c21a9861746c4699",
+            "message": "Edit UserGuide for billCommand",
+            "insertions": 13,
+            "deletions": 8
+          },
+          {
+            "hash": "c446a74cf3ceda17511ce4c3a863bedb7890140a",
+            "message": "Update storage for Bill",
+            "insertions": 34,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 208,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "eaeaf8f869f8d6cfffbc51998a9c273fd380a149",
+            "message": "Working Bill (Still TO DO: change the day month year to date)",
+            "insertions": 33,
+            "deletions": 60
+          },
+          {
+            "hash": "a9029f404d2fd5dc660d2a4d8f65188c13c779e3",
+            "message": "Update and finish BillCommand",
+            "insertions": 34,
+            "deletions": 107
+          },
+          {
+            "hash": "49b8420dec415aa7a20af97859467ed1e865985d",
+            "message": "Delete BillCommandParser and update RestOrRantParser for bill command.",
+            "insertions": 1,
+            "deletions": 41
+          }
+        ]
+      },
+      {
+        "insertions": 206,
+        "deletions": 227,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "88bff12bf2a2c3cbbaa2c23869a780f16364c37a",
+            "message": "Add new alias for bill command",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "3bd475d9d67eddcdee0ea09fe86fe330f586abad",
+            "message": "Add a billMode such that the mode changes when the billCommand is called.",
+            "insertions": 15,
+            "deletions": 223
+          },
+          {
+            "hash": "d706038100c2c26cf3687462f615647e9864f2d8",
+            "message": "Create new BillBrowserPanel related testcases (Still work in progress)",
+            "insertions": 183,
+            "deletions": 0
+          },
+          {
+            "hash": "975385f922339d3644f4fa82fbc426d7c06ffe81",
+            "message": "Change CheckStyles",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 55,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "04a3a9646de63875dbb3872f34007b86e4a0e966",
+            "message": "Add more checks to Day, Month, Year",
+            "insertions": 32,
+            "deletions": 4
+          },
+          {
+            "hash": "1d58656add409e6f56048145d8cb494eb99fc697",
+            "message": "Fix checkstyles",
+            "insertions": 55,
+            "deletions": 47
+          },
+          {
+            "hash": "8b4bc67b9a22de61d562d7459187721080f880ad",
+            "message": "Fix checkstyle",
+            "insertions": 6,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 292,
+        "deletions": 292,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "b7a98feda655293829cba7ff5848758a1e00ef2f",
+            "message": "Add some tests that are still incomplete",
+            "insertions": 292,
+            "deletions": 0
+          },
+          {
+            "hash": "0951edef10aed74bca21208b63eb72155a6a0d87",
+            "message": "Delete BillCommandTest file",
+            "insertions": 0,
+            "deletions": 11
+          },
+          {
+            "hash": "10060fc627dad038c9df82e231d562798123e9a7",
+            "message": "Delete BillListTest.java",
+            "insertions": 0,
+            "deletions": 182
+          },
+          {
+            "hash": "0d0195ddc7cbb965776d91f37d1da28c6667ea7f",
+            "message": "Delete BillTest.java",
+            "insertions": 0,
+            "deletions": 99
+          }
+        ]
+      },
+      {
+        "insertions": 806,
+        "deletions": 299,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "6ba24c5f278d094b398352cbe1f03557b06a952a",
+            "message": "Rename BillList to DailyRevenueList and AdaptedBill to AdaptedDailyRevenue. Create a DailyRevenue.java class.",
+            "insertions": 501,
+            "deletions": 226
+          },
+          {
+            "hash": "32de10ab53d441e6840fbcac87581222b191849b",
+            "message": "Update billCommand to create a receipt and ipdate the status of the table",
+            "insertions": 27,
+            "deletions": 6
+          },
+          {
+            "hash": "7dbcc21399de22a25cff4cdff233f8058a66b218",
+            "message": "Update Bill to store Day Month and Year so that DailyRevenue can reference to it later.",
+            "insertions": 50,
+            "deletions": 2
+          },
+          {
+            "hash": "9b7ca7da8834da5d9b11191ec41434275c9d98fa",
+            "message": "Update the BillComand such that it changes to BillMode when bill is called. **Still having null pointer exception for the UI portion.",
+            "insertions": 228,
+            "deletions": 65
+          }
+        ]
+      },
+      {
+        "insertions": 641,
+        "deletions": 97,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "93c6196df47cdfc494ab3df9f30612edb02d9b76",
+            "message": "Worked on UI for Daily Statistics. Add Daily Statistics Card and Browser Panel for the StatsisticsMode",
+            "insertions": 155,
+            "deletions": 0
+          },
+          {
+            "hash": "7e59120bee63cd5f6f141205feca9850ac96134d",
+            "message": "Work on Ui for the BillMode. (Fixed the Null Pointer Exception but still having problems printing out the receipt)",
+            "insertions": 147,
+            "deletions": 50
+          },
+          {
+            "hash": "aedaaf624e411b4d940913effeb875a27fe2b3ba",
+            "message": "Update BillCommand to check that it is in TableMode",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "3023d2f42076014e5af8acc6b4f068d52ef0487b",
+            "message": "Fix the storage component",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "f1f51c4e2be358ace1e589bff34918888055e424",
+            "message": "Update the BillCommand to update the DailyStatisticsList",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "ac1aa80da295e1a88dece1455dc2584a0ba27075",
+            "message": "Add additional equal and exception checks for Statistics and DailyRevenueList",
+            "insertions": 20,
+            "deletions": 6
+          },
+          {
+            "hash": "6966caacb6b7f652855c60e916c89750cf35f743",
+            "message": "Edit a comment description",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0c8d88a7e90ef4b98962c16e3160df4ddce404d9",
+            "message": "Add Tests for Day, Month and Year under the Model Component",
+            "insertions": 128,
+            "deletions": 26
+          },
+          {
+            "hash": "82d0bcb2613bdca022d47b491c59a6c15fb8e35b",
+            "message": "Include Statistics functions in the java files under testutil package",
+            "insertions": 165,
+            "deletions": 5
+          },
+          {
+            "hash": "bf972a110e390d9afaecba8d782d06d18a7b471a",
+            "message": "Update the SystemTestSetupHelper to setup the application savefilelocation for the respective storage components.",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 368,
+        "deletions": 52,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "cd7c1ec6b837a7283dbbf8ab3b90c6adee5a3bb1",
+            "message": "Update RestOrRantSystamTest to accomodate the different filepaths",
+            "insertions": 18,
+            "deletions": 8
+          },
+          {
+            "hash": "4d1d270110905664185f758c8c7f466b8cfd98e0",
+            "message": "Edit checkstyle",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "acdc648835aaa4a0de12550f26a268d87c54dcc1",
+            "message": "Alter the BillList to DailyRevenueList for the logic components",
+            "insertions": 39,
+            "deletions": 20
+          },
+          {
+            "hash": "a77d9bc6b68a7a6f84e0192ff91a6bc1fc17e4c9",
+            "message": "Include Statistics related methods in ModelHelper",
+            "insertions": 29,
+            "deletions": 3
+          },
+          {
+            "hash": "68b1b8be5b9cca5e14fd81615b680deb6242a0ed",
+            "message": "Trying to fix the BillBrowserPanel but to no avail :(",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "def23660892f8b7e880178f35fa3fa6629de3b69",
+            "message": "Create a BillCommandTest class (Still have to edit and change the contents)",
+            "insertions": 257,
+            "deletions": 0
+          },
+          {
+            "hash": "bc5abc6c87f4697b508f4f7e19dd2e21e417c823",
+            "message": "Fix Checkstyles for the classes in main folder",
+            "insertions": 17,
+            "deletions": 15
+          },
+          {
+            "hash": "f39dd341dd4caf9283c00b8f10ab9467b8170bb5",
+            "message": "Fix Checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1406,
+        "deletions": 355,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "d6f6d636ff9c67f10e60d7cf74ad7e2db4f7ed59",
+            "message": "Edit statistics test in the Model Component (BillTest is still not done)",
+            "insertions": 366,
+            "deletions": 3
+          },
+          {
+            "hash": "9738df490b5456cb293db70402ea34210f16d5f5",
+            "message": "Create guihandles for BillBrowserPanelHandle",
+            "insertions": 27,
+            "deletions": 38
+          },
+          {
+            "hash": "0aa479ce6a5ac37db18f608bdc20370d934712df",
+            "message": "Create a non-edited BillCommandTest",
+            "insertions": 34,
+            "deletions": 242
+          },
+          {
+            "hash": "3f9ddb00bea7b25cf96bb0ce3d7583a1bbb1b175",
+            "message": "Create tests and json files for the storage component",
+            "insertions": 330,
+            "deletions": 0
+          },
+          {
+            "hash": "f0947b85810484f3ce434b09d68b34ca3f76bcdc",
+            "message": "Add constructor to the BillCommand and Bill to accomodate for the test",
+            "insertions": 32,
+            "deletions": 5
+          },
+          {
+            "hash": "12895f15084ab9c6d7481f110edd4994ab4078dd",
+            "message": "Add tests for the testutil component",
+            "insertions": 56,
+            "deletions": 0
+          },
+          {
+            "hash": "a12d19c82aff278553f7e9113f86c97a7f1dc4c4",
+            "message": "Add BillTest under the model component",
+            "insertions": 45,
+            "deletions": 1
+          },
+          {
+            "hash": "7fe50e1983d06a8f27c44f1062c3bfb640021ad7",
+            "message": "Add test under the logic component (Have yet to merge and run to see if it works)",
+            "insertions": 468,
+            "deletions": 11
+          },
+          {
+            "hash": "e3ebc1e776194967de4d07c06e38d6bac4538b10",
+            "message": "Fix checkstyle",
+            "insertions": 41,
+            "deletions": 48
+          },
+          {
+            "hash": "415a92efe1de9ca6a1b8adbf27bddf21135abd7a",
+            "message": "Fix checkstyle",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 542,
+        "deletions": 321,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "dedd8ca1d0891eddae48a992b8057ec4c5601bd4",
+            "message": "Edit the UI receipt to a label instead of a textArea",
+            "insertions": 28,
+            "deletions": 58
+          },
+          {
+            "hash": "9a2401f976ea746392e966166a3a78a3900c43f3",
+            "message": "Attempt to remove the order list after bill is called (Not successful so I comment it out in bill command)",
+            "insertions": 25,
+            "deletions": 2
+          },
+          {
+            "hash": "55851ae66a70ad4a9c56cf95ba0612692240a48b",
+            "message": "Add duplicate check methods for DailyRevenueList",
+            "insertions": 47,
+            "deletions": 4
+          },
+          {
+            "hash": "d46dc02252b61c8d5b78633e57e9f5f2b873af4a",
+            "message": "Clean up my code for statistics related classes",
+            "insertions": 35,
+            "deletions": 16
+          },
+          {
+            "hash": "69ec24b6a04cab0eebcbc6c23c35eb63a98e623b",
+            "message": "Comment out new methods that I initially wanted to use to clear the orderlist when bill is called but to no avail.",
+            "insertions": 24,
+            "deletions": 17
+          },
+          {
+            "hash": "f51f9e440f43b98449c3bbb4dcd93d78aa84f4f7",
+            "message": "Made changes to Day, Month, Year tests to fix the exception mistakes.",
+            "insertions": 26,
+            "deletions": 20
+          },
+          {
+            "hash": "6126b1ca9a4669f439e2a45d8128056654bdde20",
+            "message": "Edit storage related tests",
+            "insertions": 24,
+            "deletions": 35
+          },
+          {
+            "hash": "ba6bff3180a9c05e0b8e243af6bdb615298b0017",
+            "message": "Rename the exception in import",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d6d353681309e859e82c951ca22a85a60e930caf",
+            "message": "Fix BillTest",
+            "insertions": 14,
+            "deletions": 17
+          },
+          {
+            "hash": "0361e8e18f3c4c1d21df09db5627c308eecc9de0",
+            "message": "BillCommandTest still WIP",
+            "insertions": 211,
+            "deletions": 51
+          },
+          {
+            "hash": "1167a00fa1eba00ca21c813732f0a6840a2f900f",
+            "message": "Edit DeveloperGuide for bill feature",
+            "insertions": 58,
+            "deletions": 3
+          },
+          {
+            "hash": "23890535307745d410ad6f5a76126d52b76c7d54",
+            "message": "Add images for DG",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "7e73a8a1281027f46149913f48f9439e60561a19",
+            "message": "Made some test changes",
+            "insertions": 6,
+            "deletions": 9
+          },
+          {
+            "hash": "cce740254314e584e0af9a1136f04f21fe78fa24",
+            "message": "Update BillCommand and storage test",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "a64a55ee09dd4208c6f7956087f1f5f19be8b07b",
+            "message": "Update Tests and commented out failed test cases for BillCommandTest, BillCommandIntegrationTest and ModelManagerTest",
+            "insertions": 29,
+            "deletions": 1
+          },
+          {
+            "hash": "3064f71adbad4e2f80333de41e5e2a56b54338cc",
+            "message": "Checkstyles",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "99f21d263ffaea329f459de5b61609bd0c610759",
+            "message": "Fix checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "87fbd681cb7e9e499f0c2a9d455840d0dcd117fc",
+            "message": "Delete unecessary changes",
+            "insertions": 0,
+            "deletions": 70
+          }
+        ]
+      },
+      {
+        "insertions": 96,
+        "deletions": 63,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "f256c2b5625d3658220a748dbb5ba295d1b91974",
+            "message": "Clean up comments and methods for RestOrRant and its interface.",
+            "insertions": 21,
+            "deletions": 9
+          },
+          {
+            "hash": "e626fede45bc68498ffcf732a21d4ac319c0b170",
+            "message": "Modify BillMode to delete order list when bill command is called.",
+            "insertions": 39,
+            "deletions": 31
+          },
+          {
+            "hash": "ba99fbb590021620fe210565a28bc097edb2ff5b",
+            "message": "Made changes to the Ui for Bill",
+            "insertions": 16,
+            "deletions": 23
+          },
+          {
+            "hash": "ba91770d386ece2db496d9e02808ffdbff382be6",
+            "message": "Clean up and add comments to the UserPrefs.",
+            "insertions": 20,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 163,
+        "deletions": 69,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "243d070fea37c49281fe4dceb1f50e6a3cc91c11",
+            "message": "Arrange the features according to their mode for Userguide",
+            "insertions": 36,
+            "deletions": 33
+          },
+          {
+            "hash": "7050951b523e85d1766f5d661919982cdae16310",
+            "message": "incomplete BillCommandTest with more ModelStubs",
+            "insertions": 125,
+            "deletions": 30
+          },
+          {
+            "hash": "4a676a51f74cfc04dd6c06d0e8339e7f0f9f4d20",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "096ca0dfbe36f9aed0e28d4935211eb739ac12aa",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 76,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "120d0069c201c63784bbf47e66f0c92c24f23598",
+            "message": "Create Date Class",
+            "insertions": 76,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1588,
+        "deletions": 353,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "ee8fac16af1801352a9062437bea77190721435f",
+            "message": "Create a Statistics Mode with all the ui set as the default grey design",
+            "insertions": 174,
+            "deletions": 172
+          },
+          {
+            "hash": "fc89f93144dabb7c59750bfabf52b525e333bd69",
+            "message": "Create monthly and yearly revenue and statistics card",
+            "insertions": 384,
+            "deletions": 0
+          },
+          {
+            "hash": "f41fda400c008b47a484875bd6f84b70c96ce1df",
+            "message": "Create Date class and test",
+            "insertions": 121,
+            "deletions": 67
+          },
+          {
+            "hash": "7ba043982e27bc390d32eb34f2a65c70bc1a0a83",
+            "message": "Adjust the UI for Statistics Mode",
+            "insertions": 369,
+            "deletions": 1
+          },
+          {
+            "hash": "762057bd23910608855971e21ed8d834983e3933",
+            "message": "Edit RestOrRantPaserTest to test the new Bill and Statistics Mode",
+            "insertions": 24,
+            "deletions": 0
+          },
+          {
+            "hash": "9687bfc9ae566416557948f2ab2fdb905e6bac0e",
+            "message": "Fix checkstyles",
+            "insertions": 86,
+            "deletions": 79
+          },
+          {
+            "hash": "83a9f3007d17fab4132f8b5fc57505c29e19d9f3",
+            "message": "Fix checkstyle",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "b4f538ffcbcf318ed34f049ab672b8b86e3f8743",
+            "message": "Final checkstyle fix",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9884f46efb9273edc3afa3dfb3fafad1958cba6a",
+            "message": "Add another new line at EOF",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "21454089eed234f26e0142569fdf3b224515a16b",
+            "message": "Clear up Date, Day, Month and Year for Test and the class itself",
+            "insertions": 406,
+            "deletions": 23
+          },
+          {
+            "hash": "0432c06888859b2b36d29c4b95764c82c64524bb",
+            "message": "Update Date and the Test",
+            "insertions": 12,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 5,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "2ad0ce0a74b8d28a0eaf575a4602eb3033f82eb7",
+            "message": "Change the logo",
+            "insertions": 13,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 729,
+        "deletions": 105,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "14969ba4f3f594626293dcf78e1a5e0619fed71b",
+            "message": "Create new builders for monthly, yearly and bill.",
+            "insertions": 212,
+            "deletions": 57
+          },
+          {
+            "hash": "566b7ad54dd35c72075264b1cdda7f476cedb5fc",
+            "message": "Update exception",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "4db425e97f0b2a3dd9eb5cd146aca9f7fae264d1",
+            "message": "Create StatisticsModeCommandTest",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "f51298b08f6d80fbfeafea144901b730f2f32fdb",
+            "message": "Create model tests for statistics",
+            "insertions": 164,
+            "deletions": 26
+          },
+          {
+            "hash": "b5e24551c6c3d69a99e1b2db83c0eb186d26f2e6",
+            "message": "Update logic related tests for statistics",
+            "insertions": 24,
+            "deletions": 10
+          },
+          {
+            "hash": "e6953a977a7a8c32fec7e19b3535c4c7e5335019",
+            "message": "Create new testing variables for bill, daily revenue, monthly revenue and yearly revenue",
+            "insertions": 25,
+            "deletions": 6
+          },
+          {
+            "hash": "c8956e620e8876c3919950e55d7b43bd115d4e03",
+            "message": "Create a revenueCommand that returns revenue of the specified date, month and year.",
+            "insertions": 258,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 261,
+        "deletions": 141,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "10f4713843865774be7f33231bd234e30f2ce274",
+            "message": "Reverse the order of the list for dailyrevenue",
+            "insertions": 13,
+            "deletions": 4
+          },
+          {
+            "hash": "83f105188c0feb05fd328d56b56cad7121a461db",
+            "message": "Edit revenueCommand and add its test for the parser",
+            "insertions": 117,
+            "deletions": 19
+          },
+          {
+            "hash": "cbac77f8f137fdd205123ce1480e9488bb64594a",
+            "message": "Fix checkstyles.",
+            "insertions": 30,
+            "deletions": 33
+          },
+          {
+            "hash": "7ca03c66ec2796947d0294e6c84913fdd6021378",
+            "message": "Fix Checkstyles",
+            "insertions": 2,
+            "deletions": 11
+          },
+          {
+            "hash": "305b2bb19f6e11b68361f482876e6b85999ffef7",
+            "message": "Update UG",
+            "insertions": 53,
+            "deletions": 26
+          },
+          {
+            "hash": "2999f1a5810d667cba581ae88b33096351c34b97",
+            "message": "Update DG",
+            "insertions": 24,
+            "deletions": 0
+          },
+          {
+            "hash": "f4087c698b21a06f0fa842495cb929c85c57da14",
+            "message": "Update UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6ce53854f1484d1ab5034a7dc7e4f06b60eec156",
+            "message": "Erase full stop and spelling mistakes for UG",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "5c12087aec66741f4b9347c9407ae66f22c929d7",
+            "message": "Fix bugs",
+            "insertions": 16,
+            "deletions": 40
+          },
+          {
+            "hash": "5135590df4997ecf600f83e462bb2edf08ef4d35",
+            "message": "Delete unused import",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 189,
+        "deletions": 7,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "10931dc3503e23ee1bd7547811ccc85aa9d0d594",
+            "message": "Create PPP",
+            "insertions": 95,
+            "deletions": 0
+          },
+          {
+            "hash": "a9fc3e520b3c7f62d6d6820cdb7ade87fe780a6b",
+            "message": "PPP",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "d38b16db1f1224d184c6b0a1b78b94de0d8f6a80",
+            "message": "Add Popular Menu List Panel into Statistics Mode UI",
+            "insertions": 89,
+            "deletions": 4
+          },
+          {
+            "hash": "f517f16327273cdc6421a2756e7f520cf9413d8e",
+            "message": "Comment to do for my teammate (MainWindow, popular menu list for Statistics Mode)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "928dfc3761c69ba13fa3b41c936374725fd07969",
+            "message": "Fix checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 370,
+        "deletions": 127,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "dfa476d49448f9987f66fc9ea08b047fa2d240d3",
+            "message": "Change the RestOrRantLogo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9016aa2768bb17f9614c092b40fae9e08f244c73",
+            "message": "Edit message constraints for day month and year. Also limit year to four digit integer from 2000 to current year.",
+            "insertions": 18,
+            "deletions": 19
+          },
+          {
+            "hash": "d2b334411cda9939409a0f1c5a7e92cc705cf64d",
+            "message": "Fix bugs and fine tune the message usage for revenueCommand.",
+            "insertions": 20,
+            "deletions": 15
+          },
+          {
+            "hash": "4df17fbca86898a35d6f0c1b4e8962f777fdfe7d",
+            "message": "Update revenueCommandParserTest",
+            "insertions": 26,
+            "deletions": 3
+          },
+          {
+            "hash": "742f4acc90ac22362784d1e48fb220a67f07a6f1",
+            "message": "Update DateTest",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "4024971d67749f03dd9dfd1a60e82e683c755c5b",
+            "message": "Add new methods for daily, month and yearly in logic and model (This will affect the model stubs in the tests)",
+            "insertions": 97,
+            "deletions": 0
+          },
+          {
+            "hash": "c581fa6330d4fda351a9315c600366557efb4cf3",
+            "message": "Change Bill Mode status bar to show TableMode instead (BillMode will be an internal back-end mode)",
+            "insertions": 15,
+            "deletions": 4
+          },
+          {
+            "hash": "e82055f3892f1dad45697a041424c91dbb9c4508",
+            "message": "Create daily, monthly and yearly commands",
+            "insertions": 167,
+            "deletions": 1
+          },
+          {
+            "hash": "4a5a0eb44bf4923b9644e6dd59fd4deffc46ef78",
+            "message": "Add new check in billCommand such that it can only be called when all orders are served",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "819eca256c3d7dea7fbc3163cf4899d65e55ca0f",
+            "message": "Change the switch case statements to an array",
+            "insertions": 18,
+            "deletions": 82
+          }
+        ]
+      },
+      {
+        "insertions": 1449,
+        "deletions": 1186,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "1a3d34bfe2f157a205d9bac196dd50058c0715fc",
+            "message": "Create a Revenue superclass and refactor dailyRevenueList to RevenueList",
+            "insertions": 301,
+            "deletions": 151
+          },
+          {
+            "hash": "ed124ad4bd125a51a90f226655d5a35aae9fafd0",
+            "message": "Adjust Daily, Monthly and Yearly revenue to subclasses that inherits revenue.",
+            "insertions": 18,
+            "deletions": 163
+          },
+          {
+            "hash": "219134f588c153b97f3e96567d8f7f8606c256c3",
+            "message": "Update logic and model managers and interface due to the refactoring",
+            "insertions": 95,
+            "deletions": 97
+          },
+          {
+            "hash": "f6d1753094b07c51187c2bbc3bbc661ebe07b577",
+            "message": "Refactor and adjust JsonAdaptedDailyRevenue to JsonAdpatedRevenue. Some of the contents are changed as well.",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "cf9174fd7bfbe4e2704a5d800277b4f87bc95c1d",
+            "message": "Update the ui and implementation of daily, monthly and yearly.",
+            "insertions": 126,
+            "deletions": 46
+          },
+          {
+            "hash": "9a42f31b9e486a90276a9e4838a8d8a98f8409a1",
+            "message": "Update BillCommand, RevenueCommand and its parser to accomodate the refactoring of dailyRevenue to revenue",
+            "insertions": 54,
+            "deletions": 53
+          },
+          {
+            "hash": "276654575b8de2d448c4e109920aca5618e9e64b",
+            "message": "Make more adjustments to other files in model and storage due to the refactoring",
+            "insertions": 46,
+            "deletions": 47
+          },
+          {
+            "hash": "954439f921dc7db4449ea7fdd91db9f56afee9d2",
+            "message": "Make adjustments to the json files as the recorded text for totalDailyRevenue has changed to totalRevenue",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "9ab80114cbef980f63a5dc397a4532f7f91d7828",
+            "message": "Create guiHandles for Daily, yearly, monthly cards and the statisticsflow panel",
+            "insertions": 226,
+            "deletions": 0
+          },
+          {
+            "hash": "2211dd5cd0af92a0c5eb396f322c501c77663018",
+            "message": "Due to changes in model, I had to make adjustments to the model stubs",
+            "insertions": 50,
+            "deletions": 47
+          },
+          {
+            "hash": "80e1fd50f9745da8a1476c6a9bad014e791fff14",
+            "message": "Refactor test cases for DailyRevenue to Revenue",
+            "insertions": 263,
+            "deletions": 263
+          },
+          {
+            "hash": "0a4bfde78bdfbc58f49d4b45c55bd7b751909df5",
+            "message": "StatisticsBuilder builds Revenue",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "cc0d1751d0057c208f353ff3bf204cb72f20f1f7",
+            "message": "Make changes to these tests files due to the refactoring of dailyRevenue to revenue",
+            "insertions": 176,
+            "deletions": 216
+          },
+          {
+            "hash": "cb20ab43387c7909cf877a24115b5213068e568d",
+            "message": "Comment out the test for billCommand as it does not work after inserting a check that all orders are served.",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "58a7c78b5058bf93eaf171e945000b103844e77e",
+            "message": "Fix Checkstyle",
+            "insertions": 29,
+            "deletions": 32
+          },
+          {
+            "hash": "fc205385a8881fabfc1ecc77e9ceabd61012b179",
+            "message": "Fix checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "eaea6fc9ff92b088fdce7dc55e289c469b45a1ba",
+            "message": "Fix checkstyle",
+            "insertions": 6,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 75,
+        "deletions": 217,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "c2fb89971d7b08fc39939863f7c35d9f42c0055e",
+            "message": "Remove uneccesary messages.",
+            "insertions": 3,
+            "deletions": 27
+          },
+          {
+            "hash": "69883357f798f2f700e316c741466f96d54538f5",
+            "message": "Remove coupling by placing isDaily, isMonthly and isYearly boolean in commandResult instead",
+            "insertions": 60,
+            "deletions": 188
+          },
+          {
+            "hash": "7470fe7c11a7f7ac5f6c0e911c16bf5b7069a6f3",
+            "message": "Fix bug in JsonAdaptedRevenue.java",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "4fa329c8e505e18c758e50608dcf2af681dd6c01",
+            "message": "Fix the bug for popularmenuitemlist",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2d4a9a35a113b5063e19d7cf463bd85833effea7",
+            "message": "Fix another bug",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "60e9be6095fae455cc1af8ff9a3ad4ec606ebbe3",
+            "message": "Add a message",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 205,
+        "deletions": 71,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "1771aa462b9f5133b406bb2ba2350c0fce677c89",
+            "message": "Update UserGuide for Bill and StatisticsMode",
+            "insertions": 170,
+            "deletions": 39
+          },
+          {
+            "hash": "07a2d84940ce6bceaa30f7b3ac1e03273a7dc86c",
+            "message": "Rename an image name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a6ffc4be03e8190ab1f230c9dc0399bea495661a",
+            "message": "Update UG",
+            "insertions": 17,
+            "deletions": 14
+          },
+          {
+            "hash": "64288f6a82be84f0e46433d7b2ef2b1940d69770",
+            "message": "Made changes as suggested",
+            "insertions": 17,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 268,
+        "deletions": 140,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "f030395749dea9fa7daea48e75730da6e3da5e02",
+            "message": "Changes to DG for Bill Command.",
+            "insertions": 177,
+            "deletions": 60
+          },
+          {
+            "hash": "0e4c2c9e87f81e3966a436e07b7ba61322d4e62d",
+            "message": "Rearrange BillCommand Code to make it nicer",
+            "insertions": 15,
+            "deletions": 8
+          },
+          {
+            "hash": "5e7983d487ca664b45eef64e53c47819f39c9cc3",
+            "message": "Clean PPP for into",
+            "insertions": 28,
+            "deletions": 28
+          },
+          {
+            "hash": "eaaff043d2385fda1c520f31bd3cdda96ab44f7b",
+            "message": "Clean up Bill Comand in DG",
+            "insertions": 48,
+            "deletions": 44
+          }
+        ]
+      },
+      {
+        "insertions": 486,
+        "deletions": 251,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "7f91b0f512f4df12295ba446b24d7f8c94d30a6a",
+            "message": "Update DG for Trends",
+            "insertions": 66,
+            "deletions": 23
+          },
+          {
+            "hash": "553dd00f7bcd65ede87365c87d4b843c7324a0e0",
+            "message": "DG",
+            "insertions": 121,
+            "deletions": 26
+          },
+          {
+            "hash": "db21ea2c7d59d6733730ae6c831f4a3626cd609b",
+            "message": "no message",
+            "insertions": 29,
+            "deletions": 6
+          },
+          {
+            "hash": "71a6405309083592bdcc4ef5810ce8ef7613dd1a",
+            "message": "Update UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "60f65d5e21c20abb318b03b0a7e251f91fdb9df3",
+            "message": "DG",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "ca3c624cef54ffb056e92509c3a1ddb65fdbc606",
+            "message": "Made changes",
+            "insertions": 36,
+            "deletions": 14
+          },
+          {
+            "hash": "5b9109ee04367df45f9bd143afc299166d48fae7",
+            "message": "edit PPP",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "0394fe37e64481c2d10bf50ff461d0be9f51a9e3",
+            "message": "Made changes",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "736b23eced85aa2c5b8a11a3533798050c69e50c",
+            "message": "change images",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "a2b38b0bf4c465054c0537d5af32fdfa79fd487f",
+            "message": "Fix links in DG",
+            "insertions": 26,
+            "deletions": 10
+          },
+          {
+            "hash": "858d728f3e77035c649e4df5afee16f64a7311ff",
+            "message": "Make changes to PPP",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "6b122ed7afa3cd7b0e4afb9f6c0267373ae13387",
+            "message": "Update UserGuide.adoc",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "ffd294b3636fece6ff8aa7321f8c8ee702d217f8",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "ef1f2d682f70ca9a51ccd53a114c02a48ce58b2f",
+            "message": "Made changes to PPP",
+            "insertions": 27,
+            "deletions": 23
+          },
+          {
+            "hash": "e5d5da10e13cff5df26c5e9c847c0624eead53c6",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "ae3935246a71a1b6e164990c946e8e90d60dabc3",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7ea083139f36728a0f0540cb4c090676bfae9bca",
+            "message": "Make changes to PPP",
+            "insertions": 30,
+            "deletions": 7
+          },
+          {
+            "hash": "3d21a65abd62207723e9aef90e885a7946110c51",
+            "message": "Update beesaycheese.adoc",
+            "insertions": 36,
+            "deletions": 65
+          },
+          {
+            "hash": "15ea17c1a647b69a923e476f451241c88dc3ce98",
+            "message": "Update beesaycheese.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "79be148f723a7b1edfd94e3fa398e8dafc4dbf41",
+            "message": "Update beesaycheese.adoc",
+            "insertions": 65,
+            "deletions": 35
+          },
+          {
+            "hash": "ea4bc2186d21329a9029eb590760d845c6172a0d",
+            "message": "Update beesaycheese.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0b71131e5bb5f39b8d7d556fab56de142c9c3f33",
+            "message": "Update beesaycheese.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "bava98": [
+      {
+        "insertions": 144,
+        "deletions": 26,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "14781c1e147fafe544e2f6484664825cf94c6f11",
+            "message": "Update introduction of DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "923f7b14ba4b757606e9990ff3eef202d7b3ee12",
+            "message": "Update user stories",
+            "insertions": 14,
+            "deletions": 6
+          },
+          {
+            "hash": "3922a3e8dc7a135bc06a2d004b451e27cac74ace",
+            "message": "Update use cases and glossary",
+            "insertions": 107,
+            "deletions": 15
+          },
+          {
+            "hash": "f8fa5d89b5cf2a37c5ec65cdf9b5adc55180b916",
+            "message": "local impact change storage component",
+            "insertions": 20,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "6df6a0238c6a3c340dce15570d2552bd59c03681",
+            "message": "throws IO Exception on StorageManager",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "21b4f5eb1981c53929b079a0edb74a09428b1cd3",
+            "message": "remove trailing spaces",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-22",
+        "commitResults": [
+          {
+            "hash": "e7ffde92161a478e095f6704b0a4a820b3acf44d",
+            "message": "add whitespace before {",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 78,
+        "deletions": 77,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "2cb0fd53ea4b719e78732049a4e1375f2b6d2cbd",
+            "message": "change AddressBook to RestOrRant",
+            "insertions": 43,
+            "deletions": 41
+          },
+          {
+            "hash": "c401cb18a4585c158f0e4114f8aef312f844c9b5",
+            "message": "change AddressBook in storage component tests to RestOrRant",
+            "insertions": 35,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 387,
+        "deletions": 82,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "afc88b1481734d66b5450c6ff220f7f87389e780",
+            "message": "Ensure compatibility in storage component",
+            "insertions": 302,
+            "deletions": 20
+          },
+          {
+            "hash": "5e69845bc92abbd0f27122b7f5b76549622c46a2",
+            "message": "Change Menu back to RestOrRant and commented the Menu implementations as an example in Storage and StorageManager as it will be needed to touch all other components in order to compile if Menu implementations are used.",
+            "insertions": 44,
+            "deletions": 21
+          },
+          {
+            "hash": "560514604362e55c8394f26799df2804e15c98e0",
+            "message": "fix compile error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1c3930bbcbd3dc18357485c761e9a3465ca5d751",
+            "message": "fix checkstyle issues",
+            "insertions": 36,
+            "deletions": 36
+          },
+          {
+            "hash": "7b506690c9014c387184846b779badd39543c4b0",
+            "message": "change tests to RestOrRant methods",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 1125,
+        "deletions": 137,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "0f08cdd953f070c951589e711aeb5c7418507bea",
+            "message": "menu features in Storage and Model components program will not compile",
+            "insertions": 718,
+            "deletions": 103
+          },
+          {
+            "hash": "35cb52a6fe6b0ed97f94acea908ae29f5e473c24",
+            "message": "convert PersonListPanel in UI component to ListPanel (contents are the same)",
+            "insertions": 71,
+            "deletions": 0
+          },
+          {
+            "hash": "e5cc4bd788a542b73fa0bd7ae4edfbf1682969f4",
+            "message": "Changes for ListPanel to show menu (or order) items - incomplete",
+            "insertions": 141,
+            "deletions": 23
+          },
+          {
+            "hash": "67a45d6aff912b6cc4055531d1f169ef40632444",
+            "message": "extends from Item abstract class",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "476e370f2fe0ee6e05d7033e225c4121057b2fa2",
+            "message": "browser panel to show menu items",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "1732714b6e871a0d8eca5ff2c16015de56987f0b",
+            "message": "MenuMode Command to convert panels to MenuMode",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "d48b588050e009f5715ffa70099284603eb86a1a",
+            "message": "AddToMenu command",
+            "insertions": 147,
+            "deletions": 2
+          },
+          {
+            "hash": "2de90bae25437d21cc08695b5a5b92215354c6a1",
+            "message": "edit command word",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 449,
+        "deletions": 369,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "256a6c7d507ff4b00e7d6a76ff3a8d59059de4d0",
+            "message": "addToMenu command",
+            "insertions": 232,
+            "deletions": 122
+          },
+          {
+            "hash": "b99c87786fa38ca4d697f036d1ee117ac67801f4",
+            "message": "checkItemExists method - given String itemCode, returns MenuItem object To be used by Order feature (add item to order should checkItemExists first)",
+            "insertions": 19,
+            "deletions": 116
+          },
+          {
+            "hash": "504e4e324c5b055c6283e0f9c9bba4d5328ea980",
+            "message": "MenuMode implementation",
+            "insertions": 101,
+            "deletions": 25
+          },
+          {
+            "hash": "bc7b102ad7210b50a070a694e322123f4873cb0d",
+            "message": "commit before switching branch",
+            "insertions": 63,
+            "deletions": 91
+          },
+          {
+            "hash": "fc1799baa26f59f122f1d4eb563d8bb4baa2cbc8",
+            "message": "commit before switching branch",
+            "insertions": 34,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 575,
+        "deletions": 1502,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "327358df713c767404fbe1dcd8c5abc0dc0f678d",
+            "message": "changeMode command",
+            "insertions": 105,
+            "deletions": 81
+          },
+          {
+            "hash": "ecbc805ed97ec1e89c8c07227c5772be93254e07",
+            "message": "ReadOnlyMenu",
+            "insertions": 293,
+            "deletions": 0
+          },
+          {
+            "hash": "beefabf0dec9166ff8849a397c18df773b54346f",
+            "message": "change readOnlyRestOrRant to readOnlyMenu",
+            "insertions": 44,
+            "deletions": 36
+          },
+          {
+            "hash": "3275ebdb1bca4e55dd03159ee5ba31af727febd4",
+            "message": "rename method",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "753f7a1e29f212bcf161e7c5101332b88502543d",
+            "message": "remove unnecessary files",
+            "insertions": 0,
+            "deletions": 1202
+          },
+          {
+            "hash": "55ef0dc259837f804cf2719197dac17d9211b639",
+            "message": "remove all instances of deleted files",
+            "insertions": 25,
+            "deletions": 83
+          },
+          {
+            "hash": "90316e959fc7c30bb3684abc10f5ffdd01e73cd7",
+            "message": "MenuItemCard for MenuListPanel",
+            "insertions": 64,
+            "deletions": 0
+          },
+          {
+            "hash": "a8d57f918325d0119cadac82944761b4972d361a",
+            "message": "still got NullPointerException :(",
+            "insertions": 39,
+            "deletions": 94
+          },
+          {
+            "hash": "414e669f602d819dee13a02196ff883ea0133b18",
+            "message": "Change getItemFromCode method signature from String code to Code code",
+            "insertions": 3,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 15,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "0c81d1e56071b10f904009a53fbaba1238a86c36",
+            "message": "commit before switching branch",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "f5f960077e45ac9a5ceedb8364ae8e7a66af43ac",
+            "message": "change price validation regex string",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6a83eccdb7f369c9ef124d117150607abca68770",
+            "message": "change the format printed out",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d82d1985140ae3b1d7ed26c1fb214b51fcb3bda2",
+            "message": "Correct TODO comments",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "310b90e05c504d9f18489b3e87a2c039744f1fe0",
+            "message": "Update documents for menu feature",
+            "insertions": 35,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 238,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "2c39fe87b71aa4014c0d659879c5196612e0f290",
+            "message": "comments to add a quantity ordered method",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "c6e9c65789d0b3443f88c1a3b5c7b57fc553a36d",
+            "message": "whitespace issues",
+            "insertions": 13,
+            "deletions": 238
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 5,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "e279ec2aa1e0120123810a82907e768184139c68",
+            "message": "add all methods that menu calls to readOnlyMenu for future use (adapting getMenu() to readOnlyMenu instead of Menu)",
+            "insertions": 34,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 184,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "93e075788da8ac7d0c29d5ed1f5fc023a09fdbfb",
+            "message": "add testutil classes and methods to be used by other tests (StatisticsBuilder is currently empty)",
+            "insertions": 184,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 277,
+        "deletions": 14,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "aae6bf8035fd136eff2b7086dca38ea52b6586c5",
+            "message": "Menu Storage tests",
+            "insertions": 277,
+            "deletions": 11
+          },
+          {
+            "hash": "d60968a82985f6c6e3c295e54f547decfd69b189",
+            "message": "solve merge conflict",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 157,
+        "deletions": 64,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "707288c4a55e4f4ae7f6f9dddec763c6ecb1bde9",
+            "message": "Update JsonMenuStorageTest class tests",
+            "insertions": 86,
+            "deletions": 64
+          },
+          {
+            "hash": "e114fa787cc1eac3f5efa79554e29ce94096dc36",
+            "message": "update JsonAdaptedMenuItemTest.java",
+            "insertions": 71,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 406,
+        "deletions": 44,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "4637634f5146b179ac3b8577996d8eb8619b2b16",
+            "message": "add tests for MenuItem",
+            "insertions": 82,
+            "deletions": 7
+          },
+          {
+            "hash": "9aa036d00293ed755f176ade51b2472e3e0c7513",
+            "message": "add tests for menu item name",
+            "insertions": 41,
+            "deletions": 0
+          },
+          {
+            "hash": "a96fd329f0e184d5abc7bae7fb378ce0592f1a4a",
+            "message": "add tests for menu item code, remove white spaces",
+            "insertions": 48,
+            "deletions": 6
+          },
+          {
+            "hash": "1ab33804f0546d81fae0905ecb0d6a85542bbed5",
+            "message": "fix price validation regex and add tests for menu item price",
+            "insertions": 45,
+            "deletions": 1
+          },
+          {
+            "hash": "7f53b9ee99c3508d0f183f037000e4a0caa0cd96",
+            "message": "add tests for menu (MenuStub incomplete)",
+            "insertions": 184,
+            "deletions": 0
+          },
+          {
+            "hash": "717c80f75d3421c7acce78216ede249289e5ea13",
+            "message": "add tests for menu",
+            "insertions": 6,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "784cfb036a12f6ce6c7645105cad881660730825",
+            "message": "refactor to standardize commands",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 914,
+        "deletions": 614,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "efa4331842f40a1388ea817880f0c24a9d219b26",
+            "message": "addToMenu tests halfway",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "a8c6ae08c74b0cfbe2722c94b83628d1dc888d22",
+            "message": "addToMenu tests halfway",
+            "insertions": 598,
+            "deletions": 63
+          },
+          {
+            "hash": "da81898146480b32357c9ab4d49b7857bf39edc6",
+            "message": "addToMenu command tests",
+            "insertions": 98,
+            "deletions": 86
+          },
+          {
+            "hash": "8e7816289819cc02b8f1045ccd343042b39990eb",
+            "message": "fix checkstyle issues",
+            "insertions": 71,
+            "deletions": 43
+          },
+          {
+            "hash": "bae4be3df69139622c86fc024851d8bb0f52e642",
+            "message": "fix trailing whitespace issues",
+            "insertions": 20,
+            "deletions": 21
+          },
+          {
+            "hash": "a122bf61b7779a550ffc05645e458a19781ae205",
+            "message": "fix more checkstyle issues",
+            "insertions": 17,
+            "deletions": 6
+          },
+          {
+            "hash": "53d86a482d82b24c6c9088eab10a45f79e30c468",
+            "message": "UI halfway before switching branch",
+            "insertions": 70,
+            "deletions": 372
+          },
+          {
+            "hash": "11a7defd217b64e37dd33de329e7e39380bd1cb4",
+            "message": "UI for TableMode menu display",
+            "insertions": 34,
+            "deletions": 20
+          },
+          {
+            "hash": "2629138b5d1e60fbe478214be1cb4c3a8a742e5e",
+            "message": "fix checkstyle issues",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "add41a3752c63803e25afe9b7d663f3107e624a3",
+            "message": "more checkstyle issues",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 150,
+        "deletions": 116,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "c2af2e0d2047c4c508d934acb98eebfc3e610085",
+            "message": "textual updates to DG",
+            "insertions": 42,
+            "deletions": 1
+          },
+          {
+            "hash": "e103cf175f870abefe824eebd15228c3c2e2b614",
+            "message": "fix issues with logic, model and storage (halfway) tests",
+            "insertions": 12,
+            "deletions": 19
+          },
+          {
+            "hash": "6fed64930e0a88a2f53cd14aa5242fcd0a8cac14",
+            "message": "all tests should pass",
+            "insertions": 96,
+            "deletions": 96
+          }
+        ]
+      },
+      {
+        "insertions": 276,
+        "deletions": 159,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "bd15e988d429db842ac9d8fb841fcc0e930192d9",
+            "message": "All tests in Logic, Storage and Model components for Menu Feature works",
+            "insertions": 196,
+            "deletions": 103
+          },
+          {
+            "hash": "61a0a35788bcefa62e704a1e0f79cd65c0f73ffb",
+            "message": "clarity in displayed text",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "468877cb78c07bc006c7e4ad15cbb80f3a2ca6e8",
+            "message": "adjust UI for MenuMode",
+            "insertions": 17,
+            "deletions": 8
+          },
+          {
+            "hash": "a9dbb61d51d4b73374fca5a220004467557e7195",
+            "message": "fix checkstyle issues",
+            "insertions": 43,
+            "deletions": 28
+          },
+          {
+            "hash": "83a862d52932567e622c92f5521be2a506f121c0",
+            "message": "Refactor JsonAdaptedMenu to JsonAdaptedMenuItem",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "2bddd19a9d65ba6618049f51edf17e4e076a697d",
+            "message": "Fix failing test",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "26182725be62c2e2affe845addbc0da4831269fa",
+            "message": "Update version number",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 571,
+        "deletions": 188,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "ac8435436e63ba62a08f87ce1df2f69b229d2f6c",
+            "message": "To rename the jar file to restorrant.jar",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e60894954b9f055034080c413527ea4cb5989716",
+            "message": "Implement updateMenuItemQuantity method",
+            "insertions": 36,
+            "deletions": 14
+          },
+          {
+            "hash": "90bcf9cbeac7bf37ee7770f80216c9be92cdf373",
+            "message": "Store quantity in json file",
+            "insertions": 12,
+            "deletions": 3
+          },
+          {
+            "hash": "493f1274bc1ace32380b62495b7a014ed976e5fd",
+            "message": "Update util and json files to add quantity when defining a menu item",
+            "insertions": 51,
+            "deletions": 28
+          },
+          {
+            "hash": "3b59e192df6b27faf07b7f4c0e2e2e008982db1f",
+            "message": "Tests for updateMenuItemQuantity implementation",
+            "insertions": 52,
+            "deletions": 62
+          },
+          {
+            "hash": "b16bda84c1cd6dd1093db89b50c42e03cbcac853",
+            "message": "Test for storing quantity",
+            "insertions": 14,
+            "deletions": 6
+          },
+          {
+            "hash": "22ca987af460561ee50863eddd73b43c58e299c6",
+            "message": "Add a UniqueMenuItemListTest class and shift addToMenu tests from MenuTest to this class",
+            "insertions": 200,
+            "deletions": 0
+          },
+          {
+            "hash": "4a21f1c83fff03b7a08e90eb42b1f40937175c86",
+            "message": "Fix checkstyle issues with import statements",
+            "insertions": 6,
+            "deletions": 9
+          },
+          {
+            "hash": "3cd76b78ed36569dbb2e4d0ffd09f416dc36eec2",
+            "message": "fix checkstyle issues",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "4fa78c41a5b1812a3d41e0cd530682839b7fd424",
+            "message": "Fix more checkstyle issues",
+            "insertions": 19,
+            "deletions": 15
+          },
+          {
+            "hash": "7bb73515935c78646aa36be6cada4b8494e2bf8d",
+            "message": "Updated implementation of UpdateMenuItemQuantity method as recommended",
+            "insertions": 65,
+            "deletions": 46
+          },
+          {
+            "hash": "04cd203c1b45796497e8d5eabefdd3c9ca93242a",
+            "message": "Fix checkstyle issues",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "f88e7c6c0b26f9353255e6f768413dbc496298a8",
+            "message": "Add a new command : DeleteFromMenu command and its parser",
+            "insertions": 104,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 122,
+        "deletions": 20,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "53ecbf2d337cd8a0af0666209b327a1f6ea8f6de",
+            "message": "Add tests for deleteFromMenu command",
+            "insertions": 75,
+            "deletions": 0
+          },
+          {
+            "hash": "f2dca0fd0c651ff15dcefcbf360a91a42c8f1cb9",
+            "message": "Fix checkstyle issues",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "52b7d73ea7d9a3608c6cee2da52cc902f574b4c9",
+            "message": "Add parser test for deleteFromMenu command",
+            "insertions": 21,
+            "deletions": 0
+          },
+          {
+            "hash": "da4813b2270ba63e104c80f50413412673443928",
+            "message": "Update UG to show v1.3 features for Menu Add whitespace in DG",
+            "insertions": 23,
+            "deletions": 17
+          },
+          {
+            "hash": "407bce767ddb2c0b8f6daedbee1a42c613a8a67a",
+            "message": "Add whitespace",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 61,
+        "deletions": 1,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "d59e3d2c855e5e0aeac0779772f57f85332b5458",
+            "message": "Updates to docs",
+            "insertions": 61,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 161,
+        "deletions": 16,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "0c5b0207574b35c8953f30306c9af3aca4ddd28e",
+            "message": "Sort menu items by quantity ordered",
+            "insertions": 36,
+            "deletions": 6
+          },
+          {
+            "hash": "762a3ad7a903c917ef7a4db2f86542acbf4a48f6",
+            "message": "Implement clearMenu command",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "77e0a125d7a9b9510fbf31d828b1fe99001fea5f",
+            "message": "Change error message to standardize",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "466ff9e090892325a9102cc3c8869760e094d292",
+            "message": "Fix checkstyle issues",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "1d5208b9ad07a8b9e727ee26c29cfa7ce915dad5",
+            "message": "Fix checkstyle issues",
+            "insertions": 57,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 126,
+        "deletions": 24,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "1058154ad768e0492c7f50f3734bbba59af42443",
+            "message": "Update UG with current and future commands, including some cosmetic changes",
+            "insertions": 125,
+            "deletions": 23
+          },
+          {
+            "hash": "7ece5109e1fca97796b9c9fc0d13b4431a829855",
+            "message": "Update StorageComponentClassDiagram to reflect changes in Statistics feature Fix parameter restrictions in UG",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1068,
+        "deletions": 553,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "4fba2175fb21fb8fd834050a8371daf018deaf55",
+            "message": "Update UG and DG",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "a311195ce5f9e5cb5545152bbb39c52ce05da7a2",
+            "message": "Update Developer Guide and User Guide Add a max restriction for number of menu items that can be added.",
+            "insertions": 218,
+            "deletions": 34
+          },
+          {
+            "hash": "5f348134aeb2a5f26de383599aff673022d5f641",
+            "message": "Fix checkstyle issues and remove DeleteFromMenuSequenceDiagram from Developer Guide.",
+            "insertions": 17,
+            "deletions": 30
+          },
+          {
+            "hash": "ddbf005f7e5c8e1c596d3ac12f8e5eec28b68da5",
+            "message": "Weird commit",
+            "insertions": 449,
+            "deletions": 84
+          },
+          {
+            "hash": "548520639bfb774651727a4b85a56a9d27e262ea",
+            "message": "Fix format of ITEM_PRICE",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7d46b666a3fbe7429844acbf0ab63b7525eaef34",
+            "message": "Small changes to PPP",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "c376b4d0f5de33801a32b9e77d64836d277bd460",
+            "message": "Weird commit again",
+            "insertions": 316,
+            "deletions": 376
+          },
+          {
+            "hash": "f1910cbd885d8b1a27adf8a3024de4de79fd1673",
+            "message": "Resolve merge conflicts",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "b68ab6d4b819bcdbf19e28481d00b6b328d0fe23",
+            "message": "Started on PPP",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "4d758662fbaac3a19b9f3c97297627a9efe353c1",
+            "message": "Updates to PPP",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "f617084c7e64637aa67059fd0379ac5874c43731",
+            "message": "Update MenuModelClassDiagram and PPP",
+            "insertions": 42,
+            "deletions": 9
+          },
+          {
+            "hash": "ed1642ae2bbbb666ca43d8f09342c08a06142933",
+            "message": "Fix markup for PPP",
+            "insertions": 5,
+            "deletions": 7
+          }
+        ]
+      }
+    ],
+    "whyjayxp": [
+      {
+        "insertions": 0,
+        "deletions": 1,
+        "date": "2019-02-11",
+        "commitResults": [
+          {
+            "hash": "2dc2f82f382f3784dd544ae8d2757138c9f6cdd7",
+            "message": "Remove codacy badge from README.adoc",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 28,
+        "deletions": 37,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "e476c2bc2e0237cd89aba161cab7239e29d18a28",
+            "message": "Update About Us page",
+            "insertions": 20,
+            "deletions": 28
+          },
+          {
+            "hash": "222de238ffc97f180ecc9a39ba56d624c5318610",
+            "message": "Update About Us page",
+            "insertions": 8,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 436,
+        "deletions": 442,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "56cd6aa6dfc42993b7a1a1a0ce5b980e8680db29",
+            "message": "Refactor class and file names to RestOrRant",
+            "insertions": 411,
+            "deletions": 411
+          },
+          {
+            "hash": "e9399eeda1d81c5250b71c90741735ac568747c0",
+            "message": "Reorder import statements for checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "515a405d4bd793d224928f312feda55dce18471b",
+            "message": "Reorder import statements again",
+            "insertions": 22,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "caf9d763c9d3b13a3e751d45cb6d405b56892961",
+            "message": "Resolve checkstyle issue",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1fb0c22c18cb17388bc16c4804a0886991908695",
+            "message": "Fix name change causing tests to fail",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 152,
+        "deletions": 1021,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "932abcd8491a65d03bbc8b979142bfcd4a37c100",
+            "message": "Update names and remove undo/redo function",
+            "insertions": 143,
+            "deletions": 1010
+          },
+          {
+            "hash": "43256ace798e822f47337bff6fe10707dd9cdf98",
+            "message": "Update for checkstyle",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "f106ca66218195920a0686e6db4d176bf58d8304",
+            "message": "Remove trailing whitespaces",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2e28ebb0a62dfa4ea1cd4e743e5a71d67c50edcb",
+            "message": "Resolve more checkstyle issues",
+            "insertions": 3,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 298,
+        "deletions": 27,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "f5ba16450e396128aa4de54bb9d9d3ca8c30ab19",
+            "message": "Modify model component for RestOrRant",
+            "insertions": 297,
+            "deletions": 26
+          },
+          {
+            "hash": "6fc28fb9d4572252d9c2e40efd00407c5b3ea1c7",
+            "message": "Fix list not showing in the UI",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 14,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "a1018fcae2cce020ca1f0625945844fbb139dbe5",
+            "message": "Fix checkstyle issues",
+            "insertions": 14,
+            "deletions": 13
+          },
+          {
+            "hash": "88b85f07645ab87efef33a88db130ef9c9ceb71b",
+            "message": "Fix more checkstyle issues",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 365,
+        "deletions": 22,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "19882c205f59b918d1078abc8915f4b187da09f4",
+            "message": "Set up Storage component for Orders",
+            "insertions": 92,
+            "deletions": 5
+          },
+          {
+            "hash": "4b391aa95f19af22d2363063f55036a7cda1b7ea",
+            "message": "Update storage component for Orders feature",
+            "insertions": 273,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 598,
+        "deletions": 314,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "6c9ea08736e6e4157e558d30222f86c9ed7f5a3a",
+            "message": "Update Model component for Orders",
+            "insertions": 170,
+            "deletions": 2
+          },
+          {
+            "hash": "407a8b6e5c31c110f4a478fdaab7ec8fd8960006",
+            "message": "Update storage to use ReadOnlyOrders instead",
+            "insertions": 45,
+            "deletions": 41
+          },
+          {
+            "hash": "ca66fefc6ed8f3f5d797bd4604b2e46066717ebe",
+            "message": "Restructure model to fit RestOrRant\u0027s features",
+            "insertions": 131,
+            "deletions": 190
+          },
+          {
+            "hash": "795d253c3bcd8ebe56727393102f3cf7ea2476bc",
+            "message": "Update logic component for Orders",
+            "insertions": 36,
+            "deletions": 21
+          },
+          {
+            "hash": "f36652368ae3883478ebe2ec6a795e1ecae09f32",
+            "message": "Add addToOrder command support",
+            "insertions": 151,
+            "deletions": 1
+          },
+          {
+            "hash": "58c4781708c556445cccb6e31c565cdeeed6fd8f",
+            "message": "Clean up",
+            "insertions": 18,
+            "deletions": 17
+          },
+          {
+            "hash": "c843e791972c529354a3d4850f55218228dcb2fc",
+            "message": "Use TableNumber class instead of integer",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "c78ec678b2b5b9cc1b974d3a528ea095ac3654cd",
+            "message": "Switch to storing Code instead of MenuItem for Orders",
+            "insertions": 36,
+            "deletions": 38
+          },
+          {
+            "hash": "15a7153d20b9ec5d5839b4b0668771be48d0f126",
+            "message": "Fix NullPointerException",
+            "insertions": 8,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 615,
+        "deletions": 251,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "e29ecb91971070ca664e1a22ad95a294f213e45e",
+            "message": "Refactor statistics and integrate into MainApp",
+            "insertions": 52,
+            "deletions": 50
+          },
+          {
+            "hash": "198ebc302b0d5a51944f6f5bf3ef214833a2b1ef",
+            "message": "Add function to parse TableNumber",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "9551317e0aad81c350c76c0100211ff3c4b2270a",
+            "message": "Move ReadOnlyTables to the table subpackage",
+            "insertions": 8,
+            "deletions": 19
+          },
+          {
+            "hash": "b8f64bc7b974794ec07a4196e7374f85ddac83c7",
+            "message": "Make getTableFromNumber callable",
+            "insertions": 24,
+            "deletions": 8
+          },
+          {
+            "hash": "63a4e9ec806af9f93a8de7ddae53bf14a8db1804",
+            "message": "Sort code into respective features",
+            "insertions": 46,
+            "deletions": 46
+          },
+          {
+            "hash": "6eab3d1a240d88b2c2745d286897845c12b3e3db",
+            "message": "Add command to switch to Table Mode",
+            "insertions": 110,
+            "deletions": 5
+          },
+          {
+            "hash": "83e6478e973e5c768c3e03fb57e6be77efcee7e9",
+            "message": "Update JsonSerializableOrders for naming consistency",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2b7112bb455342d832e79bdb5546efc53e66f6aa",
+            "message": "Fix table related issues",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1a4523fcc5102470b3155cdf6206226cdcaf894a",
+            "message": "Change status bar to reflect the current mode",
+            "insertions": 20,
+            "deletions": 8
+          },
+          {
+            "hash": "b0b31b0feddfbb849d04ba48958c24aadfe1ca08",
+            "message": "Complete all change mode functions for Logic",
+            "insertions": 35,
+            "deletions": 5
+          },
+          {
+            "hash": "56699e3a15ef9be951f9cf0be3ee55ad543e3ef3",
+            "message": "Add UI for Orders and support for modes",
+            "insertions": 209,
+            "deletions": 27
+          },
+          {
+            "hash": "52b4912e4176d453abd94bc562183af5bec45327",
+            "message": "Add addToOrder command and features integration",
+            "insertions": 62,
+            "deletions": 36
+          },
+          {
+            "hash": "5c75ada8aa4e526f77a854d6a19c294755046e1b",
+            "message": "Fix error when adding duplicate order items in same command",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "353e90e80692fe129c89a761416de7a9fdc5d30e",
+            "message": "Update app name and version",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "d792c945aeb6266dcf5eee1a8ef1e41f59e1b6fa",
+            "message": "Fix incompatibility of Json with Table class",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a9b206b681f90d3fcc38a3569fd10b9035dfd02c",
+            "message": "Update User Guide for tableMode and addToOrder",
+            "insertions": 27,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 958,
+        "deletions": 1020,
+        "date": "2019-03-07",
+        "commitResults": [
+          {
+            "hash": "5da3f48c5b157dcf7112a16de265f39cda7c6960",
+            "message": "Fix most checkstyle errors",
+            "insertions": 958,
+            "deletions": 1020
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 628,
+        "date": "2019-03-08",
+        "commitResults": [
+          {
+            "hash": "f8c92aeb0c2ff3f71ea6ef7b3a34dd437b692303",
+            "message": "Make appends more readable and remove AB4-related files",
+            "insertions": 41,
+            "deletions": 628
+          }
+        ]
+      },
+      {
+        "insertions": 48,
+        "deletions": 262,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "eae47d41ba5b313abe1ce677175ad4054155eb3e",
+            "message": "Remove more AB4 stuff",
+            "insertions": 2,
+            "deletions": 222
+          },
+          {
+            "hash": "59bf8fcde743e47094fceae8d25b4bb2d49d3c32",
+            "message": "Make naming consistent",
+            "insertions": 46,
+            "deletions": 40
+          }
+        ]
+      },
+      {
+        "insertions": 739,
+        "deletions": 296,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "31e59f088901b40278a76c423c60663d0846d8dd",
+            "message": "Update test app/util and builders",
+            "insertions": 293,
+            "deletions": 129
+          },
+          {
+            "hash": "1d26ac39804a014b1ebf15dad9b4fc24931b0ccc",
+            "message": "Add tests for model component",
+            "insertions": 434,
+            "deletions": 165
+          },
+          {
+            "hash": "9da952a157bdff93b5bd49fc005a94cceefb313f",
+            "message": "Add missing setTableFilePath method",
+            "insertions": 12,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 14,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "62488b0c9aef5810f6c4b788211d92af767daa04",
+            "message": "Update Model tests",
+            "insertions": 18,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 2006,
+        "deletions": 270,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "ef4e2bb68fe17d3a44805e0a68dc16a86ff325dc",
+            "message": "Update test data files with relevant filepaths",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "2ce990d34a7a81cc0ca81e4f507fbec6d62e65f9",
+            "message": "Add storage tests for Orders feature",
+            "insertions": 281,
+            "deletions": 0
+          },
+          {
+            "hash": "4a2dcc4c4cee55221ffde8cf3018d7b27ca49ca9",
+            "message": "Add JsonAdaptedOrderItemTest",
+            "insertions": 109,
+            "deletions": 0
+          },
+          {
+            "hash": "fd4daa968a3290f22a1ee0f47506e971393ed08d",
+            "message": "Add model tests for Orders feature",
+            "insertions": 283,
+            "deletions": 0
+          },
+          {
+            "hash": "7e33928836a3477bb04ec4ba5fb0f94e6ef6b65e",
+            "message": "Update previously committed tests",
+            "insertions": 150,
+            "deletions": 231
+          },
+          {
+            "hash": "845dc9f8843caa181dde3f75c2fe40cd19eafd62",
+            "message": "Add UI tests for Orders feature",
+            "insertions": 451,
+            "deletions": 3
+          },
+          {
+            "hash": "def5fd8794b5c2c0b86a5096517588e877bf5e24",
+            "message": "Refactor AddOrder to AddToOrder for consistency",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "aaaa278b4c5ac671a5ce26bc7a7be25de2d04708",
+            "message": "Refactor parser as well",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e2a9fb445bce93c16605cf194004db236114cdeb",
+            "message": "Change to fit previous change to TypicalIndexes",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f72ed2492a250fb9ece7771fcfd7bdf05eebc722",
+            "message": "Add support for logic tests for Orders feature",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "88a5047cd9e3031476ae5a91ccbc96db65e54230",
+            "message": "Add logic command tests for Orders feature",
+            "insertions": 696,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 705,
+        "deletions": 407,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "60205efa41e10bf69ff577f00e9fa07d9c943911",
+            "message": "Add integration test for AddToOrderCommand",
+            "insertions": 156,
+            "deletions": 46
+          },
+          {
+            "hash": "3eea50447d6c51fe0f5b055b8615167e4ff0409e",
+            "message": "Update files to reflect DailyRevenue change",
+            "insertions": 147,
+            "deletions": 87
+          },
+          {
+            "hash": "3a6f0acc39179cf7881c14fced6ba02d0e64c1aa",
+            "message": "Remove TypicalPersons import",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "7cb0cd428c375219d78b825726b12e67c3e69c18",
+            "message": "Add SampleDataUtil",
+            "insertions": 54,
+            "deletions": 31
+          },
+          {
+            "hash": "8b5ef022708216273e9b8863a3d37c046e3266a9",
+            "message": "Update system tests and GUI handles",
+            "insertions": 179,
+            "deletions": 185
+          },
+          {
+            "hash": "36f61b30d5d4c1ee34b0d1f7230df2dcd3bb2b3c",
+            "message": "Add TableModeCommandTest and other changes",
+            "insertions": 137,
+            "deletions": 56
+          },
+          {
+            "hash": "599dd317c419b211ce4d169dd7f004e3db15f6cc",
+            "message": "Add test for TableModeCommandParser",
+            "insertions": 32,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "e431765f7d528eb207d791d16203712be0e143d9",
+            "message": "Update DG with implementation of tableMode",
+            "insertions": 41,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 54,
+        "deletions": 69,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "3ea663d6b741af186bc2a7d90c2f70b66be1746a",
+            "message": "Update UG",
+            "insertions": 54,
+            "deletions": 69
+          }
+        ]
+      },
+      {
+        "insertions": 162,
+        "deletions": 73,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "07a2833c0a10f1f996484541b14d7feb80b7b217",
+            "message": "Update order item list to show item name",
+            "insertions": 84,
+            "deletions": 39
+          },
+          {
+            "hash": "55ab5f14c42d01ee8691a1e4487c20d9a463efb1",
+            "message": "Update UI to be more user friendly",
+            "insertions": 12,
+            "deletions": 1
+          },
+          {
+            "hash": "590b6bfb31764c572eb73314565d15fd48d043a3",
+            "message": "Add method to clear order items from a table",
+            "insertions": 35,
+            "deletions": 16
+          },
+          {
+            "hash": "dc0cf1b951ab232d5b469928264cd07926039792",
+            "message": "Change updateTable to clear orders when unoccupied",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "4c65cd92ae7fa1ea6ac8b36cbe301e041764e6c1",
+            "message": "Add checks for values in Orders json file",
+            "insertions": 28,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 33,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "33a3f441fd4489c13f33f940087e60b07ef33a14",
+            "message": "Add \u0027add\u0027 alias for all 3 main modes",
+            "insertions": 18,
+            "deletions": 25
+          },
+          {
+            "hash": "ee443bf4d5982493363361ab97a9b4760cd4c6f8",
+            "message": "Add clearOrder command",
+            "insertions": 54,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 1097,
+        "deletions": 95,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "8a76522655709116b43ef08248c32093aa697062",
+            "message": "Fix checkstyle issues",
+            "insertions": 41,
+            "deletions": 44
+          },
+          {
+            "hash": "b99b0cf95c3161310d63bf8ab445b2c5b2c6e8f9",
+            "message": "Fix errors with tests",
+            "insertions": 23,
+            "deletions": 1
+          },
+          {
+            "hash": "c0e0035b37c16d99ae958457c1d8b92f438b0595",
+            "message": "Fix more errors with tests",
+            "insertions": 38,
+            "deletions": 12
+          },
+          {
+            "hash": "845998d2472e1a2df3532dc015bb02f55dce4bcc",
+            "message": "Add support for changing themes",
+            "insertions": 427,
+            "deletions": 10
+          },
+          {
+            "hash": "11c06eef3f0834ea4b05c0286fe6d0521a4901eb",
+            "message": "Fix checkstyle errors",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "3da20b7dddb01d4e44684a324038e7d859749977",
+            "message": "Add newline at EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b229d1eb46ba10ba2da5562ea0bccd720812a7c0",
+            "message": "Add themes for Table and Menu Mode",
+            "insertions": 401,
+            "deletions": 4
+          },
+          {
+            "hash": "7628f502819f7df7356bfa0fe2db127dcb932060",
+            "message": "Allow adding existing items to order",
+            "insertions": 45,
+            "deletions": 8
+          },
+          {
+            "hash": "1876c3c5edd13af048472d98ba587edba0a09eda",
+            "message": "Add deleteFromOrder command",
+            "insertions": 115,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 645,
+        "deletions": 287,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "951b8063c789daa1c212f95f78f0979be9ee8ac1",
+            "message": "Make previous Order related tests work",
+            "insertions": 121,
+            "deletions": 72
+          },
+          {
+            "hash": "64771ae4c6a5757aa96140b5833e558bc7636f30",
+            "message": "Add tests for clearOrder and deleteFromOrder",
+            "insertions": 373,
+            "deletions": 92
+          },
+          {
+            "hash": "5ff696aa8a47ff4055742284d80bbf923e566509",
+            "message": "Fix checkstyle errors",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "b0aecfb7c8ad76b9318f473deafbd792eecc5331",
+            "message": "Update UserGuide to reflect new commands",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "2b38a42f7cc73c0cde8dc01d1a60c9e629818798",
+            "message": "FIx one more checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "95475444343dc69e6faa49b8f8215690ff91f7a1",
+            "message": "Fix test errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f9f31214c16e5b259e04e8438fd5ea7c6e5329b4",
+            "message": "Add UI tests for Orders and addToOrder integration test",
+            "insertions": 142,
+            "deletions": 110
+          }
+        ]
+      },
+      {
+        "insertions": 107,
+        "deletions": 149,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "a8d9ab8fa4f09bedb04a1cb4032cb54a31fc01bc",
+            "message": "Update About Us and Contact Us pages",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c849ce193420bdaf44531221aef5bdf3b4b38b56",
+            "message": "Update README.adoc",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "8a08468229c17462c819d57d3b071421dfe0872d",
+            "message": "Update styles",
+            "insertions": 15,
+            "deletions": 7
+          },
+          {
+            "hash": "1bf88b5f0fab7890a239a866dd67e207c028e43f",
+            "message": "Update DG",
+            "insertions": 72,
+            "deletions": 129
+          },
+          {
+            "hash": "26d3de0f8fdc674c6f39c91094b40651ac87b8e8",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "20f835a9e63681bdaff83abda1cb6f778f8159ec",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 11,
+            "deletions": 5
+          },
+          {
+            "hash": "44334723be84d35fd26c2ce7e723b475f48620af",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 476,
+        "deletions": 280,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "a1ae60e755b5dcb4e407c3d726df2a847f248a41",
+            "message": "Update DG and diagrams",
+            "insertions": 281,
+            "deletions": 107
+          },
+          {
+            "hash": "5d2fc69c9ec6a1ac5656e7de229da018905879e6",
+            "message": "Update UG and diagrams",
+            "insertions": 83,
+            "deletions": 71
+          },
+          {
+            "hash": "7390418dce1487820e660b1a420e07c557a5adba",
+            "message": "Remove trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "38657ad2b7bfdef2fe89238799391f4c94a895dc",
+            "message": "Perform general cleanup",
+            "insertions": 31,
+            "deletions": 30
+          },
+          {
+            "hash": "7f064cbd63cd00c588e96b1123706be63f458120",
+            "message": "Fix addToOrder bug",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "9aca3329d0cc188393ebbc0bf2cd7ff9cda4e4f0",
+            "message": "Remove trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3f015afebf4216b4edd9985adaaebf12d4d15593",
+            "message": "Update RestOrRantParserTests to reflect changes",
+            "insertions": 31,
+            "deletions": 42
+          },
+          {
+            "hash": "1321b4732f2e2a12506c75a20f62d5425b2d32aa",
+            "message": "Fix tests and update version",
+            "insertions": 16,
+            "deletions": 11
+          },
+          {
+            "hash": "d549fc44462507e5828013b20e3b2d659b156e34",
+            "message": "Update UG with tags for each section",
+            "insertions": 26,
+            "deletions": 13
+          },
+          {
+            "hash": "2061db9cc6f61f554a3270acf646bf5d70afe255",
+            "message": "Make minor updates to DG",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 721,
+        "deletions": 193,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "32a1f24f058c3cc339d40b768d54aadbc5b8e7fa",
+            "message": "Add new OrderItemStatus class",
+            "insertions": 136,
+            "deletions": 0
+          },
+          {
+            "hash": "321f6e5cfb2ee9d6637babb15653c6f72637a762",
+            "message": "Update files to be compatible with the new OrderItemStatus",
+            "insertions": 145,
+            "deletions": 93
+          },
+          {
+            "hash": "34451856d996a991281881a9ad9ded54c390008c",
+            "message": "Fix tests",
+            "insertions": 18,
+            "deletions": 15
+          },
+          {
+            "hash": "825ffc98b978bf56ff772e14ca0ac7206009aaa8",
+            "message": "Remove updateMode as it is redundant",
+            "insertions": 3,
+            "deletions": 63
+          },
+          {
+            "hash": "23adae75145334d13f196263c7e1aaaac0c69556",
+            "message": "Add serve command",
+            "insertions": 137,
+            "deletions": 1
+          },
+          {
+            "hash": "2ffdeb2374fdf8000ea0f8c034a720c39990ae30",
+            "message": "Add tests for serve command",
+            "insertions": 263,
+            "deletions": 5
+          },
+          {
+            "hash": "fd67ffd4dadcb76c0ac34958c1fa10c6039cb90c",
+            "message": "Update UI to show serving status + test",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "738311d22d1b343a68b35f1fa81e1f05f35e2840",
+            "message": "Change background colour when item is fully served",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "6186ea2e535e42615d5a2dbdf3030e0ef4fe7a00",
+            "message": "Change RM order item display to only show unserved items",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "ffe96ef57b2d589fef58718e1ada531acd8a2ea0",
+            "message": "Fix checkstyle",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "9d4bf3059c63a9831fb62b969e5126b983d8929b",
+            "message": "Fix more checkstyle",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "bc74962e54c2154d20515f0f0ec0c004c1d861a0",
+            "message": "Fix error with tests",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 302,
+        "deletions": 2863,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "d6ac68fdd64a224c65400440bd67fe21e25fcb96",
+            "message": "Update UI",
+            "insertions": 20,
+            "deletions": 2
+          },
+          {
+            "hash": "abf792828bc5363605fe399fbb4f65273a1a1dcd",
+            "message": "Clean up code",
+            "insertions": 83,
+            "deletions": 2660
+          },
+          {
+            "hash": "8d5d097112baa1ebfa3ed6e46f2c2a19c88526c1",
+            "message": "Update system tests and add for addToOrder",
+            "insertions": 199,
+            "deletions": 183
+          },
+          {
+            "hash": "a2bc03faf4b1c902d4f5ef2672731e69f06aebd5",
+            "message": "Remove style when order item is selected",
+            "insertions": 0,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 162,
+        "deletions": 80,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "5848805a5fbd9153419e4557549accf9a66d57b8",
+            "message": "Add sample data",
+            "insertions": 93,
+            "deletions": 27
+          },
+          {
+            "hash": "1b5435c18205e7bf2a748844a7e219c68a5abdaa",
+            "message": "Add clearRestOrRant command",
+            "insertions": 61,
+            "deletions": 49
+          },
+          {
+            "hash": "d36b88fa245279f7d5a828491799a826fb41eba4",
+            "message": "Fix tests",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "583509d8a48b3af66fef10c3a6b60b6e85623d8e",
+            "message": "Modify history command shortcut to h",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1128,
+        "deletions": 864,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "2c82417bc0f7a638d420d407a7c66a2da4f50aee",
+            "message": "Update README, User Guide and add PPP",
+            "insertions": 583,
+            "deletions": 207
+          },
+          {
+            "hash": "611113fe098a3dccdc322f7cebbcada2a000428e",
+            "message": "Fix checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "857c8d2fd8df5e53f5ca25ed37639f42a6d108a6",
+            "message": "Fix more checkstyle",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "3383af9408cecfbed1a2890d7f69db2d1402cd67",
+            "message": "Remove trailing whitespaces",
+            "insertions": 25,
+            "deletions": 12
+          },
+          {
+            "hash": "ab35279ccfb86850a88164313a642aa6f49be591",
+            "message": "Add github support for emojis",
+            "insertions": 35,
+            "deletions": 13
+          },
+          {
+            "hash": "210ff50ae039e20d9d255ae3de80cc94491a68fe",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e0d24585ff58ae230ed6e887e9fff73d90b45df1",
+            "message": "Proper emoji support on github",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "7f977d41e54b8c421267a081dd4c0c4b2f8d99cf",
+            "message": "Update consistency of formatting",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b453aa689aba08e93a75d35e53165dfad1f6780e",
+            "message": "Update to DG",
+            "insertions": 455,
+            "deletions": 600
+          },
+          {
+            "hash": "dc9451d7781291139eba358e8471388c82ac5969",
+            "message": "FIx checkstyle and add UI images for Statistics",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "1b004cfcf37b5daa7c19708b6a54308e30e169d7",
+            "message": "Remove pesky trailing whitespace",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 438,
+        "deletions": 400,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "e5ab5e129e3676ca74e208d4cc0fbf786bbe608e",
+            "message": "Update diagrams, UG, DG and PPP",
+            "insertions": 99,
+            "deletions": 46
+          },
+          {
+            "hash": "dd08273b3792938d24abe2e803e15823eaf9e430",
+            "message": "Update to the docs",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "24ae2f12f5e4783e830d355d8bd07ecba8a80b15",
+            "message": "Update PPP",
+            "insertions": 27,
+            "deletions": 17
+          },
+          {
+            "hash": "6c637c700695583669227bca7fbcfeb4ffae4a48",
+            "message": "Update AboutMe and DG tags",
+            "insertions": 13,
+            "deletions": 12
+          },
+          {
+            "hash": "d19c0b1ff37ea629120801cc9e04b213459cd477",
+            "message": "Update to docs",
+            "insertions": 39,
+            "deletions": 37
+          },
+          {
+            "hash": "fa625708d5e457e0d11ebbc2305d8742e92becc1",
+            "message": "Update UG",
+            "insertions": 135,
+            "deletions": 133
+          },
+          {
+            "hash": "c6304f46933549919785f271162608bbc1a01028",
+            "message": "Update docs",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "cf269712721f0e8a40d6a5088259ccc2950ad4bd",
+            "message": "Remove trailing whitespace",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1ac1a2064670bd9a13a4f15b52c4f7a1c119c55c",
+            "message": "Update UG again",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "e34b26e0c3566d35db400a0e805d0400269c9f8a",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "622d3e48f0873efa45a242441381f70465564e29",
+            "message": "Update DG",
+            "insertions": 85,
+            "deletions": 120
+          },
+          {
+            "hash": "be6cfeaf1b17a6d0a29880c875e1347b8468a38b",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a26498880f4974a9cd9373bf6a6272ebec10aa87",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e8aa613bab206e2c711d69ee2f786510ec94eb19",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 9,
+            "deletions": 5
+          },
+          {
+            "hash": "e93371e1a5ec20739e87f65409f5f59a59793b5b",
+            "message": "Update whyjayxp.adoc",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "9c639bcdf6199a78003e8e5ff3145a32bcf492d5",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0f17cc64a2314071faeca226ea502c435641612e",
+            "message": "Update whyjayxp.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b5aaf6f77d776b10a160c20462dc869ae5543b78",
+            "message": "Update whyjayxp.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "Qing-Yuan": [
+      {
+        "insertions": 24,
+        "deletions": 16,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "94c0bae7b1dd63c95a8c4577c878d9dbbceb43b1",
+            "message": "Update build status badges and introduction",
+            "insertions": 21,
+            "deletions": 14
+          },
+          {
+            "hash": "2223e908840fb27bf1e7559ada51ba1b4dcc3e66",
+            "message": "Fix asciidoc format",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "7366b203dd5429b36d027208c9cf4e1629793817",
+            "message": "Remove trailing white space",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 118,
+        "deletions": 20,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "87aef7571e15b86deb9318ca49cacc9c2023bc73",
+            "message": "Add alias to \"add\" command and update relevant tests",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "4b44342b97a7bae5d2368700df1414324bd74749",
+            "message": "Add alias to \"clear\" command and update relevant tests",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "1054c9bd5d1345ef4d9d6d358cf3bf27a77ff5f7",
+            "message": "Add alias to \"delete\" command and update relevant tests",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "ec7ff8a6381806ba45ae55362a9eda7d174c8c7a",
+            "message": "Add alias to \"edit\" command and updater relevant tests",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "1c667ccdaf43800764eb78b19f0b237d68e7b77d",
+            "message": "Add alias to \"find\" command and update relevant tests",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "4f2235c0cefa92a2d729c9ac57f2fb0da6fb4a40",
+            "message": "Add alias to \"help\" command and update relevant tests",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "f2a03837446aaf31cbcb653aa95d78fe8af265b6",
+            "message": "Add alias to \"history\" command and update relevant tests",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "778e8a99e2ef6c8b3e22eb13d413337b3a09648a",
+            "message": "Add alias to \"list\" command and update relevant tests",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "3885719c7ff5182ea092fe2425d627b7e20357c6",
+            "message": "Add alias to \"redo\" command and update relevant tests",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "a45b1008d9f4538a30e42bdb445981354c29861d",
+            "message": "Add alias to \"select\" command and update relevant tests",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "b9e20bb4653da9e05b4acbb081f48afb87cacbc4",
+            "message": "Add alias to \"undo\" command and update relevant tests",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "b7b53c84db67aa1dcee7ac5a4a55f98b407b9a8a",
+            "message": "Add alias to \"exit\" command and update relevant tests",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "b79102d5852df68a36166a302fefa93293d0e352",
+            "message": "Remove all trailing white spaces",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "07345aee10a2780d491f67647259e3e6b50dfec8",
+            "message": "Remove trailing whitespaces",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "e1fd1045db6683146c70a09e38fcecc8cf70be93",
+            "message": "Remove trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 1,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "4938e4268ca5f44602fad3094824c58a680d6e2e",
+            "message": "Remove new line",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 167,
+        "deletions": 94,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "0b5f9924082bab70313927755872236e09279ffc",
+            "message": "Update Logic component to be compatible with modes",
+            "insertions": 121,
+            "deletions": 52
+          },
+          {
+            "hash": "fb34300337260d8498ee25366999ad21faf35867",
+            "message": "Update Messages for invalid Mode",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "53565e0a5a899cca6df128d93d59c49f1eab8f97",
+            "message": "Fix checkstyle errors",
+            "insertions": 42,
+            "deletions": 39
+          },
+          {
+            "hash": "8b0fd23983bad1d07a42568c6d8250c34f10830f",
+            "message": "Fix checkstyle errors again",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e329f32456470eee70e2c96eece33f24ce1e4f26",
+            "message": "Fix checkstyle errors again",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 60,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "7584a2293f0193924c2098c38317e8800be8f234",
+            "message": "Refactor Mode names to be more comprehensive",
+            "insertions": 55,
+            "deletions": 44
+          },
+          {
+            "hash": "00c613182859941d18a4c04c7a2139ef5a124ba3",
+            "message": "Fix checkstyle errors",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "176edae7bd291e6a5e1bae561bf8dfb1a498d63f",
+            "message": "Fix checkstyle error again",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 165,
+        "deletions": 31,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "54f3894315b0dfd13b1dc59081dc7116f26639dd",
+            "message": "Add listener and check for mode changes",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "746137f43b5707d2ab8ac8e9704e2e4b584fdeb0",
+            "message": "Add error message for invalid mode changes",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "1da96bd3d591a1f299d5bf39617270456263c6aa",
+            "message": "Fix checkstyle errors and compilation errors",
+            "insertions": 76,
+            "deletions": 0
+          },
+          {
+            "hash": "8281c7ab5bb52e6c3f825e65835c05790e6562a1",
+            "message": "Fix checkstyle errors",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "082149e005b7921c06a9506c76e3bdf4b54a4df5",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "4e2d113289e5c0af74a827dd4631af89e06e7daf",
+            "message": "Provide mode check methods for UI",
+            "insertions": 24,
+            "deletions": 0
+          },
+          {
+            "hash": "1459a1c0ad3d445bc464af004b1579848c3f2114",
+            "message": "Update CommandResult to accommodate mode changes",
+            "insertions": 24,
+            "deletions": 22
+          },
+          {
+            "hash": "568fcbf91b11daf6b542763c6e2bb0e6f3f15a93",
+            "message": "Update MainWindow to handleChangeMode",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "b5c19fd93eba1d839109dd347657e7023e10adb3",
+            "message": "Fix checkstyle errors",
+            "insertions": 7,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 1155,
+        "deletions": 413,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "79b25e2939d2f3ac7fdb69347c15e6241a0385b3",
+            "message": "Create Table object",
+            "insertions": 241,
+            "deletions": 2
+          },
+          {
+            "hash": "7f858b15d287edcf7150b7c219efbb29bd1f8dc4",
+            "message": "Add ReadOnlyTables and Tables",
+            "insertions": 169,
+            "deletions": 47
+          },
+          {
+            "hash": "06d5c544635b45859fe2a89b130cfe8c701ca0b8",
+            "message": "Update storage component for Table features",
+            "insertions": 305,
+            "deletions": 19
+          },
+          {
+            "hash": "039066c7f20647036db7c4177c9a2fea0d3b08c5",
+            "message": "Complete TableNumber class",
+            "insertions": 46,
+            "deletions": 5
+          },
+          {
+            "hash": "5a2764edb5d87ff8b89eefbb0a417048e60b2500",
+            "message": "Complete TableStatus class",
+            "insertions": 28,
+            "deletions": 7
+          },
+          {
+            "hash": "cc643e2e91664f7c81bc4d06eb88793d76451c20",
+            "message": "Update TableStatus validity check",
+            "insertions": 23,
+            "deletions": 31
+          },
+          {
+            "hash": "4015aab72e8e0e5de835491fdfa7314a7ce025df",
+            "message": "Complete JsonAdaptedTable",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "21bb69043ea69a3c8fa995e15d7863fd1a786e55",
+            "message": "Update ModelManager",
+            "insertions": 84,
+            "deletions": 16
+          },
+          {
+            "hash": "f7139e35d7ca7a6b9b82508c1e0190c3aa622118",
+            "message": "Update Model component for Tables",
+            "insertions": 141,
+            "deletions": 25
+          },
+          {
+            "hash": "a716d7e49f2f0985d7b5ebe1f795ac9def7ecebf",
+            "message": "Fix errors",
+            "insertions": 1,
+            "deletions": 198
+          },
+          {
+            "hash": "2c7518211dbf737529ff5e60851398804a50d318",
+            "message": "Resolve merge conflicts",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "91c59a33eafd7c66a6b2eb0d4b726cfc8415d4ca",
+            "message": "Add setTableStatus method",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "8c58b2f567b56d05ef65b5a3076d271bc459fa6d",
+            "message": "Update Storage component",
+            "insertions": 65,
+            "deletions": 6
+          },
+          {
+            "hash": "76b1a2a15c9605bf5114b9a940e9830383199a72",
+            "message": "Refactor TablesStorage",
+            "insertions": 34,
+            "deletions": 37
+          },
+          {
+            "hash": "e0f9022fd618a2a1bc765f5684dee7a8c2f6f972",
+            "message": "Update RestOrRant and MainApp",
+            "insertions": 10,
+            "deletions": 9
+          },
+          {
+            "hash": "9275284eb2bf4fa7e1b3c39afa4e0e7ad5f86b7d",
+            "message": "Fix compilation errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "48e46e06e79e03ee51d18431545e764797691569",
+            "message": "Fix NullPointerException",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 768,
+        "deletions": 242,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "12ef32217ae76dbdbdd030dca657f40d0660d2ce",
+            "message": "Add getTableFromTableNumber method",
+            "insertions": 18,
+            "deletions": 2
+          },
+          {
+            "hash": "3d38d6eb921aaf49490a0c249f57d6ad40701bfa",
+            "message": "Update to accommodate mode checking for commands",
+            "insertions": 32,
+            "deletions": 10
+          },
+          {
+            "hash": "e1165e134e474e11fef51f354e5b085bd2661883",
+            "message": "Create AddTableCommandParser.java and AddTableCommand.java",
+            "insertions": 91,
+            "deletions": 60
+          },
+          {
+            "hash": "f7d4d4978191fd306f6b53793b3aae39792c90a0",
+            "message": "Complete execute method in AddTableCommand.java",
+            "insertions": 47,
+            "deletions": 6
+          },
+          {
+            "hash": "329b9f8ff73c5813867e7146177a04b40c30d274",
+            "message": "Update LogicManager.java to handle different storage",
+            "insertions": 24,
+            "deletions": 8
+          },
+          {
+            "hash": "c2bd52bf4bfc0265de85db465eb06c5a55a61a0a",
+            "message": "Fix AddTableCommand errors",
+            "insertions": 23,
+            "deletions": 28
+          },
+          {
+            "hash": "5ab17e8799252ad9e6dc3c2e40ce3eb6a629543d",
+            "message": "Complete addTableCommand",
+            "insertions": 4,
+            "deletions": 11
+          },
+          {
+            "hash": "a16975063a962e2fab9004c519884b2dbffa66ab",
+            "message": "Add RestaurantMode and TableMode changeMode commands",
+            "insertions": 69,
+            "deletions": 33
+          },
+          {
+            "hash": "221b8b5cab171850e438ff3f31b211a683da97f0",
+            "message": "Edit a typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e78def80a90c98ce9f3824c1e811c37cdcb479f7",
+            "message": "Add UpdateTableCommand",
+            "insertions": 80,
+            "deletions": 0
+          },
+          {
+            "hash": "382dd38aed6721c7fde897793cbf069b18093bd9",
+            "message": "Add UpdateTableCommand",
+            "insertions": 35,
+            "deletions": 20
+          },
+          {
+            "hash": "882b7bd2a62e474f1684503a9e4d7b855775a52b",
+            "message": "Update UpdateTableCommand to store updated table",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "ff0030ff663f1dbb74a279fde023fcd31feab272",
+            "message": "Update Table feature results",
+            "insertions": 22,
+            "deletions": 10
+          },
+          {
+            "hash": "0fa11fbfadac429958eabcfc9017bbff7b1bcd6d",
+            "message": "Fixed bug #57 (Unable to add tables if data was loaded from file)",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "cfa61a9a2336005779d0a9108af9ae5540600e9f",
+            "message": "Fixed TableStatus",
+            "insertions": 25,
+            "deletions": 14
+          },
+          {
+            "hash": "9e2eaf8ca919ec83c2187f86bca1ff573f37d3f0",
+            "message": "Update UI component",
+            "insertions": 175,
+            "deletions": 12
+          },
+          {
+            "hash": "72a9ad7a0f2ce3bc196749a24d5d5b39213ed581",
+            "message": "Update TableStatusCommand and add isOccupied(TableNumber) method",
+            "insertions": 48,
+            "deletions": 20
+          },
+          {
+            "hash": "177299ad7c92a522ade3494a6c6e3ed128947edd",
+            "message": "Update docs and UpdateTableCommand",
+            "insertions": 14,
+            "deletions": 1
+          },
+          {
+            "hash": "309fa999c9f93253eb790c35e1f119be772da142",
+            "message": "Update UG and DG and LogicClassDiagram",
+            "insertions": 45,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 5,
+        "date": "2019-03-07",
+        "commitResults": [
+          {
+            "hash": "4e80bb477c1070cbff8c9c651d917dec03c815aa",
+            "message": "Update message usage for updateTableCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7cef85825ac096dd047e75c29f0517983cc24d13",
+            "message": "Update error message for AddTableCommand",
+            "insertions": 13,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 19,
+        "date": "2019-03-08",
+        "commitResults": [
+          {
+            "hash": "68a9252def19facfcfaeedcf342f14b0f5eac213",
+            "message": "Update isOccupied() method and fix checkstyle errors",
+            "insertions": 49,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 39,
+        "deletions": 261,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "03d4f51fb9f88b8387277bd5c56db6212b958475",
+            "message": "Update UI for tables",
+            "insertions": 37,
+            "deletions": 42
+          },
+          {
+            "hash": "9bcca99c52df75cc455b9cc13d1837126db0be79",
+            "message": "Fix more merge conflicts",
+            "insertions": 2,
+            "deletions": 219
+          }
+        ]
+      },
+      {
+        "insertions": 94,
+        "deletions": 105,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "a4b76241c8edeac247ea04fa8f54c894d64c8450",
+            "message": "Update RestaurantMode UI",
+            "insertions": 35,
+            "deletions": 72
+          },
+          {
+            "hash": "a6b196ab60b93acdd14babf7650eeaedb5867672",
+            "message": "Add COMMAND_ALIAS for all modes",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "85144f8e37ea98a9f32a4832279538a49d6b000f",
+            "message": "Fix bug in updateTableCommand",
+            "insertions": 44,
+            "deletions": 33
+          },
+          {
+            "hash": "2fbaa6056204d469b0ca057d26f2bd3ce4a1f2f7",
+            "message": "Update RestaurantMode to update selectedTable",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "7b9ba537ad7806b10ef650fbaebe4873222a98f9",
+            "message": "Fix table reading from storage bug",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 531,
+        "deletions": 239,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "750c27fce1d8816114847c48ca991045ab1fb87e",
+            "message": "Fix long Label bug",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "9c691d6db544f069f0abd8acde76b6fb04eaa290",
+            "message": "Fix duplicate code",
+            "insertions": 0,
+            "deletions": 10
+          },
+          {
+            "hash": "679951ee99f6ef65ee8efdf94f993bfdd3f85697",
+            "message": "Fix checkstyle errors",
+            "insertions": 28,
+            "deletions": 31
+          },
+          {
+            "hash": "2237e20fbfd35c4a8bcc5cfd87ee52e09c1e06bb",
+            "message": "Fix checkstyle errors again",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "a8b736f82b324828be9b42fa7842291227d7d693",
+            "message": "Update tests in Logic component",
+            "insertions": 248,
+            "deletions": 98
+          },
+          {
+            "hash": "f07bf509d1cb1dacd4f80a3008c8db79458f9b4d",
+            "message": "Update tests in Logic component",
+            "insertions": 248,
+            "deletions": 98
+          }
+        ]
+      },
+      {
+        "insertions": 1242,
+        "deletions": 602,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "2206704b9681bf1192cd6367d58a3bf8baf57725",
+            "message": "Update Table UI to update the Table UI",
+            "insertions": 17,
+            "deletions": 5
+          },
+          {
+            "hash": "61e0060b611abdaca03553a15eb6fab57c8bd222",
+            "message": "Update Table UI to update the Table UI",
+            "insertions": 17,
+            "deletions": 5
+          },
+          {
+            "hash": "70fa66bad0b0c94231f86add0f825910ba70a7bb",
+            "message": "Clean up code",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "ccf04ba3fb4ee0e4dbbc1b4ad81a06fc00f07efc",
+            "message": "Clean up code",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "01ebb065dc642c0b884713e0b6597216dab93920",
+            "message": "Update ReadOnlyTables to reflect API",
+            "insertions": 39,
+            "deletions": 33
+          },
+          {
+            "hash": "2594bcb277198bfc7c316ee8853248be7792e9ab",
+            "message": "Update ReadOnlyTables to reflect API",
+            "insertions": 39,
+            "deletions": 33
+          },
+          {
+            "hash": "f75886a69031bb68729eb7ed0003cd817f80bd23",
+            "message": "Update Logic test util classes",
+            "insertions": 562,
+            "deletions": 257
+          },
+          {
+            "hash": "47bdcb5e7d80032f2f067153259adb4ad916479c",
+            "message": "Update Logic test util classes",
+            "insertions": 562,
+            "deletions": 257
+          },
+          {
+            "hash": "08b58ee65d6f6c0dd0f91d1aa10254f008bfffe9",
+            "message": "Fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "6e52804c725c089a3ba7bdac93f172b8a524fec1",
+            "message": "Fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "723c3fdbd37b284e58221f72a50ad6b451032916",
+            "message": "Update LogicManagerTest",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "d4c7757dc8b0d2c931a0e1922fbffe15c3e4bead",
+            "message": "Update LogicManagerTest",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 4,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "9800ff6b9b690cf67cbd780090717d4c892a9c46",
+            "message": "Remove all AB4 references in Logic component",
+            "insertions": 10,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 477,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "c270907d4639be73860c32d507cf581e0e040f40",
+            "message": "Add tests for AddTableCommand",
+            "insertions": 416,
+            "deletions": 0
+          },
+          {
+            "hash": "c5b864617df576dd10f0da6cda1b3edfb49a7b46",
+            "message": "Add tests for AddTableCommandParser",
+            "insertions": 61,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 529,
+        "deletions": 12,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "25636f1b5116561d164d815ca76f73a093cfe77f",
+            "message": "Update CommandUtilTest",
+            "insertions": 6,
+            "deletions": 10
+          },
+          {
+            "hash": "e1291a1837dc44f80a5ee56d5c2c5ac373f55723",
+            "message": "Update GUI tests",
+            "insertions": 96,
+            "deletions": 0
+          },
+          {
+            "hash": "df17b47d02153a7a9f136e7110360a00ba9cf94c",
+            "message": "Add model table tests",
+            "insertions": 427,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 1105,
+        "deletions": 269,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "de621f2c50219b088e26c4b8688e38a22562d7f3",
+            "message": "Update table UI tests",
+            "insertions": 153,
+            "deletions": 0
+          },
+          {
+            "hash": "7dc1a2560b9567c898d9a8084bb54822b5cb66cf",
+            "message": "Update tables storage tests",
+            "insertions": 338,
+            "deletions": 0
+          },
+          {
+            "hash": "1a32c9d0fce600e0f736057028c76cc7d8977513",
+            "message": "Update CommandResult and CommandResultTest",
+            "insertions": 18,
+            "deletions": 6
+          },
+          {
+            "hash": "b16b7e70005820a25baf826e130bae2abead35f9",
+            "message": "Update HistoryCommandTest, HelpCommandTest and ExitCommandTest",
+            "insertions": 37,
+            "deletions": 6
+          },
+          {
+            "hash": "c5d585e0ca9353eff53a53460ba0e1ccdb4298ee",
+            "message": "Update tests",
+            "insertions": 36,
+            "deletions": 26
+          },
+          {
+            "hash": "650c092dcb0ff7703afd1488d7e70e2470c2806b",
+            "message": "Update RestOrRantParserTest",
+            "insertions": 155,
+            "deletions": 13
+          },
+          {
+            "hash": "3f4bb53da1379f497520246cba62263e59de0435",
+            "message": "Update Bill to DailyRevenue",
+            "insertions": 235,
+            "deletions": 37
+          },
+          {
+            "hash": "26d3678da5925ab2477df5e8dd529191893c5a6f",
+            "message": "Update UpdateTableCommandTest",
+            "insertions": 1,
+            "deletions": 13
+          },
+          {
+            "hash": "1480d0495eb990fa44ebdfcf139ef4ea8d0a0756",
+            "message": "Fix bug to not allow updateTable to a value greater than number of seats at the table",
+            "insertions": 37,
+            "deletions": 47
+          },
+          {
+            "hash": "8b56897be811420b0fe78fe988a6983fc75f7e9c",
+            "message": "Update UpdateTableCommandTest",
+            "insertions": 40,
+            "deletions": 118
+          },
+          {
+            "hash": "0765f35b2676fcb02925521f567cfa2871306507",
+            "message": "Update UpdateTableCommandParserTest",
+            "insertions": 55,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 5058,
+        "deletions": 4800,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "2e28bee3d0e34c42916635efc5ee91a9cdc66647",
+            "message": "Comment out unused code but may be needed for future milestones",
+            "insertions": 1282,
+            "deletions": 1279
+          },
+          {
+            "hash": "5da2b5fdcf6ce2ce0867252547cfcfda89e43722",
+            "message": "Comment out more useless code",
+            "insertions": 1011,
+            "deletions": 981
+          },
+          {
+            "hash": "2ee0e01c9c4675bd1acc5e755c213667176a076d",
+            "message": "Remove unnecessary tests",
+            "insertions": 77,
+            "deletions": 78
+          },
+          {
+            "hash": "30b77f19823f7e3127b58a39486ffd8720be50b1",
+            "message": "Remove unused tests",
+            "insertions": 1032,
+            "deletions": 1036
+          },
+          {
+            "hash": "2ebc8b4530c6ce8979516efaa43853a8d0e9dce4",
+            "message": "Remove more unnecessary code",
+            "insertions": 265,
+            "deletions": 257
+          },
+          {
+            "hash": "cc70708022669e5f7bd374bbec0aacaa81bd1c6f",
+            "message": "Update TableCardTest",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "646b5b68aee5f084422ab027d3b20554b2cb0fa9",
+            "message": "Fix checkstyle errors",
+            "insertions": 259,
+            "deletions": 188
+          },
+          {
+            "hash": "970c6dd773219d2d9c76a16640c28be06b8d9c9d",
+            "message": "Fix more checkstyle errors",
+            "insertions": 41,
+            "deletions": 33
+          },
+          {
+            "hash": "49a3ad5eddd618a828984e9a661c20196166294d",
+            "message": "Fix more more checkstyle errors",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "e600c52fd9cd6241683883c3278fdfb816d3f95f",
+            "message": "Add AddTableCommandIntegrationTest and fix checktyle errors",
+            "insertions": 79,
+            "deletions": 12
+          },
+          {
+            "hash": "1434677e046219928d48d0b6e632b2d2645944b0",
+            "message": "Fix checkstyle errors",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "450bea6cacc1aa4f2f8fe628eabd6835969b6e4f",
+            "message": "Update DG",
+            "insertions": 47,
+            "deletions": 0
+          },
+          {
+            "hash": "c04e68a9d3160efdaef8bb001607519db32e9cff",
+            "message": "Fix formatting issues",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e7969a71b4b6f35fe4376566dbb402997d2aa479",
+            "message": "Update DG",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "3a28d862238b4754bc698b3aca4d3ddfd41f8e81",
+            "message": "Fix tests",
+            "insertions": 214,
+            "deletions": 71
+          },
+          {
+            "hash": "b448221223f75a456a8f84ea60ddaa5910a67a77",
+            "message": "Fix tests",
+            "insertions": 7,
+            "deletions": 9
+          },
+          {
+            "hash": "28d8b564e04f7af0b2263aeeca106a3214aabb49",
+            "message": "Fix tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "acd9dd0f3c656486d6839c0c1da7a303d57e6886",
+            "message": "Fix tests",
+            "insertions": 453,
+            "deletions": 466
+          },
+          {
+            "hash": "21ecf6224d8295a5ea08339248100c027b65d8b7",
+            "message": "Fix tests",
+            "insertions": 210,
+            "deletions": 210
+          },
+          {
+            "hash": "8380916bc416fde826b910c1b3b609c44035ff7d",
+            "message": "Fix checkstyle errors",
+            "insertions": 13,
+            "deletions": 132
+          },
+          {
+            "hash": "c807cd26f29d5ce6caaf9daf06357fd1f68d444c",
+            "message": "fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6a83306a29fbff6cdea352d277e0cb940453ec3f",
+            "message": "Fix more checkstyle errors",
+            "insertions": 18,
+            "deletions": 12
+          },
+          {
+            "hash": "fb25e4fd363fa1f7bd9994d63e29cf9d5b8c6671",
+            "message": "Fix more checkstyle errors",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 134,
+        "deletions": 236,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "dcea5b92938d3e7168ea7cde4ae63c2ae8580208",
+            "message": "Fix AddTableCommandTest",
+            "insertions": 80,
+            "deletions": 194
+          },
+          {
+            "hash": "f01ae790277262f391f12f1fd4bf6890a0eda587",
+            "message": "Fix AddTableCommandIntegrationTest",
+            "insertions": 41,
+            "deletions": 31
+          },
+          {
+            "hash": "733ebca263e7124f2f4fe3a5b2d1d784f127badb",
+            "message": "Fix UpdateTableCommandTest",
+            "insertions": 13,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 182,
+        "deletions": 284,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "71fcb5d8352d1ff8e77fbad9aa9b2e4702f964ab",
+            "message": "Fix AddTableCommandParserTest and RestOrRantParserTest",
+            "insertions": 64,
+            "deletions": 184
+          },
+          {
+            "hash": "2da0faa78915efe9857141f256c0f065ac8d4d55",
+            "message": "Fix UpdateTableCommandParserTest",
+            "insertions": 3,
+            "deletions": 10
+          },
+          {
+            "hash": "3885f09c4888e9141e99d964df3f649aaab07f0b",
+            "message": "Fix JsonSerializableTableTest",
+            "insertions": 101,
+            "deletions": 65
+          },
+          {
+            "hash": "7f92982e7d91a62440019e32e6915de3345cfea6",
+            "message": "Fix TableCardTest",
+            "insertions": 14,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 432,
+        "deletions": 35,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "0e31975e90fbc0ceaf0f7aa125cf13be145ce0ff",
+            "message": "Fix LogicManagerTest",
+            "insertions": 32,
+            "deletions": 29
+          },
+          {
+            "hash": "09988407d5feabda4c6d512d7ecfce4b3e001f94",
+            "message": "Update RestaurantMode Theme",
+            "insertions": 400,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 142,
+        "deletions": 142,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "0819e0c18c277b1d63fff58e5b744defa36322e3",
+            "message": "Clean up TableStatus and issues related to it",
+            "insertions": 21,
+            "deletions": 29
+          },
+          {
+            "hash": "779fed03456d1190d56fddf82089dc3696ea413d",
+            "message": "Update tests",
+            "insertions": 24,
+            "deletions": 18
+          },
+          {
+            "hash": "f340acde2d8df98ebc013dab9c5f6b5bccd89a1e",
+            "message": "Update RestaurantModeTheme",
+            "insertions": 48,
+            "deletions": 44
+          },
+          {
+            "hash": "cd38b021f2a76d854dd9c07a306786d07a0598ab",
+            "message": "Fix checkstyle errors",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "9203a954b3a74de5826fe652d670612d64b72179",
+            "message": "Fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "bbb22100a0519593c22e65c4bb4dea44214b6581",
+            "message": "Fix UpdateTableCommandTest",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "8e8ddac26673524433ca25bcfb41bd8eeb080878",
+            "message": "Standardise Theme with other themes",
+            "insertions": 43,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 494,
+        "deletions": 142,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "5c085d7e5b62d3039af9e5528a57f41b5ed49753",
+            "message": "Add RemoveTableCommand and config.json for Reposense",
+            "insertions": 219,
+            "deletions": 10
+          },
+          {
+            "hash": "c8677522f5abeea0855610939c7319ec81d11bd4",
+            "message": "Add config.json for reposense",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "c23f084e666071d9ec3b8b4946e54884a5cd777a",
+            "message": "Fix LogicManagerTests",
+            "insertions": 55,
+            "deletions": 12
+          },
+          {
+            "hash": "cf760bb6536aa105175a22eeea7fc8ae81dcc9b7",
+            "message": "Replace RemoveTableCommand with ClearTableCommand",
+            "insertions": 45,
+            "deletions": 111
+          },
+          {
+            "hash": "ec7fc61cf838f5aeeb08d67722c757d6bbc56fb7",
+            "message": "Add ClearTableCommandTest",
+            "insertions": 97,
+            "deletions": 9
+          },
+          {
+            "hash": "c6b9d3cd1129a78fff911c7d1b7d73bd24f3dabe",
+            "message": "Update RestOrRantParserTest to include UpdateTableCommand and ClearTableCommand",
+            "insertions": 53,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 387,
+        "deletions": 55,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "46842ac6f6338a920607bd4c7f6734358d41a215",
+            "message": "Add AddTableCommandSystemTest",
+            "insertions": 211,
+            "deletions": 40
+          },
+          {
+            "hash": "a8efd00291832fabd298329f821174fa8a86c989",
+            "message": "Fix UpdateTableCommand bug of updating to current status",
+            "insertions": 26,
+            "deletions": 7
+          },
+          {
+            "hash": "e15fbf4689d9a7602ac88307c6c3d55ab695fe7f",
+            "message": "Add UpdateTableCommandSystemTest",
+            "insertions": 150,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 109,
+        "deletions": 19,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "19c11c8f98c5f014bd2537c47e38db2bc7385c7a",
+            "message": "Clean up UpdateTableCommandSystemTest",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "f47c829848b2d2e5c683203b2e86078e12e231a8",
+            "message": "Remove unnecessary statements",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "20eeadb5f27db35cb77d2c915e2442679c5a75fa",
+            "message": "Add ClearTableCommandSystemTest",
+            "insertions": 109,
+            "deletions": 2
+          },
+          {
+            "hash": "4698ccaacefda6bf2d1aced6106351e4f966685f",
+            "message": "Clean up  ClearTableCommandSystemTest",
+            "insertions": 0,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 295,
+        "deletions": 157,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "9a241d2b6e88bae02f6da02e25cf8c7c004f9c26",
+            "message": "Fix checkstyle errors",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "12e8a1a26fd9160aae47bbb87604a0615230458d",
+            "message": "Fix more checkstyle errors",
+            "insertions": 31,
+            "deletions": 30
+          },
+          {
+            "hash": "447afabe47c8013b85bf6b5c86bb87a88a076fbb",
+            "message": "Fix even more checkstyle errors",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "509d2935ad0b499144db192e2dbb9fef106d9ef5",
+            "message": "Fix more more checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "eb322a7b24e4ca73138c2a8c8cda5dc737af712e",
+            "message": "Refactor command names and add EditSeatsCommand end to end",
+            "insertions": 186,
+            "deletions": 82
+          },
+          {
+            "hash": "6b15399739d07610de86b3f3b39ddb336bfa7225",
+            "message": "Remove whitebox from scrollpane",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "63783de9cf757c2bcbeb081d3d14f08a194f369f",
+            "message": "Update Docs and Refactor namings of documents",
+            "insertions": 61,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 145,
+        "deletions": 43,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "15192f7e8200f1e991df6e0da3abb7719f543af8",
+            "message": "Update Docs",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "33778cc37a85436779690447ecaa951bc5d83e9e",
+            "message": "Fix checkstyle errors",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "8edf33ddf6aaedf12671048eeed778e62d573c0f",
+            "message": "Update docs",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "44edf9e1b36ccd71befdb132bd8d011dbac62717",
+            "message": "Fix checkstyle errors",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "550d410fa51683ef26aecd703cda9b45e76af649",
+            "message": "Edit Pax",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cf36d435f872c654cbfb6577ea1b731d4fa931a9",
+            "message": "Create PPP",
+            "insertions": 107,
+            "deletions": 0
+          },
+          {
+            "hash": "984147b37035414b89c9bd6c421755d53ecdbcaa",
+            "message": "Update PPP",
+            "insertions": 8,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "972ea62a67cd5706d20d295db5c6fad88fb056e1",
+            "message": "Fixed editPax bug",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 84,
+        "deletions": 47,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "cbe19d090583e64dbb321579a58011e978e85cfe",
+            "message": "Refactor tablestatus to have getters",
+            "insertions": 52,
+            "deletions": 40
+          },
+          {
+            "hash": "f810346bb4788278fb1bcd5f39a24203759f6172",
+            "message": "Update table border color",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "9580bcad3aaac6d3a18decc860f5e8745cfded87",
+            "message": "Update EditSeatsCommand to have consistent behaviour with EditPaxCommand",
+            "insertions": 13,
+            "deletions": 3
+          },
+          {
+            "hash": "276f33a38196c585f0fbf212bd7b42a844b800dc",
+            "message": "Update addTable to not allow more than 9 digits",
+            "insertions": 10,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 177,
+        "deletions": 28,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "3516dbb870d7be7918084a04540ed4febae0244a",
+            "message": "Update TableCard UI colors",
+            "insertions": 2,
+            "deletions": 10
+          },
+          {
+            "hash": "095590990d2a9e1420e9a54efa2c95ad987fcb1e",
+            "message": "Add EditSeatsCommandTest",
+            "insertions": 100,
+            "deletions": 4
+          },
+          {
+            "hash": "307d247b1e35f421bad7b8c1970874f26525894c",
+            "message": "Add EditSeatsCommandParserTest",
+            "insertions": 65,
+            "deletions": 6
+          },
+          {
+            "hash": "48a1dd74a5e60fc13a4b580415a5e271320fea38",
+            "message": "Fix error messages to be more appropriate",
+            "insertions": 10,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 698,
+        "deletions": 1132,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "ce7bfa09ded99b4e44ed00ebe755e93eb0e57dff",
+            "message": "Fix all table feature tests",
+            "insertions": 142,
+            "deletions": 16
+          },
+          {
+            "hash": "bf56c6a8cfd84758bb847945213eb3725588bcff",
+            "message": "Add SpaceForCommand",
+            "insertions": 102,
+            "deletions": 4
+          },
+          {
+            "hash": "d7924acef58f0e5400c8199999c264e043a09642",
+            "message": "Update RestOrRantParserTest",
+            "insertions": 80,
+            "deletions": 99
+          },
+          {
+            "hash": "0c49ce205e4eb255c7fc59109e8019f65fecda3c",
+            "message": "Add all tests for SpaceForCommand",
+            "insertions": 227,
+            "deletions": 876
+          },
+          {
+            "hash": "ba577b0bfe4974b9dead2ef39fbe9cf930c635e5",
+            "message": "Update HelpCommandSystemTest",
+            "insertions": 100,
+            "deletions": 105
+          },
+          {
+            "hash": "4d31c0cf5be6b6e032b4cedaf893da71f9b59634",
+            "message": "Set limit to number of tables in RestOrRant",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "cde451af3d69ac814c42f6ff06ff4d21026c069f",
+            "message": "Improve spaceFor command performance",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "fe46e5aed5d0ebc12181fb7f72d53784c4e7e894",
+            "message": "Fix checkstyle errors",
+            "insertions": 13,
+            "deletions": 5
+          },
+          {
+            "hash": "ad107de69c6603ca4703bd9de5573bd2dddaebf1",
+            "message": "Fix more checkstyle errors",
+            "insertions": 11,
+            "deletions": 15
+          },
+          {
+            "hash": "945d618570551adaf3b902e7c8a475cd01e36863",
+            "message": "Fix Travis checkstyles",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "819eeef506e0195c82133afa84cb8a408c328544",
+            "message": "Remove trailing white space",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "936960a6f967084f7842fe0ec431f0bde656e0b5",
+            "message": "Resolve comment",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "e65961c229b2571a76a135f5c7452caf0b111c86",
+            "message": "Fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 162,
+        "deletions": 50,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "98397dece1356e2d282f959e9f70efd381cc6153",
+            "message": "Update docs",
+            "insertions": 28,
+            "deletions": 10
+          },
+          {
+            "hash": "a622103b158ce4adc29473a08ac32ff091ff22de",
+            "message": "Complete table features for UG",
+            "insertions": 122,
+            "deletions": 28
+          },
+          {
+            "hash": "f771ac719557d2158003157315d7bf1448759743",
+            "message": "Refactor all RestOrRant to ROR in table features",
+            "insertions": 12,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 352,
+        "deletions": 122,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "efaf6498a42d21a89bc8e6a77092dfbf581cc158",
+            "message": "Update DG",
+            "insertions": 151,
+            "deletions": 60
+          },
+          {
+            "hash": "4064bae6da067c7d5d6082afa1288cf75fff6de6",
+            "message": "Update docs",
+            "insertions": 47,
+            "deletions": 27
+          },
+          {
+            "hash": "aea9d97c04a5a2295aef735583a7d8ea448ae15d",
+            "message": "Fix checkstyle errors",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "7d4921eac5d4b822d7d654923fe85b46b2fcc9e6",
+            "message": "Update docs",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "1aa30de2864d8bd16cd415b8e46e5750b5fb9f67",
+            "message": "Update docs",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "2074ca16a24271cfa1ae84dd6d4f40d3f407155c",
+            "message": "Update docs",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "366e3f521ff5598cdc61e3daa4477cbb4310a76c",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 52,
+            "deletions": 4
+          },
+          {
+            "hash": "6cfb3cf63dbf216abcd1dd5bfb7c94f560860365",
+            "message": "Add spacefor implementation",
+            "insertions": 64,
+            "deletions": 10
+          },
+          {
+            "hash": "55848e2b768f41c36b91e1d9c1f2a826943c534c",
+            "message": "Update UG and PPP",
+            "insertions": 14,
+            "deletions": 3
+          },
+          {
+            "hash": "27b9ae65b5fb6f97916595ad936d83224bc07b36",
+            "message": "Update qing-yuan.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "Beesaycheese": 7073,
+    "bava98": 4246,
+    "whyjayxp": 8744,
+    "Qing-Yuan": 6846
+  },
+  "authorFileFormatContributionMap": {
+    "Beesaycheese": {
+      "adoc": 350,
+      "cs": 0,
+      "css": 740,
+      "fxml": 105,
+      "gradle": 0,
+      "html": 0,
+      "java": 5794,
+      "js": 0,
+      "json": 84,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "bava98": {
+      "adoc": 757,
+      "cs": 0,
+      "css": 25,
+      "fxml": 48,
+      "gradle": 1,
+      "html": 0,
+      "java": 3328,
+      "js": 0,
+      "json": 87,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "whyjayxp": {
+      "adoc": 1489,
+      "cs": 0,
+      "css": 823,
+      "fxml": 59,
+      "gradle": 2,
+      "html": 1,
+      "java": 6261,
+      "js": 0,
+      "json": 109,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "Qing-Yuan": {
+      "adoc": 477,
+      "cs": 0,
+      "css": 429,
+      "fxml": 27,
+      "gradle": 0,
+      "html": 0,
+      "java": 5830,
+      "js": 0,
+      "json": 83,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "Beesaycheese": 261467.72,
+    "bava98": 170602.72,
+    "whyjayxp": 407642.12,
+    "Qing-Yuan": 1582090.2
+  },
+  "authorDisplayNameMap": {
+    "Beesaycheese": "LEO...ICE",
+    "bava98": "SIV...INI",
+    "whyjayxp": "PHU...JUN",
+    "Qing-Yuan": "SIE...UAN"
+  }
+}

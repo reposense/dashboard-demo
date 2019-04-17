@@ -1,0 +1,1999 @@
+{
+  "authorDailyContributionsMap": {
+    "ChenWenCUHK": [
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "4e53b7ccdb39c3e017f8e0f231b67107416eb49e",
+            "message": "Update AboutUs file",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ec79a4ebb191a8154cec0546e6de4a04ccaa2940",
+            "message": "change photo in AboutUs",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c22dd9bcad5e31290def280853fe3c65bc295c78",
+            "message": "update photo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1e647d101f4072f9f329b406a46e6329397c46bd",
+            "message": "update links",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "878d9faa8fad3a9e6e7559b5378844be2e1835aa",
+            "message": "update link again",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 115,
+        "deletions": 25,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "3120918611252d5a96e57cb6ef1255644c287267",
+            "message": "add pin command",
+            "insertions": 114,
+            "deletions": 0
+          },
+          {
+            "hash": "da433e98b451ceeeb2dc87bbc4b5a93294275ec2",
+            "message": "fix minor bugs",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "1f1f0e192516274b51671d42e6d17180b8718931",
+            "message": "follow standards",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c1a108d682bf1ba694a949165c02d71ec78abcd1",
+            "message": "fix minor bugs",
+            "insertions": 0,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 246,
+        "deletions": 127,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "70e23145cd76c5011c00a158fbb21ccdb70c7f73",
+            "message": "Add pin and unpin command",
+            "insertions": 123,
+            "deletions": 4
+          },
+          {
+            "hash": "b7cde1a8eb51863de8f0ae81d66d296ebf4bd12d",
+            "message": "Delete redundant methods",
+            "insertions": 0,
+            "deletions": 10
+          },
+          {
+            "hash": "f7b66b4dce02fbde5f959c6dd4b667a97ab14f8d",
+            "message": "fix minor bugs",
+            "insertions": 23,
+            "deletions": 13
+          },
+          {
+            "hash": "9c1e2a7636078c730ee87e749eeecf34470a8c6c",
+            "message": "fix minor bugs 2",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "b36cbae76428bb77569bb4a5a32ea4e4b5ab4d5d",
+            "message": "Add PinCommand test cases",
+            "insertions": 79,
+            "deletions": 0
+          },
+          {
+            "hash": "f4685b77d0c41dc2fcfd93d059d764c5fb55033f",
+            "message": "Fix minor bugs",
+            "insertions": 6,
+            "deletions": 16
+          },
+          {
+            "hash": "54440829d0e9698676ecaceb029950494a3b3875",
+            "message": "Fix minor bugs 2",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "2274a67b10fb284b438d974291adcf526d609c3b",
+            "message": "Fix minor bugs 3",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "dda2c051adfd89a046c89d11f86b600ea85444e1",
+            "message": "Fix minor bugs 4",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "e83a15f41f5f04f2532aa7faab622431f898e9d3",
+            "message": "Delete PinCommand test file",
+            "insertions": 0,
+            "deletions": 44
+          },
+          {
+            "hash": "61a59b349c46b657a41f8ca445d67ba4f43a9b16",
+            "message": "Delete UnpinCommand test file",
+            "insertions": 0,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 1156,
+        "deletions": 115,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "978a245c63399bbe0e22450bfc7dedcfac264457",
+            "message": "finish UI part of pin list",
+            "insertions": 866,
+            "deletions": 32
+          },
+          {
+            "hash": "cbd5511dc58bfa372cfb9c0f37bdb13cff8f71bb",
+            "message": "fix minor bugs",
+            "insertions": 18,
+            "deletions": 15
+          },
+          {
+            "hash": "7efe388e2f4d70e3d18ccd6ca1a8140470c2a731",
+            "message": "fix minor bugs2",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "c58cdaf2132bec0b0bbe50afce4363c38681d5a5",
+            "message": "fix minor bugs in test files",
+            "insertions": 219,
+            "deletions": 37
+          },
+          {
+            "hash": "b5858fc42c491e9cc4a7aff723df3dcb5f9e0ed1",
+            "message": "fix minor bugs in test files2",
+            "insertions": 44,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 255,
+        "deletions": 42,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "e7e089aafa17c2f2c6a83724baaad52ea5decd62",
+            "message": "try to pass system test",
+            "insertions": 255,
+            "deletions": 42
+          }
+        ]
+      },
+      {
+        "insertions": 388,
+        "deletions": 91,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "b3dde7a514a04f43de33a96d11e91967d8d21fd2",
+            "message": "system test adjustments",
+            "insertions": 49,
+            "deletions": 22
+          },
+          {
+            "hash": "b8a92db3a92fc316bdc3a22be8d88f31c089adea",
+            "message": "fix minor bugs",
+            "insertions": 312,
+            "deletions": 2
+          },
+          {
+            "hash": "67e696a17ea756ea2a987b492f56b9f6698602ee",
+            "message": "checkstyle fix",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "eb7bf2707466586c59a24392608de21a41c4d73e",
+            "message": "checkstyle fix",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "402be7d8f846a714eec16f7be2e3f58d278b0d03",
+            "message": "checkstyle fix",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "edd3d4ffaef0fd4f70a70b7694e78bee91df0fc5",
+            "message": "conflict fix",
+            "insertions": 10,
+            "deletions": 49
+          },
+          {
+            "hash": "9e1b8cc843a858d5ea274032fffafd82b06b5c76",
+            "message": "fix a bug",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "5f263ca6630923de98713a310b4eba72cdce95ab",
+            "message": "checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "dcaa47afab435b1e96b69748082e3a513b139d44",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "e193448b165629d7ebfeb51aabbbaf83ac49cf02",
+            "message": "checkstyle in test files",
+            "insertions": 5,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 91,
+        "deletions": 34,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "d4161545238efa655830cff1f4e81ef2e03a2fd0",
+            "message": "update UG and DG and PPP",
+            "insertions": 91,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 151,
+        "deletions": 1,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "0ae552ca0a203abb2bde983a270c8781e7f7db66",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Create ui.lnf.xml, laf.xml, ide.general.xml, filetypes.xml, path.macros.xml, Default.xml, debugger.xml",
+            "insertions": 125,
+            "deletions": 0
+          },
+          {
+            "hash": "9266c1a714f96118b3bfdda645ce87956888aa2f",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Create colors.scheme.xml",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "44489f9abe3d48fa6c80c48cec46a570d286d1c4",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Update Default.xml\tCreate code.style.schemes",
+            "insertions": 21,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 306,
+        "deletions": 194,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "6d219ebc7a70c0094476f36ff01bbe3e04b18161",
+            "message": "add PinSelectCommand",
+            "insertions": 209,
+            "deletions": 30
+          },
+          {
+            "hash": "0090f40176f40d0f19f2ab2161bcee869f5b5e6d",
+            "message": "fix click bugs",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "93979ce9e317d1f11a97dfa12cfc06461a83399e",
+            "message": "delete unused files",
+            "insertions": 20,
+            "deletions": 151
+          },
+          {
+            "hash": "565e48ef9f18335a5200b4486e42316d721d8929",
+            "message": "follow the checkstyle",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "8f4d77be5470152f78e04bbd3255b82fa4305ca0",
+            "message": "follow the checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7ba7a85eb90baa9cfc266c4e146668ec3b0af0e9",
+            "message": "fix minor bugs in test files",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "362e20f196a68d88d42294b79b8f4a8b74703dab",
+            "message": "fix minor bugs",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "e553084adebe4fb7130ceeeb7146324f1cafb927",
+            "message": "Amend checkstyle error",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9678c9465a251d3719d1588cda4dbca1b0d7fcd9",
+            "message": "Amend checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bf6bc3e12651d27345ea8b2bc12676fc29f30ea6",
+            "message": "IU-2018.3.3 \u003cchenwen@r-92-106-25-172.comp.nus.edu.sg Create code.style.schemes, ui.lnf.xml, laf.xml, filetypes.xml, colors.scheme.xml, debugger.xml",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "ed06b81d45f28fe5e3f785984975bf10fecda5d4",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Create path.macros.xml, Default.xml",
+            "insertions": 7,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 136,
+        "deletions": 74,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "b706062b9690338bbd5b12723d7bdfb2515eb939",
+            "message": "add PinSelectCommandTest",
+            "insertions": 103,
+            "deletions": 0
+          },
+          {
+            "hash": "6d595172f716c922713fb6b9b414d74c165fcff1",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Update Default.xml",
+            "insertions": 21,
+            "deletions": 1
+          },
+          {
+            "hash": "13bea18f382068cf92d80b91b4ca3e0e18edb060",
+            "message": "follow checkstyle",
+            "insertions": 12,
+            "deletions": 6
+          },
+          {
+            "hash": "14622cc06902cb5a3092f1b3dd1ca6c48acccd8b",
+            "message": "delete useless files",
+            "insertions": 0,
+            "deletions": 67
+          }
+        ]
+      },
+      {
+        "insertions": 268,
+        "deletions": 100,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "6e1942b0b9858201903fa68516136591e0e4d988",
+            "message": "avoid simple command concatenation",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "71bc73d38a2ef50e8b3551245b51c918fbcaaf0c",
+            "message": "checkstyle",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "b9cabf4ae78970399395381ee9e7eea354a2ea63",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Create code.style.schemes, ui.lnf.xml, laf.xml, filetypes.xml, colors.scheme.xml, debugger.xml",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "5f693fc43269159eeb8687cb8e84bca71c6026ea",
+            "message": "split out a method",
+            "insertions": 18,
+            "deletions": 27
+          },
+          {
+            "hash": "75d7de23c3e5c2c9e9f8298d48ca9c857632ca27",
+            "message": "remove junk files",
+            "insertions": 0,
+            "deletions": 33
+          },
+          {
+            "hash": "f7d6bafd34b62b1ce018b42b18a6f6b6a77543ec",
+            "message": "fix system test bugs",
+            "insertions": 34,
+            "deletions": 12
+          },
+          {
+            "hash": "ce885ee9d60420eb87cd97ed65c98a8429ab334b",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Create code.style.schemes, ui.lnf.xml, laf.xml, colors.scheme.xml, debugger.xml",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "631f91e8e91a99b6b288842a88b457c9e97f5626",
+            "message": "checkstyle",
+            "insertions": 5,
+            "deletions": 7
+          },
+          {
+            "hash": "1aa25c063a9fa5653fddfa81f998eb4f8dcc8aee",
+            "message": "delete junk files",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "ed2ba6fb4866d7ee5e6977e38b5b9c2e3070b0b1",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Create filetypes.xml",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "52ac6bfb49106573c46f270de78b1c96421f4229",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Create path.macros.xml, Default.xml",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "6a10fb8a4cd2a01db1723c84dfc583e3f79b91bd",
+            "message": "amend command concatenation",
+            "insertions": 38,
+            "deletions": 0
+          },
+          {
+            "hash": "830a793abab687cabc28e8133455ad8687527e60",
+            "message": "fix minor bugs",
+            "insertions": 1,
+            "deletions": 5
+          },
+          {
+            "hash": "6f69509ba08b68140d8f6bf3cd0bb49c7c2f2fcf",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Create code.style.schemes, ui.lnf.xml, laf.xml, filetypes.xml, path.macros.xml, editor.xml, Default.xml, debugger.xml",
+            "insertions": 48,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 2,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "daad008ece0acfb698d535b545d48348cf5baded",
+            "message": "IU-2018.3.3 \u003cchenwen@CHEN-Wen.local Update ui.lnf.xml, laf.xml\tCreate ide.general.xml, colors.scheme.xml",
+            "insertions": 12,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 303,
+        "deletions": 469,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "7730ef615356d851e64da18d06939eb8a89c80eb",
+            "message": "test",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "fc4ca503e955fe7035053580a69bf3a1c30c482d",
+            "message": "ignore files",
+            "insertions": 0,
+            "deletions": 58
+          },
+          {
+            "hash": "80807022a0a78e4ea63ecd3288ff27de80ad0992",
+            "message": "refactor pin book",
+            "insertions": 58,
+            "deletions": 72
+          },
+          {
+            "hash": "097553308b32527d7c58074def93a82734109110",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "e9d182155940b8d192a2f7c01f5f68ed33946462",
+            "message": "delete unused import",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "895297f4bac7216b703155ded87102e0bf24e009",
+            "message": "delete unused files",
+            "insertions": 0,
+            "deletions": 308
+          },
+          {
+            "hash": "e6af47a6873a9d7837ee9333c66a329f432ea176",
+            "message": "add some tests for PinCommand and UnpinCommand",
+            "insertions": 166,
+            "deletions": 3
+          },
+          {
+            "hash": "3645c6706387bcee5a90fdbaab46feec415ff733",
+            "message": "fix typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6f76b4fa35a2a71a199bad37053e9c6332ec431b",
+            "message": "delete unused private methods",
+            "insertions": 1,
+            "deletions": 17
+          },
+          {
+            "hash": "6cf1984b5a0a27b960c2e7741653594fc69a8bba",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "59ca2d6d0840d508537d55474245652bb6c5ca00",
+            "message": "Test for command parser",
+            "insertions": 69,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 538,
+        "deletions": 65,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "db35bcfffb60a4aabca842f06a4bf962303df01a",
+            "message": "add test for panel and storage",
+            "insertions": 422,
+            "deletions": 0
+          },
+          {
+            "hash": "c83d81799b9b6b5dcec7718b433211389a6dab51",
+            "message": "add PinSelectCommandParserTest",
+            "insertions": 29,
+            "deletions": 0
+          },
+          {
+            "hash": "5a93e3a2b9afd273de2b181ab43be2a75ef96a17",
+            "message": "check command arguments",
+            "insertions": 28,
+            "deletions": 2
+          },
+          {
+            "hash": "b129fb7205b4eef1445ef962b31667e12dd2bf58",
+            "message": "minor changes",
+            "insertions": 1,
+            "deletions": 39
+          },
+          {
+            "hash": "5fc0456886813eea38d4f1f125ac7b45c889cb94",
+            "message": "delete unused imports",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "ae8c57d72e4b7d474ceb9cac96bcd9a058f4b13e",
+            "message": "revert changes",
+            "insertions": 35,
+            "deletions": 18
+          },
+          {
+            "hash": "ecfeecc7b8ea9f05e67f1b7fe0f62546e524484a",
+            "message": "update UG",
+            "insertions": 23,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 1344,
+        "deletions": 1262,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "3ceb72a3b16575f5bf1fe26f737b1bdcee1c44ae",
+            "message": "update UG and DG",
+            "insertions": 92,
+            "deletions": 7
+          },
+          {
+            "hash": "65a6dcffda0f1802378723a2575f0210839c6844",
+            "message": "update UG and DG and PPP",
+            "insertions": 49,
+            "deletions": 52
+          },
+          {
+            "hash": "18b2786783bb5e670ce790206a39045e25c4fea3",
+            "message": "html file",
+            "insertions": 1194,
+            "deletions": 0
+          },
+          {
+            "hash": "a8fcf6c8c33f2a66160dd0c37e8c7ba299b6b607",
+            "message": "delete mistakenly uploaded file",
+            "insertions": 0,
+            "deletions": 1194
+          },
+          {
+            "hash": "ca7613da3516a8a18f499fcb0f2f657451f25817",
+            "message": "change pictures",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ff6e4ebc390edb90d69ded997b1ade7a390c5b8f",
+            "message": "fix typo",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "3539a0d21db89926418143ab9af28728ad7da779",
+            "message": "fix pictures",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "f7ab2f8efd457ef767e5d715c89c8b377f6692f0",
+            "message": "format",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "tanlongbin": [
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2019-02-12",
+        "commitResults": [
+          {
+            "hash": "1db09856ba54e2f879d07c80f528ceaafd6c4673",
+            "message": "Update product name in readme.adoc and modified Ui.png",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "0d93d5735c15ce2887b2db6689a16f0340ae0dd4",
+            "message": "update AboutUs.adoc and add photo for tanlongbin.",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "e1fb39132db1f5f54f6839ff82b2f9cef169f141",
+            "message": "add SortCommand class to implement a sort method.",
+            "insertions": 47,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1012,
+        "deletions": 198,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "091dacb14e64814666fd229101986ca2056a17b5",
+            "message": "Modify Add command.",
+            "insertions": 260,
+            "deletions": 10
+          },
+          {
+            "hash": "39b7b95074ceac4a47a8792ca9783a8d18c7c3b5",
+            "message": "Amend checkstyle errors",
+            "insertions": 23,
+            "deletions": 21
+          },
+          {
+            "hash": "239a9acec778d290c97f0e220760c37589fdc2dc",
+            "message": "Amend checkstyle errors",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "7543b9072826455b454a205f120d018305b42269",
+            "message": "Amend checkstyle errors.",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "50555f8415bbbfd31dfbe6380f21ab8427bb026c",
+            "message": "Amend Edit command.",
+            "insertions": 78,
+            "deletions": 12
+          },
+          {
+            "hash": "b75687ef7883609a0723de90a90f41484e2a16bf",
+            "message": "Amend checkstyle error.",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "3298c8cdc6045b5db0e2d443670db4c6ffba7fe2",
+            "message": "Amend checkstyle error.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a4d7bc666efa354a4590291931a666684cd5263a",
+            "message": "Roll back modifications to add and edit command to allow more time for debugging.",
+            "insertions": 613,
+            "deletions": 114
+          },
+          {
+            "hash": "77c042b3f3cf81c85ff3d57b6e60793ede20d003",
+            "message": "Amend Checkstyle errors.",
+            "insertions": 29,
+            "deletions": 29
+          },
+          {
+            "hash": "1250b04159530d7fbe21564aa60b833037eab972",
+            "message": "Improve code quality.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 9,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "945b1d9bc1a107f0310f3d2b2dd7bb509f8db15c",
+            "message": "Update User Guide for Add command.",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "170c3c1e9a413cba3370d2b9d77e5f4d60dfdc7f",
+            "message": "Update author names to be tracked by RepoSense.",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "c30d2109c4bc4399ec90a8b49188aa962ecc71bb",
+            "message": "Amend Checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 59,
+        "deletions": 600,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "f304034f5d0d13f1c984869320b51a9fff7dcbdd",
+            "message": "Modify Add command",
+            "insertions": 59,
+            "deletions": 600
+          }
+        ]
+      },
+      {
+        "insertions": 400,
+        "deletions": 126,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "9b4080b6554384af0bd72663f09957de53a7914b",
+            "message": "Update Storage and Ui for modified Add and Edit command",
+            "insertions": 400,
+            "deletions": 126
+          }
+        ]
+      },
+      {
+        "insertions": 504,
+        "deletions": 210,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "9166f511f5da94a5279aeb4ad5c83956ba84a62b",
+            "message": "Update UI and display messages for add \u0026 edit command.",
+            "insertions": 415,
+            "deletions": 155
+          },
+          {
+            "hash": "7d4ad4e258bf33a5683966333870ff3c7607e081",
+            "message": "Update UI",
+            "insertions": 49,
+            "deletions": 25
+          },
+          {
+            "hash": "9c48328756bf9720eca75b4b9dc103ecb3c3fd78",
+            "message": "Update Ui.png and User Guide",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "af7d0b38b6a5e4c01f925674b1784cbdb3410a1b",
+            "message": "Small formatting change for UI PersonCard",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1fa209df413f919c41f7706bca263ad7b531d970",
+            "message": "Edit user guide, developer guide and PPP.",
+            "insertions": 31,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 4,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "badc8bcd988689e3439615fd3056fde3bb55ef50",
+            "message": "Edit developer guide and PPP.",
+            "insertions": 2,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 802,
+        "deletions": 337,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "eab43842884801886c1eccb7a022eaea094f45b0",
+            "message": "Update tests for the new model, add command and edit command",
+            "insertions": 675,
+            "deletions": 196
+          },
+          {
+            "hash": "65d555d7cde80c84b7567b199b2906b85aeed98c",
+            "message": "Amend checkstyle errors",
+            "insertions": 105,
+            "deletions": 120
+          },
+          {
+            "hash": "444f5f99ebbcd6fb290ee70ce4bda70c86cee63a",
+            "message": "Amend checkstyle error",
+            "insertions": 22,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 173,
+        "deletions": 81,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "f3a02e1153a84bc3f42c3b3c83c3b56f7b174661",
+            "message": "Refactor Model classes and modify add command to check for duplicate identity fields",
+            "insertions": 125,
+            "deletions": 62
+          },
+          {
+            "hash": "99d0eb716ba82b1807672cd12b27189919521e93",
+            "message": "Amend Checkstyle errors",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "a6fcc64f0b6a97194eb15272872baac0ed65d94f",
+            "message": "Amend checkstyle error",
+            "insertions": 12,
+            "deletions": 6
+          },
+          {
+            "hash": "3987424143eab11166fa65248db2168b2c467672",
+            "message": "Update tests",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "a1fe7249e5f5f12fc2b7aabd4e4d916d4d0bf8fe",
+            "message": "Modify edit command to check for invalid edit parameters and update relevant tests.",
+            "insertions": 21,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 874,
+        "deletions": 482,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "855671918a54fadf0595865a4667ff4a08b808b8",
+            "message": "Update tests",
+            "insertions": 315,
+            "deletions": 298
+          },
+          {
+            "hash": "ebe54d626593a184a2d1eb2d43ad96db9429b8b7",
+            "message": "Amend Checkstyle error",
+            "insertions": 17,
+            "deletions": 14
+          },
+          {
+            "hash": "e1fa456f290ef46c580bb87621763a74ee60835e",
+            "message": "Amend checkstyle error",
+            "insertions": 8,
+            "deletions": 20
+          },
+          {
+            "hash": "679858f018f5f3c69e7ff0281939205c6b13785d",
+            "message": "Improve code quality",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "eea7c1ba13615566da98e692057776f395759fae",
+            "message": "Modify HelpCommandSystemTest",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d89f5cc96310a2ca64ee9e1cbfc78dbaa261abc6",
+            "message": "Amend checkstyle error",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "d39405aa503060642e6c1fae1c2ece099b9efde0",
+            "message": "Omit test failing on Travis-Ci",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "12edea534fd1b56ab06d932fa9a90007ecd1dca6",
+            "message": "Integrate tests for pin feature",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "ffc475d3787a8ffad3e922cc83e63202bfc3d75c",
+            "message": "Update tests",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "484aaf1b14d95f54c90c6bd0632120d16e87cccc",
+            "message": "Amend checkstyle error",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "4443a84a26983224de599d9d228a96d90cbd8ffd",
+            "message": "Update tests",
+            "insertions": 2,
+            "deletions": 12
+          },
+          {
+            "hash": "7d54c9583d7fcc8f1e437f18cd46531d54e72c7f",
+            "message": "Improve find function and update relevant tests.",
+            "insertions": 79,
+            "deletions": 34
+          },
+          {
+            "hash": "70f826539ba777879a78a257bc415185e13989b4",
+            "message": "Amend checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "0308c907d411bdb542620b773d09f22dca3a3004",
+            "message": "Modfy add and edit command to check for duplicates in archive and pin list.",
+            "insertions": 202,
+            "deletions": 47
+          },
+          {
+            "hash": "2533427cb3d354b83d388f3f7f62eeda1bc58d81",
+            "message": "Amend usage message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cb100fc3b88a1d3a2e8d17b3babb66fba44b4439",
+            "message": "Modify find command usage message and remove CustomerType Enum",
+            "insertions": 4,
+            "deletions": 14
+          },
+          {
+            "hash": "a19ff4af7796c5350b86a6278796f9b7860f70b6",
+            "message": "Adapt find command for archive",
+            "insertions": 92,
+            "deletions": 2
+          },
+          {
+            "hash": "5e685019e0dacca2aa7c8748e5658357d88c3a99",
+            "message": "Add tests for archivefind feature",
+            "insertions": 126,
+            "deletions": 0
+          },
+          {
+            "hash": "4d026e7ba14114db8bf2bf09ff92cd0ee3155cc5",
+            "message": "Amend checkstylel error",
+            "insertions": 2,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 664,
+        "deletions": 396,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "148ba4424bd7405dc569babf37649cd2be66e917",
+            "message": "Rename find feature to search feature and update user guide",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "25583232165be8fadc4c5af88c54b9edea322351",
+            "message": "Rename find feature to search and update user guide",
+            "insertions": 216,
+            "deletions": 196
+          },
+          {
+            "hash": "21f7376ef33e8f7eba97fb29d86fec585d6f556d",
+            "message": "Update user guide",
+            "insertions": 35,
+            "deletions": 32
+          },
+          {
+            "hash": "bd616fbd1cb80d858a1dd6fddc462acd977f1d6b",
+            "message": "update user guide",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "f6a7ea617d3ef4021a9688d99e1dd553de2544b7",
+            "message": "amend checkstyle error",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "51d5d5e0d2c1b1f7e25338c412d2f59ab393d40d",
+            "message": "amend checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c735bd55cdaf6e1203c6383c8d6fa488c8c7a3b9",
+            "message": "amend checkstyle error",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8c0c93d54cda77dffe5d741c98250b0f19330c86",
+            "message": "Refactor find feature into search feature",
+            "insertions": 37,
+            "deletions": 31
+          },
+          {
+            "hash": "b9528f1d3a1b6cb50147062a7c35a814be9076b2",
+            "message": "Amend checkstyle error",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "baeebf62bdf8d196a9526166f6ac0df2696b7992",
+            "message": "Ignore addsystemtest",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "b9cbb66c3ef7fffea102a52a9cf3d6c90f18a0ab",
+            "message": "Improve code quality",
+            "insertions": 50,
+            "deletions": 34
+          },
+          {
+            "hash": "c2bbe3df155204d1baa3a50ee914a6bfa4aac982",
+            "message": "Update developer guide",
+            "insertions": 93,
+            "deletions": 0
+          },
+          {
+            "hash": "2eb5ef610209f86093fe16e29c4c32369c44e78b",
+            "message": "Update user guide",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "04fb8a6b8529e19cd98f0aab4121fd9530e1e097",
+            "message": "update user guide",
+            "insertions": 20,
+            "deletions": 20
+          },
+          {
+            "hash": "6e746c9dede129ce76920918edb58f379dd9c544",
+            "message": "Update user guide",
+            "insertions": 65,
+            "deletions": 5
+          },
+          {
+            "hash": "21e744d1d2308aa84aae6b126d93752a86c4b699",
+            "message": "Update developer guide",
+            "insertions": 40,
+            "deletions": 39
+          },
+          {
+            "hash": "4d6d2af7704b2a787ab3d67ff7eddbea9b4640b2",
+            "message": "Update Developer guide and PPP",
+            "insertions": 79,
+            "deletions": 10
+          }
+        ]
+      }
+    ],
+    "yongxiang1095": [
+      {
+        "insertions": 3,
+        "deletions": 8,
+        "date": "2019-02-15",
+        "commitResults": [
+          {
+            "hash": "814dbe3573e0514eb1eb066e712bd9845645dca4",
+            "message": "README.adoc: Update badges and remove unnecessary descriptions",
+            "insertions": 3,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 4,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "e6a86ba1661b81af646425c252885965560c3d55",
+            "message": "Revert \"Uploaded a .png picture\"",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "f68ab3d0c31411fb03cb6b95e0fbdcc70d1f2f7d",
+            "message": "AboutUs.adoc: Updated page",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 291,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "d2fc33f4c2246f151e38b1264aa4b385af944e66",
+            "message": "Update documentation and remove unnecessary files",
+            "insertions": 10,
+            "deletions": 291
+          }
+        ]
+      },
+      {
+        "insertions": 260,
+        "deletions": 86,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "ab29d8aaeb19ab1d69f41c4a9c6b1892d64ec03d",
+            "message": "Update UserGuide.adoc",
+            "insertions": 234,
+            "deletions": 60
+          },
+          {
+            "hash": "893373d7f41002c0efda109b5c03f5dd3e818ba5",
+            "message": "Update UserGuide.adoc: Correct minor mistakes",
+            "insertions": 26,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 64,
+        "deletions": 19,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "da7cdb8e316c97f5f2e463edc717629d2912e9b5",
+            "message": "Update UserGuide.adoc: Fix minor formatting issues and correct certain wordings",
+            "insertions": 9,
+            "deletions": 4
+          },
+          {
+            "hash": "7af97623d20872bdf275419044145a3d5ed6ab6a",
+            "message": "Update DeveloperGuide.adoc: Update appendices and add User Stories",
+            "insertions": 55,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 496,
+        "deletions": 31,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "d8efabff85ff2cdffe1f80dbd6d951870f6cac4c",
+            "message": "Update Developer Guide: Add use cases and user stories",
+            "insertions": 361,
+            "deletions": 29
+          },
+          {
+            "hash": "22462311a920059ca7e8ccc9971567c270b0f96e",
+            "message": "Add archive and archivelist commands (calls existing delete and list commands respectively)",
+            "insertions": 128,
+            "deletions": 0
+          },
+          {
+            "hash": "70430f0ab612cc159441d74972e3e9e273a1fbe7",
+            "message": "Fix error for AddCommandTest.java after adding archive command",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "8b2682ec4477b66cbaa3ae5ee2dd2388e89f7649",
+            "message": "build.gradle: Update site-name and githuburl",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-03-08",
+        "commitResults": [
+          {
+            "hash": "71fd2be958e50ce0a079d739a271c55b6c0a39be",
+            "message": "Update README.adoc to reflect badges and remove LOs nav bar",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 151,
+        "deletions": 47,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "4348874c486fcdae7bc53a037092bb6de10df37e",
+            "message": "Update docs for new and updated features",
+            "insertions": 146,
+            "deletions": 42
+          },
+          {
+            "hash": "10e1d2fc0de1ecd37527a71c6f69375708a3d2a2",
+            "message": "DeveloperGuide.adoc: Update minor wordings",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1ca9cd78de702b9e888b8477e4bc641bdfb6d024",
+            "message": "DeveloperGuide.adoc: Update User Stories",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 6,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "617a95f2795805c76df05e5fea249765b3c394bd",
+            "message": "DeveloperGuide.adoc: Update User Stories",
+            "insertions": 2,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 1,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "961061a449b3648481f3b82afdb612ec8808a9ab",
+            "message": "DeveloperGuide.adoc: Update Use Cases",
+            "insertions": 8,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 192,
+        "deletions": 188,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "a6748d837b6a476128bb5d9b7cec23cd2b61b100",
+            "message": "Update UserGuide.adoc and DeveloperGuide.adoc: Reordering of features and use cases",
+            "insertions": 182,
+            "deletions": 182
+          },
+          {
+            "hash": "368bb1761ab3ce5ddce60f05afedb4bd26cfb0f4",
+            "message": "Update UserGuide.adoc and DeveloperGuide.adoc: Minor edits",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "369cae8bd3044ec1191b238dc717241362256b16",
+            "message": "Update AboutUs.adoc: Include responsibilities for features",
+            "insertions": 8,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 730,
+        "deletions": 18,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "c7a94ebb7d5ea1129be56f01cb7fb0a08d4a5cee",
+            "message": "Implement archive command and archive data storage",
+            "insertions": 730,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 235,
+        "deletions": 49,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "b82387ea5ec1e159285823fc2ebcd610744f0480",
+            "message": "Update existing tests",
+            "insertions": 223,
+            "deletions": 38
+          },
+          {
+            "hash": "146dc51bd5dc210c0c6cb4bf0fd234d27c221cf8",
+            "message": "Correct checkstyle errors",
+            "insertions": 12,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 200,
+        "deletions": 20,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "dd436199ad83d8e715dceca118e109a4d5e2dfe9",
+            "message": "Update UI to permanently show archive list and add unarchive command",
+            "insertions": 200,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 368,
+        "deletions": 45,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "4b982543f6f7e14125c1a3c78fd939e0df02a179",
+            "message": "Implement swapping between main list and archive list on the display and add archiveclear command",
+            "insertions": 292,
+            "deletions": 25
+          },
+          {
+            "hash": "03ae9c51ac4ee27f257c93df3534ab4d029495fe",
+            "message": "Update existing tests",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "bb12787102150be603b9db0910bec6e8a2fe7ebf",
+            "message": "Update command classes",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "d52885808b0e4f8fc1db4acffcdc19add1aaf0bc",
+            "message": "Amend code quality errors",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2ddbe1d13105960b5ae099947675b0f88fdb2bb1",
+            "message": "Update documentation",
+            "insertions": 29,
+            "deletions": 6
+          },
+          {
+            "hash": "6edd5729b2a876bf9649da7c7eda232b711bdeaa",
+            "message": "Updates to repo",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 240,
+        "deletions": 32,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "0d746b6b5c1d2c200f17282b9467cded394f40be",
+            "message": "Add PPP templates",
+            "insertions": 216,
+            "deletions": 0
+          },
+          {
+            "hash": "9bf469ef8d4ece94ddf0a53fcd6eb5ec8340f1b3",
+            "message": "Update docs",
+            "insertions": 24,
+            "deletions": 26
+          },
+          {
+            "hash": "48824bf2ac786468134969585fc154ba79e63a9c",
+            "message": "Remove SE-EDU header from website",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "b947dcf97a321f53beae6a873ea7008717ce9365",
+            "message": "Update reposense author names",
+            "insertions": 0,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 7,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "2efb00e5b069542b41211ce20b994d384fe33b57",
+            "message": "Update UI to show ArchiveBook in StatusBarFooter",
+            "insertions": 14,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 431,
+        "deletions": 79,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "da8c92f0aaf9f4a455f5935794bbcec71deb1862",
+            "message": "Update colour scheme of UI",
+            "insertions": 36,
+            "deletions": 36
+          },
+          {
+            "hash": "8369d6e4a29e864d4033cf682dade44263dd3bb1",
+            "message": "Change application icon",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a43a094bab869df820c8aa77e6ff2086548942c0",
+            "message": "Implement online Google Maps search in BrowserPanel",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "5b743a7dc03f31cbd8399f420ad5d9ed0d02be47",
+            "message": "Revert DarkTheme.css back to original and create new BlueTheme.css to be used for UI",
+            "insertions": 388,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 96,
+        "deletions": 560,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "97ee79bfd7e1778966dd656d4dafc112983aa067",
+            "message": "Remove redundant code",
+            "insertions": 10,
+            "deletions": 156
+          },
+          {
+            "hash": "8971d352dd20dca071b6775c381e682126e234a2",
+            "message": "Change sample data addresses",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "0853684595c2bb923d3f906c87e53a1a1ded4a07",
+            "message": "Update UI",
+            "insertions": 17,
+            "deletions": 16
+          },
+          {
+            "hash": "233bbc6af0f11b85e483f3e177a4457f2b77410f",
+            "message": "Remove @Ignore tags",
+            "insertions": 1,
+            "deletions": 37
+          },
+          {
+            "hash": "55018338cd479827167340eff0caaa36e4516819",
+            "message": "Amend checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "71171a23682163ed58aba9719e5123b4b9ce627b",
+            "message": "Minor changes to SampleDataUtil names and UserGuide etc.",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "eda3e882e2a51166450af8f1ef8d094beed1cbff",
+            "message": "Ignore HelpCommandSystemTest that passes, but fails in builds",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "787846f8a2d1d0a0531a8344588c540212e805a7",
+            "message": "Update Developer Guide",
+            "insertions": 14,
+            "deletions": 303
+          },
+          {
+            "hash": "da999e78035d1a257e19db3c15a7e1f04c30ca69",
+            "message": "Update PPP",
+            "insertions": 28,
+            "deletions": 23
+          },
+          {
+            "hash": "def0d41431ea40fe14b90a701fa78cf937e4552c",
+            "message": "Update logger message from \"Address Book\" to \"TheRealApp\"",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 50,
+        "deletions": 476,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "f81041c83e60ce38f4db96e9bb07e714dae5bdf1",
+            "message": "Updates to UI including list titles",
+            "insertions": 46,
+            "deletions": 474
+          },
+          {
+            "hash": "85e94cef4ea36e08c2d35885bb2aaee9d615a641",
+            "message": "Minor updates to documentation",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "eb2804f52bb4ceebd2b6620d9ef1c97243f82333",
+            "message": "Ignore EditCommandSystemTest that passes, but fails in build",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 38,
+        "deletions": 18,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "1f71f3dcd1e29125b00208a5d3a5960855d3d997",
+            "message": "Updates to documentation",
+            "insertions": 29,
+            "deletions": 14
+          },
+          {
+            "hash": "eaad23d4c7b5474029497bd745bd4201dfc16c9f",
+            "message": "Updates to documentation",
+            "insertions": 9,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 36,
+        "deletions": 28,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "b1dc9ac2345c8df31b24c33ea4d31028d7ac6f9f",
+            "message": "Update list panel to be adjustable in UI",
+            "insertions": 36,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 374,
+        "deletions": 174,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "b95cde469cff89eea3d2836d718a5b5658f670c2",
+            "message": "Updates to browser panel",
+            "insertions": 51,
+            "deletions": 143
+          },
+          {
+            "hash": "0029e8a194e2aefda6440a05f2a26d2bc2a577a3",
+            "message": "Implement archiveselect command and refactor BrowserPanel",
+            "insertions": 279,
+            "deletions": 30
+          },
+          {
+            "hash": "2735915df53a42103552b3e5ab75778ce0a99ac4",
+            "message": "Update existing tests",
+            "insertions": 17,
+            "deletions": 1
+          },
+          {
+            "hash": "991be7d049c15e8b42748fccd5a503d5cecf075f",
+            "message": "Update UG for archiveselect command",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "afba9571831123d63b772eb0922e1a5b0943a3b2",
+            "message": "Modify edit command to allow edited contact to be selected and displayed",
+            "insertions": 7,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 192,
+        "deletions": 113,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "f372e03dc7ac4340289e5744c416100db51e922f",
+            "message": "Implement maps feature for pinselect command",
+            "insertions": 62,
+            "deletions": 19
+          },
+          {
+            "hash": "0031a85eeddd77af45d2872811b818a76e335256",
+            "message": "Minor changes to commands for selection",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "b532910d79c03550ecf771bd7099e455c9639592",
+            "message": "Update existing tests",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "0ff688844a4ca237825e445a9270fc81d4ed4115",
+            "message": "Update UG and version number",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2bc0e3c06939fe2e9bb7d2876b50027f758684a3",
+            "message": "Fix selection bugs",
+            "insertions": 28,
+            "deletions": 5
+          },
+          {
+            "hash": "29b144ca3f83aa961310ca97ffc205bac74c9949",
+            "message": "Update documentation",
+            "insertions": 87,
+            "deletions": 86
+          }
+        ]
+      },
+      {
+        "insertions": 83,
+        "deletions": 462,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "b718f8cc61b2add04f2e2fc28088329c83f24752",
+            "message": "Refactor archiveBook in Model to implement an AddressBook instead",
+            "insertions": 49,
+            "deletions": 330
+          },
+          {
+            "hash": "3d66f8189dce20a22bfbe5d3db41aed54b435c35",
+            "message": "Update existing tests",
+            "insertions": 14,
+            "deletions": 53
+          },
+          {
+            "hash": "9c35dc50147cee4b0e50e04b605dee29f0cce0c4",
+            "message": "Updates to documentation",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "9e7c698232692aa3e75560c19ffbb67a54dd9833",
+            "message": "Updates to DG",
+            "insertions": 20,
+            "deletions": 6
+          },
+          {
+            "hash": "c4da12855dc4a3c44b013d79f817708be4b92fd9",
+            "message": "Remove sample PPP",
+            "insertions": 0,
+            "deletions": 71
+          }
+        ]
+      },
+      {
+        "insertions": 1442,
+        "deletions": 359,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "61e8f77efdcb79c9e88740ed2c2c3844c3b510cf",
+            "message": "Update documentation",
+            "insertions": 126,
+            "deletions": 16
+          },
+          {
+            "hash": "63ba3b9bd0e3a08d013fca53d5ce317b40633fa3",
+            "message": "Refactor BrowserPanel and modify selection for AddCommand",
+            "insertions": 25,
+            "deletions": 50
+          },
+          {
+            "hash": "ec97e0bf0be044428944d05021d8828d6eea57b9",
+            "message": "Update existing tests",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "8408d7cf869d0faa55c995a4c3edd7350034ac42",
+            "message": "Update documentation",
+            "insertions": 54,
+            "deletions": 26
+          },
+          {
+            "hash": "8fd9f06f70350a6912f4f791fb6762f34604e1b6",
+            "message": "Refactor undo/redo/commit to do for all books together",
+            "insertions": 72,
+            "deletions": 245
+          },
+          {
+            "hash": "66a85ec4c18669fb114f54ba28d8a57881da7213",
+            "message": "Add new tests",
+            "insertions": 251,
+            "deletions": 3
+          },
+          {
+            "hash": "53e5e937eb26394fcc5d42a7e166dba22cfa37f4",
+            "message": "Amend checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "ca0418e587df593487ef81dbc2e98ab9d6df204d",
+            "message": "Add/update new tests for new archive feature commands",
+            "insertions": 340,
+            "deletions": 13
+          },
+          {
+            "hash": "1aa174d41bb23c1688815822e621bd15cecb8d59",
+            "message": "Add parser tests for new archive feature commands",
+            "insertions": 88,
+            "deletions": 0
+          },
+          {
+            "hash": "0e00bb22bab03cf5c5f071c97df486a88a5a59c1",
+            "message": "Add new storage tests for new archive feature",
+            "insertions": 357,
+            "deletions": 0
+          },
+          {
+            "hash": "a1f4330e3b60c9c0a47b2d5a7693c72370b8ef07",
+            "message": "Add new tests for ModelManagerTest",
+            "insertions": 106,
+            "deletions": 2
+          },
+          {
+            "hash": "868a84f5dc8c04d3149cf8b8c5b3679a1a543d51",
+            "message": "Minor updates to UG",
+            "insertions": 9,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 343,
+        "deletions": 192,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "0b04751ad464f64e3e0ba6c91af4c6dc1f901235",
+            "message": "Refactor and update tests",
+            "insertions": 50,
+            "deletions": 79
+          },
+          {
+            "hash": "a5a4e6ae13fd30064ba02652bb18cef476d01b88",
+            "message": "Ignore AddCommandSystemTest that passes on local build, but fails on AppVeyor",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "9797f0eea53d85a78e39e3472d050e4eef6f9de7",
+            "message": "Update documentation",
+            "insertions": 80,
+            "deletions": 11
+          },
+          {
+            "hash": "9b751bd33cf2d77eef2b3e365c72470e28fb5013",
+            "message": "Improvements to code quality",
+            "insertions": 25,
+            "deletions": 26
+          },
+          {
+            "hash": "8c86c37c7487652d7608d136acdf46071de70268",
+            "message": "Update User Guide",
+            "insertions": 62,
+            "deletions": 37
+          },
+          {
+            "hash": "2d795a97ea75b83de70e0d4d8c27e7900af680f0",
+            "message": "Minor wording change in UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b148a0ef01bfaf087bb8d74d9a35da741d617113",
+            "message": "Update tests",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "1a0a34f8097ee1de03e65bb6a7dd1de1ff582e7d",
+            "message": "Update documentation",
+            "insertions": 120,
+            "deletions": 38
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "ChenWenCUHK": 2327,
+    "tanlongbin": 3084,
+    "yongxiang1095": 4125
+  },
+  "authorFileFormatContributionMap": {
+    "ChenWenCUHK": {
+      "adoc": 193,
+      "cs": 0,
+      "css": 0,
+      "fxml": 10,
+      "gradle": 0,
+      "html": 0,
+      "java": 1983,
+      "js": 0,
+      "json": 141,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "tanlongbin": {
+      "adoc": 408,
+      "cs": 0,
+      "css": 24,
+      "fxml": 7,
+      "gradle": 0,
+      "html": 0,
+      "java": 2540,
+      "js": 0,
+      "json": 105,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "yongxiang1095": {
+      "adoc": 1087,
+      "cs": 0,
+      "css": 376,
+      "fxml": 45,
+      "gradle": 3,
+      "html": 1,
+      "java": 2472,
+      "js": 0,
+      "json": 141,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "ChenWenCUHK": 143780.5,
+    "tanlongbin": 96198.99,
+    "yongxiang1095": 83898.06
+  },
+  "authorDisplayNameMap": {
+    "ChenWenCUHK": "CHE...WEN",
+    "tanlongbin": "TAN...BIN",
+    "yongxiang1095": "CHO...ANG"
+  }
+}

@@ -1,0 +1,4865 @@
+{
+  "authorDailyContributionsMap": {
+    "brohandev": [
+      {
+        "insertions": 7,
+        "deletions": 7,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "88fff60a7362015db3d021afc55bc1dd77141773",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "56d7cc3f7f67e06195a39cfc978999da25d58898",
+            "message": "Update README.adoc",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 11,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "6cf11a3c606023c0f90409f50f90cdf8030761b0",
+            "message": "Update brohandev.adoc",
+            "insertions": 15,
+            "deletions": 9
+          },
+          {
+            "hash": "dc016a71a1ef6ad2ad42ae71e5f60dd0b769f699",
+            "message": "Update brohandev.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "daviddl9": [
+      {
+        "insertions": 110,
+        "deletions": 4,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "de1be9cdf24de69b433b4e4a0a787611c757dc93",
+            "message": "Added request class",
+            "insertions": 108,
+            "deletions": 0
+          },
+          {
+            "hash": "278b3938779f524ba200f32cd456fda51c96ba5e",
+            "message": "Added request class",
+            "insertions": 2,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 153,
+        "deletions": 150,
+        "date": "2019-02-22",
+        "commitResults": [
+          {
+            "hash": "b242c0af8b9d28debf9c5e7a53995d19af15923e",
+            "message": "Fixed style settings",
+            "insertions": 55,
+            "deletions": 53
+          },
+          {
+            "hash": "bb775d5f7af8836096ead15ebaed410ca629396b",
+            "message": "Fixed style",
+            "insertions": 87,
+            "deletions": 88
+          },
+          {
+            "hash": "65c667c3cb0da71f7cb4515afeec7439bb8d8c08",
+            "message": "Added request class",
+            "insertions": 11,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 412,
+        "deletions": 7,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "a3cf9d497beb7e766eadaccc14a7ae6188b5a673",
+            "message": "Created new tests and helper classes for tests of request class",
+            "insertions": 412,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 325,
+        "deletions": 137,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "3dfeb2b8d14e56d75a4fa99eff29592e330d830d",
+            "message": "Fixed bug that fails to check for all conditions when looking for request equality",
+            "insertions": 24,
+            "deletions": 26
+          },
+          {
+            "hash": "c307ed3e4a1c4e09b9d86c8a0801147d4158e0ca",
+            "message": "Refactored `HealthStaff` to `HealthWorker` for standardisation and to minimise ambiguity",
+            "insertions": 20,
+            "deletions": 20
+          },
+          {
+            "hash": "942c93a47abdfffe25702ec702207def43be723d",
+            "message": "Updated line in Request due to abide by 120 line char limit",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d1ae015753ab80833bda6f8e138371c57af69680",
+            "message": "Adjusted import statements to adhere to code style",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "59aa6b379104ed3161df4841f1db0296c3511c85",
+            "message": "Adjusted import statements to adhere to code style",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "896a0bc4e1d979652f72eff87c68524bb102f091",
+            "message": "Adjusted import statements to adhere to code style",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "fe400b63ebed9cc707e5ff8b93b315e08f12c04a",
+            "message": "Adjusted import statements to adhere to code style",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "33d26fb6b4ed7aba9373c8adee8b4c0d3e97549b",
+            "message": "Adjusted import statements to adhere to code style",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "a2b30801f5d294f6969e78c37680aea68099438f",
+            "message": "Adjusted import statements to adhere to code style",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "8c12bb906a299c1efc8aec64da2db2a2120a7ade",
+            "message": "Adjusted code style for uniformity",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "90245b2d7e7312fbcdf70f286121b4fb2dfe65ec",
+            "message": "Added JavaDoc",
+            "insertions": 26,
+            "deletions": 14
+          },
+          {
+            "hash": "77ccee75f43134b65d3daf9772b2e43419a87cb8",
+            "message": "Added JavaDoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7cfe5d64af893eef639c69139b19049ced48042c",
+            "message": "Created `RequestStatus` enum for better handling of status constants.",
+            "insertions": 199,
+            "deletions": 36
+          },
+          {
+            "hash": "9370b7b2f30bc1bad5585bae0eaef277b2341bff",
+            "message": "Added JavaDoc",
+            "insertions": 12,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 45,
+        "deletions": 31,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "bc8d19791f8c330d537b1710c04bf9d8ef642fa7",
+            "message": "Integrated HealthWorker into the Request Object",
+            "insertions": 37,
+            "deletions": 29
+          },
+          {
+            "hash": "d4cd36a650f56bf70778b8de4b7ed2d32c2a61c2",
+            "message": "Updated import statements",
+            "insertions": 8,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 459,
+        "deletions": 1,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "fd791fa5a4af8c0de6825ecb48a284ce009660e5",
+            "message": "Created helper classes for the Request class",
+            "insertions": 459,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1010,
+        "deletions": 343,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "fc09935a59f2009938958f937199a25db15c5cb9",
+            "message": "Update storage classes to help with the storage of Request objects",
+            "insertions": 470,
+            "deletions": 9
+          },
+          {
+            "hash": "6b831ed3bec3ef41e1ce41891432cbb0c6aecd2b",
+            "message": "Cleaned up code by removing unnecessary class",
+            "insertions": 0,
+            "deletions": 125
+          },
+          {
+            "hash": "c3c0cccdd3cace5402df66d93641b21893e13637",
+            "message": "resolved merge conflict",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "535da3f184a26aaf3877108bb643020d55cf6b1a",
+            "message": "Deconflicted issue with shared Prefix",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "138d3b9efeee5d02db0c333d7676683b8a271d24",
+            "message": "fixed checkstyle errors",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "dd3f423a1719f69080bf2b1d943ae3c7172ba46d",
+            "message": "fixed checkstyle errors",
+            "insertions": 63,
+            "deletions": 62
+          },
+          {
+            "hash": "933832114995d67954e3109127aef0373113a215",
+            "message": "Added tests to improve test coverage",
+            "insertions": 366,
+            "deletions": 6
+          },
+          {
+            "hash": "f95b97be83fbb9b17d491134caaa79f3586b4ead",
+            "message": "Added EOF to fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "429acc1c82f12c62ff2e254ae133f7ab7ffe64d3",
+            "message": "Added EOF to fix checkstyle",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "8157e9bd67181b3aa344090e350b3d7d7a06b8b9",
+            "message": "Fixed checkstyle",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "ec8222883740dbf8357a95d669b6c51df168e76f",
+            "message": "Added JsonAdaptedRequest tests",
+            "insertions": 97,
+            "deletions": 124
+          },
+          {
+            "hash": "91c68de1529a4e7328caca085daa267e81f46c47",
+            "message": "fixed checkstyle errors",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 283,
+        "deletions": 28,
+        "date": "2019-03-08",
+        "commitResults": [
+          {
+            "hash": "a899cd00d2eb0fcab19a4bfdb0dd0b208957d423",
+            "message": "Fixed checkstyle errors",
+            "insertions": 276,
+            "deletions": 21
+          },
+          {
+            "hash": "86b63e66a22caf27581c7f89e79ce3eb21880522",
+            "message": "Refactored JsonRequestListStorage to JsonRequestBookStorage to standardise naming conventionds.",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "734f43a71f8ed9ab53aa91e266c091bb98e578bf",
+            "message": "Refactoring to fix naming conventions",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 684,
+        "deletions": 67,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "24e63e2ea0756490bb7289fdd57e6ed4e9e756af",
+            "message": "Create versioned RequestBook class to manage requests",
+            "insertions": 568,
+            "deletions": 20
+          },
+          {
+            "hash": "320dd6d0d0fd816eec0430f83f45c6ed6f6c6193",
+            "message": "Adapted styling to fix checkstyle errors",
+            "insertions": 106,
+            "deletions": 17
+          },
+          {
+            "hash": "eef7e4a0e2b30a4c2c3127e0decd660ce39dd2bf",
+            "message": "Added tests to improve test coverage",
+            "insertions": 10,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "7e7f366f955fcdf1b1924609b9d8fd4f26541878",
+            "message": "Added tests to improve test coverage",
+            "insertions": 11,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 657,
+        "deletions": 188,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "02bbdec7df5ce07afd9f30c946dc70d0369d890a",
+            "message": "Create EditRequestCommand class",
+            "insertions": 56,
+            "deletions": 20
+          },
+          {
+            "hash": "6a9c4aa6e8ceeda8390eee6e44ec20700e097b10",
+            "message": "Finished EditRequestCommand class",
+            "insertions": 314,
+            "deletions": 14
+          },
+          {
+            "hash": "d777bbc6c7c19e16b9f420eeacbf7e0fb7ce4ec0",
+            "message": "added tests for editrequestcommand",
+            "insertions": 287,
+            "deletions": 154
+          }
+        ]
+      },
+      {
+        "insertions": 539,
+        "deletions": 159,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "dc414897fc08b7349c7d8393efc00f6361a2079e",
+            "message": "fixed checkstyle errors",
+            "insertions": 97,
+            "deletions": 62
+          },
+          {
+            "hash": "3edfa89ef3ad3d47f1c4aabc666284c3881bc442",
+            "message": "resolved compilation errors",
+            "insertions": 53,
+            "deletions": 21
+          },
+          {
+            "hash": "468495bea50d537045639e98b7aefef0c3523323",
+            "message": "added test for editrequestdescriptor",
+            "insertions": 105,
+            "deletions": 10
+          },
+          {
+            "hash": "e751a20f64e473a0d03410a052fa59d8b9166be4",
+            "message": "added tests for editrequestcommand",
+            "insertions": 205,
+            "deletions": 19
+          },
+          {
+            "hash": "16bc844311175df7fbfc7ff93b5cc26d342a3d46",
+            "message": "fixed checkstyle errors",
+            "insertions": 79,
+            "deletions": 47
+          }
+        ]
+      },
+      {
+        "insertions": 127,
+        "deletions": 44,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "1161fb23591443054ea8fb7000809a9197b034ee",
+            "message": "fixed bug for JsonRequestBookStorage and JsonSerializableRequestBook",
+            "insertions": 127,
+            "deletions": 44
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 112,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "71324f464758492a8d263d34a9e813abf1897130",
+            "message": "updated invalidRequestBook",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bdd934ad782151a231d621a83ec5d20ee385d47e",
+            "message": "removed unnecessary ID field in Request object",
+            "insertions": 71,
+            "deletions": 111
+          }
+        ]
+      },
+      {
+        "insertions": 614,
+        "deletions": 601,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "d7c7d88975b128e978d1ad122bb2817f3592c938",
+            "message": "finalised request class and RequestBookStorage",
+            "insertions": 336,
+            "deletions": 457
+          },
+          {
+            "hash": "6c25e20043cc434936e3dc0dccc28975c01a50e6",
+            "message": "Updated tests for request class",
+            "insertions": 86,
+            "deletions": 0
+          },
+          {
+            "hash": "68cea9853f8eed30710a790801ddb4ef0647c25e",
+            "message": "Updated tests for request class",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "c9c6a64406b959ba9503e585e72068d2a99ac75a",
+            "message": "Updated user guide",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "f3944bb5d8baddb000aa04566420f49e42495160",
+            "message": "fixed checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8a8cb838e1f141ad93b08545e487303b6b3d40c2",
+            "message": "Updated user guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7481f7bd01229d4466f21f2a4bdb191d56c30aae",
+            "message": "Fixed checkstyle errors",
+            "insertions": 4,
+            "deletions": 11
+          },
+          {
+            "hash": "c79257284dc95faca49b522059ba36bc45b3f109",
+            "message": "Fixed bug in Request `isSameRequest` class that checks for similarity poorly. Fixed bug in Condition tag class that checks for equality incorrectly as well.",
+            "insertions": 170,
+            "deletions": 124
+          },
+          {
+            "hash": "95fa848cb5710c798ffc34227d22e3f6c8cc916a",
+            "message": "fixed checkstyle",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 190,
+        "deletions": 4,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "3fde69312f9da06f5fee1396ae6a9f6473db3209",
+            "message": "Updated developer guide",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "21d3c45a016da1570df6e2462abd9f6b7c1890e0",
+            "message": "Fixed bug in `UniqueRequestList` where `add` is called instead of `set`",
+            "insertions": 186,
+            "deletions": 2
+          },
+          {
+            "hash": "1481f9855cf448d97b5fb829264b7614f68589ec",
+            "message": "fix checktyle",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 427,
+        "deletions": 128,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "a0602ec213e0a3b0ceee7a2ca603f990c1e0aec5",
+            "message": "Updated request test and typical requests",
+            "insertions": 5,
+            "deletions": 29
+          },
+          {
+            "hash": "4e49ebcf0209c34e4bbe3a14322e86af5087fe45",
+            "message": "Fixed bug where there was default placeholder values in RequestBuilder constructor",
+            "insertions": 40,
+            "deletions": 32
+          },
+          {
+            "hash": "65246edd8a6b996c9e817def30c4b1c7ddf3ae60",
+            "message": "Created List Request Command",
+            "insertions": 107,
+            "deletions": 35
+          },
+          {
+            "hash": "71d5e13e2b64b36583547aff92824f24954495f1",
+            "message": "Added list request command and tests",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "37d3fd9938650be950a10b9359641eafd20dff55",
+            "message": "Updated user guide",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "df00bbd5f26abd13e3b04a7bfc9e19fd7a242e9d",
+            "message": "fixed typo in ListRequestCommand command word",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "26217c72befc164f4e0975ed3d6b9f1e9c81bc4e",
+            "message": "fixed checkstyle",
+            "insertions": 28,
+            "deletions": 28
+          },
+          {
+            "hash": "0d91feee4cafd5bcc3fa34c12166ca76ed7bdecf",
+            "message": "Created Delete Request Command",
+            "insertions": 138,
+            "deletions": 0
+          },
+          {
+            "hash": "dd88eaad55ea7e4b838edf1f7034a339273c28a2",
+            "message": "Updated user guide",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "8da271cad87083bee13698de6c939de4e4584001",
+            "message": "Added delete request parser",
+            "insertions": 97,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 191,
+        "deletions": 1,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "0fd089cc21e0cea2faec567acef26dd543ce7546",
+            "message": "updated styling for selectrequestparser",
+            "insertions": 191,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 238,
+        "deletions": 33,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "5bb2d25fea6728838482e7694dffcd0874539fa8",
+            "message": "Added select request command and it\u0027s relevant test",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "28bd80504cc64377c638056805f8d6fd4a0841bc",
+            "message": "Updated developer guide for create request command",
+            "insertions": 204,
+            "deletions": 21
+          },
+          {
+            "hash": "eef78eadf5d90812d0ef736e4b182b8ea9e1857d",
+            "message": "Updated message in help box for incorrect commands",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "f002233743ff11cdf841d2ee25c22b8387209498",
+            "message": "Fixed error where requestbook and healthworkerbook does not save when application is exited",
+            "insertions": 23,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1980,
+        "deletions": 75,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "29bc14cf7d2c571111db095c89514933d9ed98ac",
+            "message": "Fixed checkstyle errors",
+            "insertions": 1779,
+            "deletions": 3
+          },
+          {
+            "hash": "240ec63f2bc7ed2f4162bb342e497f8c00160a89",
+            "message": "Updated user guide",
+            "insertions": 48,
+            "deletions": 10
+          },
+          {
+            "hash": "cab9e23b99b082f558c1d3551ab1199c77f930d7",
+            "message": "Added tests for parser and fixed delete request bug",
+            "insertions": 30,
+            "deletions": 62
+          },
+          {
+            "hash": "98dec290e1eefc2a5409627ab2e2887f8f8e0741",
+            "message": "Fixed assign request command bug",
+            "insertions": 123,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 391,
+        "deletions": 3,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "c4243dae2edc295da5efc4a1e6a487f991a94490",
+            "message": "Created clear request command",
+            "insertions": 111,
+            "deletions": 2
+          },
+          {
+            "hash": "99814ca987c95dddaadd38c333640774f93e6ccc",
+            "message": "Updated user guide",
+            "insertions": 245,
+            "deletions": 0
+          },
+          {
+            "hash": "a65d47de5619ac391da1c326a6f181f9ae18310b",
+            "message": "added config files",
+            "insertions": 34,
+            "deletions": 0
+          },
+          {
+            "hash": "a0bb5d01dcb91e4b910b22c9c1267d8c712ea0b4",
+            "message": "Fixed checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 71,
+        "deletions": 37,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "43fa94e172f05d0a458e3e93099594ed31516723",
+            "message": "Fixed bug where completed requests can be assigned to healthworkers",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "db474f5fc02cfea64d4cb337bcc636a9c56c89a4",
+            "message": "Fixed coveralls not showing in project README",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d9b61809fc8d693b00179f6389d111333f0fc0f0",
+            "message": "Refactored AddressBookParser for HealthHubParser",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "21e94e603df89357fde0cc4eaa2c785beb1798d4",
+            "message": "Added request diagrams and ppp",
+            "insertions": 36,
+            "deletions": 27
+          },
+          {
+            "hash": "593902373f934ac8028a9cecd639b7e90acbd7e6",
+            "message": "Added assign request command to user guide",
+            "insertions": 6,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 249,
+        "deletions": 20,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "89532a70be0421d55a2908d17c57eec23b0bd390",
+            "message": "Added Dev guide documentation",
+            "insertions": 106,
+            "deletions": 16
+          },
+          {
+            "hash": "36629986468f6f6f475fd1f27e719a4027669811",
+            "message": "Added add request image to dev guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "36df1f1adbfdbd64c1a448769d583dd90439f018",
+            "message": "updated user guide and developer guide",
+            "insertions": 142,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 119,
+        "deletions": 41,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "907a00fd6650428944d7508d769dbad36356da0c",
+            "message": "Fixed Filter command bug where NRIC is not recognised, and added User Guide documentation",
+            "insertions": 35,
+            "deletions": 11
+          },
+          {
+            "hash": "7685d3f38cfe6dd7d79afdb94d6a5665ee0d9856",
+            "message": "Fixed add request command bug where there is no message shown to user when duplicate request is created",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "ae9fe5ac84cec26242a85a0b206df1232fd12e89",
+            "message": "Added EOF newline character to config file",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e96e8f7e5676f84e2aeaaf199aba1ad493f0daae",
+            "message": "Updated user guide and fixed edit request command bug where it does not check for NRIC field",
+            "insertions": 58,
+            "deletions": 20
+          },
+          {
+            "hash": "f87b1ddc309484c3a6fe3f60ee43ed90c83dfb20",
+            "message": "Added EOF newline character to config file",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ceea5e48960dd30d9b1bfef1c13cb3978453f6b7",
+            "message": "Updated user guide",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "364cb4bfc7c51aa3b289420a32e5d5ef285730b3",
+            "message": "Updated user guide for",
+            "insertions": 17,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 104,
+        "deletions": 2,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "eed3c7649da3dc61b0085f7d9f38dbef5480178c",
+            "message": "Added tags for RepoSense compatibility",
+            "insertions": 103,
+            "deletions": 1
+          },
+          {
+            "hash": "db1231a4e8c2fcf793f41d9234748486286b373e",
+            "message": "Updated config file to add author name",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 240,
+        "deletions": 143,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "0b2df7efe4a3d4798aa59993416d7e809b3c53b1",
+            "message": "Fixed EditRequestCommand bug and added documentation",
+            "insertions": 89,
+            "deletions": 27
+          },
+          {
+            "hash": "1ba67537d01788c4b42d6897aea862dacb8fea22",
+            "message": "Fixed documentation issue with assign command",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "452055e6c89ae59ea804db9cc1979e4c6b7c76ac",
+            "message": "Updated clear and edit request command tests",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "3e5d83182c10a7cd69e8ad22a19114d17b4abe3d",
+            "message": "Updated dev guide diagrams",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "e8ef290c671815550eda82250f028511c5c00db5",
+            "message": "Updated user guide",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "46cba5af5c3f2d3aba062f3224219813be8192e7",
+            "message": "Updated documentation",
+            "insertions": 93,
+            "deletions": 38
+          },
+          {
+            "hash": "d6b2ea98b1f3c289a37cf6e27027b70d2a3595f2",
+            "message": "updated healthworker book",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "c98e6b7597d57731ac3e9438c32faaa917e8e80e",
+            "message": "Changed file names",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "410f759e4aea4b552e29bdca2d1471552777f0d2",
+            "message": "Updated images and resized images",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "8b081047c468344ad8f311db3cd43e5c841d1987",
+            "message": "Updated UG",
+            "insertions": 16,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 76,
+        "deletions": 19,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "0989be628789a1859f126ad21463e846a4e20079",
+            "message": "Added logger to assignrequestcommand",
+            "insertions": 76,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 282,
+        "deletions": 65,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "e6d4fb26904e692f98d28fa62b85a786b07afe85",
+            "message": "Merged updates from org",
+            "insertions": 252,
+            "deletions": 46
+          },
+          {
+            "hash": "fbb34dd16fbbb3f101799525b3906f7cd84391e5",
+            "message": "Updated assign request to check for conflicting timings of healthworkers",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "2a0276dd8e34988a7c3f391ba36dda0c763fc124",
+            "message": "Fixed edit request command bug",
+            "insertions": 6,
+            "deletions": 9
+          },
+          {
+            "hash": "c58cd729541c45d9c83a056f5b6a20ab2d17da8e",
+            "message": "Updated user guide",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "2444f6bffa4e9da4fca2f1538fdb370b5d3e2db2",
+            "message": "Added minor documentation",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "a3c4674ea8ebac78761659dbe02f102b83a30b6f",
+            "message": "added eof to config",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 206,
+        "deletions": 122,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "e19da1b0016cab457f4779c8f32faad62dd88766",
+            "message": "Updated PPP",
+            "insertions": 54,
+            "deletions": 24
+          },
+          {
+            "hash": "9c630d4023a8915f1cdbbf210353a37665b0bb61",
+            "message": "Updated PPP",
+            "insertions": 9,
+            "deletions": 3
+          },
+          {
+            "hash": "7e9bba1682a682071c4a5fefa27d482788a37ab9",
+            "message": "fixed checkstyle",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "dffed553f9161a83794dbb77dd432b526e90e0c4",
+            "message": "Updated images and documentation",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e64c36f785db827279e2faf19ad68a39aa8289c3",
+            "message": "Updated dev guide implementation for assignrequest",
+            "insertions": 60,
+            "deletions": 27
+          },
+          {
+            "hash": "2d88cf5f8b88c61e9dbaac17cd68c99f9b5bbe3d",
+            "message": "Added tests for JsonAdaptedRequestTest",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "108aa2108fb0cd0c2e37c4a1ff8055b3bcbc8cfa",
+            "message": "Updated UG documentation",
+            "insertions": 25,
+            "deletions": 31
+          },
+          {
+            "hash": "4ddeaf2f0863cee0ade4b9e65000e5e87efcab12",
+            "message": "Edited PPP",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "6a2bceebc0edfff6e6677659df6cf68ca1cd8550",
+            "message": "Fixed tests and updated User Guide",
+            "insertions": 46,
+            "deletions": 19
+          }
+        ]
+      }
+    ],
+    "jing1324": [
+      {
+        "insertions": 66,
+        "deletions": 12,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "02d42d733618e98d750826091ee8420663915b33",
+            "message": "Modify User guides and user stories and model diagram",
+            "insertions": 62,
+            "deletions": 8
+          },
+          {
+            "hash": "a1d06018a95deefc9e74950022c155c1afb6b5a1",
+            "message": "Changed name to HealthHub",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "df288a8cbb2b5c8130a25cf8268883b34b34fb45",
+            "message": "Fix bugs",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f19510f01da115f64361cecde3590e401b85e4c7",
+            "message": "Update links for user and developer guide",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 219,
+        "deletions": 1,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "c5b91119df8d38c16c7f137e0dcc04bbc16049b8",
+            "message": "Add Json Health worker and Request as copies of Json person",
+            "insertions": 219,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 123,
+        "deletions": 108,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "3368c8f760ddbfb62395b7059c573831180a3e35",
+            "message": "Modify JsonAdapted Classes to fit model classes",
+            "insertions": 49,
+            "deletions": 34
+          },
+          {
+            "hash": "20e845bd71beb3c5a1e63d3a05f8fb447210ee94",
+            "message": "Add requestlist.json file and Request class for json",
+            "insertions": 53,
+            "deletions": 53
+          },
+          {
+            "hash": "67ac52e11312167b03566e99fd435918ac0a10c9",
+            "message": "Add JsonAdaptedRequest class to fit Request class in model",
+            "insertions": 21,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 183,
+        "deletions": 31,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "e7c8262ccd66b671c993a9791c7d7cbbbef0a95a",
+            "message": "Updated JsonAdaptedRequest fields to fit Request",
+            "insertions": 38,
+            "deletions": 31
+          },
+          {
+            "hash": "9f8e238cc53b9931053e1a0db1e0fdc33d34b6a9",
+            "message": "Added new classes JsonRequestListStorage and JsonSerializableRequestList as copies of addressBook counterparts",
+            "insertions": 145,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 103,
+        "deletions": 68,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "feb1dabd9622f52402ffdec3cb30f7d28928a2b8",
+            "message": "Attempt to clear travis tests",
+            "insertions": 65,
+            "deletions": 46
+          },
+          {
+            "hash": "92d5a1caed513ef7aca929fc29d47ecbdb4e451b",
+            "message": "Attempt clear travis tests",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "85ee112b6bfd177f5be48c1a5cfd3f078961d564",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7960419a5b97bc4d0901fd2a932520620620e2e4",
+            "message": "Fix junit tests on JsonAdapterPerson",
+            "insertions": 10,
+            "deletions": 9
+          },
+          {
+            "hash": "f63cc958d6cc5af2f4821cb3586bdc54bb9ca6ed",
+            "message": "Fix checkstyle errors",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "ce1ca3c2d32cfc11183c6d46a19f065078794d9f",
+            "message": "Modified test for Json SerializableAddressBook",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 124,
+        "deletions": 46,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "0feb3a23601faaf57057712aee7e4e964e06dd65",
+            "message": "Modify test cases for SerializableAddressBook",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "1d9eb0a14074a976e52e8827ec0454fdd15b64a4",
+            "message": "Remove unnecessary imports",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "05b800a53aedb7bb481b04ed00278da190561fbb",
+            "message": "Add nric fields in addressbook.json",
+            "insertions": 24,
+            "deletions": 0
+          },
+          {
+            "hash": "90f55c88f2e77ff36d54f69cdeaf7e1b3c442b6f",
+            "message": "Fix checkstyle errors",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "e124258524977936a6c71587f69993d548a8210d",
+            "message": "Modified method signatures for JsonAdapterPersonTest",
+            "insertions": 31,
+            "deletions": 17
+          },
+          {
+            "hash": "dd83d346a52677ee6ba6c09fd92f5cd601fdac2e",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "ed642898415d11f6e00d5671f1442348fa281d23",
+            "message": "Fix checkstyle errors",
+            "insertions": 12,
+            "deletions": 6
+          },
+          {
+            "hash": "9d857757322089d6430fffda8b0fdac2b3f04ab6",
+            "message": "Modify tests",
+            "insertions": 41,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 18,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "30db795fdb15089ae135786b36897fcbe2a058e0",
+            "message": "Modify System tests for Edit and Add command",
+            "insertions": 10,
+            "deletions": 9
+          },
+          {
+            "hash": "e316f45ddd8e63e20e43f771398d3f42918cbed6",
+            "message": "Fix checkstyle errors",
+            "insertions": 8,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 297,
+        "deletions": 75,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "4feebd4bf0c43c242d37458453625ed4833d13a4",
+            "message": "Added Json HealthWorkerBookStorage and SerializableHealthWorkerBook classes",
+            "insertions": 103,
+            "deletions": 4
+          },
+          {
+            "hash": "d7018197b79fd8edbbdab8da325e6c30b8abe3ff",
+            "message": "Implemented Storage to include RequestBook and HealthWorkerBook",
+            "insertions": 157,
+            "deletions": 68
+          },
+          {
+            "hash": "1fee349cdbb0454ff9230d11b76a4eb925dff8c5",
+            "message": "Modify UserPref and MainApp to include healthWorkerBook storage",
+            "insertions": 37,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 429,
+        "deletions": 71,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "dcfcef93660dd47d7bb1e03bcd18064b4d3c0246",
+            "message": "Fix first round of checkstyle errors",
+            "insertions": 20,
+            "deletions": 7
+          },
+          {
+            "hash": "3d8e6a1f9072994307922473a0b28d2c045d28fa",
+            "message": "Fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c9e8354d120de691cf8f3681f8a7d080b4202e33",
+            "message": "Fix more checkstyle errors",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "bc547423df70841097a3dded768e3f4e79d34f23",
+            "message": "Added dummy test classes",
+            "insertions": 301,
+            "deletions": 0
+          },
+          {
+            "hash": "e38a5013189fabbedfec3f49989d98739bccdee5",
+            "message": "Added dummy test classes as copies of AddressBookStorageTest",
+            "insertions": 16,
+            "deletions": 19
+          },
+          {
+            "hash": "3debd52306272713670e0bf9ae26bd869175418b",
+            "message": "Add files for JsonAddressBookStorageTest",
+            "insertions": 88,
+            "deletions": 41
+          }
+        ]
+      },
+      {
+        "insertions": 341,
+        "deletions": 110,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "fbabe93fe76885e52e6c45691f25ddb25cbbd090",
+            "message": "Modified JsonRequestBookStorageTest and add test files",
+            "insertions": 158,
+            "deletions": 58
+          },
+          {
+            "hash": "621615d8f9dc25045c81d09576ff60e773239646",
+            "message": "Fix checkstyle errors",
+            "insertions": 130,
+            "deletions": 8
+          },
+          {
+            "hash": "ea8ff1d000856fc65f246fba7c5f602bdf552a15",
+            "message": "Fix checkstyle errors again",
+            "insertions": 28,
+            "deletions": 26
+          },
+          {
+            "hash": "f1d7daef7aa13270d28f43d05bb698d98b4b63c6",
+            "message": "Fix more checkstyle errors",
+            "insertions": 14,
+            "deletions": 13
+          },
+          {
+            "hash": "440b656a8b31293ef494bb80401c8be6c455f436",
+            "message": "Fix even more checkstyle errors",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "d53bedac8cde7054df839f485c73325d91623393",
+            "message": "Fix checkstyle errors",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 217,
+        "deletions": 22,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "fc5278ce991d5d862a571afe4e1fba5639f678ba",
+            "message": "Added data files for addressbook",
+            "insertions": 113,
+            "deletions": 18
+          },
+          {
+            "hash": "c1824bf19e8163f3cbdcd48603bf0d602ce408e2",
+            "message": "Add EOF at the end of file",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "eb25e3789940ea3b30700b7443dea4cdaeb989ad",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1c5f2b90f254be5d9071cc036bc687996cb99c0c",
+            "message": "Fix checkstyle errors",
+            "insertions": 101,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1765,
+        "deletions": 283,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "3b08472ca229e20d7b51b7033a72f95d3cd73c3b",
+            "message": "Fix merge conflicts",
+            "insertions": 1423,
+            "deletions": 254
+          },
+          {
+            "hash": "debc067ab52c1ba74b3cd7b8ef949c364eb8e412",
+            "message": "Add storage classes for patientbook",
+            "insertions": 188,
+            "deletions": 0
+          },
+          {
+            "hash": "83918c9a4ce95128803c1ed3663c53090a7d76ce",
+            "message": "Fixed some broken tests",
+            "insertions": 154,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 372,
+        "deletions": 243,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "58bd78374a381a10f12504d4841327f5bcc775ab",
+            "message": "Attempt to fix RequestBookStorage tests",
+            "insertions": 166,
+            "deletions": 0
+          },
+          {
+            "hash": "81d10404e67c18a0be7af1a4bdba1877342cb373",
+            "message": "Fix bugs with tests",
+            "insertions": 206,
+            "deletions": 243
+          }
+        ]
+      },
+      {
+        "insertions": 1043,
+        "deletions": 546,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "c548745f8131a816374a4e5470c09d36a30de203",
+            "message": "Added JsonPatientStorageTest",
+            "insertions": 658,
+            "deletions": 400
+          },
+          {
+            "hash": "4592a03cb7c9fb340bcf1de2564005105cd0745e",
+            "message": "Fix part of serializable tests",
+            "insertions": 107,
+            "deletions": 43
+          },
+          {
+            "hash": "3f8f25bf87ad2d503d59aa510da42c74bb40cc30",
+            "message": "Fixed Json Serializable healthworkers test",
+            "insertions": 48,
+            "deletions": 4
+          },
+          {
+            "hash": "924f7bbceb832d1c018cc29832f87b524c0f668b",
+            "message": "Fix checkstyle errors",
+            "insertions": 41,
+            "deletions": 25
+          },
+          {
+            "hash": "bf3f6e95b8875ee77514df2e898034f7ae41736a",
+            "message": "Fix more checkstyle errors",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "e5ac8d68486d3e6c07ced3c90c5b9f5f4d5c9920",
+            "message": "Fix last of checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2e924a1c7720d6b1319a660b92ddc9c8f630cd82",
+            "message": "Fix bugs preventing app from running",
+            "insertions": 88,
+            "deletions": 11
+          },
+          {
+            "hash": "f396180bada181d15f2ef40c39249d45b0520d6e",
+            "message": "Fix checkstyle errors",
+            "insertions": 32,
+            "deletions": 28
+          },
+          {
+            "hash": "1f212a7b794c7aa407a046c83c9e3060a4edb834",
+            "message": "Fix more checkstyle errors",
+            "insertions": 10,
+            "deletions": 9
+          },
+          {
+            "hash": "cca27782f722889ed7aed45854733bc3a4571db6",
+            "message": "Fix more checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d6385ae8244c599ba92ef134577cad0fac0d8a1f",
+            "message": "Fixed JsonSerializedAddressbookTest",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "94fa434d461aa96ec70ab8a8127c472fca503039",
+            "message": "Add jsonfilegenerator under tests for developer\u0027s guide",
+            "insertions": 11,
+            "deletions": 3
+          },
+          {
+            "hash": "98c7840bad295d3f79fc8dc5ec95e9b2cc693fee",
+            "message": "Fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "5346099ca7233a36c417636290facc40d9551872",
+            "message": "Fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "27014103dd7ada7b96ba9d8c15c5da7bb1e849fd",
+            "message": "Fix bug for Patient tests",
+            "insertions": 30,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 12,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "35e126593edda11c28d4a3b160b96b37e53970fb",
+            "message": "Make small changes to user guide",
+            "insertions": 16,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 1201,
+        "deletions": 1757,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "8bc734d3114bb3fcfb5d7bcec38ec88fdf8da8d4",
+            "message": "Remove AddPersonCommand and DeletePersonCommand",
+            "insertions": 846,
+            "deletions": 1030
+          },
+          {
+            "hash": "19651c016de45c6ca4e9e14ef2d7cdb0523f40a8",
+            "message": "Remove EditPersonCommand",
+            "insertions": 13,
+            "deletions": 256
+          },
+          {
+            "hash": "9ce2bd09f446e7622e2d700a9a908a9d446d3419",
+            "message": "Fix small issue with requestbook storage test",
+            "insertions": 28,
+            "deletions": 72
+          },
+          {
+            "hash": "55bba13714764fc58f4ef91e9a0034f3c7c1c644",
+            "message": "Modify SampleDataUtil to return requestbook and healthworkerbook",
+            "insertions": 58,
+            "deletions": 15
+          },
+          {
+            "hash": "c259fea6dc2867de3452ed75f92a021b57f8ed77",
+            "message": "Fix checkstyle errors",
+            "insertions": 19,
+            "deletions": 149
+          },
+          {
+            "hash": "54e927272dd05ca3da9ac37146bfc890591b42de",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f5561c1791b55a6d1cd6228a0c64b692981f12f6",
+            "message": "Commented out unused system tests",
+            "insertions": 200,
+            "deletions": 200
+          },
+          {
+            "hash": "23026077e8fe2708ddffac4bd19ccc601e76f8b2",
+            "message": "Fix compilation errors",
+            "insertions": 10,
+            "deletions": 20
+          },
+          {
+            "hash": "cba453178acccfdefc6892ae764d7a9f332d63b5",
+            "message": "Fix checkstyle errors",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "0345634e3b0cccdaacc523362ac2e5a12d02865c",
+            "message": "Fix checkstyle errors",
+            "insertions": 22,
+            "deletions": 11
+          },
+          {
+            "hash": "33580db440e4d0534866e91d841b0756040ded86",
+            "message": "Fix checkstyle errors",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 20,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "11f458b5fab8c1241f0937b7b7ee9a7879b514f7",
+            "message": "Fix bugs in storage tests",
+            "insertions": 15,
+            "deletions": 13
+          },
+          {
+            "hash": "e4763d075f6655d73043f29202e19fd59ace3775",
+            "message": "Fix checkstyle errors",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 2396,
+        "deletions": 3955,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "d8908f3b1fb52668c1fecb345b363204395774b9",
+            "message": "Remove address book and commented out relevant tests",
+            "insertions": 2034,
+            "deletions": 3608
+          },
+          {
+            "hash": "3002b3d332256bb14367f13f481af1aa0fe6585e",
+            "message": "Fix checkstyle errors",
+            "insertions": 360,
+            "deletions": 345
+          },
+          {
+            "hash": "445c40a89bbe7cc723b4d169839b282825fae207",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d2ba4711349427b497e9770e4af77b23e827c523",
+            "message": "Added new line at eof",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 210,
+        "deletions": 87,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "6917ca3204eb685d3ebc8123eb47abed2cf22fe2",
+            "message": "Filled Undo and redo with empty methods",
+            "insertions": 118,
+            "deletions": 72
+          },
+          {
+            "hash": "26995ca150d52b6a9e38ec507ab888e5984c1535",
+            "message": "Add new classes BookType and ModifyCommandHistory",
+            "insertions": 92,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 400,
+        "deletions": 509,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "3d98eb165ac7917e5a3864fddde06e135d0dfc36",
+            "message": "Implement logic for undo and redo",
+            "insertions": 148,
+            "deletions": 52
+          },
+          {
+            "hash": "0a28ed0b8e30d9607860295616364136c49f4b56",
+            "message": "fix checkstyle errors",
+            "insertions": 47,
+            "deletions": 35
+          },
+          {
+            "hash": "9a4038d880a9801aa0d196ab731fac34085a0020",
+            "message": "Fix some bugs with tests",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "ad18f255cd758c856d9c39f3888f40d23eefc49a",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f7f8eebdefe9d18beaae4d34296210d88a836cfa",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c26839ef0a5fb36b4f01ef0c991f68d5dcfa2869",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "19a9992b6e798ba745f828294aa261e0332100f9",
+            "message": "Fix EOF at the end of file",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2ce4262c473f271e42683b67a9e4ef00acf35bd4",
+            "message": "Uncomment and reimplemented undo and redo tests",
+            "insertions": 121,
+            "deletions": 110
+          },
+          {
+            "hash": "32fa65abc6daacfd9f2a340118f5441fa33677f4",
+            "message": "Modified certain sections of developer guide",
+            "insertions": 70,
+            "deletions": 307
+          },
+          {
+            "hash": "7bc85f6fe3f68463c528fcfbe61b25d55aa53477",
+            "message": "Fix new line at EOF",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 22,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "d5d8de547f0c1d9c59bd0f8b8ca820f078922e2a",
+            "message": "Modified user guide",
+            "insertions": 41,
+            "deletions": 17
+          },
+          {
+            "hash": "1ac9faca2fe83376d3076ef0eb9f7596f43d8d22",
+            "message": "Fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f5e834ba7904534151b427c7e6f95483240ec37d",
+            "message": "Fix checkstyle errors",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "bbb65f8b1a4c1eb183571f2717639f0443139c80",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 16,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "d350de06b63791210242fd47c0638b69eeb0e8b2",
+            "message": "BugFix: Unable to undo a complete command",
+            "insertions": 9,
+            "deletions": 10
+          },
+          {
+            "hash": "c07c6b16e2c64e0bfb7c9d08257bea84ecfa2039",
+            "message": "Fix bug in undo unable to undo completeRequest",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "8d91dbb52db2409147405bd56d52fc453f24aa57",
+            "message": "Fix bug with CompleteRequestCommand test",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8c78329d1660538d33a25222f09f5a546ac5e589",
+            "message": "Fix new line at EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8659ddb09763cdaeaf3ddb34eb8799ed62df3e9c",
+            "message": "Fix new line at EOF",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 52,
+        "deletions": 48,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "ada60b7e75a1ead502821b826dca7d7dc4acfd7b",
+            "message": "Modified User and Developer guides",
+            "insertions": 52,
+            "deletions": 48
+          }
+        ]
+      },
+      {
+        "insertions": 204,
+        "deletions": 105,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "9783e32aeb4f85635727a0c8e22e253861e4e17d",
+            "message": "Modify some diagrams in DG",
+            "insertions": 23,
+            "deletions": 14
+          },
+          {
+            "hash": "6124510ab9870e8f154b2e385b49b7b3071a7c9f",
+            "message": "Modify Storage diagram",
+            "insertions": 33,
+            "deletions": 30
+          },
+          {
+            "hash": "84a8c3051e32cfdeba086856b7c0966602eb4ad9",
+            "message": "Touch up on DG",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "1e9b32bb26c461f57dae5f4d1f74735b95b117ec",
+            "message": "Add version 1.4 release notes to UG",
+            "insertions": 31,
+            "deletions": 11
+          },
+          {
+            "hash": "32aa3ec301f33330f034432c70c1036d95e6b002",
+            "message": "Modify PPP",
+            "insertions": 49,
+            "deletions": 20
+          },
+          {
+            "hash": "d90f023dad0a533b85991e934185af8e303bcd3e",
+            "message": "Update config.json",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "23ddcc25daac62e2031881e5d10cbe388da1b437",
+            "message": "Hopefully this solved the EOF problem",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "6b52420a06b90c7274aff5e852097d81c4fbfaaf",
+            "message": "Commit to allow checkout",
+            "insertions": 16,
+            "deletions": 10
+          },
+          {
+            "hash": "9412ad450a92676731d2d6b2c0f6cfd1e366da5f",
+            "message": "Added new CommandType to facilitate undo/redo of both books at once",
+            "insertions": 28,
+            "deletions": 5
+          },
+          {
+            "hash": "ffbe6aec689c7696539a4f89e82d43def8b2b51e",
+            "message": "Implement undo/redo for new EditHealthWorkerCommand",
+            "insertions": 3,
+            "deletions": 6
+          },
+          {
+            "hash": "0bd0a6557dcfb614ecc8890062f4eac92c3db5d1",
+            "message": "Fix some bugs",
+            "insertions": 13,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 408,
+        "deletions": 322,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "9e010139913b2f6c47dd2b35e0203d2416969afd",
+            "message": "Reimplement Tests involving undo redo",
+            "insertions": 69,
+            "deletions": 54
+          },
+          {
+            "hash": "a6395781c54a60112c04dc4bad8b1f390afd7772",
+            "message": "Fix checkstyle errors",
+            "insertions": 34,
+            "deletions": 34
+          },
+          {
+            "hash": "8e79722539059914abebced395b0e2ad80f98802",
+            "message": "Fix EOF",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1355303847c2eb4a9766462e5c9678c843a27b0e",
+            "message": "Update user guides and small bug fixes",
+            "insertions": 29,
+            "deletions": 91
+          },
+          {
+            "hash": "ada10226f796835186afb662d83fcbeb95b9977b",
+            "message": "Fix EOF",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3aa64eedc36db71b0dabb9131b9e84da90169b98",
+            "message": "Commented out unstable test",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9c0dc20576c909bcee37dbaf47f5b553ecc95247",
+            "message": "Fix bug with test",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "1c8c4d00c21045d1d929e52f185c3448ac7e2c43",
+            "message": "Small changes to Developer guide",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "b6bf3ab522d105e67b69d6f9205119bc698aa2e3",
+            "message": "Add reposense to PPP",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "8aa88d462c2b880e2d2f2f119f875c1945322458",
+            "message": "Modified sequence diagram for dg",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "736bb0f1e8c3d7a7b5932c07fbd54ef28bc3374d",
+            "message": "Modify parts of dev",
+            "insertions": 14,
+            "deletions": 15
+          },
+          {
+            "hash": "ce117217edc1bdddb84a07b217f24dab1f6172c2",
+            "message": "Final changes to ug dg and ppp",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "105e3d9b3394b90ed11c699c8b707c538daa0d5c",
+            "message": "Add more sampleutildata for testing",
+            "insertions": 206,
+            "deletions": 80
+          },
+          {
+            "hash": "176608fbc218fd5d2609b0023393368fd6400d71",
+            "message": "Fix checkstyle errors",
+            "insertions": 18,
+            "deletions": 20
+          },
+          {
+            "hash": "e805c3d9b655da23ddbad056e05b1f59cea7aba2",
+            "message": "Fix eof",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "8bde20d66d2d8bb4e5fe6f55a45ed39208533303",
+            "message": "Fix image unable to display in DG",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "Lookuz": [
+      {
+        "insertions": 157,
+        "deletions": 201,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "b06c75b4e23cb82057bcfa2cb459a013e5493956",
+            "message": "Edited the UserGuide.adoc to better the fit the initial current projection description. Included some of the basic commands to be implemented in the initial steps of the project. Some points to take note of are: - Include unique identifier for Request so that assigning/editing/deleting is easier.",
+            "insertions": 117,
+            "deletions": 112
+          },
+          {
+            "hash": "1d99922e9424b841a00976e719502aebe71d9987",
+            "message": "Fixed some minor details in the description",
+            "insertions": 2,
+            "deletions": 55
+          },
+          {
+            "hash": "1073e7d2ae0910e5a86511187949508782325537",
+            "message": "Fixed trailing whitespace issue. Updated summary portion of UserGuide.adoc.",
+            "insertions": 11,
+            "deletions": 19
+          },
+          {
+            "hash": "c50df39fc375b42ce0478dede1fa4fe59d16d51e",
+            "message": "Fixed trailing whitespace issue. Updated summary portion of UserGuide.adoc.",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "d02f2875581a53b9c744d088e3380f2bae24b8a5",
+            "message": "Fixed trailing whitespace issue. Updated summary portion of UserGuide.adoc.",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "d94af7c579c11f350d8013af649d34766e6227c3",
+            "message": "Fixed trailing whitespace issue. Updated summary portion of UserGuide.adoc.",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "039594827bbe7e113fe644f1c9fbadaa6557a383",
+            "message": "Fixed trailing whitespace issue. Updated summary portion of UserGuide.adoc.",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "db5231178a4c2aa6df3fd85429b425ccfcce35e8",
+            "message": "Fixed trailing whitespace issue. Updated summary portion of UserGuide.adoc.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 2,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "54b7aa9bfa4762d5d70421b5b34b91cb3484293a",
+            "message": "Added newline to EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "dab94815b48590dd1687826ebcc5fe68247d5104",
+            "message": "Fixed build.gradle issues",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "5372fe4e8c4749f1e4a0bab5356622331eef483f",
+            "message": "Added newline to EOF for build.gradle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 242,
+        "deletions": 42,
+        "date": "2019-02-23",
+        "commitResults": [
+          {
+            "hash": "eced87435101ce2ffb55709346cec9de361eab45",
+            "message": "Added NRIC class for representation in Person class",
+            "insertions": 90,
+            "deletions": 4
+          },
+          {
+            "hash": "043412d4afd56091bf8a25686052f45125ae310c",
+            "message": "Fixed indentation errors",
+            "insertions": 25,
+            "deletions": 25
+          },
+          {
+            "hash": "6e406647dfee311b3ddfcbbe2d6523ab8f379d68",
+            "message": "Fixed import organization for Person class.",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "6e5ecbee7cfd5619f5aee7ef6d0a160582a47860",
+            "message": "Fixed import organization for Addressbook class.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "def41783aa891baa376a72bcd0869ca112526f95",
+            "message": "Adjusted constructor method for Person class.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ebac3805467ae20357538789ee602d891a6e8399",
+            "message": "Added Organization for use in HealthWorker class. Added HealthWorker class that extends from Person class.",
+            "insertions": 106,
+            "deletions": 0
+          },
+          {
+            "hash": "254d3947f89b4684135b12377f2b9911182d3757",
+            "message": "Added Javadoc comments for Organization and Health Worker class.",
+            "insertions": 10,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 478,
+        "deletions": 88,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "d9bf280959539995742c5fb3d4f2009166ea6c44",
+            "message": "Added JUnit Tests for Organization class.",
+            "insertions": 54,
+            "deletions": 3
+          },
+          {
+            "hash": "e125bb3520b138de9b7c9d910940ad9554905de2",
+            "message": "Added JUnit Tests for Nric and HealthWorker classes. Added HealthWorkerBuilder utility class to assist in building test HealthWorker objects for testing. Added auxiliary test HealthWorker objects under TypicalPersons class.",
+            "insertions": 290,
+            "deletions": 16
+          },
+          {
+            "hash": "eb9851675986b9f0d51a973a23a09bad4910d18b",
+            "message": "Modified OrganizationTest class.",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "fce529c8b5c9049aa17423348f2a1ba9a8dda182",
+            "message": "Modified OrganizationTest class.",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "2f48dcdac702225b63572fd3a62073ce73b1e570",
+            "message": "Modified style errors.",
+            "insertions": 11,
+            "deletions": 8
+          },
+          {
+            "hash": "20fb34d722ba9215bf1fba142e5bc85d3bfc5c7b",
+            "message": "Modified even more style errors.",
+            "insertions": 21,
+            "deletions": 3
+          },
+          {
+            "hash": "3e5aeb9e455c847f3036ac2512791fb811e9037b",
+            "message": "MODIFIED SOME MORE STYLE ERRORS",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "c9e5db588539aa45dd129b3f1f13ac8bdb1ecf3b",
+            "message": "Unfortunately also fixing checkstyle errors.",
+            "insertions": 9,
+            "deletions": 5
+          },
+          {
+            "hash": "81428707c1428c93ddbe6306f38d913f249ef498",
+            "message": "Fixed HealthWorker, HealthWorkerBuilder, TypicalPersons, HealthWorker and Persons class to include NRIC in testing and building.",
+            "insertions": 40,
+            "deletions": 29
+          },
+          {
+            "hash": "09a0f7011e46752cf4a9b9856fa5c77db03ece43",
+            "message": "Fixed Import error for TypicalPersons class.",
+            "insertions": 22,
+            "deletions": 2
+          },
+          {
+            "hash": "d7413d5d2b55a5ed20ddd6e6784d2dc8e10c5baf",
+            "message": "Fixed style errors.",
+            "insertions": 13,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 417,
+        "deletions": 227,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "f2f34ec3f5cad8f23a12ab0d42c5fd1575418c6a",
+            "message": "Added Specialisation Enum and SpecialisationTest.",
+            "insertions": 114,
+            "deletions": 0
+          },
+          {
+            "hash": "e6f342fd1da0b9e8d6e01cc64a694fbaa61967bc",
+            "message": "Added Skills and SkillsTest class.",
+            "insertions": 140,
+            "deletions": 2
+          },
+          {
+            "hash": "681c02d0431e501f5bd809f2dbdfa14f94785773",
+            "message": "Updated HealthWorker related classes",
+            "insertions": 142,
+            "deletions": 196
+          },
+          {
+            "hash": "44f670d44f0f14e1ba37ecf8846ebe843366ec75",
+            "message": "Fixed order for imports.",
+            "insertions": 6,
+            "deletions": 18
+          },
+          {
+            "hash": "5e198099d712ae6a76d834ec53c4dc92b12aef02",
+            "message": "Fixed import order for TypicalPersons class.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "c68fa2b1bb76ce38f574b28f3e0a2beebee239c4",
+            "message": "Fixed bugs in HealthWorker Tests and HealthWorkerBuilder.",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "d6f37d2bf9659b2ada5a0f64c2fde2509f4c24aa",
+            "message": "Remove unused import in HealthWorkerTest.",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2252dcbf1d03b1dfe66213f3073609f8b6172b93",
+            "message": "Fixed minor bugs in Person class.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a3de18e21937f7332d78dfb88483d6f0f8700f87",
+            "message": "Rerun test scripts.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 434,
+        "deletions": 36,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "33a4cb12655fa0d3f9387f4210db858b47660956",
+            "message": "Added Skills field to HealthWorker class. Modified Tests for HealthWorker and Skills.",
+            "insertions": 146,
+            "deletions": 26
+          },
+          {
+            "hash": "18dfa234a99915987fa80e9bde387b00b2562076",
+            "message": "Fixed unused imports.",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "02a54a201949569bbae5bcc1d98adfef83007756",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "cc80560d25b9be62ec900c9e5383609127b7ec64",
+            "message": "Added CommandMode enum for facilitating the checking of modes for adding, editing and deleting objects. Added ArgumentTokenizer.checkMode method for checking argument modes.",
+            "insertions": 102,
+            "deletions": 0
+          },
+          {
+            "hash": "73401b4aa99ec68f13dff3a9bf067d559c4a74dd",
+            "message": "Fixed checkstyle for CliSyntax class.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "961b0ceb16c0650ba8c852c132bbf9603f1b66d4",
+            "message": "Created UniqueHealthWorkerList class for use in AddressBook.",
+            "insertions": 179,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 466,
+        "deletions": 68,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "8832789b23471e5eca70ff079e9b3c5deaf8c6b7",
+            "message": "Created UniqueHealthWorkerListTest.",
+            "insertions": 189,
+            "deletions": 33
+          },
+          {
+            "hash": "e92f7e9b8b03fce958813d39c8cd1ad953372d4d",
+            "message": "Updated UniqueHealthWorkerListTest.",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "7c4e4576d0119099f2c149107b57cabc6f499bb2",
+            "message": "Fixed checkstyle errors for UniqueHealthWorkerListTest.",
+            "insertions": 28,
+            "deletions": 31
+          },
+          {
+            "hash": "83f9f534af843763775b229542acc342d5630910",
+            "message": "Added methods in Model and ModelManager to support operations on UniqueHealthWorkerList. Updated comment tags to include author.",
+            "insertions": 70,
+            "deletions": 1
+          },
+          {
+            "hash": "97cd054db5742993573c2fb7e0646fce0c27e39a",
+            "message": "Updated ModelManagerTest to support newly added UniqueHealthWorkerList operations.",
+            "insertions": 91,
+            "deletions": 1
+          },
+          {
+            "hash": "13bd6fa707992dd1ef500d0cc7300e51bf2704f5",
+            "message": "Added AddHealthWorkerCommand class.",
+            "insertions": 76,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 372,
+        "deletions": 37,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "ffacfb30b71a5da663bdeb3849b83cb3baff728d",
+            "message": "Added parseNric, parseOrganization, parseSpecialisation and parseSpecialisations methods in ParserUtil class",
+            "insertions": 93,
+            "deletions": 5
+          },
+          {
+            "hash": "55ede670e6361cf9870d3a61233c2a29f06a6ace",
+            "message": "Added parseNricTest, parseOrganizationTest, parseSpecialisationTest and parseSpecialisationsTest methods in ParserUtilTest class",
+            "insertions": 105,
+            "deletions": 7
+          },
+          {
+            "hash": "96b6e321ebe852a6bff66f3986aa81f0dbfcb572",
+            "message": "Added AddHealthWorkerCommandTest class.",
+            "insertions": 127,
+            "deletions": 19
+          },
+          {
+            "hash": "26fde1920da2e85bea68578fff8bff8dc13332fa",
+            "message": "Fixed unused imports in AddCommandParser class",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "78d00c16ac999efa073ba9c3473c4dabef409400",
+            "message": "Fixed checkstyle errorsin ParserUtilTest class",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "0ae4f3d21c61b47529d09dc06bca49e5bcc511a6",
+            "message": "Added parseAddHealthWorker method in AddCommandParser class",
+            "insertions": 44,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 244,
+        "deletions": 82,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "38a2fbe86f93e87fc3d8c7d83c9ec49367bba120",
+            "message": "Added parseAddHealthWorker method to AddCommandParserTest class",
+            "insertions": 203,
+            "deletions": 50
+          },
+          {
+            "hash": "0c3d58b6164ba66e7bac486d39045bde577ff34a",
+            "message": "Fixed checkstyle errors for AddCommandParserTest class.",
+            "insertions": 39,
+            "deletions": 31
+          },
+          {
+            "hash": "09a7e2f5c866d36d9bafd5fdef8caa548e2a2df9",
+            "message": "Added TODO to AddCommandParser.",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 249,
+        "deletions": 193,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "fd6a99923fa84ae2a85001649d493148884de0a5",
+            "message": "Implemented AddCommand Abstract Class.",
+            "insertions": 249,
+            "deletions": 193
+          }
+        ]
+      },
+      {
+        "insertions": 548,
+        "deletions": 385,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "4d26543f199508ef249247d25bcd48aef41accf2",
+            "message": "Fixed checkstyle for AddCommandParser class.",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "31d81aabcbd79d03169760c88e3de6a33dc324f6",
+            "message": "Fixed even more checkstyle for AddCommandParser class.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "2ca32a8a902b8af370a442c3ebba6cc5044e2c1c",
+            "message": "Fixed too many checkstyle for AddCommandParser class.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6a23f5b01517a7aaee15a15ffaee0becd171be4f",
+            "message": "Fixed unlimited amount of checkstyle errors for AddCommandParser class.",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "4f2c0c9ead7aafc4cf3f44542a5fde2d9f9628df",
+            "message": "Fixed an ungodly amount of checkstyle errors for AddCommandParser class.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f3d60231ce582afc3c91870a4d957d83a7202b9f",
+            "message": "Created EditCommand abstract class.",
+            "insertions": 350,
+            "deletions": 331
+          },
+          {
+            "hash": "111b63737a879bb67f4a155af142abd435d9f6cf",
+            "message": "Modified parameter names in AddCommand class.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "86fa62d44d24cc7a83a0f8723e30b12659f1afc0",
+            "message": "Added EditHealthWorkerCommand Class.",
+            "insertions": 34,
+            "deletions": 9
+          },
+          {
+            "hash": "d8c94d21223ad6477c598ce5870d477d76191472",
+            "message": "Added EditHealthWorkerDescriptor class to EditHealthWorkerCommand class.",
+            "insertions": 130,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 500,
+        "deletions": 150,
+        "date": "2019-03-08",
+        "commitResults": [
+          {
+            "hash": "f4bfdec36547977192f86980ab740001c7a62228",
+            "message": "Added HealthWorkerBook, VersionedBook, VersionedHealthWorkerBook classes.",
+            "insertions": 308,
+            "deletions": 43
+          },
+          {
+            "hash": "875e5db167b55c48de9f61ffbb924d43945a3456",
+            "message": "Modified ModelManager to use HealthWorkerBook.",
+            "insertions": 52,
+            "deletions": 22
+          },
+          {
+            "hash": "2ddbec30a1c26bc356e41b5e219e230330dde6b5",
+            "message": "Updated test files to use new ModelManager Constructor.",
+            "insertions": 68,
+            "deletions": 36
+          },
+          {
+            "hash": "a39a785480e309bd53475ca2a8963af4dfb698e1",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 17,
+            "deletions": 9
+          },
+          {
+            "hash": "e33f86985262bb9c5e4da1816763c7a5d18a1d17",
+            "message": "Fixed more checkstyle errors.",
+            "insertions": 53,
+            "deletions": 38
+          },
+          {
+            "hash": "42353d4fb8fe5359fa86fd9aea8ae73ccf589a43",
+            "message": "Fixed even more checkstyle errors.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 264,
+        "deletions": 72,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "bc17f746c7c20929540a47ab5647891defe160c6",
+            "message": "Added HealthWorkerBookTest.",
+            "insertions": 156,
+            "deletions": 6
+          },
+          {
+            "hash": "7f3e32b80c16db84e2e06e911b25ddd81c8aaa2b",
+            "message": "Created HealthWorkerBookBuilder class.",
+            "insertions": 86,
+            "deletions": 59
+          },
+          {
+            "hash": "0d88bb022cfb60cf34b1aa0842af2581f2266e3a",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 20,
+            "deletions": 4
+          },
+          {
+            "hash": "6960a3dde8e6d14743e573e3769818b599acbe60",
+            "message": "Fixed more checkstyle errors.",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 651,
+        "deletions": 83,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "9a1d92360a744e8f7dd99e7b5f2c1473c829dff3",
+            "message": "Added VersionHealthWorkerBookTest.",
+            "insertions": 244,
+            "deletions": 2
+          },
+          {
+            "hash": "afd922ec478bad2aa3ca36197d640e41e624eba7",
+            "message": "Removed HealthWorker related operations and fields in AddressBook.",
+            "insertions": 1,
+            "deletions": 58
+          },
+          {
+            "hash": "39417e9cae69b4aa7e16755b76ce2901314b676b",
+            "message": "Implemented execute method in EditHealthWorkerCommand.",
+            "insertions": 18,
+            "deletions": 2
+          },
+          {
+            "hash": "e2f4e7336b77c27dc0a128d2179ebaadc88fe987",
+            "message": "Added EditHealthWorkerDescriptorBuilder class for use in testing.",
+            "insertions": 205,
+            "deletions": 21
+          },
+          {
+            "hash": "78b21eccd8fd739239ce62dc25206e1660d3c463",
+            "message": "Added EditHealthWorkerCommandTest.",
+            "insertions": 180,
+            "deletions": 0
+          },
+          {
+            "hash": "2d23b57aa36c4d59a0cd47010becdc755c38c72f",
+            "message": "Added Javadoc comment for EditHealthWorkerDescriptorBuilder.",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 371,
+        "deletions": 113,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "3da8b235692a3fcaf9c5e5cc06be599a4412e46a",
+            "message": "Added tests to existing EditCommandParserTest.",
+            "insertions": 266,
+            "deletions": 33
+          },
+          {
+            "hash": "c5c263354c3b9bbb29bc3b50c85f68334fd7763f",
+            "message": "Fixed checkstyle errors in EditCommandParser.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e2bb9e9f35c60904973815d1b0508878db5e9e69",
+            "message": "Fixed more checkstyle errors in EditCommandParser.",
+            "insertions": 24,
+            "deletions": 13
+          },
+          {
+            "hash": "0af18d05ee6782df3db0559d0c7fdeaeee0ebca2",
+            "message": "Fixed even more checkstyle errors in EditCommandParser.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c55af7bbab2e10b1f7c8ee7a9d5bc55498b45ea3",
+            "message": "Made changes to Tests involving EditCommand",
+            "insertions": 44,
+            "deletions": 30
+          },
+          {
+            "hash": "fc5a7958275b18eb0fc6c135dc5e4abea186bf38",
+            "message": "Fixed checkstyle errors in EditPersonCommandSystemTest.",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "90e1e5c1890f57eb697f11ae72c4602004996289",
+            "message": "Fixed spacing errors in EditPersonCommandSystemTest.",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "6c2ae8a505a89f96dca8c67d39a370597cf17794",
+            "message": "Fixed checkstyle errors in test files.",
+            "insertions": 12,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 35,
+        "deletions": 25,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "aece4c44f017c6f6234adc41591aae624cb9bdde",
+            "message": "Fixed minor bug in EditCommandParser.",
+            "insertions": 35,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 213,
+        "deletions": 117,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "7f0bf68a5fb82aef5fc1cef7054a5b7330074335",
+            "message": "Created DeleteCommand abstract class. Refactored previous DeleteCommand -\u003e DeletePersonCommand class.",
+            "insertions": 128,
+            "deletions": 111
+          },
+          {
+            "hash": "8caebfef2322719ccef6fed5732c21b34e42fc21",
+            "message": "Created DeleteHealthWorkerCommand",
+            "insertions": 85,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 911,
+        "deletions": 194,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "f77242cfeba1aa582c111640525ce852a2ce63c7",
+            "message": "Created DeleteHealthWorkerCommandTest",
+            "insertions": 104,
+            "deletions": 0
+          },
+          {
+            "hash": "65c86d1b6964bd5a0367156ce26c8d5ca4739d35",
+            "message": "Fixed checkstyle errors",
+            "insertions": 11,
+            "deletions": 7
+          },
+          {
+            "hash": "cdb90f39c39d2987a9ced0a3917aab6a624351a8",
+            "message": "Fixed more checkstyle errors",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "628404faaff5e6099bdbe9092eaba47a1841cbd3",
+            "message": "Why so many checkstyle errors!?",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "ffc9dba3974e715ad1876aa1f561fc165eb984f8",
+            "message": "Fixed bug in ArgumentTokenizer.checkMode method.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ea6661c31b5212f3a349f23b4dfe34642800c50a",
+            "message": "Added changes to DeleteCommandParser to delete HealthWorker.",
+            "insertions": 31,
+            "deletions": 4
+          },
+          {
+            "hash": "4a8669ae173f0bd09150ad99101a0bd8993be854",
+            "message": "Fixed merge conflict issues.",
+            "insertions": 751,
+            "deletions": 174
+          },
+          {
+            "hash": "6c0c48a3e06a89799c86b156b518973a1a3a8b95",
+            "message": "Fixed checkstyle errors",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 229,
+        "deletions": 64,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "22639ab52f096bc7fc1a064af9b4b50fbee14d91",
+            "message": "Updated User Guide to include detailed description of each command.",
+            "insertions": 191,
+            "deletions": 60
+          },
+          {
+            "hash": "199c1f2ad267e18969528aa4410191b2e7f06e90",
+            "message": "Updated Developer Guide to include Add Command feature.",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "8850d6b314ac4421803b61fd40dbb3f6a2a4dac2",
+            "message": "Added brief documentation for Add/Edit/Delete Command in Developer Guide.",
+            "insertions": 29,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 391,
+        "deletions": 933,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "1e276e8c95078d016f128b31b177fa52b5d63ce7",
+            "message": "Removed Add/Edit/DeletePersonCommandTests.",
+            "insertions": 391,
+            "deletions": 933
+          }
+        ]
+      },
+      {
+        "insertions": 708,
+        "deletions": 3539,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "f2d5cec00e7053446c0d9b57b5eb68de2a1acbd8",
+            "message": "Modified Person class. Removed Address, Email and Tags field.",
+            "insertions": 86,
+            "deletions": 1757
+          },
+          {
+            "hash": "d166ded819a570f368ea4a35ad23b8e3242ad93e",
+            "message": "Major refactor to remove Address, Email and Tags class. Compilation successful on this build.",
+            "insertions": 149,
+            "deletions": 958
+          },
+          {
+            "hash": "e66a69295391b7fd66cef8677f47db931950da24",
+            "message": "Tests passing except System Tests",
+            "insertions": 211,
+            "deletions": 568
+          },
+          {
+            "hash": "ffbe2f08eb65dc5768aa775d2a5e704b2ddc78c2",
+            "message": "Fixed remaining system tests. Most system test to be deprecated.",
+            "insertions": 20,
+            "deletions": 25
+          },
+          {
+            "hash": "a29dfe6215eea251ee352a708e826422553bb981",
+            "message": "Optimized imports for java files",
+            "insertions": 20,
+            "deletions": 33
+          },
+          {
+            "hash": "b5bfa9e5e6d4a87d3e6cd5db319e8c7622d30f7c",
+            "message": "Fixed import order.",
+            "insertions": 108,
+            "deletions": 34
+          },
+          {
+            "hash": "e768f23a5d19193af28c72238468d5259997cbd2",
+            "message": "Fixed import order.",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "fe2797d61ac1b7a1131c238c303f4c499331cf6f",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 56,
+            "deletions": 119
+          },
+          {
+            "hash": "273dea95b19a686d4bdff447cec8343105f988ed",
+            "message": "Added javadoc comments for system tests.",
+            "insertions": 19,
+            "deletions": 3
+          },
+          {
+            "hash": "2655144a4ecb3c4a4a5020d7c22207f13e5adb9b",
+            "message": "Fixed javadocs.",
+            "insertions": 18,
+            "deletions": 12
+          },
+          {
+            "hash": "ac86e010047d7e60acd4d73d8820acaed19061f1",
+            "message": "Fixed javadocs for system tests.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "d76b61c78f85f77adf3d343a5c3e5e1cd41e36c0",
+            "message": "Fixed bugs in test suite.",
+            "insertions": 15,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 38,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "374679109f994c0da5d86cac7624b22c1c37e565",
+            "message": "Modified ArgumentTokenizer and CommandMode class to take in different aliases for command modes.",
+            "insertions": 41,
+            "deletions": 38
+          }
+        ]
+      },
+      {
+        "insertions": 600,
+        "deletions": 487,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "4737f92475f94f2ab0be28ef4c66d887c33274de",
+            "message": "Modified AddCommandParser for parsing HealthWorker and Request objects.",
+            "insertions": 124,
+            "deletions": 207
+          },
+          {
+            "hash": "f5fb8c703dca9e010304c4de859d179e87bfc35b",
+            "message": "Modified EditCommandParser and EditCommandParserTest to fit new format.",
+            "insertions": 178,
+            "deletions": 86
+          },
+          {
+            "hash": "4b303de02f2486844947179c139ea82b25037e94",
+            "message": "Modified DeleteCommandParser and DeleteCommandParserTest to fit new format.",
+            "insertions": 75,
+            "deletions": 38
+          },
+          {
+            "hash": "1987129182459cd933dcc241f9a303fe9b2f0d50",
+            "message": "Fixed bugs in test suite.",
+            "insertions": 16,
+            "deletions": 19
+          },
+          {
+            "hash": "c9dd5e7217612db5d7c8590bdb10e03f9708a5be",
+            "message": "Fixed bugs in test suite.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1744e4a0af270da2a3ff1bf29c39e190914cb6c6",
+            "message": "Fixed whitespace checkstyle error.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0602fa9d17afef46dc894b7c3e48502422f535c5",
+            "message": "Fixed checkstyle errors in test suite.",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "a32db38a8c5e684db07741b1051e6b4496bee7d6",
+            "message": "Added ListCommandParser class. Modified ListCommand to ListHealthWorkerCommand. AddressBookParser now parses different modes for List command.",
+            "insertions": 165,
+            "deletions": 47
+          },
+          {
+            "hash": "174b04c197653d8322a3237573595b3e00e78e22",
+            "message": "Fixed visibility modifier in ListCommandParserTest.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "948eaeabfce702e5e1e3c8341fc7c66fc7b20e75",
+            "message": "Fixed visibility modifier in ListCommandParserTest.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "adf7bfcd4e08679bd8a60c8417f0a7638bde7d46",
+            "message": "Fixed tests involving list command in test suite.",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "b856f658212d04682e22a53ff26ad867e1d7e5ae",
+            "message": "Modified SelectCommand to select requests instead of Person at the specific Index.",
+            "insertions": 22,
+            "deletions": 74
+          }
+        ]
+      },
+      {
+        "insertions": 689,
+        "deletions": 410,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "bf96733a659ef21e3936c1e6d5cc1280858da8b5",
+            "message": "Added containsAll method in Skills class to check for containing subset of skills",
+            "insertions": 356,
+            "deletions": 234
+          },
+          {
+            "hash": "c25b4f86e08a679b6882674bcb5769ecfa6f7065",
+            "message": "Added FilterHealthWorkerCommand and FilterHealthWorkerCommandTest. Also added functionality to parse multiple predicates for filtering health worker.",
+            "insertions": 151,
+            "deletions": 63
+          },
+          {
+            "hash": "be1856974760c111c0fa07e37ce7db43c0bc80cf",
+            "message": "Added functionality for FilterCommandParser. Added FilterCommandParserTest.",
+            "insertions": 146,
+            "deletions": 77
+          },
+          {
+            "hash": "cf7608132dccf504cb45d19b952c04873efc4092",
+            "message": "Fixed bugs in test suite.",
+            "insertions": 19,
+            "deletions": 18
+          },
+          {
+            "hash": "676cd7dddfced95d44de1facd026d8eaba304dc2",
+            "message": "Fixed checkstyle errors in FilterCommandParser.",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "260e4d1b6069cc6568115a043dfa37aedb89f5a3",
+            "message": "Fixed bug in test suite.",
+            "insertions": 8,
+            "deletions": 9
+          },
+          {
+            "hash": "f84a43c2d95d8d70012ddc9fbb8473096155f1c0",
+            "message": "Fixed checkstyle errors in LogicManagerTest",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 87,
+        "deletions": 13,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "644c52e79921f66646873984d7c934be1bdf4c35",
+            "message": "Fixed preamble bug in FilterCommandParser.",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "c7709871e08500383604663b3f4302c90983cbac",
+            "message": "Updated the Developer Guide to include `list` and `filter` commands.",
+            "insertions": 44,
+            "deletions": 3
+          },
+          {
+            "hash": "d203b6f8d2b3aa7bc6eee5bd7806c687c76da55a",
+            "message": "Fixed bugs in Command and CommandParser classes.",
+            "insertions": 36,
+            "deletions": 6
+          },
+          {
+            "hash": "d53e0999d9b3534677c576f32deb760cf19fc18b",
+            "message": "Fixed checkstyle error in ArgumentTokenizerTest",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 288,
+        "deletions": 127,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "6a7a1e088dcb8e2502e3541a8f621adc615c9d6e",
+            "message": "Fixed non-responsive bug in FilterCommandParser on empty fields.",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "853b37c329548ee40e60128451ac142ab22889d9",
+            "message": "Fixed bugs with DeleteCommandParser class",
+            "insertions": 9,
+            "deletions": 30
+          },
+          {
+            "hash": "2d2abde3a9586b0e69c900be00b88cdf5a382c3a",
+            "message": "Fixed bugs in test suite for DeleteCommandParser class.",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "84e5a99a9ed2cb54d30d2c12bb2293a26e20a66a",
+            "message": "Fixed bugs in DeleteCommandParser test suite.",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "159e34643b18f23179f36887168e060e53258366",
+            "message": "Fixed EOF error in healthworkerbook.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "023a647e10ee3da02caa77b48f882807a52bfa33",
+            "message": "Modified AddressBookParserTest class to include testing for implemented commands.",
+            "insertions": 47,
+            "deletions": 29
+          },
+          {
+            "hash": "9bb4a4bc86e8b5a647a4e392563e8f5c2bd620e1",
+            "message": "Integrated FilterHealthWorkerCommand and FilterRequestCommand into FilterCommandParser. Modified FilterCommandParserTest to include both filtering of healthworker and request objects.",
+            "insertions": 212,
+            "deletions": 54
+          },
+          {
+            "hash": "22c33f9d0e171f4bc47ee8f5d59918696d2a7449",
+            "message": "Fixed indentation error in FilterCommandParserTest.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "119c936e343736648f058f6feddfdd94799c5178",
+            "message": "Fixed bugs in AddressBookParserTest.",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 395,
+        "deletions": 251,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "3e996ffb5bf38e7e5c4d217c5adacc95adb4e568",
+            "message": "Updating LogicManagerTests for HealthWorker.",
+            "insertions": 51,
+            "deletions": 35
+          },
+          {
+            "hash": "c0b9cd12eeb06f01885db14ea690a4fd01978bb4",
+            "message": "Added test suite in AddCommandParserTest for adding requests.",
+            "insertions": 171,
+            "deletions": 109
+          },
+          {
+            "hash": "2aa7788b25c25fdede729f41c0a8a5afe244616a",
+            "message": "Added tests in LogicManagerTest to include saving of Request.",
+            "insertions": 42,
+            "deletions": 3
+          },
+          {
+            "hash": "03a805954903736f60c88c53743ce77693be8cc8",
+            "message": "Added tests to DeleteCommandParserTest to include empty argument fields.",
+            "insertions": 13,
+            "deletions": 66
+          },
+          {
+            "hash": "3a423fc8414b327f5a7e8d12938eb5e145c7a939",
+            "message": "Added tests to EditCommandParser to include empty argument fields.",
+            "insertions": 19,
+            "deletions": 3
+          },
+          {
+            "hash": "8c7a5c2bc02a0899432ec25b019ffdb6f193b885",
+            "message": "Removed setSelectedHealthWorker method from LogicManagerTest.",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "920abccc8e5f30f4e9b603f9816deca6d950cb73",
+            "message": "Added tests to EditRequestCommandTest.",
+            "insertions": 97,
+            "deletions": 26
+          },
+          {
+            "hash": "62787b3031f4bb0f971d105844fb5ab7f637dd21",
+            "message": "Fixed test suite bug in FilterRequestCommandTest.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a81d8e3fd0f1ebb20f56a447ea0f8585be4e3833",
+            "message": "Fixed EOF error in config.json",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 339,
+        "deletions": 202,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "76363ab17d6c366edb58f24a52a31c306f85780e",
+            "message": "Overhauled UserGuide.adoc file.",
+            "insertions": 313,
+            "deletions": 196
+          },
+          {
+            "hash": "f5d897e5cfc5dbcf3bc871e8a9b041744d739d7f",
+            "message": "Made minor changes to certain parts of UserGuide.adoc.",
+            "insertions": 24,
+            "deletions": 4
+          },
+          {
+            "hash": "297d054f2ea2ff10db55a9bebe6a0565de632ba8",
+            "message": "Fixed EOF error in healthworkerbook.json",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 196,
+        "deletions": 45,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "63d72ad5cd455d569f905e8c7abd8334c27cd13b",
+            "message": "Modified own PPP.",
+            "insertions": 196,
+            "deletions": 45
+          }
+        ]
+      },
+      {
+        "insertions": 150,
+        "deletions": 64,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "40a713f46c2821b6b265e082c7390e6afcdfb1c8",
+            "message": "Updated PPP and User Guide.",
+            "insertions": 77,
+            "deletions": 43
+          },
+          {
+            "hash": "00c486ca9c0a4c93338d5d8aab35c3c19d5aa072",
+            "message": "Updated description for add feature in Developer Guide.",
+            "insertions": 73,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 190,
+        "deletions": 22,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "d2d02b6d9add9dab1215d46b73ddbecace5d8b29",
+            "message": "Fixed EOF in healthworkerbook.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6f247f52c2bb9b14f7e3eaabf0eb370981d72d3c",
+            "message": "Added edit and delete description for Developer Guide.",
+            "insertions": 89,
+            "deletions": 6
+          },
+          {
+            "hash": "c426d886447d8e2df64837bb0a375af8294e6980",
+            "message": "Added filter command description to Developer Guide.",
+            "insertions": 100,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 114,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "3f61db81ba31c0db29709fc06b658f46ee93ae59",
+            "message": "Added design considerations for filter command.",
+            "insertions": 93,
+            "deletions": 108
+          },
+          {
+            "hash": "6f42f8c8880e6c2078e8daaae6b20c999b007ef9",
+            "message": "Removed lengthy descriptions from PPP.",
+            "insertions": 0,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 307,
+        "deletions": 107,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "7799bd3ddbc7a9772aa82fb6b955ab7d7b2fe391",
+            "message": "Modified User Guide for additional clarity. Added description to edit command in Developer Guide.",
+            "insertions": 169,
+            "deletions": 28
+          },
+          {
+            "hash": "5ccaf0dd37f226120f2cd026e46e73ceecc504e1",
+            "message": "Fixed filter healthworker bug. Added use of substring to filtering by skills for healthworker.",
+            "insertions": 107,
+            "deletions": 49
+          },
+          {
+            "hash": "7fc1339683ff77f7b340aa173c625c0b9c78a543",
+            "message": "Fixed bugs in naming convention.",
+            "insertions": 31,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 12,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "11b4552372580ef6009aa5bccb81b12b7421390f",
+            "message": "Updated UG filter healthworker command with image example.",
+            "insertions": 18,
+            "deletions": 4
+          },
+          {
+            "hash": "31937c5c332183dd6b2c128eaf3cd7f5cdb3de2a",
+            "message": "Fixed issue with image not rendering.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c8ad0915b2ef2ed8c47c03e4344ebec05ab0ea01",
+            "message": "Added developer guide contributions to PPP.",
+            "insertions": 10,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 254,
+        "deletions": 94,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "e7bb5c30edcb6d98fac6bd575a676fa5fcf6c200",
+            "message": "Added sequence diagrams for filter in Developer Guide. Restructured some components in the Developer Guide.",
+            "insertions": 254,
+            "deletions": 94
+          }
+        ]
+      },
+      {
+        "insertions": 413,
+        "deletions": 342,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "4ec92ec6ad45b3adfb473da0deee0c0ae5d5d40d",
+            "message": "Implemented isAssigned methods in ModelManager, RequestBook and UniqueRequestList.",
+            "insertions": 315,
+            "deletions": 319
+          },
+          {
+            "hash": "3a77c5c71e2322d8c4e510c4e22d3fd5e7d204c2",
+            "message": "Fixed EOF in config.json and healthworkerbook.json",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7479caf0b05fd0609d458d193513d7aa678fd1bd",
+            "message": "Fixed minor bugs in isAssigned tests.",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "93814c3b25e48dc3dd3ada6229ed4ee6b055552f",
+            "message": "Added bug fix to prevent deletion of HealthWorker that are assigned to pending requests.",
+            "insertions": 21,
+            "deletions": 13
+          },
+          {
+            "hash": "59181bbd9ad32fe1afdd8771a13bc98ed7a54f07",
+            "message": "Added functionality to filter healthworker by nric field.",
+            "insertions": 69,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 246,
+        "deletions": 190,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "e643c2276d38d3b4c365f8c1a5ca7ed7b9ff3701",
+            "message": "Added methods for updating request upon updating health worker.",
+            "insertions": 83,
+            "deletions": 20
+          },
+          {
+            "hash": "1021dd7cede6e81dbfdb81ef19598756e04f32da",
+            "message": "Amending single-space line break in lookuz.adoc",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "04cd41bc799f21d70dacc1809eaa80c6dff402e5",
+            "message": "Updated Diagrams for DeveloperGuide.",
+            "insertions": 15,
+            "deletions": 27
+          },
+          {
+            "hash": "0c5f7e63afa7eff59e2ed7be70896109cc671fa0",
+            "message": "Added automatic update of assigned healthworker NRIC when NRIC field in HealthWorker class is edited.",
+            "insertions": 17,
+            "deletions": 28
+          },
+          {
+            "hash": "6b6b1b65d10dd89951494bb38db26afb5d55c16b",
+            "message": "Fixed EOF in json files",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "9749a9921792d4a34198a37f9b99717f99951b47",
+            "message": "Fixed bug in AddRequestCommandTest",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "9841d5a992b0df4f8d2b23c8efd238396bc42191",
+            "message": "Updated TestApp to include typical requests and healthworkers",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "cef1c184810f796222377cfdd7ffa8f7da82dcec",
+            "message": "Updated System Tests.",
+            "insertions": 63,
+            "deletions": 58
+          },
+          {
+            "hash": "86d585fb4eebfa66abb2730f1df7276ad4e8683f",
+            "message": "Fixed indentation errors.",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "eb3abdbf29f25e63942f33449dea9e768064c45c",
+            "message": "Stupid asciidoctor bugs.",
+            "insertions": 14,
+            "deletions": 11
+          },
+          {
+            "hash": "bbb99fa2229f6984c78c16ab41b08f4e6da419fc",
+            "message": "FUCK LA LOL",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "29d6b1e31c9ef8a4da2c471a9bec9d804db9c6d9",
+            "message": "Deprecated tests that are not working.",
+            "insertions": 6,
+            "deletions": 12
+          },
+          {
+            "hash": "debdb6a656cc7804734a5eeb29ad9325fa5874fe",
+            "message": "Javadocs",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "1258c8183987fd3810e6cb578020ec1c4e67fc63",
+            "message": "config.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "18d0e2c0c222cb6c30f5b02e86844bf09a4eb808",
+            "message": "I HEAR THE DRUMS ECHOING TONIGHT",
+            "insertions": 6,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 195,
+        "deletions": 141,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "c39c54e4eec297af7393dcf896986dda899c74df",
+            "message": "Shortened PPP by cutting out redundant information",
+            "insertions": 16,
+            "deletions": 12
+          },
+          {
+            "hash": "3fec4f40b385b787e45fa77abc5fc382878bebd2",
+            "message": "Improved elaboration in certain portions of the Developer Guide.",
+            "insertions": 35,
+            "deletions": 78
+          },
+          {
+            "hash": "7c6439fd7cd53c771e2833ed9e610d1bb38a95ca",
+            "message": "Fixed various portions of the Developer Guide",
+            "insertions": 138,
+            "deletions": 47
+          },
+          {
+            "hash": "40dce9812d4f808299dcd9e0756b515080d7b6aa",
+            "message": "Modified PPP slightly.",
+            "insertions": 6,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 4,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "80331e331c523a8ec6383eb980f8aa770ec9c2e4",
+            "message": "Slight changes to the Developer Guide.",
+            "insertions": 13,
+            "deletions": 4
+          }
+        ]
+      }
+    ],
+    "huichun66": [
+      {
+        "insertions": 30,
+        "deletions": 29,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "b4c97485d50be22589b98e765b79b67197f5c0c4",
+            "message": "Updated AboutUs and ContactUs pages.",
+            "insertions": 30,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 91,
+        "deletions": 7,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "20c8bf05109c881b5f655c2cdfbd3ef10a16e5ef",
+            "message": "Changed app window size from fixed to maximised, added app icon to represent Health Hub.",
+            "insertions": 9,
+            "deletions": 4
+          },
+          {
+            "hash": "573ccfa41d3fe26249429124a877db77403524aa",
+            "message": "Changed browserPanel to mapPanel for clarity, still in-progress for doing the UI.",
+            "insertions": 82,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 344,
+        "deletions": 19,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "722e9ad348b8d8daf1867604dee2b614de24e115",
+            "message": "Segregated MainWindow.java into a duplicate file (MainWindowTwo.java) for development. Test cases now pass.",
+            "insertions": 333,
+            "deletions": 10
+          },
+          {
+            "hash": "c885e45e119d229ba67ee1d7d0931b1084d99cf3",
+            "message": "Fixed some new line at EOF for build error.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3bd78d6f9363f46414e275996417614af51c0d86",
+            "message": "Fixed import statements order for gradle task checkstyleMain.",
+            "insertions": 10,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 12,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "73a060296842d99bdcb9cd3be1c4ee916bce3e1f",
+            "message": "Updated AboutUs page.",
+            "insertions": 12,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 161,
+        "deletions": 426,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "6e3f94ff96a9803f81ee12e35d3b1fb29af275ff",
+            "message": "Removed duplicate file and merged changes into MainWindow.java. Also fixed the test cases.",
+            "insertions": 134,
+            "deletions": 405
+          },
+          {
+            "hash": "afb9de33fb412588f281821136cc3978b48d083a",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 11,
+            "deletions": 3
+          },
+          {
+            "hash": "b2f90243a0e0a7a0683d4cbde0f8d29039251da3",
+            "message": "Finally fixed checkstyle errors.",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "fc54292ed0bac0e3baba2c97ff93c07b6b0ef3ec",
+            "message": "Fixed HelpCommandSystemTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "41b0ca555c08aa4ed45f4b998a83e2a3bc69af51",
+            "message": "indentation error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "25055359e9f904fc4b597f4b16b2b5d7c744faf8",
+            "message": "Temporarily commented this line out because the status might remain the same after UI change.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ba4a66a186095fbf57a0178a0b356b53f25cd132",
+            "message": "Fixed unused import.",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "8fe2d4b5532e650ed47530ebfb1e04e28483d520",
+            "message": "Changed .jpg to .png in AboutUs page.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "f5741a5761be8c8f479fb42c9b6874b3dd32fc4f",
+            "message": "Renamed Ui.jpg to Ui.png in README.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2019-03-07",
+        "commitResults": [
+          {
+            "hash": "0e2d34d7ed4c07cec7bf527d99d288f59aa8dcbb",
+            "message": "Renamed the image files in AboutUs.",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 48,
+        "deletions": 36,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "99e00f0763dc4d3e6bb5e737b68595c7d4daea7f",
+            "message": "Changed SampleDataUtil to reflect patients instead of persons, refractored some person mentions to patient mentions but not all.",
+            "insertions": 48,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 21,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "0996a81dd7f87da422d4cfc0a4506ac51b0d0531",
+            "message": "Changed SampleDataTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3a658fdadf59eb614cb54d1608ec14bc4558bba6",
+            "message": "Removed unused code.",
+            "insertions": 0,
+            "deletions": 9
+          },
+          {
+            "hash": "b5690434a008baaac2733fd759594394955a8b70",
+            "message": "fix checkstyle errors.",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "5b7fbbcde7b49794b6c6f6118e140f81f9880c68",
+            "message": "fixed person to patient.",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "04927b1b3cac0fd8c07b8ddce0335909aac33a45",
+            "message": "fixed checkstyle errors.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 88,
+        "deletions": 42,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "ae574b95e9c90d400b94814bf4182debce363499",
+            "message": "Able to display patient\u0027s location on the map, refractored some changes in the corresponding tests.",
+            "insertions": 88,
+            "deletions": 42
+          }
+        ]
+      },
+      {
+        "insertions": 516,
+        "deletions": 158,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "6afc2980e4dd7c9bc1e9bbd2ff1c360163894280",
+            "message": "Added HealthWorkerListPanel.java and its FXML file.",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "b21986dfcdd4ad3d2286f9fc10f9c92fdbfe5bb7",
+            "message": "Modified HealthWorkerListPanel.java and its FXML file.",
+            "insertions": 75,
+            "deletions": 13
+          },
+          {
+            "hash": "6d6135c64cfb1f9c1fcb6f3e6728c547c0f30ef2",
+            "message": "Some minor changes.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "edd2a1a3b6d771389c29834a25f414f78dd12f5d",
+            "message": "Added some new code for healthworker and request inside interfaces Logic.java and Model.java",
+            "insertions": 180,
+            "deletions": 41
+          },
+          {
+            "hash": "1e0a2a5dffdb49f28340befd5df2a868e59baa03",
+            "message": "Added HealthWorkerNotFoundException under the \u0027exceptions\u0027 package of HealthWorker",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "e4cdcc338f645a2185e48897fbee6ce810eaca50",
+            "message": "Modified some other command tests after interface change.",
+            "insertions": 50,
+            "deletions": 0
+          },
+          {
+            "hash": "c1eff6809da6b7e2fde83fe9065c296b58937ebd",
+            "message": "Updated userguide on small change.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "eedfe59a3541c184be14268b467bddc61012d09a",
+            "message": "Created duplicatePatientBook.json and invalidPatientBook.json for JsonSerializable tests.",
+            "insertions": 78,
+            "deletions": 0
+          },
+          {
+            "hash": "20b6c0f04bb26ac470edd7292133e05264b39b44",
+            "message": "Fixed test bugs.",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "b51436c53bb618da901cb19b9b91cbb49262c319",
+            "message": "Attempted to do some minor formatting change to see if it will fix the test bug, but no.",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "b97a3023bb0facad4813690740c5e0c0d8508b9f",
+            "message": "Formatting issues.",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "871c071e1f6d4661a99b3fbc5f7381a4989f56ce",
+            "message": "Modified some addresses so that the map can load properly (will attempt to do exception handling after milestone 1.2)",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "ab7db3333b46b67913e5c6c7dfc594ed1809134e",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 44,
+            "deletions": 39
+          },
+          {
+            "hash": "e51ce9007ba5ce8399d81e8e64cd6498ddfea7c7",
+            "message": "Attempting to fix typicalRequestBook test case.",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "5c53b0eb2178b8b228ea69e2891d35387fa298e5",
+            "message": "Commented out the test cases causing out travis build to fail to fix in the next milestone. Files concerned: - JsonSerializablePatientBookTest.java - JsonSerializableRequestBookTest.java",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "914d6fb96c5a3dc3e5b0acbca599f23c3b81c129",
+            "message": "Fixed test bugs",
+            "insertions": 17,
+            "deletions": 16
+          },
+          {
+            "hash": "85527cdd4a98e7e3ea52b0a64b2ae56cd3bfd22c",
+            "message": "checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 214,
+        "deletions": 164,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "76b8f7b1755512a1fd07c3750b54c252abebdd70",
+            "message": "Removed redundant file - BrowserPanel.",
+            "insertions": 5,
+            "deletions": 81
+          },
+          {
+            "hash": "4bc1af3d15066016efeca84afc30a00277595c83",
+            "message": "Modified HealthWorkerListPanel files.",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "98aa1ed2b05ca516b07f526f45d20b2ef4c3f73f",
+            "message": "Changed the current implementation to display default welcome message instead.",
+            "insertions": 27,
+            "deletions": 9
+          },
+          {
+            "hash": "766f2cfa99f28bfb621ebd276f2dee2b6501bbcc",
+            "message": "Added Feedback option, logic not yet implemented.",
+            "insertions": 28,
+            "deletions": 19
+          },
+          {
+            "hash": "934fd13547d4bea4bae9a033578c4ef15075731b",
+            "message": "Some minor changes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "46ac3ea46d85e4829e2d685a9d77158da0e916c5",
+            "message": "Created HealthWorkerCard.java and its FXML file.",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "95a3054bc0f005af239150feb066f672eb2fdf04",
+            "message": "Modified HealthWorkerListCard and HealthWorkerListPanel implementations.",
+            "insertions": 99,
+            "deletions": 18
+          },
+          {
+            "hash": "f445b7febda75c54bfdea69f1a6d8db91fe5219a",
+            "message": "Some param changes to the map url.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "ecd62032f465aa4505e7c61f77a9f0e62ad38683",
+            "message": "UI updates to accomodate health worker list panel.",
+            "insertions": 19,
+            "deletions": 18
+          },
+          {
+            "hash": "d441fb9264aeb2b2f30c0f6ff93d80fc5b8b159b",
+            "message": "additional stuff.",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "7cc2002e6bdb73eb8c8202b7264cf794144695a4",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 172,
+        "deletions": 478,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "49a2a0a13b009dc091a4ed1a5a8fd9fa56c616c9",
+            "message": "User guide changes.",
+            "insertions": 14,
+            "deletions": 5
+          },
+          {
+            "hash": "c71468369d4fa2d18142146fe408cc77ed29365e",
+            "message": "Commented away DarkTheme.css to do away with the black theme.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1854d24dc3d5a80d12dc97932f6ffb544c2a1a4b",
+            "message": "Replaced DarkTheme.css to WhiteTheme.css",
+            "insertions": 86,
+            "deletions": 398
+          },
+          {
+            "hash": "5ddf809b9bfc21da028bc0f90c456067b24b0f78",
+            "message": "Refractored .fxml files for UI changes in accordance to discussion.",
+            "insertions": 43,
+            "deletions": 43
+          },
+          {
+            "hash": "2a15b1c66a144f75efb2351434a8ee2d5d36a833",
+            "message": "UI updates + some refractoring.",
+            "insertions": 22,
+            "deletions": 25
+          },
+          {
+            "hash": "17a5111901126197b808a65175d66a8fc1bef6ee",
+            "message": "Fixed some files that affect existing tests.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "281f34518cee0a0f7db50e764aee077da9deebd0",
+            "message": "EOF error fix.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "96b0378bcf74571bc8aa507c8eab02a5e36a70d7",
+            "message": "Some references fix.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 360,
+        "deletions": 355,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "a86339c21b587964698e91158bfa4395c8e9df04",
+            "message": "Refractored PersonListCard to RequestListCard, PersonListPanel to RequestListPanel, as well as its .fxml files. Refractored PersonCardHandle to RequestCardHandle, PersonListPanelHandle to RequestListPanelHandle. Refractored PersonCardTest to RequestCardTest, PersonListPanelTest to RequestListPanelTest.",
+            "insertions": 130,
+            "deletions": 117
+          },
+          {
+            "hash": "5e921b1606b14c0a9fdbe7f8b765e29321d73338",
+            "message": "Modified healthworkerbook.json to add in valid phone numbers in order to display the UI.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "5d1c0337688fe314c833e8ce83d733d23c04bb67",
+            "message": "Removed a deprecated method in Address.java (toStreetNameOnly).",
+            "insertions": 0,
+            "deletions": 15
+          },
+          {
+            "hash": "cf17623594859ca123395b33b01bd7c59e307458",
+            "message": "Added layer of abstraction by changing the public field of some class variables to private field instead, since there is already a .toString() method.",
+            "insertions": 15,
+            "deletions": 19
+          },
+          {
+            "hash": "f5e59de0e3e1a166a4232bc027d2637ee0c282a7",
+            "message": "Refractored code for RequestCard and RequestListPanel.",
+            "insertions": 48,
+            "deletions": 38
+          },
+          {
+            "hash": "4447889ba5c7d36745c338aaa2c1cfc4ec77cff4",
+            "message": "Refractored the GUI handles for Person to Request.",
+            "insertions": 56,
+            "deletions": 56
+          },
+          {
+            "hash": "7ce7dc065bf8c1ad5c7d02ec6d40154a9ed96f44",
+            "message": "Refractored existing PersonListPanel references to RequestListPanel instead.",
+            "insertions": 10,
+            "deletions": 14
+          },
+          {
+            "hash": "c34028106449e0f570a73670a86af11271c65f4a",
+            "message": "Forgot to added in these changes for one of the previous commits.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "63e9635e60993c6c8110604549bcd4025ea23281",
+            "message": "Refractored all the existing Person-related references in seedu.address tests, as well as system tests.",
+            "insertions": 79,
+            "deletions": 85
+          },
+          {
+            "hash": "42c4a6afd774416b4ed737032e34691fa1e8d73f",
+            "message": "Added in the date display for the request list, and extended the result display box.",
+            "insertions": 16,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 20,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "a50b72b7182c75a994b48ed7483cbe71c15abfff",
+            "message": "Fixed performanceTest bug fix.",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "5ed45f3cdbf40b5fd88aba9f8d96d523488fb7a7",
+            "message": "Fix checkstyle errors.",
+            "insertions": 25,
+            "deletions": 14
+          },
+          {
+            "hash": "d76fb9fe7980c17de9ef3c25909abc0b0ca35088",
+            "message": "Fix EOF error.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 288,
+        "deletions": 323,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "b3ad7148520c77a0c4df752e26be3a226f4d73a7",
+            "message": "Fixed JsonAdaptedRequest storage write bug to requestbook.json.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "5ce51ad1df3f24ca93e1150398c493cda0361ce1",
+            "message": "Refractored MapPanel to InfoPanel and all its associated files which have its previous usages.",
+            "insertions": 77,
+            "deletions": 115
+          },
+          {
+            "hash": "abe804fd2858fea2c06650479167966825c96415",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "f8a283a977fe39381edd23432f3c14fe4f19d1c3",
+            "message": "Remove empty list view cell styling.",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "01c6f176e1417c4b49ed5829f157fea79074b7b8",
+            "message": "Change request date string formatting.",
+            "insertions": 3,
+            "deletions": 7
+          },
+          {
+            "hash": "fcaec015a30cda77acd2835fa288e531717ce2b7",
+            "message": "Some css changes.",
+            "insertions": 135,
+            "deletions": 99
+          },
+          {
+            "hash": "34a7dcc8db6e0caa5fe847970dd9ddd425281ec9",
+            "message": "Checkstyle fix.",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "9903d1c3c134cc238d7975329b06e007b373b51a",
+            "message": "Added AB4 acknowledgement in README.adoc, updated UserGuide.adoc and DeveloperGuide.adoc.",
+            "insertions": 20,
+            "deletions": 45
+          },
+          {
+            "hash": "5b14298699aae836da4984610de88b4e4793181e",
+            "message": "Properly fixed the stupid spacing problem.",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "47d228bd5c2e503be400e7f1e547834841ac4af5",
+            "message": "Friendly formatting",
+            "insertions": 17,
+            "deletions": 31
+          }
+        ]
+      },
+      {
+        "insertions": 406,
+        "deletions": 87,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "5acab928660f751f4bede1547b34172ee017cb73",
+            "message": "Added css changes + DisplayPage.fxml for future info page load.",
+            "insertions": 26,
+            "deletions": 10
+          },
+          {
+            "hash": "45f39b5beefd058ce235f8b0403c28116da6b046",
+            "message": "Modified InfoPanel.java to include dynamic rendering of request details, removed DisplayPage instead.",
+            "insertions": 89,
+            "deletions": 4
+          },
+          {
+            "hash": "4e1f0764540fa92269bf17837eab7123331a8ab0",
+            "message": "Fix map infinite loop error.",
+            "insertions": 27,
+            "deletions": 22
+          },
+          {
+            "hash": "6526bf0112a5622f79f44d1545322f7c4ca4a1bf",
+            "message": "Checkstyle fix.",
+            "insertions": 43,
+            "deletions": 10
+          },
+          {
+            "hash": "78c58c0523919c8348e3eb08ed8811ce256399e5",
+            "message": "Enabled font-awesome locally and fix some ui changes.",
+            "insertions": 81,
+            "deletions": 29
+          },
+          {
+            "hash": "95e5b0ab4a41b7dbebcc2e400495900ab8a07f75",
+            "message": "Added HealthWorkerCardTest.java + checkstyle fixes.",
+            "insertions": 140,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 79,
+        "deletions": 23,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "fcd01325b8f1f693db496544deca31ead7662f32",
+            "message": "Removed all the EOF nonsenses.",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "71fc92e3ab03f5fb9f6656b19373e7ae356395be",
+            "message": "Implemented more assert tests (display request details) for InfoPanelTest.",
+            "insertions": 56,
+            "deletions": 4
+          },
+          {
+            "hash": "4cfb8e124aafd089a2edcdd32b7364f2797c8fd3",
+            "message": "Fix checkstyle errors.",
+            "insertions": 14,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 879,
+        "deletions": 457,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "cb683615384867f632588846ba73adb9b9d2449a",
+            "message": "Added previously commented tests for RequestListPanelTest.java",
+            "insertions": 15,
+            "deletions": 7
+          },
+          {
+            "hash": "fce48b1fc16ad9b8ddeb79c952afaad7d42535bb",
+            "message": "Implemented HealthWorkerListPanelTest.",
+            "insertions": 295,
+            "deletions": 7
+          },
+          {
+            "hash": "6fc23215a18f283e7522b16e61bc9b4ed5ef6837",
+            "message": "Change name to Health Hub.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5e3b2095c04b6a9155c12104eae7b98c31d91157",
+            "message": "Implemented StatusBarFooter.java and its tests.",
+            "insertions": 183,
+            "deletions": 97
+          },
+          {
+            "hash": "4c5e6e59a0cb1247e2e33ac27968a8828f0561ec",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 13,
+            "deletions": 16
+          },
+          {
+            "hash": "8025d4e7fbf784715699a46d83987c958e58757b",
+            "message": "Added back AddressBookSystemTest, reordered some gui handles.",
+            "insertions": 327,
+            "deletions": 299
+          },
+          {
+            "hash": "40239db7969bdc09a9cf9f0a8a44cc320a2e2efa",
+            "message": "Added timestamp to \u0027history\u0027 command.",
+            "insertions": 18,
+            "deletions": 15
+          },
+          {
+            "hash": "82862ee7f08e98689fb3026500ee11838ecbf542",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 27,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 578,
+        "deletions": 130,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "3f1672277419d527ef95798ab9028f4223e887b2",
+            "message": "Added timestamp to history command.",
+            "insertions": 17,
+            "deletions": 12
+          },
+          {
+            "hash": "265feef3a0ab1e113b92ad64644a06ba9a5dc78a",
+            "message": "Created new files for autocomplete feature.",
+            "insertions": 105,
+            "deletions": 0
+          },
+          {
+            "hash": "f1c969bbf93dc351ad20c257f767db320175b99c",
+            "message": "Fixed some typos for variable.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "6ccc42b1bd039f3b2b6ad72f0b7ee2edf6a5b4c0",
+            "message": "Implented basic autocomplete functionality for command box.",
+            "insertions": 130,
+            "deletions": 90
+          },
+          {
+            "hash": "7c89a83ca466e72b384af3881d92f331fd6aca20",
+            "message": "Fix checkstyle errors.",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "349910ffa1b42c4ecc2da71285a332c96a7014e1",
+            "message": "Modified some sample command messages.",
+            "insertions": 20,
+            "deletions": 14
+          },
+          {
+            "hash": "aeeba1103b771ed43803f61fcd5432d1779a4d7e",
+            "message": "Added portfolio pages for everybody in the team.",
+            "insertions": 303,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 465,
+        "deletions": 208,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "819b7de04d2958f80085a419dddf53133c7478c5",
+            "message": "Made some small changes to AutoCompleteTextField.",
+            "insertions": 20,
+            "deletions": 22
+          },
+          {
+            "hash": "ed187ac71d97a4d884c1266c81867c5f6ec05b0c",
+            "message": "Adjusted some css changes.",
+            "insertions": 34,
+            "deletions": 21
+          },
+          {
+            "hash": "849761799c5d2404e9c9e486f38c23776e3d2fdc",
+            "message": "Fixed some HealthWorker related ui tests and added SetReminderCommand files.",
+            "insertions": 27,
+            "deletions": 2
+          },
+          {
+            "hash": "818cab683bef343d2718d9ce68e08bc83dbb2176",
+            "message": "Implemented SetReminderCommand.",
+            "insertions": 181,
+            "deletions": 19
+          },
+          {
+            "hash": "95afd3e0cd289abada179a3bb242f9aa84ce2019",
+            "message": "Added SetReminderCommandTest.java",
+            "insertions": 65,
+            "deletions": 15
+          },
+          {
+            "hash": "503a89ff3031b0a74d451aab85cedd216cb1c16b",
+            "message": "Added new comment line.",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "a88fcfddd33e2e9a3ede8133421ce2561aa33525",
+            "message": "Removed trailing whitespace.",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "1ed15804c5ead55b947502d722cdbc0a488d2065",
+            "message": "Commented lines that cause warning messages.",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "4ad9d6459003ff76fab5cf638a756c534ec64f9e",
+            "message": "Commented out some keypress command box tests.",
+            "insertions": 57,
+            "deletions": 57
+          },
+          {
+            "hash": "8fb0505117dc6a0f3f75a59e02291ee3d2d0348a",
+            "message": "Fix checkstyle errors.",
+            "insertions": 65,
+            "deletions": 56
+          }
+        ]
+      },
+      {
+        "insertions": 136,
+        "deletions": 43,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "b4c2a4cb71df4e99704c3f92fc75eff1b9e3840d",
+            "message": "Uncommented some tests.",
+            "insertions": 1,
+            "deletions": 9
+          },
+          {
+            "hash": "9f2939177f7d4a6952ae3be238f5ff3c00fbac22",
+            "message": "Fix request selection bug in UI.",
+            "insertions": 24,
+            "deletions": 8
+          },
+          {
+            "hash": "51fb2fa8f71c3825ea4381188fe87bd37d472bfe",
+            "message": "Added tests to check for autocomplete accuracy, and fixed a problem that caused build to fail in appveyor.",
+            "insertions": 37,
+            "deletions": 3
+          },
+          {
+            "hash": "7d42bb1222fde40c70751e4e297b89e1923016f9",
+            "message": "Fix checkstyle.",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "4a31cd452c84095fe08e8629ab1348d3decf6cbd",
+            "message": "Uncommented previously commented tests.",
+            "insertions": 18,
+            "deletions": 5
+          },
+          {
+            "hash": "91cc84d67d7d77ad40906629eb2cc863dec724a9",
+            "message": "Trying to fix a stable appveyor builld.",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "335ff496db4f515fe247ad66fe12235ff6d10a00",
+            "message": "Updated user guide.",
+            "insertions": 52,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 121,
+        "deletions": 62,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "641b13c7375a881450db0fb09829120d78321df4",
+            "message": "Removed use of \u0027Segoe UI\u0027 fonts for Mac OS compatibility.",
+            "insertions": 46,
+            "deletions": 25
+          },
+          {
+            "hash": "7d95bc43d955f4de8d7f7a0437bdba1da63098e0",
+            "message": "Added undo, redo commands to suggestions.",
+            "insertions": 15,
+            "deletions": 7
+          },
+          {
+            "hash": "4056c56e68e2ffa926a846352ce82b17481138c0",
+            "message": "Removed unnecessary history command timestamp.",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "9c41416d75ab2d64ec277603a30a9d22b45d169c",
+            "message": "Fix selected request address bug.",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "7ed94e07c9eae0211ca0e8f253a43797ec0cd34e",
+            "message": " Modified shadowJar configuration, edited some sample data util data.",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "fbe1d754eb344885a5e190b7a8ab3f16147fd09d",
+            "message": "Updated dev guide.",
+            "insertions": 33,
+            "deletions": 3
+          },
+          {
+            "hash": "56a3241e20536819cdf0be3621febd8de733e054",
+            "message": "Removed timestamp from LogicManagerTest.",
+            "insertions": 5,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 152,
+        "deletions": 82,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "675af38d8f17afc1ac1c64c31ab69c7674997165",
+            "message": "Updated user guide.",
+            "insertions": 92,
+            "deletions": 57
+          },
+          {
+            "hash": "38701fbb96b50e367f9d5ff3f6ef495adef4679b",
+            "message": "Updated user guide, dev guide and my PPP.",
+            "insertions": 59,
+            "deletions": 24
+          },
+          {
+            "hash": "77880af7d9dcc7aa5fad556ced35b600457bf367",
+            "message": "Fix tagging changes.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 158,
+        "deletions": 97,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "92955c25d7f0f98b7d1a867ef1173451357bc53c",
+            "message": "Modified the command usage message for clarity.",
+            "insertions": 39,
+            "deletions": 25
+          },
+          {
+            "hash": "db20bb8183f38bbf3ab976f2329daf2fc88ec433",
+            "message": "Renamed AddressBookSystemTest to HealthHubSystemTest, and implemented SampleDataTest.",
+            "insertions": 118,
+            "deletions": 71
+          },
+          {
+            "hash": "89c4ad8fe97fc49d7ea579f4b6303e2159ca9f87",
+            "message": "Fix checkstyle.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "460aa860f89c9a431e16f0f60dbcf927624c7669",
+            "message": "Renamed PPP file name.",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 723,
+        "deletions": 631,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "140992edfc36ac5ad4623a49023ab5a8ca14a7d9",
+            "message": "Changed huichun.adoc to huichun66.adoc for reference.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "639b7c1100cef33b919f951136ebfda93221a5c3",
+            "message": "Uncommented ModelHelper.java",
+            "insertions": 39,
+            "deletions": 39
+          },
+          {
+            "hash": "a67783f29c69d493b8e2d4c264a7a4d978c96e65",
+            "message": "Uncommented some lines in TestApp.java",
+            "insertions": 5,
+            "deletions": 10
+          },
+          {
+            "hash": "b8bdc11a99ddb01630eec81396fa8e8a2b5da1e6",
+            "message": "Uncommented some lines in TestUtil.java and implemented some methods in InfoPanelHandle.java",
+            "insertions": 54,
+            "deletions": 29
+          },
+          {
+            "hash": "9d25cc1b45780d654dd0e2ee386079664e77e9d5",
+            "message": "Edited TypicalRequests and TypicalHealthWorkers sample data to be a bit realistic.",
+            "insertions": 42,
+            "deletions": 17
+          },
+          {
+            "hash": "1a13711842bdc30d0de02708ffa83407fbddf746",
+            "message": "Implemented HelpCommandSystemTest.java",
+            "insertions": 107,
+            "deletions": 106
+          },
+          {
+            "hash": "8cb0d951fb509e722082e5f7afcbddb28c559be1",
+            "message": "Implemented SelectCommandSystemTest.java",
+            "insertions": 161,
+            "deletions": 160
+          },
+          {
+            "hash": "2c7fb288764dac5c617dada7a06d22c7d6a9546d",
+            "message": "Fixed checkstyle errors.",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "45ea6561aa42028cec144a3d8a3bd624431e3737",
+            "message": "Modified HealthHubSystemTest.java and implemented DeleteRequestCommandSystemTest.java",
+            "insertions": 252,
+            "deletions": 229
+          },
+          {
+            "hash": "c438efdf0a17a7ccb40f796bdc7068dc6046db14",
+            "message": "Modified typicalrequests and typicalhealthworkers json files for consistency.",
+            "insertions": 31,
+            "deletions": 13
+          },
+          {
+            "hash": "2c54668293dc591fb4c4aaefcfef2deea94e2d43",
+            "message": "Fixed some of the failed tests.",
+            "insertions": 10,
+            "deletions": 8
+          },
+          {
+            "hash": "6911c9e3233adb38b2a3fc02d1f8a407cf2ff079",
+            "message": "Modified typicalrequests.java",
+            "insertions": 9,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 356,
+        "deletions": 306,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "9adedd8d5968c67625ab30e20b80b39a87b2cd11",
+            "message": "Renamed FindCommandSystemTest.java to FilterCommandSystemTest.java",
+            "insertions": 178,
+            "deletions": 178
+          },
+          {
+            "hash": "2adcc457feeb8875c92f8150ce866a4dc04f0dea",
+            "message": "Fixed SampleDataTest problems.",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "5efb01c874f85afda8694816c1c20814d68a43ed",
+            "message": "Commented out JsonSerializableRequestBookTest.java, behaves very irratic.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f0c340b60a125188d657525eee0821ac44f92729",
+            "message": "Uncommented SampleDataTest.java and implemented FilterCommandSystemTest.java",
+            "insertions": 14,
+            "deletions": 12
+          },
+          {
+            "hash": "10a5ace1d4dfef59657b24ab89a2d89c9f6c32f1",
+            "message": "Added nric field to show in the GUI for health worker.",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "5992375210b3c48d2e4694adf16b8c9a69082715",
+            "message": "Fix checkstyle errors.",
+            "insertions": 6,
+            "deletions": 9
+          },
+          {
+            "hash": "d8aa4219f9791dd47478d2fb36f10fa10d166428",
+            "message": "Renamed some methods.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "492505a3425c5798f6e4efe8ad66ba313488f403",
+            "message": "Implemented FilterCommandSystemTest.java",
+            "insertions": 131,
+            "deletions": 87
+          },
+          {
+            "hash": "e68f40b6e6fbb44871f0f4c163586ac47a7a94c4",
+            "message": "Renamed FilterCommandSystemTest.java to FilterRequestCommandSystemTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a403271533b266c16ed630159c80c703628d5324",
+            "message": "Updated some minor css.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "6c5ee118b7d9ad3493d5e5dbcc219fe56e57b1d9",
+            "message": "Added a line of code to fix a bug.",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 296,
+        "deletions": 225,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "94745581abaa4983ecbf39c9a0a471af906e1b5f",
+            "message": "Updated UiClassDiagram.png",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "51b279c05d0cda62b9ec40205fb2584e84889597",
+            "message": "Updated UserGuide.adoc",
+            "insertions": 82,
+            "deletions": 24
+          },
+          {
+            "hash": "8578a8e08676b42a0772a514e2228334f79102ad",
+            "message": "Updated some lines in UserGuide.adoc",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "c02d16df5d588ecbc335170d9d4a3fd75e59702e",
+            "message": "Updated my PPP.",
+            "insertions": 9,
+            "deletions": 14
+          },
+          {
+            "hash": "0214a0b43f1b904ae83c3a5936c4ddc930d9a33d",
+            "message": "Implemented ClearCommandSystemTest.java",
+            "insertions": 93,
+            "deletions": 106
+          },
+          {
+            "hash": "71c06848f64d13d22854f3e9115cb063391fbe6a",
+            "message": "Added my author tag hahaha",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "4e79f41313207815769a550f1ae19e8f3e516f04",
+            "message": "Updated docs.",
+            "insertions": 22,
+            "deletions": 12
+          },
+          {
+            "hash": "5007787e3f2b199ba890b4777d148b48ef6d8d45",
+            "message": "Fix checkstyle errors.",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "eb225205ca8a530f92184b6e3f8bdae12ff9fc7b",
+            "message": "Updated docs and added AutoCompleteTextFieldSMD.png",
+            "insertions": 29,
+            "deletions": 17
+          },
+          {
+            "hash": "62bc74097dedf9953060fa3a27815720fac41106",
+            "message": "Updated PPP and developer guide.",
+            "insertions": 27,
+            "deletions": 29
+          },
+          {
+            "hash": "31927b2574b993ca0dc3fb11c81de45b8b79a1f5",
+            "message": "Fixed .adoc errors",
+            "insertions": 4,
+            "deletions": 8
+          },
+          {
+            "hash": "34e7cf373efd325cfaed20603ba93ebbbcd780a7",
+            "message": "Updated PPP to reduce pages.",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "751a7a549a7509d600300a3f654468fdd7bfb7ea",
+            "message": "Updated PPP.",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "51fd416f939553c2d2f27b476e71670a21d5ed6c",
+            "message": "Updated developer guide.",
+            "insertions": 16,
+            "deletions": 3
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "brohandev": 13,
+    "daviddl9": 7585,
+    "jing1324": 3092,
+    "Lookuz": 6667,
+    "huichun66": 3737
+  },
+  "authorFileFormatContributionMap": {
+    "brohandev": {
+      "adoc": 13,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 0,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "daviddl9": {
+      "adoc": 513,
+      "cs": 0,
+      "css": 0,
+      "fxml": 2,
+      "gradle": 0,
+      "html": 1,
+      "java": 6862,
+      "js": 0,
+      "json": 207,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "jing1324": {
+      "adoc": 315,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 2474,
+      "js": 0,
+      "json": 303,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "Lookuz": {
+      "adoc": 1368,
+      "cs": 0,
+      "css": 0,
+      "fxml": 1,
+      "gradle": 1,
+      "html": 0,
+      "java": 5289,
+      "js": 0,
+      "json": 8,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "huichun66": {
+      "adoc": 338,
+      "cs": 0,
+      "css": 190,
+      "fxml": 131,
+      "gradle": 1,
+      "html": 13,
+      "java": 2967,
+      "js": 0,
+      "json": 97,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "brohandev": 14.65941,
+    "daviddl9": 134608.34,
+    "jing1324": 818342.4,
+    "Lookuz": 349143.84,
+    "huichun66": 95766.16
+  },
+  "authorDisplayNameMap": {
+    "brohandev": "ROH...DEV",
+    "daviddl9": "D D...TON",
+    "jing1324": "JIN...ING",
+    "Lookuz": "CHO...YEH",
+    "huichun66": "TAY...HUN"
+  }
+}

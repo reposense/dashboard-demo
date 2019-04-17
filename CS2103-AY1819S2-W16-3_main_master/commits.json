@@ -1,0 +1,1581 @@
+{
+  "authorDailyContributionsMap": {
+    "roanurquhart": [
+      {
+        "insertions": 4,
+        "deletions": 8,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "b906cfb17b0185dff7c7d133a222c3213e703e8f",
+            "message": "Updated ReadMe",
+            "insertions": 4,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": [
+          {
+            "hash": "67247830327772a2fc4538caf592e893b6d111a2",
+            "message": "Added help alias command",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 118,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "c04f622ca0da077fb0421c7dcb73d81ab2875aac",
+            "message": "Added FavoriteCommand Working on committing to storage",
+            "insertions": 118,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 50,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "ff69f48ce4ddae786f8dfcdd13d986c5cd863448",
+            "message": "Fixed Java Code Convention issues",
+            "insertions": 31,
+            "deletions": 28
+          },
+          {
+            "hash": "f3625ffe9268ea49b872f2b45d590b8963c2f63c",
+            "message": "Fixed further convention issues",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "faac416f29f873e9b769979b4a6a1946dfbb0dc1",
+            "message": "Fixed CI test issues after revert",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "194fe9ee4f5609203753598f47143a29fee7107d",
+            "message": "Attempted to fix Travis CI test failures",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d2d1cf3161f0cc47dccd02c3302be5960d637a16",
+            "message": "Fixed tests temporarily",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "313bc748402939021dfccd1b1554a21cdcb47464",
+            "message": "Reset tests",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "0c0f0ed7a88ad04eabce459325f5e9a4c483a710",
+            "message": "reset link",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 327,
+        "deletions": 10,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "26bc97aaf3d1fee25be26347e670137abc44f53d",
+            "message": "Revert Changes",
+            "insertions": 327,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 542,
+        "deletions": 19,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "0e1d8753d3bcde581966949df886b14b5e28a562",
+            "message": "Fixed UI",
+            "insertions": 15,
+            "deletions": 0
+          },
+          {
+            "hash": "fb87159163c5ac7d8c810314a7df0d1978ad5c76",
+            "message": "Fixed JavaFX",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "33068f424cca460bbc0b0763bf3a4b4b7df13102",
+            "message": "Company",
+            "insertions": 159,
+            "deletions": 6
+          },
+          {
+            "hash": "34d3d69c754707d4a5c79b5fa4830b5c70d6fdbd",
+            "message": "Created Company Class And accompanying methods",
+            "insertions": 365,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 78,
+        "deletions": 21,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "12e01c58742eb03c8bace0384e51eb7edffd0f84",
+            "message": "Fixed style errors",
+            "insertions": 32,
+            "deletions": 17
+          },
+          {
+            "hash": "a848bde864e23188d21a6fe8428baf87d128ae85",
+            "message": "Fixed code style pt.2",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9aa2a9f328ed997ebb70936adab1f93f1bd460f3",
+            "message": "Added ListCpnyCommand",
+            "insertions": 34,
+            "deletions": 0
+          },
+          {
+            "hash": "eab0b0d32475dd2e9d254c9fffbe038e59f0cfea",
+            "message": "Developer guide",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "449388963789fb9ce9cb96fa48bd532105651c37",
+            "message": "Added Company to DeveloperGuide",
+            "insertions": 8,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 102,
+        "deletions": 72,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "62fe0f62cc01d175204e255fc7ec23a130b982a8",
+            "message": "Fixed Code Style Errors",
+            "insertions": 102,
+            "deletions": 72
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "e52da80a2627c628e0a8d4709e675c86272906eb",
+            "message": "Changed version number",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 903,
+        "deletions": 18,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "b0c4f566c625e587ecdaaa344226e94229a3a9c5",
+            "message": "Finished Implementing Company",
+            "insertions": 610,
+            "deletions": 9
+          },
+          {
+            "hash": "d0f48cff69210eba18a1053f20830aad05bfb62d",
+            "message": "Fixed Checkstyle",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "dc59dad69cdf7cb3a1cb2881c2c8020b677dbf3a",
+            "message": "Fixed travis",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "9e78f348ba0c657270a13b325606a30ca05220f8",
+            "message": "Added boilerplate for CompanyListPanel",
+            "insertions": 276,
+            "deletions": 0
+          },
+          {
+            "hash": "7d87c93949ec2c43e5067d44f18707ae541895ac",
+            "message": "checkstyle",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "05515d02b4e3e2537375afcd98d4ff0e65246226",
+            "message": "Updated MainApp Version",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 169,
+        "deletions": 1,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "2ada8b1ab7f7f88373e4fc63dd60a13e62c1b019",
+            "message": "Storage Attempt",
+            "insertions": 156,
+            "deletions": 0
+          },
+          {
+            "hash": "b89849c169a0090dac48800281632be4a1038ddb",
+            "message": "Worked on storage",
+            "insertions": 13,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 65,
+        "deletions": 34,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "f356b832bc065b22911431250e499e39e889c483",
+            "message": "Fixed Issues",
+            "insertions": 15,
+            "deletions": 13
+          },
+          {
+            "hash": "4be2baae06be19fc7e5b76af7b3301ea1b0963f7",
+            "message": "Fix to edit and editcpny",
+            "insertions": 50,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 14,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "2d7fcfe4d97d0c4ebd6c5814e5670486a1694da5",
+            "message": "fixed Median",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8b20c637685dbb3a3ddcb940a81328dbcdb651aa",
+            "message": "ppp",
+            "insertions": 21,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 555,
+        "deletions": 30,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "9bbc5b0315e6ca661f7e5106e8c14deaa04fbac7",
+            "message": "Added Test",
+            "insertions": 553,
+            "deletions": 30
+          },
+          {
+            "hash": "2b44d24ace2e6fe9909a7e9de9dbb305fcdf555d",
+            "message": "Contributed to DG",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 42,
+        "deletions": 8,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "48c3b9c3975c19e96f1bae46d641cb65cdcd93b2",
+            "message": "Updated DG",
+            "insertions": 35,
+            "deletions": 4
+          },
+          {
+            "hash": "6e1caa0d3f44132aa2cdfa88b1c7344ad43ba36b",
+            "message": "Updated PPP",
+            "insertions": 7,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "bdf9454c7e3c09520722bfc852de981ac091958d",
+            "message": "Updated AboutUs",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "ZhangJiayu0303": [
+      {
+        "insertions": 327,
+        "deletions": 9,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "3f6609043743ce92a2d343496014cc2a28338cb5",
+            "message": "Store personal salary/occupation/relationship status in addCommand.",
+            "insertions": 327,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 3,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "5a7896ad27ab8cc162e77128cf42f9a3c293becf",
+            "message": "fixed ui",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 21,
+        "deletions": 1,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "3b880adef0f8a303ed493299e0a412e220cbffa5",
+            "message": "Update add command for Developer Guide",
+            "insertions": 21,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 192,
+        "deletions": 98,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "df170a8a7cd25874b992ff001575a9cacf2ecd1a",
+            "message": "fix tests errors",
+            "insertions": 110,
+            "deletions": 20
+          },
+          {
+            "hash": "5563037f15ccf5ee6d6437ecd1f972f8b9244cba",
+            "message": "fix checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3fa01e8bd246f588ba66c48232e96f957387d7c5",
+            "message": "fix compile error",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "7a0fe46843769bd5779169883b45f584b1b22496",
+            "message": "fix checkstyle errors",
+            "insertions": 17,
+            "deletions": 20
+          },
+          {
+            "hash": "ebf31ac3d68dbe579f0599e480db94ce7f2c6a3b",
+            "message": "fix checkstyle errors",
+            "insertions": 14,
+            "deletions": 7
+          },
+          {
+            "hash": "06550b1d828a798229ed729ad111a7ed5358f3b4",
+            "message": "fix test errors",
+            "insertions": 31,
+            "deletions": 35
+          },
+          {
+            "hash": "b54fa9d27872776117f80ccdbc9b02cb46a51ad5",
+            "message": "comment test assertions",
+            "insertions": 10,
+            "deletions": 7
+          },
+          {
+            "hash": "9dd765612d1d2ec83417d22c1c406fe2f8cbff59",
+            "message": "fix test errors",
+            "insertions": 6,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 1232,
+        "deletions": 73,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "0d9dd5b88e5e570a290e64cec2f9e27ba4a17663",
+            "message": "count number of persons; average salary",
+            "insertions": 59,
+            "deletions": 20
+          },
+          {
+            "hash": "298b7c899da21ae68b18255594aaf67350e21925",
+            "message": "Update AddressBookParser.java",
+            "insertions": 23,
+            "deletions": 1
+          },
+          {
+            "hash": "8bdf55468b8a25ae1b9156b4a4c87aa663614589",
+            "message": "modify UserGuide",
+            "insertions": 1150,
+            "deletions": 52
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "d34ce4413967ae258064792e12e6763a9d62c185",
+            "message": "AnalyzeCommand",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "4e4ff167c2866ba3aad9458d19b32ced2d509054",
+            "message": "upad medianCommand and analyzeCommand",
+            "insertions": 47,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 28,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "39fd158ac9f81c4fff3fbd8659c2fe62c5c31b53",
+            "message": "upda median,average,find",
+            "insertions": 28,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1433,
+        "deletions": 366,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "79592495d45c5a894bce359ae5f3f8988ef3e3a6",
+            "message": "upda",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "61d4839c75e79ccbb10cea1e2e3d9808d8c201ba",
+            "message": "upda",
+            "insertions": 26,
+            "deletions": 1
+          },
+          {
+            "hash": "6fc89c1601ea27c082669ac7d590b4c1f3f0ceb9",
+            "message": "upda",
+            "insertions": 23,
+            "deletions": 3
+          },
+          {
+            "hash": "4109db0461d4d732b35977510ab7664dc78518b7",
+            "message": "Update UserGuide.adoc",
+            "insertions": 67,
+            "deletions": 1
+          },
+          {
+            "hash": "ca75b02469869e5b92d6666c006bd6322a48d8b7",
+            "message": "Update AverageSalaryCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0823668f70f8d44ecfbb1445516b04b420aa7af1",
+            "message": "Update MedianSalaryCommand.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6ec1e9e7e6a16ddfb3191f2b0fee4414c2b72beb",
+            "message": "Update FindOccupationCommand.java",
+            "insertions": 38,
+            "deletions": 1
+          },
+          {
+            "hash": "f8ffd7ceebfd1e74adf32e20ab1990df2bb5e616",
+            "message": "Update FindOccupationCommandParser.java",
+            "insertions": 30,
+            "deletions": 1
+          },
+          {
+            "hash": "e2d6fff778eb5243920f9627f3f570888f717756",
+            "message": "Update OccupationContainsKeywordsPredicate.java",
+            "insertions": 29,
+            "deletions": 1
+          },
+          {
+            "hash": "c94888541d06ab93ddb96efd87a61e2ca116bb73",
+            "message": "Update FindSectorCommand.java",
+            "insertions": 38,
+            "deletions": 1
+          },
+          {
+            "hash": "707064a33fd0471a352bebf05d21418e3bca12e8",
+            "message": "Update FindSectorCommandParser.java",
+            "insertions": 30,
+            "deletions": 1
+          },
+          {
+            "hash": "9ecdd16fd0a7299e5efb099b16059c778da94f03",
+            "message": "Update SectorContainsKeywordsPredicate.java",
+            "insertions": 29,
+            "deletions": 1
+          },
+          {
+            "hash": "c8a82e9f6fb3a01a3e88e81a03496416815f8ae1",
+            "message": "Update AverageSalaryCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8240a3556c32f7e4316ca5af54da42172a099d97",
+            "message": "Update MedianSalaryCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "41b0e6b30d0dee6644dd6c9f83d832a8872c4834",
+            "message": "Update UserGuide.adoc",
+            "insertions": 0,
+            "deletions": 8
+          },
+          {
+            "hash": "43eca00bfb65ab3fef5d8629da298215e3eabc22",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 24,
+            "deletions": 0
+          },
+          {
+            "hash": "d0f3e11060c2e696968f251e34f5d0cd82224863",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "8c7d203f2451607fa34c6b804b4fa2916698dd2b",
+            "message": "upda ppp",
+            "insertions": 73,
+            "deletions": 0
+          },
+          {
+            "hash": "646fdccf39813a17be87aa92f50de1ce67be328c",
+            "message": "Update zhangjiayu0303.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f5d125bdfbc08586af92cc237ced626e927b06d5",
+            "message": "Update zhangjiayu0303.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "632b6d709667873df8f7533cd2a3a1c4a9a6ec1f",
+            "message": "Update zhangjiayu0303.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "37ba4e0865d6622465e21f4663273f592d3cf5d6",
+            "message": "Update UserGuide.adoc",
+            "insertions": 13,
+            "deletions": 3
+          },
+          {
+            "hash": "04a2d8628af5cc100d4670e10f0413cbd8f64308",
+            "message": "Add files via upload",
+            "insertions": 209,
+            "deletions": 0
+          },
+          {
+            "hash": "0e56bacedc87688895438b3208a4f009d318b9db",
+            "message": "upda zhangjiayu0303.adoc",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "b3d7f71e072b86c623d6dc8c0dcf5df516c6725f",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "bf099dfbbca06c2324c3fb1037f63d2e45b81297",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0f09b8a6cd6b4a8a4ba92bff8d6eea341c813d2f",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "3016bcede7ccff66dd189e7d4e12083544987d91",
+            "message": "upda",
+            "insertions": 147,
+            "deletions": 169
+          },
+          {
+            "hash": "5f2be4dbfca378d1cb4f0320e6ae8cee1df90dc9",
+            "message": "upda html",
+            "insertions": 611,
+            "deletions": 155
+          }
+        ]
+      }
+    ],
+    "FanDongzhe": [
+      {
+        "insertions": 107,
+        "deletions": 21,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "8bd1064801f207fa34348bb80da99dfd3cbbd520",
+            "message": "Update AboutUs.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "35bb2d565ba7950755e5be4b5a5dac7352b12d5b",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "48892ce7b180a730994dcfc06679b6b138ccc2ba",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e7651d356aea123c98dcefc437026b8421583639",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9850a2c8e95123ee4ad256dd08ec00206f410481",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "be0418b19113d885787bc178633ebf2c6a15a827",
+            "message": "Update UserGuide.adoc",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "61016996e71b59ebe1192c21c7b4b8727d02e637",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "4eaaa8a4567a923f579d9aeaaef1bbe1a65362e2",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "5699ad3ef299b82a81a61de26f1269c40d8c82a8",
+            "message": "Update UserGuide.adoc",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "2b10e2ffb9f7f869382af5f342f9da867524daff",
+            "message": "Update UserGuide.adoc",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "eb1241e332d2ff569bd3c394e1125216e09d3667",
+            "message": "Update UserGuide.adoc",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "bcec2c19968bcc047253ef37ff4231dff585e5a8",
+            "message": "Update UserGuide.adoc",
+            "insertions": 36,
+            "deletions": 3
+          },
+          {
+            "hash": "7cd108af8f34798a7d4d58509e60e0ca0163f6cc",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 317,
+        "deletions": 14,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "1d871bbe41df0b9dc22bb3099820651f55e81988",
+            "message": "add new command",
+            "insertions": 307,
+            "deletions": 6
+          },
+          {
+            "hash": "c53d4a1f678f51b1afcf25eb9ea60ff178561fab",
+            "message": "modify",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "a533019536696b84d68cee383dc7a8dbee7eddae",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8a12f79c154205cdd8d75284c36d6447b0da5842",
+            "message": "Update user guide",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "0fe9b13da1f6b4678abc5e65533601be083b52af",
+            "message": "Update user guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 155,
+        "deletions": 19,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "9a9ef1afa91cf3fa5eee84bf948292db2240d418",
+            "message": "add export command",
+            "insertions": 155,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 1439,
+        "deletions": 273,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "b74271f86d736d2c0efbb4dbfe7f2a00941672cb",
+            "message": "add test for sort",
+            "insertions": 124,
+            "deletions": 7
+          },
+          {
+            "hash": "fb9b928ac08b2fa18dc3cc2718dafabda4397f77",
+            "message": "fix bug",
+            "insertions": 234,
+            "deletions": 26
+          },
+          {
+            "hash": "3fb88f30726f3198642124b2375c879f40de4056",
+            "message": "Update UserGuide.adoc",
+            "insertions": 17,
+            "deletions": 4
+          },
+          {
+            "hash": "a79984e08a0c4ff8936abe6deca9b391786837f9",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "05bc27ceebae8b76a15781a20405bc0952fc40dd",
+            "message": "add ppp",
+            "insertions": 75,
+            "deletions": 0
+          },
+          {
+            "hash": "ccc972eb557f2ff8351667ac498f7175115661e8",
+            "message": "Update FanDongzhe.adoc",
+            "insertions": 16,
+            "deletions": 8
+          },
+          {
+            "hash": "6cb230300efbcd4f199db844597f2ffb8a59150b",
+            "message": "Update FanDongzhe.adoc",
+            "insertions": 8,
+            "deletions": 16
+          },
+          {
+            "hash": "532fb64f7f58ed5f2fa3ebad18655705421f9b24",
+            "message": "Update FanDongzhe.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ee06d0363a44270c24a52b6c541686e0be4e2a5b",
+            "message": "Update UserGuide.adoc",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "af6d960312d6fe6f93949cce21183e5c6eae4426",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "152114a0ec2b2aecb99f93830c3d6c499b5299d3",
+            "message": "add document",
+            "insertions": 171,
+            "deletions": 0
+          },
+          {
+            "hash": "bc90fbf6519828243a0606ed0cf2375a5b1e9965",
+            "message": "update",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6dca7a64de411fd328dae5a65f8431eaeb5bdbff",
+            "message": "add tag",
+            "insertions": 77,
+            "deletions": 15
+          },
+          {
+            "hash": "05e6c4e771f786e806cac1e1c1c2bbfcf5e9d20d",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "421ad5c98b51d16140254157e4fb1d91c6d240ee",
+            "message": "update html",
+            "insertions": 681,
+            "deletions": 195
+          }
+        ]
+      }
+    ],
+    "jkhiani": [
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "1fbc35668ca73e46351b3f811e5158f0c7c8f042",
+            "message": "Updated about us",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "4c0f8f751a31af12bfb3d698c6eb72ec4341419c",
+            "message": "Fixed image extension",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 20,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "022580d96e4c84d2b87b1b2a78df8cd3bf862e48",
+            "message": "Updated AboutUs",
+            "insertions": 0,
+            "deletions": 18
+          },
+          {
+            "hash": "d0d6f98fc9f5f749a3013b634093544d9c5f019b",
+            "message": "Update AboutUs",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 38,
+        "deletions": 1,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "c464a91052a2aa2256360f51389bca3a20f05d0b",
+            "message": "Added colors to tags",
+            "insertions": 38,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 4,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "0f5be8e554943fd4fc0991a3cf5d77eaa8406fb8",
+            "message": "When person card is clicked, address shows up on google map",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1419b498b07a1db29bef371ef69443719220d8fb",
+            "message": "Removed trailing whitespace on line 35",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "94dfe1e2cb7758ff2806bb57822d8ae8914083c1",
+            "message": "Fixed test",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "6e75b120cd303cfaf96f873cfd772523cf72c17f",
+            "message": "Revert \"Fixed further convention issues\"",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "8219b3c0c75896984aaffb76cc62150ef4166ef7",
+            "message": "Revert \"Updated docs\"",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 99,
+        "deletions": 25,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "5d9b52f53413e7f3f49671f5029e4d134f0ee456",
+            "message": "Address shows up on google map when person card clicked",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "e462f2fc838529a2f6fe92de2ad69753d63216d1",
+            "message": "Created getter function for favorites list",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "915078ab4418c8e772d6e2566f0deeadf395eb0f",
+            "message": "Added dummy listFav command",
+            "insertions": 24,
+            "deletions": 14
+          },
+          {
+            "hash": "8e9db2e68b57db3cd1788e485af4d2642a1d0647",
+            "message": "listFav command prints out all favorites in terminal",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7f90013313dc4bd889f844ba0607c4331cee48fb",
+            "message": "listFav works in single session",
+            "insertions": 22,
+            "deletions": 4
+          },
+          {
+            "hash": "b9889aef9adc0cbe22f0e9b5d11024d59f294090",
+            "message": "Updated dev guide with favorite command",
+            "insertions": 37,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 19,
+        "deletions": 10,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "69d37df4fe2d27877ea03b41bc52912668777f18",
+            "message": "Fixed style errors in PersonIsFavoritePredicate.java",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "e501971cba0d51acb693b6214ebdc4a79fcea679",
+            "message": "Fixed style errors for favorites",
+            "insertions": 12,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 148,
+        "deletions": 63,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "9cfe4b80b5dd5fc96c1e65890a80db0c46a0a13e",
+            "message": "Fixed checkstyle errors",
+            "insertions": 58,
+            "deletions": 27
+          },
+          {
+            "hash": "e0abe0a8df16800a53d405721e0258b982f5155d",
+            "message": "Fixed checkstyle errors",
+            "insertions": 26,
+            "deletions": 19
+          },
+          {
+            "hash": "c3606b9b7502d8d51a3109e7466ea0968d031820",
+            "message": "Fixed checkstyle",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "f2380a0da4fde41fe29d853802f02dbc82826fb6",
+            "message": "Implemented abstract methods in tests",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "9684732dc8452063e89ba5d78a1d49ef3a17073c",
+            "message": "Fixed test checkstyle",
+            "insertions": 26,
+            "deletions": 13
+          },
+          {
+            "hash": "c886b0999db23e17113bac09d82df485e81d4f18",
+            "message": "editcommandparsertest reorganize imports",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "ebd2bbc359f08259f23406cc4b747eb3988fb7a0",
+            "message": "Fixed checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 17,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "0270b5075faa0c73e1952945531c2c61a0289489",
+            "message": "Must be more specific when adding peoples to favorites list (use full name)",
+            "insertions": 45,
+            "deletions": 9
+          },
+          {
+            "hash": "363c1a936a09bed481ec63b3efe496ed8ec6a1c9",
+            "message": "Fixed checkstyle",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "c036e0d8778141bcee9d4ccdb347f389793c77f7",
+            "message": "Added space for checkstye",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 140,
+        "deletions": 27,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "fcebbb0e13995b630c89e9730500d3fce376aec0",
+            "message": "favorite command shows all potential options when ambiguous",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "f14442db503444e199d6cfd8472fe372f47b9382",
+            "message": "Created functionality to delete favorites",
+            "insertions": 113,
+            "deletions": 17
+          },
+          {
+            "hash": "16642ccef610e6976f576ca5928ad32744e107ad",
+            "message": "Cannot delete/add repeat person as favorites",
+            "insertions": 20,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 19,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "df54a360fcad15d64e9f888cb28e721f16c06405",
+            "message": "Can view total contacts in status bar",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "9aa95cc4c0fbf717ea9cd9c2215b56d6f0d2526f",
+            "message": "Fixed checkstyle",
+            "insertions": 38,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 175,
+        "deletions": 33,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "44382b90b90d0aa81ef7e86f9fb0d69c8ec1db97",
+            "message": "Shows suggestions to add when full name isn\u0027t typed",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "6b2e00e0c3c579bd7839f7672019d815623757bf",
+            "message": "Updated ug to include favorites",
+            "insertions": 38,
+            "deletions": 23
+          },
+          {
+            "hash": "3e2ee21ecd364fcc570303c3bb3b7ef3cf073d0f",
+            "message": "Updated dg",
+            "insertions": 54,
+            "deletions": 2
+          },
+          {
+            "hash": "b4c4439253497d8c00f7b60e5b7ad9292ddcf1f5",
+            "message": "Updated PPP",
+            "insertions": 79,
+            "deletions": 5
+          },
+          {
+            "hash": "d4aa30bccd0635413fa8e76a04ed1866e066b141",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "78ab3ead774a3913b786d9ce7da5e368239ea4a6",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "11b0899df12273d75d2be02e1389a8f3cb6e9bdc",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 5132,
+        "deletions": 796,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "e1139332d52d4951cba115a55cd8285612f3b3f4",
+            "message": "cleaned up statusbarfooter",
+            "insertions": 5067,
+            "deletions": 3
+          },
+          {
+            "hash": "37d9742a44f760b17899e884027b11cfc2bae702",
+            "message": "Updated GUI to include company list",
+            "insertions": 65,
+            "deletions": 2
+          },
+          {
+            "hash": "314f10e00bba3042fb86a7d1df3b2e2778967f8a",
+            "message": "Delete jkhiani.html",
+            "insertions": 0,
+            "deletions": 791
+          }
+        ]
+      },
+      {
+        "insertions": 200,
+        "deletions": 4336,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "7743cc1f8c8cd444bc616f9614b8b4c8d3e0406c",
+            "message": "Storage works for favorites",
+            "insertions": 32,
+            "deletions": 1
+          },
+          {
+            "hash": "90019f7eeb5933139bea7af3dcfcf175385706bd",
+            "message": "Added storage for companies",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "24c86e78ea9476b64682885e3eb9af4895f083a5",
+            "message": "Fixed issue #99 user guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6e278856f13ed5b9ff555cdc8bffb22b96cfa60c",
+            "message": "Fixed typo in UG issue #109",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4671a38a895d1c1c8b4c530ab103d2c73471a90b",
+            "message": "Updated favorite section in UG fixed issue #105",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8b2fcb98500d5cefe37ba9818f3a898ba0857767",
+            "message": "Updated SELECT description issue #106",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4e3249ed1d29eca0595856446bb668e91dad0abb",
+            "message": "Updated JAR file name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d5228aa0d378b542a9970a4abe7cacb5c3ac615d",
+            "message": "Fixed checkstyle, testing compile errors",
+            "insertions": 62,
+            "deletions": 7
+          },
+          {
+            "hash": "cf40bdb1ba5fc33410d327b0f17b69bd08434141",
+            "message": "Deleted UG/DG html exports",
+            "insertions": 0,
+            "deletions": 4274
+          },
+          {
+            "hash": "bda3982f638e93aae877f825221fd7f3f763d805",
+            "message": "Updated statusBarFooter to include company",
+            "insertions": 12,
+            "deletions": 7
+          },
+          {
+            "hash": "a7db961f9bde20948977962b4a1ee233cf16acdb",
+            "message": "Fixed checkstyle",
+            "insertions": 23,
+            "deletions": 11
+          },
+          {
+            "hash": "f3983baee84db2d3671211f72d2b8d2ac8c651e0",
+            "message": "Updated statusBarFooterTest",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a853c8e21f3b35710c5748ed4c76f659e130cd7d",
+            "message": "Added javadoc for checkStyle",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "a7663b58c62a07a9b75a278e241ad6e18f0ff537",
+            "message": "Fixed browserPanelTest",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "b4bd8d1c41dd24bdb8f7107868172301fa04c9f4",
+            "message": "Updated test data for jsonserializableaddressbook",
+            "insertions": 9,
+            "deletions": 3
+          },
+          {
+            "hash": "ff8e8cf610defabc30a2f418fee20c8d7e58c6ff",
+            "message": "Updated logicManagerTest to include new attributes",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "1b0e4f4dee0b93acf6ad36916067cd65a83804e5",
+            "message": "Updated tests",
+            "insertions": 12,
+            "deletions": 4
+          },
+          {
+            "hash": "7bfab608e9ac0febeb3a247a8c18ddac22f40fff",
+            "message": "Fixed test checkstyle",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "840c69dbf49c7e98906cafc041745a9d06026dc9",
+            "message": "Updated tests",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "f130261a28465c8373d5ae235b37d23e24b23b0a",
+            "message": "Removed unused imports",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "6dbb942e44f19317f7d77708f4faeb3f87e09dd3",
+            "message": "Can add different people w same everything except 1 attribute",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 37,
+        "deletions": 12,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "0f8f51a0b547d26e34a1ee3da603c49b2ca7bdce",
+            "message": "Updated Ui.png",
+            "insertions": 15,
+            "deletions": 0
+          },
+          {
+            "hash": "cf82a2f4030ffdf6ad7a2fed6a7d58a6f06d5d7b",
+            "message": "Updated docs",
+            "insertions": 22,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 949,
+        "deletions": 10,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "8de798f967fa116abc20cd92e519caff33e49733",
+            "message": "Updated ug/dg/ppp",
+            "insertions": 949,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 1447,
+        "deletions": 27,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "907b576f8e42b9add9ee24b5ddce8004a5f260b6",
+            "message": "Updated listFavorites test",
+            "insertions": 54,
+            "deletions": 2
+          },
+          {
+            "hash": "d1dde79471029ebb0d6b4cd7e175fe82fd22eb71",
+            "message": "Added eof for travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "49fad060a88a9f543f6f6d47e16fafd6afb6d7e3",
+            "message": "Added favoriteCommandTest",
+            "insertions": 114,
+            "deletions": 3
+          },
+          {
+            "hash": "702f80cc0cc021d223c86533c40dbf1d9a9feb28",
+            "message": "Updated favorite tests",
+            "insertions": 94,
+            "deletions": 0
+          },
+          {
+            "hash": "108b46dce9471a62a253a3b2a9dd53ce1649d059",
+            "message": "Added PPP html for roan",
+            "insertions": 906,
+            "deletions": 0
+          },
+          {
+            "hash": "78164756fb6b543853255ac3fe7f271355cfd094",
+            "message": "Updated PPP",
+            "insertions": 278,
+            "deletions": 21
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "roanurquhart": 2580,
+    "ZhangJiayu0303": 2149,
+    "FanDongzhe": 1659,
+    "jkhiani": 3166
+  },
+  "authorFileFormatContributionMap": {
+    "roanurquhart": {
+      "adoc": 74,
+      "cs": 0,
+      "css": 0,
+      "fxml": 11,
+      "gradle": 0,
+      "html": 0,
+      "java": 2495,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "ZhangJiayu0303": {
+      "adoc": 220,
+      "cs": 0,
+      "css": 0,
+      "fxml": 14,
+      "gradle": 0,
+      "html": 643,
+      "java": 1228,
+      "js": 0,
+      "json": 44,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "FanDongzhe": {
+      "adoc": 216,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 693,
+      "java": 750,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "jkhiani": {
+      "adoc": 316,
+      "cs": 0,
+      "css": 44,
+      "fxml": 52,
+      "gradle": 1,
+      "html": 1980,
+      "java": 764,
+      "js": 0,
+      "json": 9,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "roanurquhart": 24009.662,
+    "ZhangJiayu0303": 75589.93,
+    "FanDongzhe": 46193.305,
+    "jkhiani": 861130.06
+  },
+  "authorDisplayNameMap": {
+    "roanurquhart": "URQ...RAY",
+    "ZhangJiayu0303": "ZHA...AYU",
+    "FanDongzhe": "FAN...ZHE",
+    "jkhiani": "KHI...ESH"
+  }
+}

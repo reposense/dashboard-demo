@@ -1,0 +1,2366 @@
+{
+  "authorDailyContributionsMap": {
+    "shaungohsc": [
+      {
+        "insertions": 4,
+        "deletions": 14,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "b807b2a8a583d1895254ab93415fb5823648634d",
+            "message": "Update About Us and Add photo of shaungohsc",
+            "insertions": 4,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 88,
+        "deletions": 66,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "0c729e7bbdbdfefcd059e676a61e30ee31acca00",
+            "message": "Edit UserGuide for Chapter 1, 3.10 to 3.19 and 5",
+            "insertions": 88,
+            "deletions": 66
+          }
+        ]
+      },
+      {
+        "insertions": 120,
+        "deletions": 26,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "79a0cedf5bc90fefd0b9aa1a535ac16f2c850488",
+            "message": "Change App Icon and Title in MainWindow",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "77667f820498d05911f1c61e05ca143faf009abf",
+            "message": "Add Field Names to PlaceListCards of each Place",
+            "insertions": 115,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 62,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "c15a396bf5da9184eee4503a0688f8c2d5592ff1",
+            "message": "Updated UI Component details for DG",
+            "insertions": 34,
+            "deletions": 62
+          }
+        ]
+      },
+      {
+        "insertions": 292,
+        "deletions": 35,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "f7898ef86c438e74d43b54a619abd0844d606abb",
+            "message": "Add SimpleBooleanProperty in Logic and Model for displaying Generate command",
+            "insertions": 292,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 151,
+        "deletions": 48,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "a5a7ad3ac4ea229e3463f55765c209142508e3f1",
+            "message": "Change Generate command so it displays chart on execution",
+            "insertions": 136,
+            "deletions": 16
+          },
+          {
+            "hash": "5cacf44a924edc250b6efe6930b4186eb9cb9cf3",
+            "message": "Add ExtendedPlacePanel to RightParentPanel",
+            "insertions": 14,
+            "deletions": 32
+          },
+          {
+            "hash": "98fefe7e2568da0264b57c4f4fabfa56263a52c4",
+            "message": "Try a different method of updating nodes in VBox",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 16,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "ea5dc6c1636749c9bf9c0864c06cf4fd085d7f4f",
+            "message": "Correct style violations",
+            "insertions": 5,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 153,
+        "deletions": 114,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "ac864d5d800b96cf82641e5b04cdb1f2b0e50cad",
+            "message": "[Not passing System tests] Added Pane-switching betwteen DisplayListPanel and ExpandedPlacePanel",
+            "insertions": 149,
+            "deletions": 110
+          },
+          {
+            "hash": "d8016e59a243c75533878579ed977b6654d5c7a8",
+            "message": "Fix BufferOverflow Exception for all Systemtests",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 161,
+        "deletions": 159,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "5dd4e95e20652afed0f51de86cd70d231308d73e",
+            "message": "Updated DG/UI Component for v1.4",
+            "insertions": 16,
+            "deletions": 13
+          },
+          {
+            "hash": "c55bfc1703ad6155791ec36246f2ccc68b6cdc26",
+            "message": "Updated DG diagrams and added intro for overall DG, and sections 1 and 2",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "d2ea8346df1030acea649c2d5000b93d47b03b65",
+            "message": "Updated all instances of \"address book\" to \"TravelBuddy\", changes to Section 3.1.1",
+            "insertions": 37,
+            "deletions": 34
+          },
+          {
+            "hash": "520f42bca53ab69421db0e0baff6358e6479dc80",
+            "message": "Add details to Section 3.1.1",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "010b16b740e007536f4c83f09706a9c45d0186b3",
+            "message": "Fix tag Flowplane overflow and Place Card misalignment issue",
+            "insertions": 90,
+            "deletions": 94
+          },
+          {
+            "hash": "4e14e5345322469cefc5f2b9b313bed687ba68a6",
+            "message": "Correct minor errors to DG",
+            "insertions": 8,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 151,
+        "deletions": 132,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "5a7b510b920d59006f131172a43a13223b393113",
+            "message": "Add a initImg method that loads a placeholder image into ExpandedPlacePanel",
+            "insertions": 151,
+            "deletions": 132
+          }
+        ]
+      },
+      {
+        "insertions": 403,
+        "deletions": 215,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "88122db87c4fb5ea53d69fbf37e764d0acb0aba2",
+            "message": "Add Photo class, change Place class to include Photo, updated the ExpandedPlacePanel to allow for scrolling",
+            "insertions": 234,
+            "deletions": 135
+          },
+          {
+            "hash": "d31b09af7338d48917630be264c61047fddcf8c0",
+            "message": "Add Photo data field, Change all relevant seedu.travel classes",
+            "insertions": 98,
+            "deletions": 54
+          },
+          {
+            "hash": "fcc32d4372105da466cb2db41580635ffd36fd65",
+            "message": "[Broken] Incomplete fixes to AddCommandParser, Photo and JsonAdaptedPlace and JsonAdaptedPlaceTest",
+            "insertions": 14,
+            "deletions": 7
+          },
+          {
+            "hash": "d2c3782c95f505d0d5d54526fde18ad50b5cc6f1",
+            "message": "[Broken] Change JsonAdaptedPlaceTest and Add PhotoTest",
+            "insertions": 57,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 105,
+        "deletions": 74,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "2592028fb564a92bcf04ba0fb08ad84e61b37801",
+            "message": "[Broken] Fix EditCommand and EditComamndParser, photos now display",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c6ab2fce0080194108d231bdd58e730fdd2c7caa",
+            "message": "Made UI changes to ExpandedPlacePanel, Changed default image",
+            "insertions": 103,
+            "deletions": 72
+          }
+        ]
+      },
+      {
+        "insertions": 121,
+        "deletions": 51,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "ddbe30a159dfe49f44d771a1055a2899cef1175a",
+            "message": "Fix tests and style, fixes for default photo handling",
+            "insertions": 121,
+            "deletions": 51
+          }
+        ]
+      },
+      {
+        "insertions": 159,
+        "deletions": 45,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "388be8ec2f9dccf4599d8c13c5d44f3068e41a47",
+            "message": "Update UG for Photo feature, Fix command error for Photo FILE_PATH.",
+            "insertions": 93,
+            "deletions": 6
+          },
+          {
+            "hash": "cf1849fa8536361599610128fe552eee0fffc541",
+            "message": "Add additional parsePhoto utility to take care of leading and trailing double quotes around filepaths",
+            "insertions": 13,
+            "deletions": 6
+          },
+          {
+            "hash": "d7aaf2510591d4abc8f82d05553e30752d2ca285",
+            "message": "Update UG and remove Photo debug statements",
+            "insertions": 25,
+            "deletions": 19
+          },
+          {
+            "hash": "44c3b11e3a882874c1ca3631162e6003746a75aa",
+            "message": "Update UG for intro language",
+            "insertions": 28,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 2159,
+        "deletions": 539,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "54a5d5d949d8f155e2efcd745eae941d4a59b5b0",
+            "message": "Commit changes not made by shaungohsc due to merge conflict when pulling",
+            "insertions": 566,
+            "deletions": 399
+          },
+          {
+            "hash": "0330da67d471dfec15686856211e48bf950ed360",
+            "message": "Updated UG and PPP",
+            "insertions": 153,
+            "deletions": 49
+          },
+          {
+            "hash": "8701cb399c1395ca250a1b7ad5cd4cae4e6cdf09",
+            "message": "To prevent merge conflict",
+            "insertions": 1411,
+            "deletions": 88
+          },
+          {
+            "hash": "8e241808aaef1265cbf46ac399b491f9cc344b04",
+            "message": "Change Menu CSS to better fit Light-Theme colour-scheme",
+            "insertions": 18,
+            "deletions": 1
+          },
+          {
+            "hash": "81ed4b1dc565d052e494d10e93f70ef8728515d0",
+            "message": "Change ExpandedPlacePanel background color",
+            "insertions": 11,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 101,
+        "deletions": 46,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "4783d30234b9c058bf1a5ab1e6072fae6c671370",
+            "message": "Fix adoc checkstyle and java checkstyle errors",
+            "insertions": 26,
+            "deletions": 26
+          },
+          {
+            "hash": "fffa36d338fe750edd601763aba3281622bf8792",
+            "message": "Fix CSS code quality",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "eb54ee950b4ec59e9171c40f9a848214d6939ea8",
+            "message": "Add ExpandedPlacePanelTest",
+            "insertions": 74,
+            "deletions": 1
+          },
+          {
+            "hash": "ee394a122282c3826aa1a9647f0ccabfed364a9a",
+            "message": "Remove unused method from RightParentPanel",
+            "insertions": 0,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 185,
+        "deletions": 16,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "6e2986782694b54f6c06d1adad47e75fbda9fbed",
+            "message": "Improve test coverage",
+            "insertions": 58,
+            "deletions": 6
+          },
+          {
+            "hash": "14b338eb1418b96b99e6ab2358b34d87a8cc53b5",
+            "message": "Updated model Diagrams",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "fc6232815349b7f70b4a69482e3377fb23417601",
+            "message": "Update DG for Photo feature and others",
+            "insertions": 108,
+            "deletions": 0
+          },
+          {
+            "hash": "0da159c0b915a981d607faef7f53916c10b2560a",
+            "message": "Update PPP",
+            "insertions": 13,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 216,
+        "deletions": 213,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "2a7581c11e0a953f1146674885d267964b29221a",
+            "message": "Update UG and PPP",
+            "insertions": 44,
+            "deletions": 36
+          },
+          {
+            "hash": "042f838ab732bcad709378acb623420262e10563",
+            "message": "Update all that stuff, DG UG, diagrams",
+            "insertions": 91,
+            "deletions": 67
+          },
+          {
+            "hash": "298e2ab8fcd960046fc8090317e294ab2417eb07",
+            "message": "Update PPP",
+            "insertions": 28,
+            "deletions": 40
+          },
+          {
+            "hash": "aab431ab7177e635191579714c9faadef4afbaf2",
+            "message": "Update PPP",
+            "insertions": 3,
+            "deletions": 15
+          },
+          {
+            "hash": "71503e69aec0a06a4c30b471f3e36a9716db7484",
+            "message": "Update PPP and add PPP pdf",
+            "insertions": 18,
+            "deletions": 23
+          },
+          {
+            "hash": "bced17eb6c4dc1732bf29579655ff4d0db293565",
+            "message": "Update PPP",
+            "insertions": 12,
+            "deletions": 14
+          },
+          {
+            "hash": "7a8982ee8408c76b5af7f1bdeb6546b3f2cf93e7",
+            "message": "Change UG tags",
+            "insertions": 14,
+            "deletions": 12
+          },
+          {
+            "hash": "7d84d2adbb9f20d31f4f5817ab9f9f8819e07501",
+            "message": "Final PPP version",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      }
+    ],
+    "chung-ming": [
+      {
+        "insertions": 7,
+        "deletions": 7,
+        "date": "2019-02-16",
+        "commitResults": [
+          {
+            "hash": "8a3aafad385f9c91a36e75b2f7e4bc2eb9e6edd7",
+            "message": "modify repo URL from se-edu to our repo",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2987fb598c804ea40f40991ea65875acc04a0466",
+            "message": "README.adoc: point the build status to my own repo",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "bab7414b4f8c54f1d2906f350f4159c1d7225a01",
+            "message": "README.adoc: point build status to team repo",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 18,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "bffd32e80eec59171e5d0c7e13bfa9679a142d55",
+            "message": "modify documents",
+            "insertions": 13,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 1,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "9e13c0784f4f460667e20a0fb153bb753c3f36b3",
+            "message": "Add a local backup storage for the address book",
+            "insertions": 15,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 109,
+        "deletions": 8,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "3a33eb1dc4370dfe09b09378d178c20e3b40b228",
+            "message": " Add command aliases",
+            "insertions": 109,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 301,
+        "deletions": 82,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "bbbb9297a7c4a6d4537a52296dfef138f07958fa",
+            "message": "Add description of TravelBuddy in ReadMe",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "cba5197425e387c2c43e380ac0eb3abc2218d50e",
+            "message": "Add target user to ReadMe",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6ad1552598dd5a0ecaab1cd4d1f8d1639a28cfd3",
+            "message": "Add everyone\u0027s email to ContactUs",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "fc88f911ac53f25d485d8f21eb18d955e1daaa24",
+            "message": "Create team\u0027s individual Project Portfolio and removed the default",
+            "insertions": 0,
+            "deletions": 72
+          },
+          {
+            "hash": "894d975af2f6508f72e7a00576cb22423f6f3f5d",
+            "message": "Insert template to team\u0027s Project Portfolios",
+            "insertions": 216,
+            "deletions": 0
+          },
+          {
+            "hash": "986e1c049b75a3e0db30fdde2a44fdc08b3c127f",
+            "message": "Modify Project Portfolio link in AboutUs",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "1919a6c72e1cb5ad4d459211ebcef3764352eeb2",
+            "message": "Update Project Profile with template",
+            "insertions": 72,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 484,
+        "deletions": 432,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "861944b0b508b0222f5c7a2688d7efe05af648c2",
+            "message": "Rename Email classes to Description classes",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "db84293c0c7bd690856931cedf7421f782070e41",
+            "message": "Modify documentations and diagrams for Description object",
+            "insertions": 18,
+            "deletions": 15
+          },
+          {
+            "hash": "af2008668c93c21fceb5729c0e481e6789b2ca38",
+            "message": "Modify .json storage files for Description",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "03fe3fb662c3024cfba306fd0cfa0d28c31f0a72",
+            "message": "Modify Email object to Description object",
+            "insertions": 453,
+            "deletions": 404
+          }
+        ]
+      },
+      {
+        "insertions": 57,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "501beb69dc0d816d903bb2522ab2180cf0bc0efc",
+            "message": "Add \u0027generate\u0027 command that does nothing",
+            "insertions": 57,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 6,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "50a1030842713138429a33a6c37ced7f2cf905c6",
+            "message": "Modify checkstyle and user guide",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "3d8554f198626b022bed082827a37a5684ca90ae",
+            "message": "Modify checkstyle, user guide and ppp",
+            "insertions": 11,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 3,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "d992fa9ab20e4d2a29546aa09ea4172b5c701980",
+            "message": "Format User Guide to suit CS2101 standards.",
+            "insertions": 6,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 382,
+        "deletions": 231,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "9f779fe15dce3203f0ab1836b10ea366655cfc3b",
+            "message": "Modify formatting in AddCommand and ListCommand. Remove tests for GenerateCommand.",
+            "insertions": 8,
+            "deletions": 23
+          },
+          {
+            "hash": "bbc0707e7eb1613043fd6d467598652a6a33e98f",
+            "message": "Minor formatting",
+            "insertions": 21,
+            "deletions": 25
+          },
+          {
+            "hash": "fc7bc34b1bd19671765041795ec4417c0180b659",
+            "message": "Modify generate feature",
+            "insertions": 176,
+            "deletions": 10
+          },
+          {
+            "hash": "de49522ab263819db03354ade46c67c77c89c78e",
+            "message": "Modify generate feature",
+            "insertions": 93,
+            "deletions": 136
+          },
+          {
+            "hash": "a06f37a086ffe74d7f6af64fcef8f2c8cd308459",
+            "message": "Add category names in PlaceCard",
+            "insertions": 4,
+            "deletions": 8
+          },
+          {
+            "hash": "6b7f41bc5364a16b3a51b6d6c0d04adb9c0f19d3",
+            "message": "Undo category names in PlaceCard",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "590b16512690d4f6c01bb7eeb91f3412992e8948",
+            "message": "Modify Developer Guide",
+            "insertions": 72,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 102,
+        "deletions": 46,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "6d4b42b1d646513442cb4d95f9b44f6b3f0f4c2c",
+            "message": "Format Developer Guide",
+            "insertions": 81,
+            "deletions": 35
+          },
+          {
+            "hash": "43477e751535b826124c44f58bc4f503069a1beb",
+            "message": "Convert Map to JSON and store the data in a JSON file",
+            "insertions": 21,
+            "deletions": 3
+          },
+          {
+            "hash": "c80c4dc2edea2ad8d3c4a7e4f479291cf096e0d3",
+            "message": "Remove dataencryption tags to conform to asciidoctor",
+            "insertions": 0,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 3027,
+        "deletions": 2854,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "7a118e4be50f74d7e15072c73a89f29479e4bfbf",
+            "message": "Add Chart and Maps functionality",
+            "insertions": 207,
+            "deletions": 34
+          },
+          {
+            "hash": "5407558c2ab193ecd660c0104fb44dc505399bd1",
+            "message": "Modify \"addressbook\", \"address book\", \"person\" and \"persons\" to \"travelbuddy\", \"place\" or \"places\"",
+            "insertions": 2753,
+            "deletions": 2753
+          },
+          {
+            "hash": "ee4daba61a07fd5446e2412c637729a77d5ee3c5",
+            "message": "Fix checkstyle and test errors",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "639d7918b5429536eca50fbb3d7534f85bb60b19",
+            "message": "Fix unchecked errors",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "16477605b27c4368b39b818f9927de29267f1f97",
+            "message": "Fix test errors",
+            "insertions": 48,
+            "deletions": 48
+          },
+          {
+            "hash": "d976a778736a4944aeb1d1c0633e08dadd02ba8e",
+            "message": "Fix test errors",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "4de3894061b738ca1f078b89acac4ee70baa1360",
+            "message": "Fix test errors",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 514,
+        "deletions": 58,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "71b3b686e041eb5ad811cd8ce9927701200782f0",
+            "message": "Modify UI",
+            "insertions": 510,
+            "deletions": 54
+          },
+          {
+            "hash": "a2ff4129d55a8bdb57d2fe49ee881dadc3a86825",
+            "message": "Modify test errors",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 559,
+        "deletions": 62,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "4172a29646edfbb179d480d6c247b69bcdfd89e1",
+            "message": "Modify chart feature",
+            "insertions": 209,
+            "deletions": 40
+          },
+          {
+            "hash": "d851f6fa0de091c9b7884587818262672f90f685",
+            "message": "Modify UI. Duplicate PlaceListPanel.",
+            "insertions": 340,
+            "deletions": 9
+          },
+          {
+            "hash": "c78c0ab967824e110a66318326edb68554f74b74",
+            "message": "Modify UI",
+            "insertions": 10,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 305,
+        "deletions": 378,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "c7f26e30e84a9c7b14e9245ad1764e7ccc7db748",
+            "message": "Modify UI for Chart feature",
+            "insertions": 305,
+            "deletions": 378
+          }
+        ]
+      },
+      {
+        "insertions": 245,
+        "deletions": 107,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "aa84777c1ad903ca2cfeac649e5697fd2a453ce2",
+            "message": "Add Rating and Year Charts",
+            "insertions": 245,
+            "deletions": 107
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 16,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "2eaf75c8d2529be1ef9d893b680ea3e00a256f2f",
+            "message": "Fix bug causing empty charts to be displayed even though the list is empty",
+            "insertions": 13,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 1380,
+        "deletions": 615,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "7bf3b669b24aa6efbbd8a3a5525d704e68a3c4f1",
+            "message": "Update README.adoc",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "62f02962cf0d88fabcd44e245f433521a5079b59",
+            "message": "Refactor chart features in compliance with SE standards",
+            "insertions": 1266,
+            "deletions": 445
+          },
+          {
+            "hash": "296b64bc0f2dd53a308b3789688b23a20a5ac000",
+            "message": "Remove Google Maps API usage",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "fa62171eae0f426e636944ea2dc0a695f2b1ec92",
+            "message": "Update TravelBuddy version and remove Google Maps API",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "903ff40740c023b1854ab30ac92f9e78ba801996",
+            "message": "Fix bug where the chart display panel\u0027s height does not grow with the VBox.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3316902563ce61c5e17ccda8d27c3cff7294e31e",
+            "message": "Fix a bug where the mouse is unable to select on the scroll panel, and another bug where an empty chart is displayed even when the list of places is empty.",
+            "insertions": 70,
+            "deletions": 85
+          },
+          {
+            "hash": "943ae0eae5292a7162c8dd0e4cfea2f49a7ecf10",
+            "message": "Add exceptions for the charts",
+            "insertions": 21,
+            "deletions": 0
+          },
+          {
+            "hash": "3b1530dd581096fe25803daf3bdf1c234c8f613b",
+            "message": "Tidy up code",
+            "insertions": 10,
+            "deletions": 69
+          },
+          {
+            "hash": "bc8b1fd200012cb745c69f0a43f758a6521add5c",
+            "message": "Modify organization name to be all uppercase",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "df8483d115a2f0ec3fb49654eb965b64d32b2247",
+            "message": "Reactivate AppVeyor CI",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 961,
+        "deletions": 45,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "f0ae7eaeba295283e14c87118b1d02af78a66ce5",
+            "message": "Fix bug ReadMe url not working",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "1d82aa369d68054de77f78745ce74e5d560d50f3",
+            "message": "Implement JUnit Testing for Chart feature",
+            "insertions": 849,
+            "deletions": 38
+          },
+          {
+            "hash": "66097e6a38b34b449559caac8fcfabd3f053a8cd",
+            "message": "Fix failed tests by adding newline to EOF",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "066b9e2efbae343f4461fb7fb39bbbc427269638",
+            "message": "Implement JUnit Testing for Chart feature",
+            "insertions": 105,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 48,
+        "deletions": 36,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "9194ad6cefa620adf3620ea2d9d441abd1596cbd",
+            "message": "Update Developer Guide",
+            "insertions": 22,
+            "deletions": 22
+          },
+          {
+            "hash": "4ee3ebc1b3aabf9e9c81068a2777f6de9c0a54ca",
+            "message": "Documentation housekeeping",
+            "insertions": 26,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 1235,
+        "deletions": 529,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "9b004dd233b581241938e3b3ea8467c62544d67d",
+            "message": "Update User Guide, Developer Guide and PPP documentation",
+            "insertions": 645,
+            "deletions": 239
+          },
+          {
+            "hash": "525a37d47e28642c34c469f8000f8ea9334ff970",
+            "message": "Implement command shortcuts",
+            "insertions": 331,
+            "deletions": 123
+          },
+          {
+            "hash": "fae1c95a11f1698df7585ce6143e93fc870100a5",
+            "message": "Fix failed test cases",
+            "insertions": 95,
+            "deletions": 94
+          },
+          {
+            "hash": "e267917288d2b330e262d37276edc7fdffef21fb",
+            "message": "Update documentation to include generate command as undoable. Refer to PR #153.",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "b921108d1010083981b72d33f89cbfcda8ad954f",
+            "message": "Update bar chart to increase readability. Display the number of places visited on the top of the bar chart. PR #157",
+            "insertions": 55,
+            "deletions": 7
+          },
+          {
+            "hash": "ace4481079d6f56146a9956bdcfe2caa96868023",
+            "message": "Modify User Guide",
+            "insertions": 106,
+            "deletions": 60
+          },
+          {
+            "hash": "be991534fe67a71fdba141b217e92ca0b1234e01",
+            "message": "Fix failing test by removing trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 228,
+        "deletions": 103,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "abb3d1d24f36410e4d4b6a73b85cacdcd7117b28",
+            "message": "Refactor Display Card to Chart Card, and DisplayListPanel to ChartListPanel.",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "0449273448004605a0ff209cacca7a99aff2b3f4",
+            "message": "Refactor DisplayListCard to ChartListCard and DisplayListPanel to ChartListPanel",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "29a9e4783b275c44bdc1d2424efc061a343db158",
+            "message": "Update documentation for UG, DG and PPP.",
+            "insertions": 203,
+            "deletions": 73
+          },
+          {
+            "hash": "0fdf0c7c0c76e1a4d93dbedc1bd16bb8fae2c395",
+            "message": "Update DG",
+            "insertions": 7,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 641,
+        "deletions": 470,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "9a4db82bebad764bb551ebcf1fbed3a83a7b3e59",
+            "message": "Update DG and PPP",
+            "insertions": 306,
+            "deletions": 105
+          },
+          {
+            "hash": "d3fa56bb17072277883a1399f5476f953ec45897",
+            "message": "Fix trailing whitespaces in DG",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "f81a025be1ae065d2d04857ff267b0f328296d58",
+            "message": "Fix trailing whitespaces in DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b3f61cad94371ae2ac4edce082d08d042af7c6e2",
+            "message": "Modify PPP and DG",
+            "insertions": 65,
+            "deletions": 41
+          },
+          {
+            "hash": "bc36412059bf959472d7db3e405328c0ae2fc4b6",
+            "message": "Modify UG, DG and PPP",
+            "insertions": 247,
+            "deletions": 301
+          },
+          {
+            "hash": "a2b4875d820ff4cf949adfdcdb9cd7aac8720b7c",
+            "message": "Fix trailing whitespaces",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 31,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "5c44c37ebdb080dc439e27538f722515fc70266b",
+            "message": "Update DATE_VISITED parameter in sample data and unit test case",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "1321e15327145729d604f1ed35c3f8e7eefd2e2e",
+            "message": "Fixed grammatical error in DG and added RepoSense link to PPP",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "c81d84d3d860bd30f3ec932cd726b85481494d2a",
+            "message": "Modify PPP",
+            "insertions": 15,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 205,
+        "deletions": 1554,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "f9c95a42a6279ed53ab6512d96174506eb198cae",
+            "message": "Standardize asciidoc attributes in UG, DG and my PPP.",
+            "insertions": 67,
+            "deletions": 69
+          },
+          {
+            "hash": "791fdab223129359608a11dbbf4fe55c5500835a",
+            "message": "Remove unused methods to increase coverage",
+            "insertions": 0,
+            "deletions": 42
+          },
+          {
+            "hash": "a2015d24b5d511e719947465cbebe29bcf9f2b87",
+            "message": "Fixed trailing whitespaces",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b2757e776a9df070d631dc6cf152103a117c8652",
+            "message": "Add tests for ChartBookStorage",
+            "insertions": 81,
+            "deletions": 77
+          },
+          {
+            "hash": "2102630491ab2b37e5d6c0f9b87e2012b7b1ed1a",
+            "message": "Modify PPP",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "4d422eb58d7ba2ac75a06375993450e65ae94611",
+            "message": "Fix bug in rating chart",
+            "insertions": 44,
+            "deletions": 1355
+          }
+        ]
+      },
+      {
+        "insertions": 56,
+        "deletions": 47,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "a0a3ed325c25da6ec18fbbfcc771886daca911ef",
+            "message": "Modify UG, DG and PPP for Chart feature",
+            "insertions": 42,
+            "deletions": 34
+          },
+          {
+            "hash": "8c330a7b32bdb792945ff2bd0453b25d5f1c9da1",
+            "message": "Fix checkstyle errors",
+            "insertions": 14,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 45,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "08dbd00403c1009621f5fc632812c44e9c77dc9e",
+            "message": "Modify PPP",
+            "insertions": 36,
+            "deletions": 25
+          },
+          {
+            "hash": "971cde83c08da5b4011f4f5795e82bdbe3d45f05",
+            "message": "Added non-functional requirements to DG",
+            "insertions": 12,
+            "deletions": 19
+          },
+          {
+            "hash": "de6f7f37ea05885ed11b8a6664ebc76b8276e07e",
+            "message": "Remove RepoSense until param",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 80,
+        "deletions": 45,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "d17ac8e7270f14c577b78e904a9664deaff35d17",
+            "message": "Fix grammer issue in UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d60d04b2aa5dd7b513c3dce4f23a0afcedc0b6db",
+            "message": "Modify UG, DG and PPP",
+            "insertions": 32,
+            "deletions": 11
+          },
+          {
+            "hash": "ab922e648bbd0bc08dceac279211c62f90bb9c53",
+            "message": "Modify PPP",
+            "insertions": 47,
+            "deletions": 33
+          }
+        ]
+      }
+    ],
+    "PremBagda": [
+      {
+        "insertions": 137,
+        "deletions": 11,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "b8c0b7969c2716fac1b569a29e096aac21936248",
+            "message": "Update AboutUs.adoc",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "9347d57c9ee45a56bf6c60917bde4328bea85cb3",
+            "message": "Fix coding standard issues.",
+            "insertions": 132,
+            "deletions": 5
+          },
+          {
+            "hash": "6b2c8b1df21c779f75b677384ec576cf7b7e5b81",
+            "message": "DarkTheme: Add newline at EOF",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2063,
+        "deletions": 2062,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "436363babbf8fd7458afb5957bae481f4656fa58",
+            "message": "Convert Person object to Place object",
+            "insertions": 2062,
+            "deletions": 2061
+          },
+          {
+            "hash": "321252e602dcda053058d32e1d8627cf77aa58e9",
+            "message": "Update lexicographical order of imports",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 163,
+        "deletions": 112,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "ad91d14e550621bfdac072aa2470854a150bd365",
+            "message": "Updated Diagrams and Developer guide based on v1.1 updated objects.",
+            "insertions": 163,
+            "deletions": 112
+          }
+        ]
+      },
+      {
+        "insertions": 551,
+        "deletions": 92,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "fd342cab5e854abeaf1c6901a7ba05a7872f44be",
+            "message": "Add Country Code",
+            "insertions": 551,
+            "deletions": 92
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 33,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "50295740590e2d2aa5a55c12dd494892d6c58f4a",
+            "message": "Update UserGuide from 3.1 to 3.9",
+            "insertions": 17,
+            "deletions": 33
+          }
+        ]
+      },
+      {
+        "insertions": 82,
+        "deletions": 26,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "67f938a8ba8d7f400f9de52c5cd9b37e7ff68ab7",
+            "message": "Update Diagrams, UG \u0026 DG to match features in V1.2",
+            "insertions": 82,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 648,
+        "deletions": 183,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "b23e0ba24bbd98e67f934bef38a3b1e9fd894fa6",
+            "message": "Add Date Visited",
+            "insertions": 633,
+            "deletions": 168
+          },
+          {
+            "hash": "10db9a944437fb64976e906db101c5008ebe93fa",
+            "message": "Fix bug on typicalPlacesTravelBuddy",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "3c02688c450cbda89d641b1837f217e8d742afc0",
+            "message": "Remove commented code related to google import statements.",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 30,
+        "deletions": 28,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "3e5a6acd14cabf3bed42be1f0afc7432b3ec9bcb",
+            "message": "Update UG \u0026 DG and re-alignment of PlaceCard",
+            "insertions": 30,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "770204a981a06165c9b69e4fe9f421d2132aea78",
+            "message": "Update Java version in PlaceListCard from 8 to 11",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 38,
+        "deletions": 12,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "aae38bc02a5a673c82e5cc320fcd34485a534757",
+            "message": "Add _reposense/config.json for correct RepoSense Data",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "0cac0dfebdefcb71ecf413d58a49ca0c972bda83",
+            "message": "Fix #2 RepoSense",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3804f0c7c47ec74c004cabd47a386bd6920f7cf9",
+            "message": "Fix #2 RepoSense",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "83fb82792a55c62077d77ab379a1c789a69c622b",
+            "message": "RepoSense Fix#2",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "f478aff0885be14c212212b61cf12cef3586ec87",
+            "message": "Update RepoSense config to display accurate info for all.",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 386,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "9c9df086273e06510f228e83c0677eba4ae18b13",
+            "message": "Update DG to CS2101 \u0026 CS2103T standard",
+            "insertions": 49,
+            "deletions": 384
+          },
+          {
+            "hash": "4141fa6e3300ef841f7ca92998e1db99db322aa5",
+            "message": "Update Name of image to prevent merge conflict",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fba6d8832197f72a9b5a222cc914bf844a5c1bf1",
+            "message": "Attempt #3 fix image conflict issue.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 4,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "6bfe94e5a32827395a41861bd9cd69d49adc3c16",
+            "message": "Fix broken image links in DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "05a43507d102955cbc51214b5b35f7b368a93f27",
+            "message": "Minor documentation update",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 6,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "ff520dbb1c96642caaa0adddfedf4ecd46ecf496",
+            "message": "Update PPP and add tags to UG.",
+            "insertions": 8,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 65,
+        "deletions": 47,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "bc1d19919ff1350303b0eb4cb03c3b448594241c",
+            "message": "Fixed unnecessary spaces in UG",
+            "insertions": 20,
+            "deletions": 19
+          },
+          {
+            "hash": "6b37a78024099be451e3cd5d7a2d65557be8fa87",
+            "message": "Fix PlaceCard and ExpandedPlacePanel alignment issues",
+            "insertions": 45,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 1,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "985363e0d4d44200fd296ab31794e9f7d9d8acff",
+            "message": "Fix bug for Issue #159",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 378,
+        "deletions": 26,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "24d08e184976a60d3f88c86a584a601db3c4f533",
+            "message": "Fix all pe-dry bugs",
+            "insertions": 364,
+            "deletions": 11
+          },
+          {
+            "hash": "adcb514b1a0c7748e5764d2e8c3f1e85a945e2ac",
+            "message": "Fix trailing whitespace issue",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "b144816333a3643bc1159f254c17f768f8f47c01",
+            "message": "Fix DG Trailing Spaces Error.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "a6b050b2e42a7bd81430bd6cc67903eb3a80a988",
+            "message": "Fix #1 Load Sample Date issue",
+            "insertions": 11,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 1898,
+        "deletions": 376,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "119f6f51fa8b5df93390b9995ddd19c0be71bb2d",
+            "message": "Update PPP \u0026 List of Country Codes",
+            "insertions": 497,
+            "deletions": 287
+          },
+          {
+            "hash": "80e307f4d1113eb5861e76d6ca4bd980428b56c6",
+            "message": "Add Country Code Link to UG",
+            "insertions": 1316,
+            "deletions": 6
+          },
+          {
+            "hash": "df8e3d57637a9814bde4c01c62819734a1313dfc",
+            "message": "Fix newline error",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "fe7577fc615ac761cc1ff683ca15b9dc737b8bfd",
+            "message": "Fix newline error #2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5d52cb4411ccf0ed694970b9e7f37b2f7d13995d",
+            "message": "Fix newline error #3",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "7e3854c8fbb4a51d0cb5b6b59065a1aa7942e834",
+            "message": "Update UG, DG, PPP \u0026 CountryCodes file.",
+            "insertions": 76,
+            "deletions": 80
+          }
+        ]
+      },
+      {
+        "insertions": 339,
+        "deletions": 173,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "ce9986aac50a3d24d65c2582de1813cb4c952429",
+            "message": "Modify UG \u0026 PPP for v1.4",
+            "insertions": 149,
+            "deletions": 90
+          },
+          {
+            "hash": "af247a71a508e879731f94bcce1a3183f6cbbc41",
+            "message": "Fix EOF error.",
+            "insertions": 26,
+            "deletions": 8
+          },
+          {
+            "hash": "ea1c6613da4f9d26986d1148d9860997616b2c02",
+            "message": "Update UserGuide, DeveloperGuide \u0026 PPP.",
+            "insertions": 162,
+            "deletions": 73
+          },
+          {
+            "hash": "333951671004080991662df4e07007dd7c265f8f",
+            "message": "Updated RepoSense Date",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 114,
+        "deletions": 96,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "b2e547907fd47067b6e7ef94bde3956a199ed905",
+            "message": "Last few fixes.",
+            "insertions": 63,
+            "deletions": 48
+          },
+          {
+            "hash": "8b4ed1ec3fe1d2179ea480d829db46cafacd6d27",
+            "message": "Last fix for DG v1.4",
+            "insertions": 22,
+            "deletions": 19
+          },
+          {
+            "hash": "84ddf04f22f6f6ed062a440e7407cb27771e0e1d",
+            "message": "Update DG",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "7f413532be2d39434fcd8d5231284e375205e803",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c865b391fad329b036dcc5b63999ddeb7603ab9c",
+            "message": "Update for submission",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "d2131999be431749bebcfe4faf81b06a8538d6bc",
+            "message": "Update numbering",
+            "insertions": 14,
+            "deletions": 15
+          },
+          {
+            "hash": "244c53650545999e33221a806d006f319031d834",
+            "message": "Fix for photo issue.",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      }
+    ],
+    "nivenang": [
+      {
+        "insertions": 394,
+        "deletions": 1,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "1efe66af0e96c5f397d263fb63c3cdac44c8adcf",
+            "message": "Add new feature delete multiple from addressbook, updated JUnit tests",
+            "insertions": 393,
+            "deletions": 0
+          },
+          {
+            "hash": "c24830ebdd098956cebcfb9a714fb76c099a120e",
+            "message": "UserGuide.adoc: Add new feature deletem",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 43,
+        "deletions": 19,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "e4aaff7575f5f29833298c4d5478b28f4b42a16d",
+            "message": "DeleteMultipleCommandParser: Remove extra empty line at EOF",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "cf6f5f1bd855136294c0d413bda4b0ecb770999d",
+            "message": "DeleteMultipleCommandParser: Add newline at EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8cfba9fc289d44dc24aa7c30c010ca85a2301535",
+            "message": "DeleteMultipleCommand: Add javadocs for class Update code to follow Java coding standard",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "8aba195a5f068aba4afca1aea050826a8fa37d39",
+            "message": "DeleteMultipleCommandTest: Update code to follow Java coding standard, insert javadocs comment",
+            "insertions": 20,
+            "deletions": 9
+          },
+          {
+            "hash": "ea82c2141e50afae6ac2763173fee29c69f95544",
+            "message": "UserGuide: Add alias command",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "ac1ed1e77ae1940252c4e5b5ad664de7aab5725e",
+            "message": "AboutUs: Update team member profile",
+            "insertions": 4,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 9,
+        "deletions": 5,
+        "date": "2019-02-22",
+        "commitResults": [
+          {
+            "hash": "0409658dd80433520909a6ce082826502e509d54",
+            "message": "AboutUs: Update responsibilities of team members",
+            "insertions": 9,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 14,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "d64cbff045c1cd14966a17a6d6a72a9d134ad4b3",
+            "message": "Update features in UserGuide to include search feature",
+            "insertions": 68,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 422,
+        "deletions": 416,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "1a00463e6d0ebaaa7b3a40c4707fed22d1a02167",
+            "message": "Rename find to search feature",
+            "insertions": 61,
+            "deletions": 61
+          },
+          {
+            "hash": "0fb65624c9a2e4df89b338b68d67c0ce7502364b",
+            "message": "Convert Phone class to Rating class",
+            "insertions": 361,
+            "deletions": 355
+          }
+        ]
+      },
+      {
+        "insertions": 624,
+        "deletions": 585,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "d6e4c5237838b60f55f116c7f51e4968604d6376",
+            "message": "Update addressbook and JUnit tests from persons to actual places",
+            "insertions": 624,
+            "deletions": 585
+          }
+        ]
+      },
+      {
+        "insertions": 587,
+        "deletions": 13,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "1cc36b7173855546e72c43def358a40b4019a1c2",
+            "message": "Create SearchRatingCommand feature to search places by rating",
+            "insertions": 137,
+            "deletions": 1
+          },
+          {
+            "hash": "bf0f6fb5e6c314e5e435d0be93a8dfdb9ca45654",
+            "message": "Implement JUnit tests for SearchRatingCommand and associated files",
+            "insertions": 445,
+            "deletions": 7
+          },
+          {
+            "hash": "11c0215385dfd6b0fede10920bee0a363236421e",
+            "message": "Update UserGuide with SearchRatingCommand",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 141,
+        "deletions": 1,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "90cee5e9cd37aec3ac56d63a1ac94d8fcab38662",
+            "message": "Implement SearchTagsCommand feature to search for places with associated tags",
+            "insertions": 141,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 492,
+        "deletions": 2,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "de5fe37f51a07d7e2c7ab05e7471f38475f9b404",
+            "message": "Create JUnit tests for SearchTags feature",
+            "insertions": 492,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 43,
+        "deletions": 2,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "e04c16214efe3e6423d07e843ea22fd8a3f0f7c9",
+            "message": "Update UserGuide FAQ Update PPP for nivenang",
+            "insertions": 43,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 107,
+        "deletions": 2,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "9fe59292d09ce1d67a9f2a5f75ee5a2a40bcb70e",
+            "message": "Update DeveloperGuide with search feature",
+            "insertions": 96,
+            "deletions": 2
+          },
+          {
+            "hash": "ff4a11744f4cbe1a84aaee4ff54ee112c0175aeb",
+            "message": "Update DeveloperGuide search feature implemention with sequence diagram",
+            "insertions": 11,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 90,
+        "deletions": 35,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "4251cef95c911cdae2e0dba1d0478225c746f000",
+            "message": "Update UserGuide with graphics of executing commands and improve readability.",
+            "insertions": 90,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 80,
+        "deletions": 3,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "3e0899fe30747af3047b8bff566f4e88d94143e4",
+            "message": "Fix unable to edit only country code bug",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1b6033d3a73a0ac75fae457f3c9ce91ec2569be2",
+            "message": "Implement SearchCountryCommand to search the list for places belonging to a certain country",
+            "insertions": 79,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 553,
+        "deletions": 30,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "8768cbcfe23509ad0ee643f9c505e755a7d1014c",
+            "message": "Update JUnit tests for searchCountryCommand and associated class files Fix searchRatingCommand bugs",
+            "insertions": 539,
+            "deletions": 28
+          },
+          {
+            "hash": "07d160fc4a02ab81eb37de23fd930229f37f67af",
+            "message": "Add test for SearchCountryCommandParser and SearchRatingCommandParser to improve coverage",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "8366d145444bc53ece40a0a6d9312dd8671f050f",
+            "message": "Update TypicalPlaces.java",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 911,
+        "deletions": 36,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "322c44febf7e2dfafc5a27813561b727cff1c988",
+            "message": "Update UserGuide with searchCountryCommand",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "bac40b628440371627052390dded7c22336f8d9f",
+            "message": "Implement SearchYearCommand",
+            "insertions": 177,
+            "deletions": 2
+          },
+          {
+            "hash": "1aaa66e9597300c9165e849c2428b676186ff877",
+            "message": "Fix SearchYearCommand bugs Update JUnit tests for SearchYearCommand",
+            "insertions": 508,
+            "deletions": 19
+          },
+          {
+            "hash": "37ad9f54fb7505a48674562576f8913c6783d706",
+            "message": "Update UserGuide for SearchYearCommand",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "ec6617b09d24b526bdc40e696b017e4b5d0c6034",
+            "message": "Update DateVisitedTest cases for method isValidYear to improve coverage",
+            "insertions": 21,
+            "deletions": 0
+          },
+          {
+            "hash": "53f8d8b41168af2c74a6a58d6a948369d9afcd2a",
+            "message": "Fix DateVisitedTest checkstyle errors and Update DeveloperGuide for SearchCountryCommand and SearchYearCommand",
+            "insertions": 53,
+            "deletions": 6
+          },
+          {
+            "hash": "299502dff4fa75db43972cab1238edf5a6509238",
+            "message": "Add functionality of search a range of years for SearchYearCommand",
+            "insertions": 77,
+            "deletions": 2
+          },
+          {
+            "hash": "844975cf00a87ae3cc3e9958da35208bef50bbc1",
+            "message": "Include additional test cases for isYearARange method in SearchYearCommandParser and update javadocs for SearchYearCommandParser",
+            "insertions": 34,
+            "deletions": 4
+          },
+          {
+            "hash": "8a8a914fae100e16e35691500487f337e0cc6071",
+            "message": "Fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 160,
+        "deletions": 110,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "7bc7d0cfdea10e749a5e090a340eb151eba5a404",
+            "message": "Update UserGuide with Commands cheatsheet Update DeveloperGuide search feature and UI graphics Update PPP for nivenang Update README Update CountryCode MESSAGE_CONSTRAINTS",
+            "insertions": 157,
+            "deletions": 108
+          },
+          {
+            "hash": "bb6d6f219b25f947eeac5d3cbc1b9ffb11576afa",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6954bd91a74b3afab381bdf0196266bf0fc9e63c",
+            "message": "Update search command shortcut in UserGuide",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "630c27cf50f0078785279e100c5bd67cddae3363",
+            "message": "Fix StringUtil bugs",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 268,
+        "deletions": 268,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "d68102328207045ffee7098e2bcbce0a73dc6ebf",
+            "message": "Revert \"Update documentation for UserGuide, DeveloperGuide, README\"",
+            "insertions": 109,
+            "deletions": 159
+          },
+          {
+            "hash": "e1764351ed05fb9c3d2027c8826d52c60ebd78f0",
+            "message": "Update UserGuide with Commands cheatsheet Update DeveloperGuide search feature and UI graphics Update PPP for nivenang Update README Update CountryCode MESSAGE_CONSTRAINTS",
+            "insertions": 159,
+            "deletions": 109
+          }
+        ]
+      },
+      {
+        "insertions": 76,
+        "deletions": 36,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "cf1737d1b77750b091d93f8456d4aa3a296c6ff1",
+            "message": "Update UserGuide, DeveloperGuide, PPP and graphics for UG and DG",
+            "insertions": 76,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 488,
+        "deletions": 23,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "1c34bca955b0ea1c75d44c4480f51e83cb36f889",
+            "message": "Add tests for Chart and ChartList to improve coverage, add body of ChartException",
+            "insertions": 479,
+            "deletions": 3
+          },
+          {
+            "hash": "5d4c4d72be56aa028d55a9eb9da462df0a65b5fe",
+            "message": "Remove unused method for ChartException",
+            "insertions": 9,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 342,
+        "deletions": 121,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "96ec236c19930489d0944ca3560db495bc308e9f",
+            "message": "Fix bug where calling select, generate, search, generate in order causes RightParentPanel to get stuck on null ExpandedPlacePanel",
+            "insertions": 5,
+            "deletions": 7
+          },
+          {
+            "hash": "b64d38dbf6fa2dd9995d4ab7a5b601cdc29e651e",
+            "message": "Fix checkstyle errors",
+            "insertions": 0,
+            "deletions": 14
+          },
+          {
+            "hash": "16865ab4eb51dc3c32cea94cbdf280cd9d1f5314",
+            "message": "Add functionality to display search query upon successful search",
+            "insertions": 251,
+            "deletions": 36
+          },
+          {
+            "hash": "80eb9584bb36a4399dc2f769ebf54109cf1003b1",
+            "message": "Fix checkstyle errors",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "6e9375eb8ccfba5f9eec36874c874527a61fb34b",
+            "message": "Update UserGuide and graphics for SearchCommand",
+            "insertions": 81,
+            "deletions": 59
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 7,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "8efc956b8f82329c93762f850ae6b1fca1ad1b87",
+            "message": "Fix documentation errors found in PE dry run",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 251,
+        "deletions": 38,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "d59d718946c928e5fe7ab6ae15d199c0e313f7e3",
+            "message": "Fix DeleteMultipleCommand bugs found during PE dry run; Implement DeleteMultipleCommandSystemTest",
+            "insertions": 251,
+            "deletions": 38
+          }
+        ]
+      },
+      {
+        "insertions": 111,
+        "deletions": 39,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "b0f79ce801211bf7dcda194aef11cf630c0e7912",
+            "message": "Update DeveloperGuide search command",
+            "insertions": 106,
+            "deletions": 37
+          },
+          {
+            "hash": "f43e32ccfc6cfe7f4fefd675e46a47ce16c6c4ff",
+            "message": "Update PPP",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 144,
+        "deletions": 101,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "9ca5cb0334e6fcbdd500b6cf5f71a9b4492d1f8f",
+            "message": "Update UserGuide and DeveloperGuide",
+            "insertions": 144,
+            "deletions": 101
+          }
+        ]
+      },
+      {
+        "insertions": 174,
+        "deletions": 179,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "e8fa7eeef5c34ebc25061d22c4c7238fc4da57f0",
+            "message": "Update PPP",
+            "insertions": 66,
+            "deletions": 33
+          },
+          {
+            "hash": "b5f199f0a083ff8e2195bb97798dc7d7a391f15e",
+            "message": "Fix PPP formatting",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1286d2d8da28d32ab5ca286bc3dc0b1cbef88253",
+            "message": "Fix formatting issues for PPP",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "e59ba8d2c952dfced5d13d818637eb0b7ba49d2b",
+            "message": "Update JsonChartBookStorageTest",
+            "insertions": 100,
+            "deletions": 140
+          },
+          {
+            "hash": "09df56ac2fb0ade8a29bdea687973f40fc5ca9d0",
+            "message": "Fix PPP html formatting bug",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 74,
+        "deletions": 6,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "a0d982cb4bd5a1b53c56a645cebc0a2891bea553",
+            "message": "Add tests for Photo feature to improve coverage",
+            "insertions": 74,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 2431,
+        "deletions": 95,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "2b8f81178f0f0903720ec1155a7389cf116244c7",
+            "message": "Update UserGuide, DeveloperGuide, PPP and diagrams for search",
+            "insertions": 2431,
+            "deletions": 95
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "b0a71b02b180f9525426ba78051378ba37623478",
+            "message": "Update PPP",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 29,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "053aa794b0658ebb0e05f94945ff15b7536cc01c",
+            "message": "Update diagrams for UG and DG",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "3721106e7ff7cf6eee1ec863024d946bccc366b7",
+            "message": "Update SearchCommandSequenceDiagram and DG",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e64f4115efb64fab55b61357d63ef538ecd4e9e9",
+            "message": "Update DG",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "cf7517e291b2c720d374547ae8f9bd40a618edb7",
+            "message": "Update DG",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d4210c330aa057e649947cf75b511f3e77ea3c62",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7afcdcac71c3bbaa9debc86a3a602618a38a7322",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "db5652c6cfc1de89e3631cd8680d4921d0710b2c",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "db9ad43c546fc665e15556003ff8b936d1db9f61",
+            "message": "Update diagrams for photos",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "45717371ba29bd25b363eda729c69907a27a7ae5",
+            "message": "Fix ParserUtil bug",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "shaungohsc": 1565,
+    "chung-ming": 7474,
+    "PremBagda": 3483,
+    "nivenang": 7228
+  },
+  "authorFileFormatContributionMap": {
+    "shaungohsc": {
+      "adoc": 540,
+      "cs": 0,
+      "css": 35,
+      "fxml": 292,
+      "gradle": 0,
+      "html": 0,
+      "java": 698,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "chung-ming": {
+      "adoc": 1216,
+      "cs": 0,
+      "css": 486,
+      "fxml": 54,
+      "gradle": 8,
+      "html": 3,
+      "java": 5633,
+      "js": 0,
+      "json": 37,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 37,
+      "xml": 0
+    },
+    "PremBagda": {
+      "adoc": 903,
+      "cs": 0,
+      "css": 51,
+      "fxml": 26,
+      "gradle": 0,
+      "html": 0,
+      "java": 2445,
+      "js": 0,
+      "json": 58,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "nivenang": {
+      "adoc": 2887,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 4275,
+      "js": 0,
+      "json": 66,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "shaungohsc": 120306.68,
+    "chung-ming": 682821.8,
+    "PremBagda": 345545.28,
+    "nivenang": 150443.78
+  },
+  "authorDisplayNameMap": {
+    "shaungohsc": "Goh Shau Cher Shaun",
+    "chung-ming": "Arielyte Tsen Chung Ming",
+    "PremBagda": "Prem Rajeshkumar Bagdawala",
+    "nivenang": "Niven Ang Jia Hao"
+  }
+}

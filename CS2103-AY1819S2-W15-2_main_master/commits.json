@@ -1,0 +1,3608 @@
+{
+  "authorDailyContributionsMap": {
+    "gohyinhao": [
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "d42a3fbf073d09cbbadd370a93adec6969efc726",
+            "message": "build.gradle: update site-wide documentation settings",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 25,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "8d46aeb8a5c4fca87017e6e4774b2f8efca97cfc",
+            "message": "build.gradle: update site-wide documentation settings",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "20af92ea9bbe7f6081a43df1b84d186bebf9f43e",
+            "message": "README.adoc: update links and adjust message",
+            "insertions": 15,
+            "deletions": 21
+          },
+          {
+            "hash": "d2e713eed00fb6dba83effa2299766b440ebcb57",
+            "message": "DeveloperGuide.adoc: update title and links",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 1963,
+        "deletions": 1961,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "8683b64502830e952fe2f7511fa49dffe6203948",
+            "message": "Model: Rename AddressBook to FinanceTracker",
+            "insertions": 616,
+            "deletions": 615
+          },
+          {
+            "hash": "cc3dfe9452d26c7bbc411d06a59e034c148dc6ef",
+            "message": "Model: Refactor Person-\u003eExpense",
+            "insertions": 1347,
+            "deletions": 1346
+          }
+        ]
+      },
+      {
+        "insertions": 142,
+        "deletions": 3,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "92f81c96278f1b4a244556037efaf7efbba00165",
+            "message": "model.debt: Add Debt class",
+            "insertions": 136,
+            "deletions": 3
+          },
+          {
+            "hash": "817b3db3b1f83105601b9fef337c39482d3180bd",
+            "message": "model.debt.exceptions: Add DebtNotFoundException class",
+            "insertions": 6,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 314,
+        "deletions": 19,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "a9836fc16b81be7dbfd354b7317b8f3bbb826609",
+            "message": "model.debt: Add DebtList class",
+            "insertions": 107,
+            "deletions": 0
+          },
+          {
+            "hash": "3999738edf85a001dba442ed417f6c44ae3bdf94",
+            "message": "UserGuide: Update debt instructions",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "a5077174acb8b8c19c9f4860fbca0fe79b99fa63",
+            "message": "model: Update FinanceTracker class with debt-level operations",
+            "insertions": 65,
+            "deletions": 15
+          },
+          {
+            "hash": "3e92ec0e41876eb68a498e655d6da43898636173",
+            "message": "ModelManager: Add addDebt method",
+            "insertions": 18,
+            "deletions": 1
+          },
+          {
+            "hash": "7548b1e57672710d12dab454c499e1f8183ab6f9",
+            "message": "logic.parser: Add AddDebtCommandParser class",
+            "insertions": 59,
+            "deletions": 0
+          },
+          {
+            "hash": "81302931423017455e834723816975d1054ace60",
+            "message": "logic.commands: Add AddDebtCommand class",
+            "insertions": 62,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1569,
+        "deletions": 1234,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "e830bbc0b0a879db55f7fa7a53f560913c209727",
+            "message": "Update Debt class",
+            "insertions": 6,
+            "deletions": 42
+          },
+          {
+            "hash": "684c27069eb7c29dde22df3135a0489d2e0c0ecb",
+            "message": "FinanceTracker: Change getFinanceList() to getExpenseList(). Add getDebtList()",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "a431f1ba0d5adc48109c9c42fcb24ee205857475",
+            "message": "Model: add debt functionality",
+            "insertions": 31,
+            "deletions": 4
+          },
+          {
+            "hash": "9d0adb332fe5f72ad70692d765d4e936a88dff0c",
+            "message": "ModelManager: add debt functionality",
+            "insertions": 38,
+            "deletions": 1
+          },
+          {
+            "hash": "4e77bc8df2667d867b76ffba7216594b6f6785c5",
+            "message": "ReadOnlyFinanceTracker: change getFInanceList() to getExpenseList(). Add getDebtList()",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "cb3dc2619c23f5140aacaab4cf480dab4b70d69b",
+            "message": "Refactor getFinanceList() to getExpenseList()",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "930aedc4b5d7f2fffe6dcfa237dc761a7c6fcc00",
+            "message": "Debt: update constructor",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a748fdb8349743e5a4d6042675159f34d557ac18",
+            "message": "Commands: Update AddDebtCommand and EditDebtCommand",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "478d5e5766cd7cf136de013e9e406baf9951a217",
+            "message": "Update SampleData",
+            "insertions": 19,
+            "deletions": 33
+          },
+          {
+            "hash": "ce56ac3eb2604098146fa8495d1541fcae24630b",
+            "message": "Update PersonCard",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "4f9dfb692f74bd1cdbe1f4818b9c4a813e4139e4",
+            "message": "Update getFilteredExpenseList and getFilteredDebtList",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "87a46a4debdab8eee0eb16794a79e890a08ad230",
+            "message": "Remove ExpenseTable",
+            "insertions": 0,
+            "deletions": 18
+          },
+          {
+            "hash": "62e09f04810b12c9da403e3f6ad693605a569e4d",
+            "message": "Update Category",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "483c015613626d9d1a0ace826321e6f876d40bcf",
+            "message": "JsonAdaptedExpense: Update to fit Expense",
+            "insertions": 32,
+            "deletions": 42
+          },
+          {
+            "hash": "1c53e6fbb89c94be8de60f3bb94fddc01bdb6558",
+            "message": "Date: update toString() method",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "80d814f247afb4ff2f7df2faac1562cd428912f0",
+            "message": "Debt: Change deadline to compulsory",
+            "insertions": 12,
+            "deletions": 13
+          },
+          {
+            "hash": "4651200e35bdf5c0886dac89de8c76fddee157c6",
+            "message": "Update ParserUtil",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ae3aefca0765d72484fa9afa19d3aa762e0e252b",
+            "message": "Update DebtCommand prefixes",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "df79d6ec7924a4b88f859a8cc2a3a6519d64ce94",
+            "message": "Messages: Update to reflect both expense and debt",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "d911aab6379a238cd1e6da48953a23e5a754edea",
+            "message": "Update DebtCommands",
+            "insertions": 30,
+            "deletions": 31
+          },
+          {
+            "hash": "18ff84ce8e057c57c7e5bf51859fdfe360d91901",
+            "message": "Refactor PREDICATE_SHOW_ALL_FINANCES to PREDICATE_SHOW_ALL_EXPENSES",
+            "insertions": 27,
+            "deletions": 24
+          },
+          {
+            "hash": "0f42a38715f92b4de2251a895140681c92710fd9",
+            "message": "Amount: store value as int. toString() in dollars",
+            "insertions": 12,
+            "deletions": 6
+          },
+          {
+            "hash": "05f877594cbfa0d8d7648c67c3cb33ed84a9aaad",
+            "message": "testUtil: Update to include Expenses and Debts",
+            "insertions": 659,
+            "deletions": 378
+          },
+          {
+            "hash": "c014c24a8e5bdac7c90bbc017943be2f463d3275",
+            "message": "Amount: update to convert dollars to cents",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "9439cd91f2c5b4fac831b9397cea84a627e75d7a",
+            "message": "EditDebtCommands: update to match Debt attributes",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "f646a1abb08756999b05ec69187bbe7a755b6836",
+            "message": "Update to allow compilation",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0f531007af27d39b1a2e4b941383d87c032d087a",
+            "message": "Add AmountTest",
+            "insertions": 38,
+            "deletions": 0
+          },
+          {
+            "hash": "0463e7ec8a54887c89ecd41496b86e2fa57eae3a",
+            "message": "Update tests",
+            "insertions": 547,
+            "deletions": 570
+          },
+          {
+            "hash": "551eb093a3b5d164507c5bcbae41ac4da9445cbb",
+            "message": "EditCommandParser: fix bug",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 8,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "52e1a9fe3b64621b58daffce5045da92a542be72",
+            "message": "DeveloperGuide: Update model component and diagrams",
+            "insertions": 2,
+            "deletions": 7
+          },
+          {
+            "hash": "04da619f3a45bfac2635fa97c56cf0a31738aa9b",
+            "message": "AddDebtCommand: Update MESSAGE_USAGE",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 530,
+        "deletions": 564,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "600853f1b38cd3de3c47f7c5b2cec8315a84e251",
+            "message": "Clean up tests",
+            "insertions": 249,
+            "deletions": 398
+          },
+          {
+            "hash": "ac1312a22c9e43976e1f830f20688892b321b4a3",
+            "message": "Fix checkstyle errors for Modelclasses",
+            "insertions": 199,
+            "deletions": 124
+          },
+          {
+            "hash": "d3002b6992d828183654d2a68e55129b383102d0",
+            "message": "Fix checkstyle errors for parsers",
+            "insertions": 82,
+            "deletions": 42
+          }
+        ]
+      },
+      {
+        "insertions": 498,
+        "deletions": 546,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "03a89a1f04ce38ddfe1552a4fe8bef06aed3a3c9",
+            "message": "Add/Update attribute tests",
+            "insertions": 102,
+            "deletions": 102
+          },
+          {
+            "hash": "d1cfbc1f93a553c0179703430520e18e7ffad464",
+            "message": "Refactor package from person to expense",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "141129f296e6eb3042b1ccb9ec2d58a4e8fcb313",
+            "message": "Update constructors to set remarks as empty string if remarks is null",
+            "insertions": 17,
+            "deletions": 9
+          },
+          {
+            "hash": "45e1e58b688b112e3122ef3a91501542ea966b7e",
+            "message": "Fix ExpenseTest",
+            "insertions": 52,
+            "deletions": 43
+          },
+          {
+            "hash": "c671309aaacd2d9260975195eafa8a28a3785808",
+            "message": "Fix ExpenseTest",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "43dbd05ddda5b59194ebaf080ec7046fd4f07bf2",
+            "message": "Fix ExpenseListTest",
+            "insertions": 73,
+            "deletions": 97
+          },
+          {
+            "hash": "e5f8532d2ba75b9bebec84fb662c5c091fe1591f",
+            "message": "Fix NameContainsKeywordsPredicateTest",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "4e287631a8b2321a409e54aaafacf047054c37de",
+            "message": "Fix VersionedFinanceTrackerTest",
+            "insertions": 71,
+            "deletions": 71
+          },
+          {
+            "hash": "3216dce5591e2fa8ac302bdb3a051b6f53dce63a",
+            "message": "Fix styling errors",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "84ec0efe298406895fdf4cd2ed23e11d6ce1f3ca",
+            "message": "Fix FinanceTrackerTest",
+            "insertions": 13,
+            "deletions": 29
+          },
+          {
+            "hash": "3fe13e46d502d558407a55bab9dc0e5f836ebc07",
+            "message": "Update UserPrefsTest",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b5076c1918b47f34e7e41f972b885d7da91e2579",
+            "message": "Fix ModelManagerTest",
+            "insertions": 18,
+            "deletions": 15
+          },
+          {
+            "hash": "125fb6ea1f5df3cc5409632717d4ddbf35e38324",
+            "message": "Update JsonAdaptedExpense to fix its test",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "315c791eef8c8e18ac9d5093c7065fdd683e2d9d",
+            "message": "Update JsonSerializableFinanceTrackerTest",
+            "insertions": 69,
+            "deletions": 98
+          },
+          {
+            "hash": "0d370a6f60767bfee979ffd4ce11ada12c31c33f",
+            "message": "Update JsonFinanceTrackerStorageTest",
+            "insertions": 51,
+            "deletions": 47
+          },
+          {
+            "hash": "7f083e90eca3bccd96ab167ff7d3fd4a72cdeab1",
+            "message": "Fix JsonUserPrefsStorageTest",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "d54e6262612a9b7b1ff7c2dca4fd7d6d23b1f2e3",
+            "message": "Update StorageManagerTest",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 2,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "b19c5a90eb47cf9ae73a0bcc77f546aa3260d183",
+            "message": "Fix checkstyle errors",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 6,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "373b9c3ee867ccb0bbcc203dda88d0abdefd5380",
+            "message": "README.adoc: Update Coveralls badge",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "d2b6b621a4ed6d432fc23ca11b3194f83685f044",
+            "message": "README.adoc: Update coveralls to reflect correct coverage",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "d2f0e44799d45dddcf8c2d83d77046343dcbdbb5",
+            "message": "Amount: update validation to check for max amount",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 175,
+        "deletions": 21,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "b1801b106e49f4acd835917a60531bb02cda282a",
+            "message": "Debt: deadline must not be before current date",
+            "insertions": 46,
+            "deletions": 17
+          },
+          {
+            "hash": "b02b0331c32d012a296524c5b48e3a82569cd21a",
+            "message": "Add DebtTest",
+            "insertions": 129,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 1510,
+        "deletions": 579,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "df53a15f6bf2ccdc3f0579526567fdcdd50587d3",
+            "message": "Update DateTest",
+            "insertions": 92,
+            "deletions": 52
+          },
+          {
+            "hash": "94f459650a54d23963f3bdba7a0904e406819de7",
+            "message": "Add DebtListTest",
+            "insertions": 176,
+            "deletions": 1
+          },
+          {
+            "hash": "bc11d1dded0bf676fa44cbaf9158b6f8c2a01eb4",
+            "message": "Fix DebtListTest",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "fcb159ff1427ca6d2bdaeeecef15b33531bbc7ef",
+            "message": "Refactor TypicalDebts: name of debts refactored",
+            "insertions": 69,
+            "deletions": 69
+          },
+          {
+            "hash": "eb7f40604e5e1a64609ad8afa569c9b6a628f466",
+            "message": "Refactor ModelStub to be its own class for reuse by other tests",
+            "insertions": 278,
+            "deletions": 273
+          },
+          {
+            "hash": "ca16ba38a3e9f01d6c83242e8c13069ec4a65987",
+            "message": "Add AddDebtCommandTest",
+            "insertions": 103,
+            "deletions": 0
+          },
+          {
+            "hash": "f4194c41bbcd61ccad6b68fb3338ba4596d8b97c",
+            "message": "Refactor NameContainsKeywordsPredicateForExpense",
+            "insertions": 70,
+            "deletions": 72
+          },
+          {
+            "hash": "83f26712ee9882218eac6049e9dfc24435af7c66",
+            "message": "Add DeleteDebtCommandTest",
+            "insertions": 254,
+            "deletions": 7
+          },
+          {
+            "hash": "d484b347ac62544ae6fd0b708880fde02ca99887",
+            "message": "Fix checkstyle errors",
+            "insertions": 75,
+            "deletions": 68
+          },
+          {
+            "hash": "1e70ea0300275a96b99c302e20f3705debc975cd",
+            "message": "Add NameContainsKeywordsPredicateForDebtTest",
+            "insertions": 81,
+            "deletions": 0
+          },
+          {
+            "hash": "5d324b1867be34a89a5e05c36b92c920374ba094",
+            "message": "Add EditDebtCommandTest",
+            "insertions": 256,
+            "deletions": 0
+          },
+          {
+            "hash": "4500f24611e12da6ec04fe16b66c035ceb4388b1",
+            "message": "Fix checkstyle errors",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "022ac259c6aa37b5d1bd491f8a4912c401d09f7f",
+            "message": "Refactor date to localDate",
+            "insertions": 33,
+            "deletions": 33
+          },
+          {
+            "hash": "c2ed27801c2f797d1545058fe42778c0d9a7e1a6",
+            "message": "DeveloperGuide: Add Pay Debt section",
+            "insertions": 21,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 18,
+        "deletions": 15,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "299f1c7f63901c5cbc4f08eee36a1a6ef5526355",
+            "message": "Update limit for Amount class",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "4f82561884606a0ac685bd4e288228c7df9b2364",
+            "message": "Name: Add 100 character limit",
+            "insertions": 14,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 787,
+        "deletions": 59,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "a8cd9bfce29a9b77c27c42905ef74c53fe7786f0",
+            "message": "Add AddDebtCommandParserTest",
+            "insertions": 144,
+            "deletions": 3
+          },
+          {
+            "hash": "c34bc6e8f6f9a1bc4c53b1adcbb7a231654ea42e",
+            "message": "Add DeleteDebtCommandParserTest",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "f2ff8086f0eb1a2c711b68b55661960a6c002800",
+            "message": "Add EditDebtCommandParserTest",
+            "insertions": 201,
+            "deletions": 0
+          },
+          {
+            "hash": "89a255f5994b0b0083b921e28cb3dd72071c3d2f",
+            "message": "Update AddDebtCommandParserTest",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "87983f6fc028a7fcbb41b1500fbe00c3a5a34660",
+            "message": "Refactor expense parser tests into expenseparser package",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "7b8eec3065de651e9b2d69bcb52c61d0ae36fb0c",
+            "message": "Fix checkstyle errors",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "60f343c08b838c0d3f3833cead30b1c0175af607",
+            "message": "Add ListDebtCommandParserTest",
+            "insertions": 31,
+            "deletions": 0
+          },
+          {
+            "hash": "2e3e16433a28df1dd8eb88e8b2465af83cafda9c",
+            "message": "Update EditDebtCommandTest to include testing undo/redo",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "cb927d8de4c38eaedd34af0eddbf99dd93fb2b1e",
+            "message": "Update DeleteDebtCommandTest to include tests on undo/redo",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "8f3ffb6c99fdc664a3eabefcf14f8170539a8dff",
+            "message": "Add EditDebtDescriptorTest",
+            "insertions": 64,
+            "deletions": 0
+          },
+          {
+            "hash": "ba0036f42549faaae06f8d2b3ee91531f1807006",
+            "message": "Add AddDebtCommandIntegrationTest",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "164bd9c5446cd6da1246edc72a554c2eeae815dd",
+            "message": "Update FinanceTrackerTest to test debts, budgets and recurrings",
+            "insertions": 118,
+            "deletions": 2
+          },
+          {
+            "hash": "9fc0cefcefacaa23653b74afbc5c0156e83fb54e",
+            "message": "Update ModelManagerTest to include tests for debts",
+            "insertions": 84,
+            "deletions": 0
+          },
+          {
+            "hash": "a418b1a5be4b0cc160dbd9dd164bf0f53818e79c",
+            "message": "Update VersionedFinanceTrackerTest to include debts when testing",
+            "insertions": 49,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 40,
+        "deletions": 7,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "5e2b0efcdf351ad3f44ef7d863f528a1237bb37b",
+            "message": "Add ClearDebtCommandTest",
+            "insertions": 38,
+            "deletions": 0
+          },
+          {
+            "hash": "259d59a9d84e762f7fb434f7cbe0d3773dff58c4",
+            "message": "Update UserGuide for paydebt function",
+            "insertions": 2,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 180,
+        "deletions": 3,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "916861b5573b1bd47ed804b90d0fce87b8895b39",
+            "message": "Date: update deadline error message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "938b995a62a9330a702342730284af62cf8dc814",
+            "message": "Implemented PayDebt functionality",
+            "insertions": 135,
+            "deletions": 0
+          },
+          {
+            "hash": "40422bfa6e6914b2e8c343f151f3ebc98fe92102",
+            "message": "Fix checkstyle errors",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "6a7d19e06fe57825635ca522c279c2d6c6a27a78",
+            "message": "Update .gitignore",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "5f802f639e4bd312c0c992fb04009fe4011c22ec",
+            "message": "Fix merge conflicts",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "cf4a0cfdcf449ab5da9c59fbbb5cab7ddc0c4def",
+            "message": "Fix checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 453,
+        "deletions": 12,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "b10b8acc3882b0638253b037ae0f109b7fd757a2",
+            "message": "Add PayDebtCommandTest",
+            "insertions": 229,
+            "deletions": 0
+          },
+          {
+            "hash": "968f0e2bfb9d5668ca2bf6a4a213da5d3ff351e4",
+            "message": "Add PayDebtCommandParserTest",
+            "insertions": 89,
+            "deletions": 0
+          },
+          {
+            "hash": "411d598f5e9fd67cd3280b9d28c6c45ed508778e",
+            "message": "Update EditDebtCommandTest and DeleteDebtCommandTest",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "27bc179f32b7cf67fb7a5329508117fbe217d798",
+            "message": "Update UserGuide for clear commands",
+            "insertions": 25,
+            "deletions": 5
+          },
+          {
+            "hash": "f1cda457f74325ebd77fcc55b1fcb011ef47a950",
+            "message": "Update DeveloperGuide for debt feature",
+            "insertions": 54,
+            "deletions": 5
+          },
+          {
+            "hash": "47f7e2f8025b7a35e277b76a8328deda6d7a2447",
+            "message": "Add personal portfolio page",
+            "insertions": 54,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "62cf9a28cf3efbe5d6af41b3415d1102930e90b9",
+            "message": "Fix errors in UserGuide",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "389186a5678e831e47bf90505230c0de55671cd1",
+            "message": "Update personal portfolio",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 381,
+        "deletions": 164,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "c8d82e3f022724c385ff928d47a1486e296423ac",
+            "message": "Amount: update validation regex",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "faeb49a94c3a536c72416ef8415b2448d5c42c01",
+            "message": "Update AmountTest",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "0f53d0ceff3b388bbd1e98b877532d0e2b4ddc93",
+            "message": "Refactor SelectCommand to SelectExpenseCommand",
+            "insertions": 96,
+            "deletions": 153
+          },
+          {
+            "hash": "ee88276aeed94f93e4d904f613afad6759065f91",
+            "message": "Add SelectDebtCommand and SelectDebtCommandTest",
+            "insertions": 164,
+            "deletions": 0
+          },
+          {
+            "hash": "b7a8c5e4968a13f629bae261489ee286fb8bcd78",
+            "message": "Add SelectDebtCommandParser and SelectDebtCommandParserTest",
+            "insertions": 66,
+            "deletions": 0
+          },
+          {
+            "hash": "563a21bfc0800a73ad3ebd1e7a8267f01f44ede6",
+            "message": "Update DG, UG, PPP",
+            "insertions": 43,
+            "deletions": 3
+          },
+          {
+            "hash": "4deed8ba2503cbedae850974539dbff3de24bbfe",
+            "message": "Refactor SelectExpenseCommandTest and SelectExpenseCommandParserTest",
+            "insertions": 2,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 21,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "766593cf357527ec5ecb193ba22617a062cee54e",
+            "message": "Update DG and PPP",
+            "insertions": 21,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "cbfe4e0d01239abaf54acdc36df4a185aaecc446",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7083538d44bd68df45928e3f6f40cf905c5a67f4",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "jhocx": [
+      {
+        "insertions": 27,
+        "deletions": 26,
+        "date": "2019-02-15",
+        "commitResults": [
+          {
+            "hash": "7b1040d5b59edfcd0b62b7bb3c99f9db6d642d83",
+            "message": "Update ContactUs.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e6e03d131c622beec0c1c51ae4b4a283fda04e60",
+            "message": "Update AboutUs.adoc",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "dd32bfb551029499bcf2b7d715727070f51b68fa",
+            "message": "Update images and github links",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "2bd4911267ab982f16b6ce9a2b11450b58728eaa",
+            "message": "Update AboutUs.adoc",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 377,
+        "deletions": 297,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "cc3ca20ca4bce10e0e0375c72acb70b46bd29e45",
+            "message": "Refactor everything in storage.",
+            "insertions": 50,
+            "deletions": 50
+          },
+          {
+            "hash": "a046bbb425a5dff4b00a1468c033050df77075ce",
+            "message": "Refactor entire AddressBook to FinanceTracker.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "b21748199fd053875e666ae3334c216fbe50b8c0",
+            "message": "Create or modify attributes for FinanceTracker.",
+            "insertions": 323,
+            "deletions": 243
+          }
+        ]
+      },
+      {
+        "insertions": 782,
+        "deletions": 40,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "fd658ac5169f85a424104e20c3b3cc55f8384430",
+            "message": "Create classes necessary for Recurring.",
+            "insertions": 277,
+            "deletions": 0
+          },
+          {
+            "hash": "e837c155b479b4bc401b8276674276ff3f9284ff",
+            "message": "Create AddRecurringCommand class.",
+            "insertions": 139,
+            "deletions": 0
+          },
+          {
+            "hash": "d08a6427f67eba636fb6b42cffc2e76330026169",
+            "message": "Correct mistakes when adding Recurring portion to the following classes: FinanceTracker.java Model.java ModelManager.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3f4544099d4b92d6110cc3f8599221d49c3dcef3",
+            "message": "Add EditRecurringCommand class.",
+            "insertions": 259,
+            "deletions": 17
+          },
+          {
+            "hash": "b3ce975f5ab37af00aa402e4f74120c97cb0dc80",
+            "message": "Move EditRecurringCommand from exceptions.",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "4f38372f854e8753d776daada0443fa5d811e9ea",
+            "message": "Create DeleteRecurringCommand class.",
+            "insertions": 71,
+            "deletions": 16
+          },
+          {
+            "hash": "febbc9ea269dd37338d5f39b16c58e77a5785171",
+            "message": "Add description of each feature.",
+            "insertions": 34,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 75,
+        "deletions": 70,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "e1ef52521ca81bec234c59a8957bbeb52865cc98",
+            "message": "Change Frequency VALIDATION_REGEX to allow lower case dwmy as well.",
+            "insertions": 27,
+            "deletions": 27
+          },
+          {
+            "hash": "9f541eff8ebace001256a307a6798da3179c3a46",
+            "message": "Refactor PREFIX_EDITOPTION for Recurring to PREFIX_RECURRINGOPTION.",
+            "insertions": 15,
+            "deletions": 10
+          },
+          {
+            "hash": "bf7dc6c112e3335823b45ddb4fba6ef1065e24c4",
+            "message": "Update UserGuide.adoc",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "bfddfb418cf463552f483b136cd5ac75d21ad5cb",
+            "message": "Update EditRecurringCommand.java",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "d779adde639d737ad9f666f33f8ace4f2770df8a",
+            "message": "Update Recurring.java",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "806dc32c8a31cd0568ba94fd994390ae50d6dc80",
+            "message": "Update CliSyntax.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1afa454f4f7633c3291153c7129dba662b1b3980",
+            "message": "Refactor PREFIX_OCCURRENCES to PREFIX_OCCURRENCE.",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 4,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "cbeacc20be4cea2cbf3986777e999459e59ba6f5",
+            "message": "Fix EditCommandTest fail.",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "ddfff8bb5388dcc3a00ec2f004980227d670a068",
+            "message": "Fix FindCommandTest fail.",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 69,
+        "deletions": 10,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "bdc321e9b7348691287a29dc7db955e17eddde6b",
+            "message": "Add Occurrence class and make necessary changes to accomodate.",
+            "insertions": 69,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 1622,
+        "deletions": 235,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "cb84aaedfd0eb48d918b25bded2891e61f03ac59",
+            "message": "Add ListRecurringCommand based on old ListExpenseCommand.",
+            "insertions": 664,
+            "deletions": 106
+          },
+          {
+            "hash": "0b5ebefb7361bec4766dde7ae91483563e11c0a7",
+            "message": "Merge remote-tracking branch \u0027upstream/v1.2\u0027 into v1.2",
+            "insertions": 278,
+            "deletions": 34
+          },
+          {
+            "hash": "9eac0cb9e28001bcb806a1760c4754231bedcb28",
+            "message": "Update ListRecurringCommand functionality to include listing by views.",
+            "insertions": 123,
+            "deletions": 10
+          },
+          {
+            "hash": "7cfd2e0ec3ee0148b456fe533c2dce10d7ff0bee",
+            "message": "Add DeleteRecurringCommandTest and EditRecurringCommandTest.",
+            "insertions": 477,
+            "deletions": 10
+          },
+          {
+            "hash": "5fb7461f1f23639fdc3e6fe09a31e42dca13dbd2",
+            "message": "Make changes to pass checkStyle for DeleteRecurringCommandTest and EditRecurringCommandTest additions.",
+            "insertions": 79,
+            "deletions": 48
+          },
+          {
+            "hash": "f4adfde42bf06346eb7f2206ad9520776eaa48f5",
+            "message": "Change to pass Travis.",
+            "insertions": 0,
+            "deletions": 20
+          },
+          {
+            "hash": "7267ab4699e51f2fa25078a25f236557c4fd55af",
+            "message": "Change again to pass Travis.",
+            "insertions": 1,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 20,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "0a31e5e6a766c0cbdade9b75562f91deb534d9af",
+            "message": "Change Frequency to take in only a single alphabet.",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "9abd813c7532035bacc8ccb6799774557f0661e4",
+            "message": "Refactor \"Occurence\" to \"Occurrence\" in ParserUtil.java",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "9aabc4725fdfe55b86bca16993d8fb2ff8d5595d",
+            "message": "Refactor \"Occurence\" to \"Occurrence\" in AddRecurringCommandParser.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a9d5ffac5cc835edb129b3dd774132dfeaf469a1",
+            "message": "Refactor \"Occurence\" to \"Occurrence\" in AddRecurringCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "974f694f1bd178f2d4faa83fa36abeacb5b0de11",
+            "message": "Change EditRecurringCommandTest to pass all tests.",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "5c16727ed09ff514682efe0ef85c732c79bbff2f",
+            "message": "Add ListRecurringCommandTest.",
+            "insertions": 58,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 207,
+        "deletions": 35,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "3ad6d53fbf6df121bfcf4c6ed5a55404a20ee515",
+            "message": "Add ClearRecurringCommandTest.java",
+            "insertions": 38,
+            "deletions": 0
+          },
+          {
+            "hash": "984a79874c3be56b2b5025dd83236c1e8541c9c9",
+            "message": "Add EditRecurringCommandTest.java",
+            "insertions": 63,
+            "deletions": 1
+          },
+          {
+            "hash": "316c809eb3aa88499ee06a804438cbaf8dda5bae",
+            "message": "Add AddRecurringCommandIntegrationTest.java",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "d1085505398528695142e75fcc02a482bca005d7",
+            "message": "Add shortcuts to UserGuide",
+            "insertions": 52,
+            "deletions": 28
+          },
+          {
+            "hash": "483187a609eca7e001879f76dc444225feb79cd7",
+            "message": "Add Future Implementation of Automatic expense adding in DeveloperGuide.",
+            "insertions": 10,
+            "deletions": 2
+          },
+          {
+            "hash": "0d07d478d8969abdb8e9f8b2aba4db090db0fd02",
+            "message": "Change to pass checkStyle.",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 69,
+        "deletions": 136,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "b3804bbacf329f74031d665440b2f387ab6d0ea5",
+            "message": "Proofread UserGuide once.",
+            "insertions": 68,
+            "deletions": 136
+          },
+          {
+            "hash": "7238be0bd849506417331c5cdddb67f646473148",
+            "message": "Proofread UserGuide twice.",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 377,
+        "deletions": 173,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "603fbc88fe60d25c97f5a412a7b3d93e9a5d7402",
+            "message": "Merge remote-tracking branch \u0027upstream/v1.3\u0027 into v1.3",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "19716d667e58498185ef6e8daf477624dbd73539",
+            "message": "Add a PriorityQueue of Expense to each Recurring.",
+            "insertions": 27,
+            "deletions": 3
+          },
+          {
+            "hash": "31f8803ef72c3739874441bf1dc7d05722c58912",
+            "message": "Change PriorityQueue of Expense in each Recurring to ArrayList.",
+            "insertions": 19,
+            "deletions": 9
+          },
+          {
+            "hash": "31b30443d2e53d06f0858a710773028782af0d0b",
+            "message": "ConvertRecurringToExpenseCommand.java added.",
+            "insertions": 235,
+            "deletions": 142
+          },
+          {
+            "hash": "44f1c2ab9c6ae2372272b8581430c051fb38d0b7",
+            "message": "Update DeveloperGuide for Recurring Feature.",
+            "insertions": 10,
+            "deletions": 12
+          },
+          {
+            "hash": "4d4d526efdf708ff1b1c26f6c8ad23113c649969",
+            "message": "Finalise DeveloperGuide for Recurring Feature.",
+            "insertions": 27,
+            "deletions": 4
+          },
+          {
+            "hash": "dc051bbf561b7c6a44da167f7fbdfd1f41ae0dc3",
+            "message": "Add jhocx.adoc, Johnson\u0027s PPP.",
+            "insertions": 56,
+            "deletions": 0
+          },
+          {
+            "hash": "a5cec8d8f3f8d6e2f3ba225732eed01edd9d42a7",
+            "message": "Add StorageClassDiagram1.png",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1102,
+        "deletions": 181,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "8ef209a95f0eb1a7ffadaadc0deebe9b818b1b2f",
+            "message": "ConvertRecurringToExpenseCommand works with Undo.",
+            "insertions": 175,
+            "deletions": 97
+          },
+          {
+            "hash": "92332013d26cf6f21edc7f9cba35e55f4f1346cf",
+            "message": "Add AddRecurringCommandParserTest.java (not working) Add DeleteRecurringCommandParserTest.java (completed)",
+            "insertions": 90,
+            "deletions": 14
+          },
+          {
+            "hash": "5f89677fd77879d15424361887ba1dd236fb0015",
+            "message": "Add EditRecurringCommandParserTest.java (completed)",
+            "insertions": 174,
+            "deletions": 9
+          },
+          {
+            "hash": "eb4b333a92e781016f28fd67919481a29c58268e",
+            "message": "Add ListRecurringCommandParserTest.java (completed)",
+            "insertions": 82,
+            "deletions": 0
+          },
+          {
+            "hash": "42213df1f8f7ac8c8cff2fae5cc64e35bc5f7429",
+            "message": "Add SelectRecurringCommandParserTest.java (completed)",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "23f0eb71a785538c01b9f33f8a4a36c0126d7ac2",
+            "message": "Fix AddRecurringCommandParserTest.java (completed) Add RecurringTest.java (completed) Add RecurringListTest.java (uncompleted)",
+            "insertions": 286,
+            "deletions": 6
+          },
+          {
+            "hash": "f912ea0216f36b1e2fee31cf74d77dc39ef70cf3",
+            "message": "Fix RecurringListTest.java (completed)",
+            "insertions": 170,
+            "deletions": 3
+          },
+          {
+            "hash": "b914952181585bf1a182234dcd91853cad2b9349",
+            "message": "Fix AddRecurringCommandParserTest.java",
+            "insertions": 2,
+            "deletions": 24
+          },
+          {
+            "hash": "345f65a1bcb7341e3c2581fa5c21f034b4c3ed37",
+            "message": "Add all Recurring Parser and Model tests. Pass checkstyles.",
+            "insertions": 93,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 173,
+        "deletions": 19,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "ad125746affe826c4cba5c01370c10d2fbb738d6",
+            "message": "Add ConvertRecurringToExpenseCommandTest.java",
+            "insertions": 100,
+            "deletions": 1
+          },
+          {
+            "hash": "447ba45a6efec06db4cc984b29b4a9ad3afd373e",
+            "message": "Change ConvertRecurringToExpenseCommandTest.java to pass checkstyle.",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "5032cc5c6ecd1f376b60499a6c3c4296358b17f8",
+            "message": "Fix EOF",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "46bd8dbc4e1c6ef44452e5c5a6a183fe7e61efd7",
+            "message": "Update Recurring in UG.",
+            "insertions": 19,
+            "deletions": 1
+          },
+          {
+            "hash": "42e4607805df3868b9fb5d10d672b9d784712573",
+            "message": "Update Recurring in DG.",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "1bb9ba33e08b10338e711b096122660cb0437b1d",
+            "message": "Update Johnson PPP.",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "57051dee173fdbc74d4c86f693d28d5d717e0829",
+            "message": "Remove comments from ConvertRecurringToExpenseCommand.java",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "6d22b94acfd2e0c5e7cbba80ba347554e4a478e7",
+            "message": "Fix bug regarding EditRecurring resetting the lastConvertedDate.",
+            "insertions": 34,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "zht96830": [
+      {
+        "insertions": 9,
+        "deletions": 10,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "20a8c6ca654b3bf19f5f1abe17821c318d8450ec",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "14d8418c8ad5ba6eff0e66285e5f9dce1700e717",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "f661ee44d46b8cada6c007f2cd489c6c7bd25086",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "441d2bfabed6f65cd5ca8a8a6d6c78b1148e9f67",
+            "message": "Update UserGuide",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 48,
+        "deletions": 48,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "894cbcc379d32affa28d6006629d3eb20588837a",
+            "message": "Rename all functions and variables including \"addressbook\", \"AddressBook\", \"Address Book\", \"address book\"",
+            "insertions": 45,
+            "deletions": 45
+          },
+          {
+            "hash": "a909889988be1fc799f42da4f233b7cb5d7423c0",
+            "message": "Further renaming of addressbook elements",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 1507,
+        "deletions": 558,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "c953fae8d75e12558c8cda186716119a34626eb0",
+            "message": "Edit and Refactor methods in ParserUtil",
+            "insertions": 29,
+            "deletions": 34
+          },
+          {
+            "hash": "ac23fbfc6de9af52f5d64241bb51b1e5db57fae0",
+            "message": "Updated methods in ParserUtil class",
+            "insertions": 22,
+            "deletions": 46
+          },
+          {
+            "hash": "9a9ce7d18a1a736fd4e94bd94361906709ac3105",
+            "message": "Updated methods in ParserUtil class",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "183d31ccf8c52d740cd49c7a69239c06ff941277",
+            "message": "Update constructor in Expense class",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "030e2ef763941885f2b176dbe970cc4d0babc18e",
+            "message": "Update AddCommand and EditCommand parsers",
+            "insertions": 33,
+            "deletions": 43
+          },
+          {
+            "hash": "8e32822799de67e73b808a85fd1b95e7ccf58316",
+            "message": "Remove unnecessary imports",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "0be46170cab6b27702231bb24dd1f714382725a7",
+            "message": "Rename message from person to expense",
+            "insertions": 23,
+            "deletions": 23
+          },
+          {
+            "hash": "7dda620aed857745327a18fc55da4f3e3387f0c1",
+            "message": "Update Debt command parser",
+            "insertions": 19,
+            "deletions": 8
+          },
+          {
+            "hash": "99694757a55eeb401d711b5000071b114a50ee35",
+            "message": "Rename variables from person to expense",
+            "insertions": 67,
+            "deletions": 67
+          },
+          {
+            "hash": "f4eba9f914d4ed3a7a6904cc873d8d97e9acaba3",
+            "message": "Rearrange constructor arguments in Debt to match Expenses",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "829526b11871ea6c0029bd67a7c1fbafa1433138",
+            "message": "Add commands for EditDebt and AddDebt",
+            "insertions": 215,
+            "deletions": 16
+          },
+          {
+            "hash": "5ac5341f7c3692288c577cbbd14d1544f8bc7094",
+            "message": "Remove redundancy in test case",
+            "insertions": 2,
+            "deletions": 8
+          },
+          {
+            "hash": "47dd6a0297f2c7b8323812c9108eee937abbcb8b",
+            "message": "Add EditDebtCommand parser",
+            "insertions": 60,
+            "deletions": 2
+          },
+          {
+            "hash": "3259656a9642939dd71bd25a4e31fcdbf7ec4442",
+            "message": "Remove autogeneration of current date in AddDebtCommand parser",
+            "insertions": 1,
+            "deletions": 7
+          },
+          {
+            "hash": "63d92e270ab102d1a8bd181d0abbe1d780628f09",
+            "message": "Add classes required for delete debt functionality",
+            "insertions": 83,
+            "deletions": 1
+          },
+          {
+            "hash": "4e91b54d78df63de1a0be88dc7ff0342215ebb39",
+            "message": "Add classes required for delete debt functionality",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c33ef5d7ac008fa108cff75c9b6b6eb4d91b554a",
+            "message": "Make changes to add command to make it run",
+            "insertions": 7,
+            "deletions": 17
+          },
+          {
+            "hash": "6105fa20f7bd8d3432bcadf178d00b25d43a8735",
+            "message": "Update Recurring class and add methods pertaining to filteredrecurring list",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "630a2791b8b8331b39b9d18d737d858729cd2f7a",
+            "message": "Make changes to add command to make it run",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0b371639c3f89983dd10bd58cb433da1817cd12e",
+            "message": "Add AddRecurringCommand",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "0deb6205032e6c2ad295ce7d4a64597c43f030b1",
+            "message": "Add AddRecurringCommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "364a2a10fda10c0d4bcb8ebf399e360b411695fa",
+            "message": "Add AddRecurringCommand",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "a78a13b5b645ca0a8a95c8d852734d3bf271a85f",
+            "message": "Organise commands and parsers into packages",
+            "insertions": 167,
+            "deletions": 90
+          },
+          {
+            "hash": "099463e02d2b766d341b58e17eea352b4fb63e43",
+            "message": "Update commandparsers",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "68bb9c446f512db5afbf223df37f03be47754b31",
+            "message": "Add editrecurringcommand parser and update parsers",
+            "insertions": 145,
+            "deletions": 70
+          },
+          {
+            "hash": "6f4ee7574edcb166ce26d1c026c0ea598f259bb5",
+            "message": "Update Frequency and Recurring classes",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "38805ca92e8a8e25c752d0600799df7eee15114b",
+            "message": "Add newline in success message for expenses",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9e12f908d0854ea247de1ae4fe43ca8c5c66e172",
+            "message": "Add AddBudgetCommand class",
+            "insertions": 60,
+            "deletions": 0
+          },
+          {
+            "hash": "fb3b5ec48e053a1743bb11a0ebcc94bd1b3acd94",
+            "message": "Add newline for success messages for debt and recurring commands",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "f233bde00e588a23fcbe15aeebc6dbd8d7471f91",
+            "message": "Update AddBudgetCommand",
+            "insertions": 10,
+            "deletions": 12
+          },
+          {
+            "hash": "bd5964365f379c78b7bfa2795ac3da8696cb9a0e",
+            "message": "Add AddBudgetCommandParser",
+            "insertions": 63,
+            "deletions": 0
+          },
+          {
+            "hash": "24531b1aab0b84b5e80a0d58bfc3c7e2b7973a1c",
+            "message": "Update AddBudgetCommandParser and FinanceTrackerParser",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "d4b565196c2477852ed3370f7debb8c2f0d91c1e",
+            "message": "Synced with upstream/v1.1",
+            "insertions": 3,
+            "deletions": 60
+          },
+          {
+            "hash": "37b4386ce7970013f4574c08ec0ca832f6688597",
+            "message": "Update AddBudgetCommand parser",
+            "insertions": 11,
+            "deletions": 3
+          },
+          {
+            "hash": "64efca717bb72dbb116045242a8fdbb8b91bb642",
+            "message": "Update files and AddBudgetCommand + parser",
+            "insertions": 21,
+            "deletions": 12
+          },
+          {
+            "hash": "9006b009c7a712add78ce1bae30dfcba2d7cace5",
+            "message": "Add EditBudgetCommandParser and edit main Parser",
+            "insertions": 74,
+            "deletions": 0
+          },
+          {
+            "hash": "4424c09116bf06c8e0b59a6709a816e4c8398e50",
+            "message": "Update BudgetCommands and parser",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "a6809b0e03135f1bb13619b9d8a2e64f7c28cc87",
+            "message": "Update parser and budget",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2c5d2892114d7206654ec63a841164e76349d6e7",
+            "message": "Add methods in Logic and Model",
+            "insertions": 66,
+            "deletions": 1
+          },
+          {
+            "hash": "10e5f56f07551391e7f3e04d95041d99254daf07",
+            "message": "Update Logic and Model to implement new methods in interface",
+            "insertions": 125,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 118,
+        "deletions": 7,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "973eb43957319b2225079c4cfe92e27cdc03ab1f",
+            "message": "Change typo",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "dc436ce4b288c220822586b9421095a58e3b9819",
+            "message": "add method to implement interface in LogicManager",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "639e0f6be35f265cd28d19498a14165227a4e046",
+            "message": "Add methods in Logic and Model to allow implementation of UI",
+            "insertions": 37,
+            "deletions": 1
+          },
+          {
+            "hash": "662ee0356531af2d86c67cbe725a6229e36a6560",
+            "message": "Add methods in LogicManager and ModelManager to implement interfaces",
+            "insertions": 71,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 207,
+        "deletions": 145,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "10ce97a1a72ee2cf0f85441e336cff96e089b783",
+            "message": "Update Stats in UserGuide",
+            "insertions": 17,
+            "deletions": 3
+          },
+          {
+            "hash": "ca0236d3575dcced6786b782e3076705ba8beff1",
+            "message": "Update Stats in UserGuide",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "298a67c60f44eed0ffd7a05ad37020b00976a8af",
+            "message": "Update Stats in UserGuide",
+            "insertions": 14,
+            "deletions": 13
+          },
+          {
+            "hash": "179eb3dcc0d9955c7d94ea94719d354c35c9eea0",
+            "message": "Update Stats in UserGuide",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "7e033611d2faa86daa1090d8a36ff00dd261095a",
+            "message": "Update Stats in UserGuide",
+            "insertions": 22,
+            "deletions": 7
+          },
+          {
+            "hash": "f01d7f03ce55426ad493c8b194a65b7cbb6e9db2",
+            "message": "Update Stats in UserGuide",
+            "insertions": 28,
+            "deletions": 13
+          },
+          {
+            "hash": "35c44b806ebd33f3135221800531704679b3cb62",
+            "message": "Update README",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f501d0fec6252c58406e555542b98d65ce009b1d",
+            "message": "Correct Style for general classes in Parsers",
+            "insertions": 15,
+            "deletions": 3
+          },
+          {
+            "hash": "307f9ca40563fb94f75fb5bf76be9dce14a0e2f7",
+            "message": "Correct Style for budget classes in Parsers",
+            "insertions": 38,
+            "deletions": 25
+          },
+          {
+            "hash": "a77164529e86354c7a8e8ea1761de2140c430f61",
+            "message": "Correct Checkstyle for Command tests",
+            "insertions": 15,
+            "deletions": 16
+          },
+          {
+            "hash": "69b4124dd767f25837e9d5e6987b253707c47f7f",
+            "message": "Correct Checkstyle for Command tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4582300cf6919e04786fe18c98e8300b7c9e442f",
+            "message": "Correct Checkstyle for Parser tests",
+            "insertions": 31,
+            "deletions": 39
+          },
+          {
+            "hash": "6cf99ffb6d29496a13214f9825fea74ded9e3e54",
+            "message": "Correct Checkstyle for gui tests",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "f4072b1ff9d708611da973cddd6d59b82edb48bc",
+            "message": "Correct Checkstyle for main code",
+            "insertions": 14,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 84,
+        "deletions": 163,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "434b6b8d5b8e7486405c0aad604b131bb635a419",
+            "message": "Fix some test cases in commandParsers",
+            "insertions": 50,
+            "deletions": 105
+          },
+          {
+            "hash": "6440c83d4986c7812e25e86757aa0cf152bb0408",
+            "message": "CheckStyle corrections",
+            "insertions": 4,
+            "deletions": 13
+          },
+          {
+            "hash": "436841643ad3bd8d66cc47590397aa0afe63ecdc",
+            "message": "Update parser test cases",
+            "insertions": 30,
+            "deletions": 45
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 3,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "ee39aeaf59b17cddf05f212a3096035c2e15eda6",
+            "message": "Correct Checkstyle for main code",
+            "insertions": 36,
+            "deletions": 0
+          },
+          {
+            "hash": "13c62ab5a7f402a4c0f66e85c2a3b82c0670c236",
+            "message": "Edit Stats in Dev Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "31faf4e8309a6f5ff09b0849bae3dcb9fbbe14ac",
+            "message": "Add Recurring write up in Dev Guide",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "7c29a21a9b008bd4a7e1aa25a1256b107380f8a7",
+            "message": "Add Recurring write up in Dev Guide",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 283,
+        "deletions": 9,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "993fd3f6efb91c639c095ca6db81704290db9192",
+            "message": "Add Logic Functionality for Stats Commands",
+            "insertions": 158,
+            "deletions": 0
+          },
+          {
+            "hash": "695bd0ade314bc896e7a9e54e7a65f087a070c8b",
+            "message": "Add calculateStatistics method to ModelManager",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "6ee11a3fcb05a35650bd23e84e794bdb8d45d66e",
+            "message": "Update Stats Command Implementation",
+            "insertions": 14,
+            "deletions": 7
+          },
+          {
+            "hash": "904958710d1dfb9c5a690c1e36075f9412261849",
+            "message": "Create Statistic Class",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "7580fe8276a62e9c43a05119feb4715d6632ae23",
+            "message": "Update Statistics Class",
+            "insertions": 74,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 575,
+        "deletions": 295,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "134b4bbfac1d4aea9e915d0324d278fa924c4402",
+            "message": "Add Statistics html file skeleton",
+            "insertions": 55,
+            "deletions": 0
+          },
+          {
+            "hash": "19d705325c1712df65ea623d51f80124e02ebd99",
+            "message": "Add framework to display Statistics in Browser Window",
+            "insertions": 74,
+            "deletions": 5
+          },
+          {
+            "hash": "6f1435ca187669946ef6b125ea57ac8addd9095f",
+            "message": "Update framework to display Statistics in Browser Window",
+            "insertions": 16,
+            "deletions": 2
+          },
+          {
+            "hash": "65c428aba5b10e14ee56546f536e7a530d147276",
+            "message": "Update framework to display Statistics in Browser Window",
+            "insertions": 23,
+            "deletions": 5
+          },
+          {
+            "hash": "8c3b6dc93cfdf960e7233b017354efcf58344b65",
+            "message": "Update UI framework for displaying Statistics",
+            "insertions": 38,
+            "deletions": 58
+          },
+          {
+            "hash": "deacc6f77f84c3009414003eb6f16ff512844479",
+            "message": "Update Statistics implementation",
+            "insertions": 126,
+            "deletions": 64
+          },
+          {
+            "hash": "74b786a0649178cf824673e5fbcd421a268fd5f7",
+            "message": "Checkstyle",
+            "insertions": 88,
+            "deletions": 115
+          },
+          {
+            "hash": "d3d3cf67d040d41db65962617ad41a2aee2b8b07",
+            "message": "Checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e2b80baffd48c97cefa3e6f2031a230bf934e136",
+            "message": "UserGuide Update",
+            "insertions": 15,
+            "deletions": 17
+          },
+          {
+            "hash": "a514d665407a7e7e282ab99173063f79c2d15235",
+            "message": "Fix modelStubs and BroswerPanelTest",
+            "insertions": 58,
+            "deletions": 2
+          },
+          {
+            "hash": "de0b7d822697571ea359a8c9cce2beb9866dd997",
+            "message": "Documentation",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "8b3b4df9501cba443f2c12be592f153f9211ad16",
+            "message": "Documentation",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "093f49271d5e99000914ee2696b1c97a4e5e0583",
+            "message": "Merge remote-tracking branch \u0027upstream/v1.3\u0027 into v1.3",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "213e2641808ece65f92311e5f307eb218c604f80",
+            "message": "Update UG: recurring",
+            "insertions": 7,
+            "deletions": 15
+          },
+          {
+            "hash": "533a2af9e28135b6b2cd555db64f82b12f44c8dd",
+            "message": "Update UG: command summary",
+            "insertions": 10,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 939,
+        "deletions": 353,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "5a7fc21784d02f06ceafcb6eea5c54df50a6583a",
+            "message": "Update Statistics Implementation to allow for extension",
+            "insertions": 58,
+            "deletions": 55
+          },
+          {
+            "hash": "8dc53ac71bd5284e4d1f882194835e1a83ce7012",
+            "message": "Add Logic support for new Stats commands",
+            "insertions": 321,
+            "deletions": 7
+          },
+          {
+            "hash": "34c634cea85bbb8816173cd3715ea63f85ceee03",
+            "message": "Edit StatsTrendCommandParser",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "b4aba92ef893df4a2b45fcf907fe0feb9a7a4944",
+            "message": "Update StatsCompareCommand Functionality",
+            "insertions": 196,
+            "deletions": 63
+          },
+          {
+            "hash": "94fdf0f286f20377498d28e909b4559927270c28",
+            "message": "Update StatsTrendCommand and StatsCompareCommand",
+            "insertions": 155,
+            "deletions": 67
+          },
+          {
+            "hash": "3f3a86f430132d92954d1e7b52d245437f90c3f5",
+            "message": "Checkstyle",
+            "insertions": 115,
+            "deletions": 85
+          },
+          {
+            "hash": "3c67135938fcb45d2f682304d681007c4cfa8e72",
+            "message": "Update User Guide and Messages to properly reflect statistics functionality",
+            "insertions": 88,
+            "deletions": 76
+          }
+        ]
+      },
+      {
+        "insertions": 817,
+        "deletions": 371,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "43a9b2857efd1e6085839349f40facd365235cc2",
+            "message": "Update UG and DG",
+            "insertions": 18,
+            "deletions": 10
+          },
+          {
+            "hash": "d293b21bfac09a2552db6fcc5eb922d0eb64a26a",
+            "message": "Add Statistics html file skeleton",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e6ef7c407f8d8419c8cd5235e513bf0d72f37eb9",
+            "message": "EOF issues",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "784369fcc37e7a3e9083c18c6758a9f15a741db8",
+            "message": "Update PPP",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d796da0c00876d361dd0d97f4520020a2da563c1",
+            "message": "Add StatCommandSequenceDiagram, Update DG",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "0615cddaa292e09121edf82e497232e7cce4569f",
+            "message": "Add StatisticsTest",
+            "insertions": 97,
+            "deletions": 3
+          },
+          {
+            "hash": "0f0d76e3343215e7ea983ffa96eb0c93cba0869c",
+            "message": "Update Statistics",
+            "insertions": 14,
+            "deletions": 4
+          },
+          {
+            "hash": "e76db2ccfb05cda7d5ef046b383c24a87f05720c",
+            "message": "Statistics Test",
+            "insertions": 353,
+            "deletions": 8
+          },
+          {
+            "hash": "8fc28d1ad4b04cece137b9206782ce6e12851728",
+            "message": "Update UG",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "6bfa369eda37d7a8bd51b893b1f078407ec2907a",
+            "message": "Statistics Test",
+            "insertions": 289,
+            "deletions": 277
+          },
+          {
+            "hash": "58c593120e54c7c8750acb1352cb38804d880764",
+            "message": "Update Statistics Trend error message for maximum periods. Updated User Guide to reflect change. Update PPP",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "957b39f6bbca27192f696360c45831a6b4cef906",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e53247998392de2d896d84109c1c47d9ca757323",
+            "message": "Update DG USe cases",
+            "insertions": 31,
+            "deletions": 55
+          }
+        ]
+      }
+    ],
+    "jamessspanggg": [
+      {
+        "insertions": 495,
+        "deletions": 185,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "5620972fb154eb27b62787617b3c5f1a8c1737d6",
+            "message": "Change PersonCard and PersonListPanel to ExpenseCard and ExpenseListPanel",
+            "insertions": 56,
+            "deletions": 60
+          },
+          {
+            "hash": "ca91eabfa7e61f5219b7ac115f2ce4bcad768964",
+            "message": "Update Expense List Panel and fixed errors",
+            "insertions": 11,
+            "deletions": 4
+          },
+          {
+            "hash": "ed6f80102640dc35673e6886cdda41c17082e775",
+            "message": "Make changes to UI to display expense card",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "8e0752c940a97a421e0a15c7e69113b548b53eba",
+            "message": "Add title to expense list panel",
+            "insertions": 10,
+            "deletions": 40
+          },
+          {
+            "hash": "51b688992e79999052a888e5d2314f062ffe03c9",
+            "message": "Add budget and debt list to UI",
+            "insertions": 362,
+            "deletions": 0
+          },
+          {
+            "hash": "b4974eeb1ae6d4c3668683684b3494755273d9ba",
+            "message": "Change width of lists",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8729ebb320c453aff73b841f5998b58992acefb2",
+            "message": "Modify Expense Card and MainWindow",
+            "insertions": 47,
+            "deletions": 70
+          },
+          {
+            "hash": "c59c7e390df78d9af266a78fc4e4fdf1c46dad1a",
+            "message": "Add new line after EOF",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 264,
+        "deletions": 135,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "4e90e20ce52531ccf187add2a3eef6e0552ee6a5",
+            "message": "Change mistake for generic type of getFilteredBudgetList()",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a3368fffd2672640f653b0e921fdf7251f9e3523",
+            "message": "Update MainWindow to display Budget and Debt List",
+            "insertions": 28,
+            "deletions": 78
+          },
+          {
+            "hash": "ab1e34515c470786718f372dd84722036d15e292",
+            "message": "Add Recurring Expense List in UI",
+            "insertions": 185,
+            "deletions": 30
+          },
+          {
+            "hash": "496185ea884103b8a57120744379cc566ff4e105",
+            "message": "Re-adjust position of lists in UI",
+            "insertions": 39,
+            "deletions": 15
+          },
+          {
+            "hash": "c4dc02ad9ad4d46682319281dd479ab64f7e06f5",
+            "message": "Add recurring expenses list to UI",
+            "insertions": 11,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 373,
+        "deletions": 297,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "0aaa0da4b7fa055200e7cb7f008aa91aad5b6ba6",
+            "message": "Remove trailing whitespaces in Model Manager",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0e0ae92473eb38dc174afcf7ee8e1978d9c14ec3",
+            "message": "Fix checkstyle errors for all commands",
+            "insertions": 192,
+            "deletions": 113
+          },
+          {
+            "hash": "1b501bf485ae1a24b1c093df7b6e6b119dfd7c61",
+            "message": "Fix checkstyle errors for UI classes",
+            "insertions": 31,
+            "deletions": 40
+          },
+          {
+            "hash": "ecce16cb29d3b50a9bda681aacc5102cf26c20b4",
+            "message": "Fix checkstyle errors for Storage classes",
+            "insertions": 6,
+            "deletions": 18
+          },
+          {
+            "hash": "b5daf336640078080e77802476fb71adab7352be",
+            "message": "Update Budget class to remove checkstyle errors",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "2dcbf9fc9255bd01633ba8714efb667485ff322f",
+            "message": "Update fxml names for Debt, Expense and Recurring List Cards.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "8ee08fe61777df2746fd56494d4a0077a0129c78",
+            "message": "Update files that caused errors on checkstyleTest",
+            "insertions": 132,
+            "deletions": 119
+          },
+          {
+            "hash": "25763f7c1d492ba3721b577b649f66ba63311897",
+            "message": "Add blank line",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 962,
+        "deletions": 317,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "7e327c231978109e7d643ce6cc6f100dc100f66f",
+            "message": "Rename all display photos to our github usernames",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "05cc5898267ed9c166411d23d21376d423de2867",
+            "message": "Update all gui test cases",
+            "insertions": 939,
+            "deletions": 297
+          },
+          {
+            "hash": "8596b18e5cfff56ffb28c978b6ca2a94ad5f028c",
+            "message": "Fix checkstyle errors for updated tests",
+            "insertions": 18,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "339565bbe93e698105321e19fdbcc5ebc69b92ba",
+            "message": "Update json file to pass JsonSerializableFinanceTrackerTest",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 463,
+        "deletions": 334,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "609f4eead45bcdf03cca063827670e37b50ef184",
+            "message": "Refactor add, edit, delete and clear commands",
+            "insertions": 356,
+            "deletions": 322
+          },
+          {
+            "hash": "8cdabb9da954beab4f8bb790471213556a4fb760",
+            "message": "Update browser panel and expense tests",
+            "insertions": 107,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 96,
+        "deletions": 16,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "501258cb1fdfbc9598d347ec0a37380f41967b3d",
+            "message": "Update expense list to display expenses in descending order of date",
+            "insertions": 58,
+            "deletions": 13
+          },
+          {
+            "hash": "67762b83620598e2462c81c22b5b2e3fa13d62a5",
+            "message": "add eof line on selectedexpense.html",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "927407d73d36c8ee6eae8248d81da99ceab18d8d",
+            "message": "Update UI to show category in terms of images",
+            "insertions": 36,
+            "deletions": 1
+          },
+          {
+            "hash": "61e1de1e5b527b64fe348939ede08e5600501883",
+            "message": "Update MainWindow title",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 50,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "00bf089298fa1ae78781ea854a853033571e3593",
+            "message": "Update undo/redo implementation in DG",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "6f169609f7a0a7c298b77617c2e2722550a3410f",
+            "message": "Refactor List command as ListExpense",
+            "insertions": 56,
+            "deletions": 46
+          }
+        ]
+      },
+      {
+        "insertions": 195,
+        "deletions": 23,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "e92b10cb1dd3d5ad2464696ed3ba6af65c520bea",
+            "message": "Refactor, update ListExpense command to display in terms of categories",
+            "insertions": 195,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 127,
+        "deletions": 55,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "03d2d7f82463b329602368bdfc57599c0eceacc7",
+            "message": "Add listing feature under implementation in developer guide",
+            "insertions": 49,
+            "deletions": 12
+          },
+          {
+            "hash": "90155e5044ceab4796762984bc5f558d40830620",
+            "message": "Update listexpense feature with views: day, week, month, year",
+            "insertions": 48,
+            "deletions": 4
+          },
+          {
+            "hash": "1d5704f377c91f14d9c746867b2d2c299e2b730f",
+            "message": "Refactor isWithin-Day, Week, Month, Year to a method isWithinDuration",
+            "insertions": 30,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 58,
+        "deletions": 7,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "11ff641bb0449088e54191e73cae7e859b5b029c",
+            "message": "Add ListExpenseCommandParserTest",
+            "insertions": 58,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 733,
+        "deletions": 398,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "998171120b5ce1759fbfe301ad0f5923a811d884",
+            "message": "Remove unnecessary classes from AB4",
+            "insertions": 0,
+            "deletions": 365
+          },
+          {
+            "hash": "00bdd3be4561a9fd845c8f2b570c428023a8cdfb",
+            "message": "Add ViewTest, modify other tests",
+            "insertions": 69,
+            "deletions": 6
+          },
+          {
+            "hash": "3c202c288e52edd9eb2ddb57a7ada9990ef0b8a0",
+            "message": "Update import statements according to checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bb3fd7e39ffd3feb0a7d4034760a6be09a6c1ad1",
+            "message": "Add Occurrence and Frequency tests",
+            "insertions": 50,
+            "deletions": 0
+          },
+          {
+            "hash": "f7928970236b2ab8d20db3762718264e7170f082",
+            "message": "Add all card and list panel tests",
+            "insertions": 613,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 1285,
+        "deletions": 139,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "05bdcb75523a45a433c041708a7b2bd374712519",
+            "message": "Add shortcut commands",
+            "insertions": 60,
+            "deletions": 16
+          },
+          {
+            "hash": "d951c118e93f7fa18a911da0d1ec91578ec6118e",
+            "message": "Fix indentation errors",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "4bb6c4140a5610d12422e20e628e6b0c1a3dbb48",
+            "message": "Add listing of debts command",
+            "insertions": 153,
+            "deletions": 0
+          },
+          {
+            "hash": "76b01f559995ff998f9b54f175f42ecd20c5a8ff",
+            "message": "Allow read and write to Json files for Budget, Recurring, Debt",
+            "insertions": 642,
+            "deletions": 88
+          },
+          {
+            "hash": "172a003817f612f31b9a258a193d53d050111de9",
+            "message": "Modify to display Budget, Recurring, Debt in Browser Panel",
+            "insertions": 417,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 173,
+        "deletions": 4,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "d3a7d96b00435d511dad2c156ac7d3696f074975",
+            "message": "Add tests for ListDebt and ListRecurring, Update BrowserPanelTest",
+            "insertions": 173,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 162,
+        "deletions": 90,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "833033cc43a0f8350fbff5a543ce36a69f7ddb96",
+            "message": "Fix BudgetTest and EditBudgetCommandTest",
+            "insertions": 40,
+            "deletions": 26
+          },
+          {
+            "hash": "fbad89292d4f645b480a65e384ea3d1d6a35d88c",
+            "message": "Update Developer\u0027s guide",
+            "insertions": 18,
+            "deletions": 39
+          },
+          {
+            "hash": "4b29af50869c19eabc8104e69a71119c13a3b4a9",
+            "message": "Update listing of Budget, Expense, Recurring",
+            "insertions": 104,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 112,
+        "deletions": 101,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "bc65ed434a9b8ca2c4c4bb366b5736eb15d0ba9d",
+            "message": "Update Budget UI to display totalPercentageSpent and duration",
+            "insertions": 83,
+            "deletions": 75
+          },
+          {
+            "hash": "c3e05654c082ae4b56cd909b98e97e082ac18a82",
+            "message": "fix checkstyle error",
+            "insertions": 29,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 293,
+        "deletions": 508,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "5d5fd66a60706b82fe94bbfc8d007ee548f79ec9",
+            "message": "Update ListDebt to be able to list debts a day/week/month/year within deadline",
+            "insertions": 72,
+            "deletions": 7
+          },
+          {
+            "hash": "21cd80db1f06cb738f5de2e007dd615e1e60854f",
+            "message": "Update Browser Panel and tests involving Browser Panel",
+            "insertions": 145,
+            "deletions": 116
+          },
+          {
+            "hash": "691b829cc62bea81c46d50dd4e34254943410ba1",
+            "message": "Update all html files that will be shown in Browser Panel",
+            "insertions": 76,
+            "deletions": 385
+          }
+        ]
+      },
+      {
+        "insertions": 395,
+        "deletions": 130,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "41c6d55790d799bbebc3671a40fc1b34979d66c5",
+            "message": "Update alignment of html files",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "c2a9c34f1ce036c39dfc23559d95a902843b559e",
+            "message": "Fix JSONSerializableFinanceTrackerTest error",
+            "insertions": 28,
+            "deletions": 12
+          },
+          {
+            "hash": "eb8f6d8e42bf708f3092d51cd67de52e06283d32",
+            "message": "Update DG and UG",
+            "insertions": 357,
+            "deletions": 45
+          },
+          {
+            "hash": "30cf44a616b41c9841bb4872fe2ea42f5960ce0b",
+            "message": "Remove addressbook.json and update output log file\u0027s name to financetracker",
+            "insertions": 1,
+            "deletions": 64
+          }
+        ]
+      },
+      {
+        "insertions": 112,
+        "deletions": 34,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "fd1045eac807567bd74ecc5d861e261cd801f260",
+            "message": "Update Personal Portfolio Page",
+            "insertions": 77,
+            "deletions": 8
+          },
+          {
+            "hash": "ec90749dfc2bd758fdcc9178376cb332e84914ea",
+            "message": "Update UI and User Guide",
+            "insertions": 26,
+            "deletions": 16
+          },
+          {
+            "hash": "1ebb4f5a400bb6bb8b0ad568520bf5ab2fcc4d3e",
+            "message": "Update font weight on UI",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6f17ec8e602d532d66866b6941d208cf14018366",
+            "message": "Update font weight on UI",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "4ebc31564a14e03ba96d3994e720c5bcbc9e6ff8",
+            "message": "Update Developer Guide",
+            "insertions": 3,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 122,
+        "deletions": 201,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "d2fe935d3db08cc03c1ae7b8ab3bffce389430ed",
+            "message": "Update validation regex on Amount and Date",
+            "insertions": 122,
+            "deletions": 201
+          }
+        ]
+      },
+      {
+        "insertions": 195,
+        "deletions": 89,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "bdfa8b0935e6a5eca9bf2e33cce6923ec3b9b2a2",
+            "message": "Update tests to be more extensive",
+            "insertions": 154,
+            "deletions": 37
+          },
+          {
+            "hash": "fa75cd70101110e8b82275f86273c86aed3a747d",
+            "message": "Update code to better code quality",
+            "insertions": 41,
+            "deletions": 52
+          }
+        ]
+      },
+      {
+        "insertions": 202,
+        "deletions": 156,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "8e4f2667c3ca5d9f7cc515fcd0a67274f6de5dc5",
+            "message": "Update user guide based on discrepancies found in mock test",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "d6b77aedbe905045ed5efb01488adbc1d1f7630d",
+            "message": "Add check to not allow repeated prefixes in all add and edit commands",
+            "insertions": 119,
+            "deletions": 0
+          },
+          {
+            "hash": "704d56ca47d1981769a66860576e33720c86829d",
+            "message": "Remove checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "b6974368154fa5bf18dcbbe4913892dd364c1de5",
+            "message": "Update parser tests on enforcement for repeated prefixes",
+            "insertions": 77,
+            "deletions": 149
+          }
+        ]
+      },
+      {
+        "insertions": 103,
+        "deletions": 24,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "834d3980974256c3509b7b6691070048ea545d03",
+            "message": "Add new entries for SampleDataUtil",
+            "insertions": 50,
+            "deletions": 7
+          },
+          {
+            "hash": "c00b4a8384158b568e5881608c33cde73b12ff45",
+            "message": "Fix travis error",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "226f2e9242f4caa97f505e7fab9283ca12015b87",
+            "message": "Update extensiveness of tests",
+            "insertions": 49,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 462,
+        "deletions": 26,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "f29b2402bf3e75d9b2fa9c6e7c385f3853cdfa85",
+            "message": "Update Developer Guide and PPP",
+            "insertions": 10,
+            "deletions": 12
+          },
+          {
+            "hash": "54155639d41a336731cd29f3d0aae0dc90088fb9",
+            "message": "Add new demodata for demo",
+            "insertions": 235,
+            "deletions": 0
+          },
+          {
+            "hash": "6ff47793a4be14e4337978c185a8cdf56e469df8",
+            "message": "Update financetracker.json",
+            "insertions": 217,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 18,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "b467c1e9c232be3a7a9c7f2d059cf7e8acd17455",
+            "message": "Update DeveloperGuide based on comments",
+            "insertions": 5,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 127,
+        "deletions": 79,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "b2f838e0ba57c47a3e6f0bee3926c57e567265bb",
+            "message": "Update UG, DG and PPP",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "459d9255e26e76c5677db256836b1db712426954",
+            "message": "Update Select Commands",
+            "insertions": 11,
+            "deletions": 8
+          },
+          {
+            "hash": "a56b1c56f9bd21c6b23d224474c3fcb37b6d2b21",
+            "message": "Update application icon",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "58c8514fb77a90de5e417906501329180bd038bb",
+            "message": "Update mistakes in UG, DG and PPP",
+            "insertions": 27,
+            "deletions": 28
+          },
+          {
+            "hash": "ca3dd3d8673bc1df7c126d6b1a9a0a31149e90e3",
+            "message": "Refactor names of variables and remove magic numbers",
+            "insertions": 53,
+            "deletions": 35
+          },
+          {
+            "hash": "48fa3f4ce7d94854db9e8df360b5ea4feb5dab83",
+            "message": "Update documentation in PPP, AboutUs and DG",
+            "insertions": 11,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 3,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "38205f898467bd1c8d280cd258ba725a94100073",
+            "message": "Update PPP",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 2,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "04e8216d165fa08dd646f0d3e5e9ec429d875c6a",
+            "message": "Fix DG errors",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "lim-jiahui": [
+      {
+        "insertions": 13,
+        "deletions": 13,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "111d38f60c322a7863dc7d4b013131c31ff579ef",
+            "message": "Edit User Guide. Edit \u0027list\u0027 command to be consistent and correct some previous mistakes.",
+            "insertions": 13,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 8,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "84bc809b13dc5295d0a0037b6768f31cbd4dabcb",
+            "message": "Update Developer Guide: Add user stories",
+            "insertions": 40,
+            "deletions": 7
+          },
+          {
+            "hash": "125704f366d42c1042d3ab31637c19abf8a98999",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 605,
+        "deletions": 23,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "8db854d462e178cb7b80d08b67e2df7c9ca0f14e",
+            "message": "Update Developer\u0027s Guide: add use cases and non-functional requirements update glossary",
+            "insertions": 605,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 19,
+        "deletions": 19,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "1be87a764d18abde1a72ae6a738c1daa3c800fab",
+            "message": "Rename all address book to finance tracker",
+            "insertions": 19,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 200,
+        "deletions": 1,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "2138c8f1188f17823489441db649ccc1ca9fc3c1",
+            "message": "Add compareTo function to Date class to compare check if a date is before another date Add Budget class Add BudgetList class Add BudgetNotFoundException class Add OverlappingBudgetException class",
+            "insertions": 200,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 657,
+        "deletions": 40,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "8969ddee46b98d7f3d6bc609d5c028f934b12310",
+            "message": "Modify compareTo method for Date class according to Yin Hao\u0027s comment",
+            "insertions": 17,
+            "deletions": 10
+          },
+          {
+            "hash": "353fe9f1b7cd9d3ed50c3a5a114a4aee4c7e0f3d",
+            "message": "Modify Budget and BudgetList classes to add more methods Add budget-level operations to FinanceTracker",
+            "insertions": 91,
+            "deletions": 4
+          },
+          {
+            "hash": "210e1e30e3a5da2c02b25fc85c74bbef7c98da3b",
+            "message": "Modify overlaps function in Budget class",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "4fc1c492143feef54c529d3331354bfd6e1c6eeb",
+            "message": "Add AddBudgetCommand Add budget stuff to Model and FinanceTracker",
+            "insertions": 126,
+            "deletions": 3
+          },
+          {
+            "hash": "4b7abfa54e54e9bff24fb17df0ca2b0411a0919d",
+            "message": "Update ModelManager with budget stuff",
+            "insertions": 55,
+            "deletions": 9
+          },
+          {
+            "hash": "b4526bcbe098c01e7ebeba626ed36b708a595840",
+            "message": "Add budget commands Modify existing budget files",
+            "insertions": 321,
+            "deletions": 7
+          },
+          {
+            "hash": "7e273b542267461d150f88824158a7467c8415c0",
+            "message": "Add command parser for delete budget",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "4d43a263ddb37b1a971cff4b8d3d691f13fe06b7",
+            "message": "Add exception for repeated budget",
+            "insertions": 18,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 73,
+        "deletions": 73,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "1159a0079b2743ace8b23ab265599b99d0fe6675",
+            "message": "Fix bug in editBudgetCommandParser",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "39aa7736163b9b7c00ce49c1e301705652df5afa",
+            "message": "Update Developer\u0027s Guide",
+            "insertions": 66,
+            "deletions": 66
+          }
+        ]
+      },
+      {
+        "insertions": 266,
+        "deletions": 342,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "161ad115ae7a496452e3567ffba6e5e6faa054c2",
+            "message": "Edit system tests",
+            "insertions": 266,
+            "deletions": 342
+          }
+        ]
+      },
+      {
+        "insertions": 200,
+        "deletions": 125,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "1c65cd7052302cb06e443411a0e8730c7abf7995",
+            "message": "Clean up checkstyle",
+            "insertions": 200,
+            "deletions": 125
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "f1ba5876b9dcb7aaf90322eda00fefda2fa789b3",
+            "message": "no message",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 126,
+        "deletions": 112,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "e483b75d401a7782a23a85cc8df378d2bd9d169f",
+            "message": "Update Date class to hold only a localDate variable and check for non-existent dates.",
+            "insertions": 64,
+            "deletions": 48
+          },
+          {
+            "hash": "6bf2e1053c4bb6607d2d88216082021f7ba28b02",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9977642bce99a602e06d5f8085b059fe7e5758b3",
+            "message": "Edit files to pass checkstyle tests",
+            "insertions": 38,
+            "deletions": 24
+          },
+          {
+            "hash": "fb7b616c6544838ee048ccb997df25bf4ac565bf",
+            "message": "Update DateTest to test new changes",
+            "insertions": 6,
+            "deletions": 14
+          },
+          {
+            "hash": "bde48ca45b833e107801267b910f07b456ba87ff",
+            "message": "Edit to pass checkstyle",
+            "insertions": 17,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 1444,
+        "deletions": 136,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "f58fd9079e38a231e26e1296f821663ef912074b",
+            "message": "Add tests for budget",
+            "insertions": 574,
+            "deletions": 14
+          },
+          {
+            "hash": "6d19c3cdc12419a19b794e2cbcb8bddd3048554b",
+            "message": "Update tests for budget",
+            "insertions": 870,
+            "deletions": 122
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 3,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "f65a8796751aebc8b06650048e3a0cefd92a28c6",
+            "message": "Edit to pass checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9067001983481dc81ffb5986f5c732c82957566e",
+            "message": "Add description of budget feature",
+            "insertions": 8,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1493,
+        "deletions": 200,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "e648393e966109da88469fa1fd277fb1b56d90fb",
+            "message": "Edit some budget test files",
+            "insertions": 1189,
+            "deletions": 145
+          },
+          {
+            "hash": "60b84b212eb0dfe59b04c17f70ce494fe9274909",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0030667214df019d357fd08f15961d64bdd403fd",
+            "message": "Add checks for start date and end date for addbudget command",
+            "insertions": 197,
+            "deletions": 43
+          },
+          {
+            "hash": "627589d9db0a400c9c498c5136fa4e52adabb36b",
+            "message": "Edit clearexpense command to only clear expenses Add clear commands for budget, debt, recurring",
+            "insertions": 105,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 158,
+        "deletions": 165,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "5692f5a9d1de037c6874c71a38f00949e7ce7aae",
+            "message": "Edit to pass checkstyle",
+            "insertions": 158,
+            "deletions": 165
+          }
+        ]
+      },
+      {
+        "insertions": 115,
+        "deletions": 3,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "d8c25e3da1c3ade7282b47ca5709ff283616f7dd",
+            "message": "Add tests for clear commands",
+            "insertions": 115,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 199,
+        "deletions": 45,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "d52be24052378f5608e0a87f585e9d35b8b25508",
+            "message": "Modify ModelManager to edit totalSpent and percentage of budget accordingly. Modify Budget constructor to reflect change in percentage when there is change in budget amount.",
+            "insertions": 199,
+            "deletions": 45
+          }
+        ]
+      },
+      {
+        "insertions": 219,
+        "deletions": 62,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "e617d0e1f22f652a5de2742ca342520775b21cf8",
+            "message": "Modify existing files to match changes to Budget constructor",
+            "insertions": 13,
+            "deletions": 10
+          },
+          {
+            "hash": "041ee1b858d192d3771a6a63b693a1efb35faf4b",
+            "message": "Fix some tests for budget",
+            "insertions": 177,
+            "deletions": 25
+          },
+          {
+            "hash": "b88a19e7fa5a3d71bc1fd0a539a5a0e7f377711a",
+            "message": "Edit files to pass checkstyle",
+            "insertions": 29,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 65,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "306dfd4f47b6421ff8ee00a3a4ecc31bed7cdb06",
+            "message": "Edit ModelManager to update totalSpent when new budget is added",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "f477393947be55efffa727f332d63fee1afeee5e",
+            "message": "no message",
+            "insertions": 55,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 176,
+        "deletions": 292,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "71f4206dd9aca71bd2b4e3bb95f154a352c2ae48",
+            "message": "Update EditBudgetCommand and EditBudgetCommandParser to correct some mistakes. Update DG for budget feature.",
+            "insertions": 53,
+            "deletions": 19
+          },
+          {
+            "hash": "cf8dd0c83552cf1e626b52e7b742e8b7ced840e4",
+            "message": "Check through and update DG. Add a check to EditBudgetCommandParser to make sure user does not edit end date to be in the past (before today).",
+            "insertions": 117,
+            "deletions": 273
+          },
+          {
+            "hash": "92e9ed2138c927aa1790f4e8220291c1c6ed6b02",
+            "message": "no message",
+            "insertions": 6,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 144,
+        "deletions": 21,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "1778d0c9afefedba47a74064d6a6d26dd25cfa9a",
+            "message": "Add tests for start and end date checks. Add new line to eof for DG and preferences.json",
+            "insertions": 24,
+            "deletions": 7
+          },
+          {
+            "hash": "0b371acdc68c47d85be4e4be38878cb81c9a27f0",
+            "message": "Add PPP",
+            "insertions": 60,
+            "deletions": 7
+          },
+          {
+            "hash": "c1ff18424b91613de22e25d44e3c34498bcc7d9f",
+            "message": "Add PPP",
+            "insertions": 60,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 71,
+        "deletions": 32,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "c951347fe8f9c2d063e6ed3c22b1e4aba7a77378",
+            "message": "Update budget files according to issues raised in pe dry run again (did not update due to merging problems from 1.3 before)",
+            "insertions": 71,
+            "deletions": 32
+          }
+        ]
+      },
+      {
+        "insertions": 317,
+        "deletions": 71,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "eeb58892caeb86bbcb00bc058119548cf29b28f6",
+            "message": "Fix checkstyle",
+            "insertions": 61,
+            "deletions": 65
+          },
+          {
+            "hash": "b4a888071a1b4c3b6cf071bd6f88731f5cd295ef",
+            "message": "Add newline at eof",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "570136fe6583ee370db50fb2e38f08c07ad25310",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "ae52e8a586096c0d69e46f6b7160e282ba22e3f9",
+            "message": "Implement selectbudget command",
+            "insertions": 253,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 31,
+        "deletions": 11,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "8f3e3c5c33e72bc162de5da8123b82b30ef0ea99",
+            "message": "Solve the undo/redo problem for budget\u0027s total spent and percentage",
+            "insertions": 30,
+            "deletions": 10
+          },
+          {
+            "hash": "02faa7954a0a81e0d167bb869e928c655d5d78de",
+            "message": "Add EOF new line",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 371,
+        "deletions": 240,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "abaca631c8e4397a9949018197f78ce175b041cd",
+            "message": "Fix checkstyle",
+            "insertions": 349,
+            "deletions": 221
+          },
+          {
+            "hash": "ae0b3f0320d8668d698ef239b87a7fb61ab6533f",
+            "message": "Add newline at EOF",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a83ecc24f2519bafed99a9b6d3ee7b8367179211",
+            "message": "Fix code quality",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e588ecfaa479d1e9004f5984d218104caa87a09e",
+            "message": "Fix code quality",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6066efbe4918a5a6c181e68d28112ce4374f8887",
+            "message": "no message",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "ea71c798684229a286db831a9fd9ae772b51c19b",
+            "message": "no message",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "8f1dec7dfc9b7ddc2015ed7c87850119507f82bb",
+            "message": "Update DG",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 5,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "eff06d4d971a11cf734f606167612c8125b018fc",
+            "message": "Update PPP",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "003908f526543ccf6d54e8fe55e98730cc343582",
+            "message": "Update DG",
+            "insertions": 14,
+            "deletions": 2
+          },
+          {
+            "hash": "e650ac6c571b98471cb4b8b2822221cd28743537",
+            "message": "Add newline at EOF",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 37,
+        "deletions": 140,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "d20f8d72e730be5e8bd8c7151b27cf118e9980b6",
+            "message": "Remove unnecessary comments",
+            "insertions": 28,
+            "deletions": 129
+          },
+          {
+            "hash": "016ce84ff3c5e6a671076c1125866e18860bd7cf",
+            "message": "Edit tag on DG for PPP",
+            "insertions": 5,
+            "deletions": 7
+          },
+          {
+            "hash": "4c4c67dbd24c29278110198b35cb6516f4e25664",
+            "message": "no message",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "gohyinhao": 6172,
+    "jhocx": 3767,
+    "zht96830": 2931,
+    "jamessspanggg": 5492,
+    "lim-jiahui": 5114
+  },
+  "authorFileFormatContributionMap": {
+    "gohyinhao": {
+      "adoc": 226,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 2,
+      "html": 0,
+      "java": 5928,
+      "js": 0,
+      "json": 16,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "jhocx": {
+      "adoc": 287,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 3424,
+      "js": 0,
+      "json": 56,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "zht96830": {
+      "adoc": 251,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 19,
+      "java": 2657,
+      "js": 0,
+      "json": 4,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "jamessspanggg": {
+      "adoc": 221,
+      "cs": 0,
+      "css": 28,
+      "fxml": 155,
+      "gradle": 0,
+      "html": 88,
+      "java": 4430,
+      "js": 0,
+      "json": 570,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "lim-jiahui": {
+      "adoc": 739,
+      "cs": 0,
+      "css": 0,
+      "fxml": 1,
+      "gradle": 1,
+      "html": 0,
+      "java": 4346,
+      "js": 0,
+      "json": 27,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "gohyinhao": 436775.34,
+    "jhocx": 94017.12,
+    "zht96830": 118883.01,
+    "jamessspanggg": 101287.234,
+    "lim-jiahui": 101496.695
+  },
+  "authorDisplayNameMap": {
+    "gohyinhao": "GOH...HAO",
+    "jhocx": "JOH...ANG",
+    "zht96830": "TEO...HUI",
+    "jamessspanggg": "JAM...WAI",
+    "lim-jiahui": "LIM...HUI"
+  }
+}

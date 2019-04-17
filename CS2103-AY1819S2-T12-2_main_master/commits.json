@@ -1,0 +1,607 @@
+{
+  "authorDailyContributionsMap": {
+    "lungsin": [
+      {
+        "insertions": 129,
+        "deletions": 137,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "463b165f21e096908ca766e86da21c75f19612fd",
+            "message": "Update user guide (#6)",
+            "insertions": 129,
+            "deletions": 137
+          }
+        ]
+      },
+      {
+        "insertions": 146,
+        "deletions": 14,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "dcef26b823c6175a74bfd941af083533bbbf7ac4",
+            "message": "Add use cases for developer guide (#16)",
+            "insertions": 146,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 393,
+        "deletions": 32,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "149d68c6f06f75c66bb5dcb31d3a98fe0bc862c3",
+            "message": "Add statistics functionality (#13)",
+            "insertions": 393,
+            "deletions": 32
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "55a9d006bb4dcea7eeb57a003cb1ab844551bbf9",
+            "message": "Add Statistics section in developer guide (#36)",
+            "insertions": 34,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 212,
+        "deletions": 36,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "710df5107cd29bfd5c3d8629f35805a1f591bd6f",
+            "message": "Implement Filtered statistics (#40)",
+            "insertions": 212,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "12b77ff204adbc6aa90a49e4d0a83aba60ed36d0",
+            "message": "Rename _reponense -\u003e _reposense (#42)",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 430,
+        "deletions": 155,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "97456919a0326bdda211bd0ef3712173e63a5c93",
+            "message": "Refactor filter (#81)",
+            "insertions": 430,
+            "deletions": 155
+          }
+        ]
+      },
+      {
+        "insertions": 846,
+        "deletions": 190,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "75d9240029c286e96d6b863825ddb648d1212d43",
+            "message": "Spaced Repetition System and Review mode (#86)",
+            "insertions": 846,
+            "deletions": 190
+          }
+        ]
+      },
+      {
+        "insertions": 330,
+        "deletions": 112,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "99fb17f8ab66df7464385ab1c3d5f15c646696b8",
+            "message": "Selecting flashcard display date until its use in quiz (#91)",
+            "insertions": 101,
+            "deletions": 12
+          },
+          {
+            "hash": "671fa0bf96bd6613fb9ef160533b4de97d827a07",
+            "message": "Docs srs stats (#94)",
+            "insertions": 229,
+            "deletions": 100
+          }
+        ]
+      }
+    ],
+    "lucatriglia": [
+      {
+        "insertions": 234,
+        "deletions": 27,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "d1532b7315b071b6327442d781f7024ee39a149d",
+            "message": "Update AboutUs and ContactUs info (#1)",
+            "insertions": 234,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "134bc2d0876b22f888fe8bc200cbb83dbbf2c96c",
+            "message": "Update About us (#10)",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 140,
+        "deletions": 8,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "759774713d0263ecd820410815c2968a1aa2bb95",
+            "message": "[WIP] Add Upload Functionality  (#12)",
+            "insertions": 126,
+            "deletions": 3
+          },
+          {
+            "hash": "2f9062543886d7914b4a2333f63bb9eb97a6dac9",
+            "message": "docs/DeveloperGuide: update user stories (#17)",
+            "insertions": 14,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 446,
+        "deletions": 186,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "ebfb89a9e2c6c7d900e6d3e293ea171773c54190",
+            "message": "Enhance Find Command (#29)",
+            "insertions": 446,
+            "deletions": 186
+          }
+        ]
+      },
+      {
+        "insertions": 499,
+        "deletions": 212,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "6f3cf95058426a717b369496a1d1219c10b5c2dc",
+            "message": "Share command Implementation  (#43)",
+            "insertions": 336,
+            "deletions": 24
+          },
+          {
+            "hash": "b85685ce07451eb344b7813fb40ad90d641cc8aa",
+            "message": "Import Command  (#53)",
+            "insertions": 163,
+            "deletions": 188
+          }
+        ]
+      },
+      {
+        "insertions": 717,
+        "deletions": 316,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "f3ad64546f6ae8619cea915dfbfbe3440247bd6d",
+            "message": "Update FindCommand to filter by success rate (#85)",
+            "insertions": 717,
+            "deletions": 316
+          }
+        ]
+      }
+    ],
+    "robincyu": [
+      {
+        "insertions": 4750,
+        "deletions": 4586,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "9210de6b0b90ca2ec12ae52eb5b728fd5e95c9da",
+            "message": " Refactor AddressBook to CardCollection, Person to Flashcard (#14)",
+            "insertions": 4750,
+            "deletions": 4586
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 6,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "c0d1085b2e66f43003902bb92f01688813200871",
+            "message": "Add Image Support to DeveloperGuide.adoc (#38)",
+            "insertions": 49,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 739,
+        "deletions": 285,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "dad40cf65a73b0215adf6665bd2cc3eca7c07cb5",
+            "message": "Image support (#50)",
+            "insertions": 546,
+            "deletions": 87
+          },
+          {
+            "hash": "74d0015a64483d3d7af6dc97efc73d3c26eaeb5a",
+            "message": "Update User Guide to v1.3 (#54)",
+            "insertions": 193,
+            "deletions": 198
+          }
+        ]
+      },
+      {
+        "insertions": 604,
+        "deletions": 395,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "89a0ee878db5ed4c6bff78cc96f39d5d56881869",
+            "message": "Image support fixes (#92)",
+            "insertions": 86,
+            "deletions": 53
+          },
+          {
+            "hash": "431ca94fe71645a01da66565eeecd83cd4bebdc1",
+            "message": "Complete Rewrite of User Guide: Robin\u0027s and Neutral Features (#95)",
+            "insertions": 393,
+            "deletions": 265
+          },
+          {
+            "hash": "a0bdb5041d823755523701dd7f15470a1c4a08a8",
+            "message": "Developer Guide: Robin\u0027s Features (#97)",
+            "insertions": 53,
+            "deletions": 31
+          },
+          {
+            "hash": "a1062f4dbbf74bf85b48a51877333fb2e6ba27dd",
+            "message": "Add Robin\u0027s PPP (#99)",
+            "insertions": 72,
+            "deletions": 46
+          }
+        ]
+      }
+    ],
+    "sergiovieri": [
+      {
+        "insertions": 3,
+        "deletions": 4,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "2ca9393d9eef7e942c03b0f14444b54af6ef6ade",
+            "message": "Update Readme badges (#3)",
+            "insertions": 3,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 12,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "771d103ed6c0679b94028e64dbb89a2b8e15ceba",
+            "message": "Update Readme (#4)",
+            "insertions": 15,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 145,
+        "deletions": 67,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "32dac1569471a757893213cfc486e1df933c61dc",
+            "message": "Add simple quiz mode (#8)",
+            "insertions": 145,
+            "deletions": 67
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-07",
+        "commitResults": [
+          {
+            "hash": "be0a03ffbf8da78d4183babf1771682ad13a15d8",
+            "message": "readme: Update travis repository name (#18)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "0cd7e4c9b729d2ce0f0ab1562fe2c104302db5c9",
+            "message": "README: Update badge repository name (#23)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 862,
+        "deletions": 2071,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "7f8053bfde79fd4d25b359fcf8224961d2b1147b",
+            "message": "Refactor Flashcard Fields (#22)",
+            "insertions": 862,
+            "deletions": 2071
+          }
+        ]
+      },
+      {
+        "insertions": 395,
+        "deletions": 132,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "58dcc18eab3a226dd237a56a21015cd07166048f",
+            "message": "Modify Flashcard Card View (#27)",
+            "insertions": 395,
+            "deletions": 132
+          }
+        ]
+      },
+      {
+        "insertions": 25,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "d5d266b7c76aa082c767a8c0b8a2afdf83a01e42",
+            "message": "Add quiz command to developer guide (#30)",
+            "insertions": 25,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 25,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "95a4ef40b44c36ebe7d4de0e46e698550b7801a7",
+            "message": "Reposense: Add config.json (#39)",
+            "insertions": 25,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1036,
+        "deletions": 43,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "f1658af4b3382152510cf2cf681c90e5ea6f8b28",
+            "message": "Advanced Quiz Mode (#46)",
+            "insertions": 1036,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 475,
+        "deletions": 118,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "8f721e3de497bd42c89631397b7b75f7aaa9fa8f",
+            "message": "Add Toolbar (#49)",
+            "insertions": 373,
+            "deletions": 103
+          },
+          {
+            "hash": "7f05ba0d6da4f2a0b57a7e8a25252b595ac35ff7",
+            "message": "UserGuide: Update quiz mode (#52)",
+            "insertions": 102,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 148,
+        "deletions": 13,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "8bc9f9cfde41f9951fa7a74f266801ac6bc7f154",
+            "message": "ImageCommand Fix (#56)",
+            "insertions": 13,
+            "deletions": 6
+          },
+          {
+            "hash": "38a02715de1689123d1e6a5b62d9a56b1eb2d0f8",
+            "message": "UserGuide: Add missing commands and command summary (#57)",
+            "insertions": 135,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 108,
+        "deletions": 127,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "979f02fcf7295f5463c08a04d188b502835f006c",
+            "message": "Change app icon (#87)",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0986ba0e7f2703b8a893fd4d5f522db269e661d5",
+            "message": "Developer Guide: Refactor existing commands and diagrams (#89)",
+            "insertions": 106,
+            "deletions": 125
+          }
+        ]
+      },
+      {
+        "insertions": 146,
+        "deletions": 73,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "9d9808006585bdd46c32868eef6945fd0b2d5559",
+            "message": "DeveloperGuide: Quiz Mode (#93)",
+            "insertions": 76,
+            "deletions": 12
+          },
+          {
+            "hash": "3505e52723e582fed8987ffc2d889006477f80e0",
+            "message": "Docs: Add PPP - Sergio Vieri (#59)",
+            "insertions": 69,
+            "deletions": 49
+          },
+          {
+            "hash": "91560f1ae0e5e277c43592aefdf4b63f6bd4e28d",
+            "message": "Remove use cases from PPP (#98)",
+            "insertions": 0,
+            "deletions": 11
+          },
+          {
+            "hash": "0512f3cf3c94520b71c129d03e35b023b50134c8",
+            "message": "Quiz Fix (#100)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "lungsin": 2124,
+    "lucatriglia": 1296,
+    "robincyu": 4300,
+    "sergiovieri": 2752
+  },
+  "authorFileFormatContributionMap": {
+    "lungsin": {
+      "adoc": 382,
+      "cs": 0,
+      "css": 36,
+      "fxml": 14,
+      "gradle": 1,
+      "html": 0,
+      "java": 1677,
+      "js": 0,
+      "json": 14,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "lucatriglia": {
+      "adoc": 243,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1032,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 21,
+      "xml": 0
+    },
+    "robincyu": {
+      "adoc": 547,
+      "cs": 0,
+      "css": 16,
+      "fxml": 42,
+      "gradle": 1,
+      "html": 0,
+      "java": 3608,
+      "js": 0,
+      "json": 77,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 5,
+      "xml": 4
+    },
+    "sergiovieri": {
+      "adoc": 354,
+      "cs": 0,
+      "css": 2,
+      "fxml": 145,
+      "gradle": 0,
+      "html": 0,
+      "java": 2201,
+      "js": 0,
+      "json": 50,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
+  "authorContributionVariance": {
+    "lungsin": 27590.482,
+    "lucatriglia": 29878.613,
+    "robincyu": 1341632.4,
+    "sergiovieri": 153988.75
+  },
+  "authorDisplayNameMap": {
+    "lungsin": "KWE...SIN",
+    "lucatriglia": "LUC...LIA",
+    "robincyu": "ROB... YU",
+    "sergiovieri": "SER...ERI"
+  }
+}
