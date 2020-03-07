@@ -1,6 +1,6 @@
 {
-  "repoSenseVersion": "v1.9rc",
-  "reportGeneratedTime": "Tue Apr 16 14:31:41 2019 UTC",
+  "repoSenseVersion": "v1.10.1",
+  "reportGeneratedTime": "Sun. Mar. 8 00:42:15 2020 SGT",
   "repos": [
     {
       "location": {
@@ -9,7 +9,8 @@
         "organization": "CS2103-AY1819S2-W09-1"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W09-1_main_master"
+      "displayName": "CS2103-AY1819S2-W09-1/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W09-1_main_master"
     },
     {
       "location": {
@@ -18,7 +19,8 @@
         "organization": "CS2103-AY1819S2-W09-2"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W09-2_main_master"
+      "displayName": "CS2103-AY1819S2-W09-2/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W09-2_main_master"
     },
     {
       "location": {
@@ -27,7 +29,8 @@
         "organization": "CS2103-AY1819S2-W09-3"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W09-3_main_master"
+      "displayName": "CS2103-AY1819S2-W09-3/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W09-3_main_master"
     },
     {
       "location": {
@@ -36,7 +39,8 @@
         "organization": "CS2103-AY1819S2-W09-4"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W09-4_main_master"
+      "displayName": "CS2103-AY1819S2-W09-4/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W09-4_main_master"
     },
     {
       "location": {
@@ -45,7 +49,8 @@
         "organization": "CS2103-AY1819S2-W10-1"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W10-1_main_master"
+      "displayName": "CS2103-AY1819S2-W10-1/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W10-1_main_master"
     },
     {
       "location": {
@@ -54,7 +59,8 @@
         "organization": "CS2103-AY1819S2-W10-2"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W10-2_main_master"
+      "displayName": "CS2103-AY1819S2-W10-2/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W10-2_main_master"
     },
     {
       "location": {
@@ -63,7 +69,8 @@
         "organization": "CS2103-AY1819S2-W10-3"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W10-3_main_master"
+      "displayName": "CS2103-AY1819S2-W10-3/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W10-3_main_master"
     },
     {
       "location": {
@@ -72,7 +79,8 @@
         "organization": "CS2103-AY1819S2-W10-4"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W10-4_main_master"
+      "displayName": "CS2103-AY1819S2-W10-4/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W10-4_main_master"
     },
     {
       "location": {
@@ -81,7 +89,8 @@
         "organization": "CS2103-AY1819S2-W11-1"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W11-1_main_master"
+      "displayName": "CS2103-AY1819S2-W11-1/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W11-1_main_master"
     },
     {
       "location": {
@@ -90,7 +99,8 @@
         "organization": "CS2103-AY1819S2-W11-2"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W11-2_main_master"
+      "displayName": "CS2103-AY1819S2-W11-2/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W11-2_main_master"
     },
     {
       "location": {
@@ -99,7 +109,8 @@
         "organization": "CS2103-AY1819S2-W11-3"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W11-3_main_master"
+      "displayName": "CS2103-AY1819S2-W11-3/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W11-3_main_master"
     },
     {
       "location": {
@@ -108,7 +119,8 @@
         "organization": "CS2103-AY1819S2-W11-4"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W11-4_main_master"
+      "displayName": "CS2103-AY1819S2-W11-4/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W11-4_main_master"
     },
     {
       "location": {
@@ -117,7 +129,8 @@
         "organization": "CS2103-AY1819S2-W13-1"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W13-1_main_master"
+      "displayName": "CS2103-AY1819S2-W13-1/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W13-1_main_master"
     },
     {
       "location": {
@@ -126,7 +139,8 @@
         "organization": "CS2103-AY1819S2-W13-2"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W13-2_main_master"
+      "displayName": "CS2103-AY1819S2-W13-2/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W13-2_main_master"
     },
     {
       "location": {
@@ -135,7 +149,8 @@
         "organization": "CS2103-AY1819S2-W13-3"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W13-3_main_master"
+      "displayName": "CS2103-AY1819S2-W13-3/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W13-3_main_master"
     },
     {
       "location": {
@@ -144,7 +159,8 @@
         "organization": "CS2103-AY1819S2-W13-4"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W13-4_main_master"
+      "displayName": "CS2103-AY1819S2-W13-4/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W13-4_main_master"
     },
     {
       "location": {
@@ -153,7 +169,8 @@
         "organization": "CS2103-AY1819S2-W14-1"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W14-1_main_master"
+      "displayName": "CS2103-AY1819S2-W14-1/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W14-1_main_master"
     },
     {
       "location": {
@@ -162,7 +179,8 @@
         "organization": "CS2103-AY1819S2-W14-2"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W14-2_main_master"
+      "displayName": "CS2103-AY1819S2-W14-2/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W14-2_main_master"
     },
     {
       "location": {
@@ -171,7 +189,8 @@
         "organization": "CS2103-AY1819S2-W14-3"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W14-3_main_master"
+      "displayName": "CS2103-AY1819S2-W14-3/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W14-3_main_master"
     },
     {
       "location": {
@@ -180,7 +199,8 @@
         "organization": "CS2103-AY1819S2-W14-4"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W14-4_main_master"
+      "displayName": "CS2103-AY1819S2-W14-4/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W14-4_main_master"
     },
     {
       "location": {
@@ -189,7 +209,8 @@
         "organization": "CS2103-AY1819S2-W15-1"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W15-1_main_master"
+      "displayName": "CS2103-AY1819S2-W15-1/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W15-1_main_master"
     },
     {
       "location": {
@@ -198,7 +219,8 @@
         "organization": "CS2103-AY1819S2-W15-2"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W15-2_main_master"
+      "displayName": "CS2103-AY1819S2-W15-2/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W15-2_main_master"
     },
     {
       "location": {
@@ -207,7 +229,8 @@
         "organization": "CS2103-AY1819S2-W15-3"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W15-3_main_master"
+      "displayName": "CS2103-AY1819S2-W15-3/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W15-3_main_master"
     },
     {
       "location": {
@@ -216,7 +239,8 @@
         "organization": "CS2103-AY1819S2-W15-4"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W15-4_main_master"
+      "displayName": "CS2103-AY1819S2-W15-4/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W15-4_main_master"
     },
     {
       "location": {
@@ -225,7 +249,8 @@
         "organization": "CS2103-AY1819S2-W16-1"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W16-1_main_master"
+      "displayName": "CS2103-AY1819S2-W16-1/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W16-1_main_master"
     },
     {
       "location": {
@@ -234,7 +259,8 @@
         "organization": "CS2103-AY1819S2-W16-2"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W16-2_main_master"
+      "displayName": "CS2103-AY1819S2-W16-2/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W16-2_main_master"
     },
     {
       "location": {
@@ -243,7 +269,8 @@
         "organization": "CS2103-AY1819S2-W16-3"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W16-3_main_master"
+      "displayName": "CS2103-AY1819S2-W16-3/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W16-3_main_master"
     },
     {
       "location": {
@@ -252,7 +279,8 @@
         "organization": "CS2103-AY1819S2-W16-4"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W16-4_main_master"
+      "displayName": "CS2103-AY1819S2-W16-4/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W16-4_main_master"
     },
     {
       "location": {
@@ -261,7 +289,8 @@
         "organization": "CS2103-AY1819S2-W17-1"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W17-1_main_master"
+      "displayName": "CS2103-AY1819S2-W17-1/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W17-1_main_master"
     },
     {
       "location": {
@@ -270,7 +299,8 @@
         "organization": "CS2103-AY1819S2-W17-2"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W17-2_main_master"
+      "displayName": "CS2103-AY1819S2-W17-2/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W17-2_main_master"
     },
     {
       "location": {
@@ -279,16 +309,8 @@
         "organization": "CS2103-AY1819S2-W17-3"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-W17-3_main_master"
-    },
-    {
-      "location": {
-        "location": "https://github.com/CS2103-AY1819S2-W17-4/main.git",
-        "repoName": "main",
-        "organization": "CS2103-AY1819S2-W17-4"
-      },
-      "branch": "master",
-      "displayName": "CS2103-AY1819S2-W17-4_main_master"
+      "displayName": "CS2103-AY1819S2-W17-3/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-W17-3_main_master"
     },
     {
       "location": {
@@ -297,7 +319,8 @@
         "organization": "CS2103-AY1819S2-T12-1"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-T12-1_main_master"
+      "displayName": "CS2103-AY1819S2-T12-1/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-T12-1_main_master"
     },
     {
       "location": {
@@ -306,7 +329,8 @@
         "organization": "CS2103-AY1819S2-T12-2"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-T12-2_main_master"
+      "displayName": "CS2103-AY1819S2-T12-2/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-T12-2_main_master"
     },
     {
       "location": {
@@ -315,7 +339,8 @@
         "organization": "CS2103-AY1819S2-T12-3"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-T12-3_main_master"
+      "displayName": "CS2103-AY1819S2-T12-3/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-T12-3_main_master"
     },
     {
       "location": {
@@ -324,9 +349,18 @@
         "organization": "CS2103-AY1819S2-T12-4"
       },
       "branch": "master",
-      "displayName": "CS2103-AY1819S2-T12-4_main_master"
+      "displayName": "CS2103-AY1819S2-T12-4/main[master]",
+      "outputFolderName": "CS2103-AY1819S2-T12-4_main_master"
+    }
+  ],
+  "errorList": [
+    {
+      "repoName": "CS2103-AY1819S2-W17-4/main[master]",
+      "errorMessage": "Failed to clone from https://github.com/CS2103-AY1819S2-W17-4/main.git"
     }
   ],
   "sinceDate": "2019-02-10",
-  "untilDate": "2019-04-15"
+  "untilDate": "2019-04-15",
+  "isSinceDateProvided": true,
+  "isUntilDateProvided": true
 }

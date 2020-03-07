@@ -8,7 +8,8 @@
         "commitResults": [
           {
             "hash": "463b165f21e096908ca766e86da21c75f19612fd",
-            "message": "Update user guide (#6)",
+            "messageTitle": "Update user guide (#6)",
+            "messageBody": "* add Introduction and description for add command\r\n\r\n* change docs for list command\r\n\r\n* docs/UserGuide.adoc: edit command\r\n\r\n* docs/UserGuide.adoc: fix format + docs for find command\r\n\r\n* docs/UserGuide.adoc: add docs for delete command\r\n\r\n* docs/UserGuide.adoc: add coming in future work for undo, redo, select, history\r\n\r\n* docs/UserGuide.adoc: add docs for quiz mode\r\n\r\n* docs/UserGuide.adoc: add docs for stats\r\n\r\n* docs/UserGuide.adoc: make \u0027coming soon\u0027 tag shorter\r\n\r\n* docs/UserGuide.adoc: remove select command, restructure the order of undo and redo\r\n\r\n* docs/UserGuide.adoc: refactor  to\r\n\r\n* docs/UserGuide.adoc: fix typos and edit quick start\r\n\r\n* docs/UserGuide.adoc: fix typos and change  section\r\n\r\n* docs/UserGuide.adoc: change features section to be more consistent with other commands\r\n\r\n* docs/UserGuide.adoc: change command summary\r\n",
             "insertions": 129,
             "deletions": 137
           }
@@ -21,7 +22,8 @@
         "commitResults": [
           {
             "hash": "dcef26b823c6175a74bfd941af083533bbbf7ac4",
-            "message": "Add use cases for developer guide (#16)",
+            "messageTitle": "Add use cases for developer guide (#16)",
+            "messageBody": "* Docs: add use cases for edit, add, delete\r\n\r\n* docs: add use cases for quiz mode\r\n\r\n* docs: add use cases for find\r\n\r\n* docs: add use cases for import and export cards\r\n\r\n* change asciidoc attribute\r\n\r\n* change team name from SE-EDU to T12-2\r\n",
             "insertions": 146,
             "deletions": 14
           }
@@ -34,7 +36,8 @@
         "commitResults": [
           {
             "hash": "149d68c6f06f75c66bb5dcb31d3a98fe0bc862c3",
-            "message": "Add statistics functionality (#13)",
+            "messageTitle": "Add statistics functionality (#13)",
+            "messageBody": "* Logic: teach the app to accept \u0027stats\u0027 command which does nothing\r\n\r\n* Refactor: getTypicalAddressBook -\u003e getTypicalCardCollection\r\n\r\n* Add Statistics class and test\r\n\r\n* StatisticsTest: add test on merge method\r\n\r\n* Model: add json validation in Person, add field Statistics in Person\r\n\r\n* Logic: Statistics functionality\r\n\r\nCurrently, command `stats` will display the success rate of quiz mode of\r\nall flashcards.\r\n\r\n* Test: change the placeholder test for StatsCommand\r\n\r\n* Storage: add a field in JSON + adapt the test accordingly\r\n",
             "insertions": 393,
             "deletions": 32
           }
@@ -47,7 +50,8 @@
         "commitResults": [
           {
             "hash": "55a9d006bb4dcea7eeb57a003cb1ab844551bbf9",
-            "message": "Add Statistics section in developer guide (#36)",
+            "messageTitle": "Add Statistics section in developer guide (#36)",
+            "messageBody": "* Add Statistics section in developer guide\r\n",
             "insertions": 34,
             "deletions": 0
           }
@@ -60,7 +64,8 @@
         "commitResults": [
           {
             "hash": "710df5107cd29bfd5c3d8629f35805a1f591bd6f",
-            "message": "Implement Filtered statistics (#40)",
+            "messageTitle": "Implement Filtered statistics (#40)",
+            "messageBody": "* Logic: add filter functionality to statsCommand\r\n\r\n* Test: add test for StatsCommandParser\r\n\r\n* FindCommand.java: Fix MESSAGE_USAGE\r\n\r\n* Tests: add test for stats command with predicate\r\n\r\n* Bug Fix: fix equals method of FlashcardContainsKeywordsPredicate\r\n\r\n* Test: add more tests\r\n\r\n* Tests: add stats command parser test and TODO\r\n",
             "insertions": 212,
             "deletions": 36
           }
@@ -73,7 +78,8 @@
         "commitResults": [
           {
             "hash": "12b77ff204adbc6aa90a49e4d0a83aba60ed36d0",
-            "message": "Rename _reponense -\u003e _reposense (#42)",
+            "messageTitle": "Rename _reponense -\u003e _reposense (#42)",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           }
@@ -86,7 +92,8 @@
         "commitResults": [
           {
             "hash": "97456919a0326bdda211bd0ef3712173e63a5c93",
-            "message": "Refactor filter (#81)",
+            "messageTitle": "Refactor filter (#81)",
+            "messageBody": "* Refactor: move filter part of FindCommandParser and StatsCommandParser to ParserUtil::filterByKeyword\r\n\r\n* Logic: filter backface or frontface by substring instead of word matching\r\n\r\n* Logic: list on empty flashcards will display other message\r\n\r\n* Tests: modify test, command is not case sensitive\r\n",
             "insertions": 430,
             "deletions": 155
           }
@@ -99,7 +106,8 @@
         "commitResults": [
           {
             "hash": "75d9240029c286e96d6b863825ddb648d1212d43",
-            "message": "Spaced Repetition System and Review mode (#86)",
+            "messageTitle": "Spaced Repetition System and Review mode (#86)",
+            "messageBody": "* Model: add proficiency\r\n\r\n* Storage: integrate with flashcard\r\n\r\n* Model: Proficiency now has inactive period field\r\n\r\n* Model: Review mode in quiz\r\n\r\n* UI: add is review mode in the UI\r\n\r\n* Logic: add SRS mode to quiz\r\n\r\n* Logic: Review mode will still update the statistics\r\n\r\n* Test: add unit test for QuizCommand and its parser\r\n\r\n* Test: add system tests for QuizCommand\r\n\r\n* Epic: History does not accept empty string, Undo Redo provide command description\r\n\r\n* Storage: After quiz is done, commit the result\r\n\r\n* Make statistics and proficiency final\r\n\r\n* Bug: click on flashcard list will print directly to resultBox\r\n\r\n* Tests: Proficiency and statistics tests\r\n\r\n* UI: Select with clicking\r\n\r\n* Fix comand history bug and change theme\r\n",
             "insertions": 846,
             "deletions": 190
           }
@@ -112,13 +120,15 @@
         "commitResults": [
           {
             "hash": "99fb17f8ab66df7464385ab1c3d5f15c646696b8",
-            "message": "Selecting flashcard display date until its use in quiz (#91)",
+            "messageTitle": "Selecting flashcard display date until its use in quiz (#91)",
+            "messageBody": "* Epic: now selecting card can see the time left until activation\r\n\r\n* Test: add one more case\r\n\r\n* Logic: change message to \u0027in quiz status\u0027\r\n",
             "insertions": 101,
             "deletions": 12
           },
           {
             "hash": "671fa0bf96bd6613fb9ef160533b4de97d827a07",
-            "message": "Docs srs stats (#94)",
+            "messageTitle": "Docs srs stats (#94)",
+            "messageBody": "* Docs: developer guide undo redo\r\n\r\n* add Proficiency in model class diagram\r\n\r\n* docs: dev guide for SRS and Stats\r\n\r\n* Docs: add diagram for StatsCommand\r\n",
             "insertions": 229,
             "deletions": 100
           }
@@ -133,7 +143,8 @@
         "commitResults": [
           {
             "hash": "d1532b7315b071b6327442d781f7024ee39a149d",
-            "message": "Update AboutUs and ContactUs info (#1)",
+            "messageTitle": "Update AboutUs and ContactUs info (#1)",
+            "messageBody": "* docs: update AboutUs info\r\n\r\n* docs: update ContactUs info\r\n\r\n* docs/AboutUs: fix image name\r\n\r\n* docs: add project portfolio page for each member\r\n",
             "insertions": 234,
             "deletions": 27
           }
@@ -146,7 +157,8 @@
         "commitResults": [
           {
             "hash": "134bc2d0876b22f888fe8bc200cbb83dbbf2c96c",
-            "message": "Update About us (#10)",
+            "messageTitle": "Update About us (#10)",
+            "messageBody": "* docs: update AboutUs info\r\n\r\n* docs: update ContactUs info\r\n\r\n* docs/AboutUs: fix image name\r\n\r\n* docs: add project portfolio page for each member\r\n\r\n* AboutUs: fix portfolio links\r\n",
             "insertions": 4,
             "deletions": 4
           }
@@ -159,13 +171,15 @@
         "commitResults": [
           {
             "hash": "759774713d0263ecd820410815c2968a1aa2bb95",
-            "message": "[WIP] Add Upload Functionality  (#12)",
+            "messageTitle": "[WIP] Add Upload Functionality  (#12)",
+            "messageBody": "* Add upload command\r\n\r\n* docs/UserGuide.adoc: update user guide to include upload command\r\n\r\n* docs/ContactUs.adoc: fix link for issue tracker\r\n\r\n* docs/UserGuide: include information about the user guide\r\n\r\n* commands/UploadCommand: add newline for message usage\r\n",
             "insertions": 126,
             "deletions": 3
           },
           {
             "hash": "2f9062543886d7914b4a2333f63bb9eb97a6dac9",
-            "message": "docs/DeveloperGuide: update user stories (#17)",
+            "messageTitle": "docs/DeveloperGuide: update user stories (#17)",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 5
           }
@@ -178,7 +192,8 @@
         "commitResults": [
           {
             "hash": "ebfb89a9e2c6c7d900e6d3e293ea171773c54190",
-            "message": "Enhance Find Command (#29)",
+            "messageTitle": "Enhance Find Command (#29)",
+            "messageBody": "* Enhance Find Command\r\n\r\n* model/flashcard: Add KeywordsPredicate\r\n\r\n* logic/parser: Update Find Command Parsing\r\n\r\n* logic/commands: Update Commands for Find\r\n\r\n* docs/UserGuide: Update UG to include enhanced find\r\n\r\n* Update tests for enhanced find command\r\n\r\n* Update Developer Guide to include find command implementation\r\n",
             "insertions": 446,
             "deletions": 186
           }
@@ -191,13 +206,15 @@
         "commitResults": [
           {
             "hash": "6f3cf95058426a717b369496a1d1219c10b5c2dc",
-            "message": "Share command Implementation  (#43)",
+            "messageTitle": "Share command Implementation  (#43)",
+            "messageBody": "* Add share command implementation\r\n\r\n* FlashcardContainsKeywordsPredicate: Fix equals method bug\r\n\r\n* tests: Test find command Implementation and parser\r\n\r\n* docs/UserGuide.adoc: update UG to include share command\r\n\r\n* Update Share Command\r\n",
             "insertions": 336,
             "deletions": 24
           },
           {
             "hash": "b85685ce07451eb344b7813fb40ad90d641cc8aa",
-            "message": "Import Command  (#53)",
+            "messageTitle": "Import Command  (#53)",
+            "messageBody": "* Update upload command to import command\r\n",
             "insertions": 163,
             "deletions": 188
           }
@@ -210,7 +227,8 @@
         "commitResults": [
           {
             "hash": "f3ad64546f6ae8619cea915dfbfbe3440247bd6d",
-            "message": "Update FindCommand to filter by success rate (#85)",
+            "messageTitle": "Update FindCommand to filter by success rate (#85)",
+            "messageBody": "* Logic: Update FindCommand to filter by success rate\r\n\r\n* Tests: Add tests for find, import, share command\r\n\r\n* Docs: Update UG and DG\r\n\r\n* Docs: Add PPP\r\n\r\n* Docs: Update lucatriglia.adoc",
             "insertions": 717,
             "deletions": 316
           }
@@ -219,15 +237,16 @@
     ],
     "robincyu": [
       {
-        "insertions": 4750,
-        "deletions": 4586,
+        "insertions": 4756,
+        "deletions": 4592,
         "date": "2019-03-12",
         "commitResults": [
           {
             "hash": "9210de6b0b90ca2ec12ae52eb5b728fd5e95c9da",
-            "message": " Refactor AddressBook to CardCollection, Person to Flashcard (#14)",
-            "insertions": 4750,
-            "deletions": 4586
+            "messageTitle": " Refactor AddressBook to CardCollection, Person to Flashcard (#14)",
+            "messageBody": "* Refactor AddressBook to CardCollection\r\n\r\n* Fix code style\r\n\r\n* Refactor Person to Flashcard\r\n\r\n* Continue refactoring\r\n\r\n* Fix code style\r\n\r\n* Fix minor codestyle errors\r\n\r\n* LICENSE: Revert flashcard -\u003e person\r\n",
+            "insertions": 4756,
+            "deletions": 4592
           }
         ]
       },
@@ -238,7 +257,8 @@
         "commitResults": [
           {
             "hash": "c0d1085b2e66f43003902bb92f01688813200871",
-            "message": "Add Image Support to DeveloperGuide.adoc (#38)",
+            "messageTitle": "Add Image Support to DeveloperGuide.adoc (#38)",
+            "messageBody": "",
             "insertions": 49,
             "deletions": 6
           }
@@ -251,13 +271,15 @@
         "commitResults": [
           {
             "hash": "dad40cf65a73b0215adf6665bd2cc3eca7c07cb5",
-            "message": "Image support (#50)",
+            "messageTitle": "Image support (#50)",
+            "messageBody": "* Add placeholder image support\r\n\r\n* Add proper image support\r\n\r\n* Allow image removal by specifying empty i/ tag\r\n\r\n* Add image command which allows importing of images into Acquizition\r\n\r\n* Add tests for ImageCommand\r\n\r\n* Add required space in Messages.java\r\n\r\n* FlashcardCardView: Restore shade\r\n",
             "insertions": 546,
             "deletions": 87
           },
           {
             "hash": "74d0015a64483d3d7af6dc97efc73d3c26eaeb5a",
-            "message": "Update User Guide to v1.3 (#54)",
+            "messageTitle": "Update User Guide to v1.3 (#54)",
+            "messageBody": "* UserGuide: Update quiz mode\r\n\r\n* UserGuide: Add good and bad command\r\n\r\n* UserGuide: Add show command\r\n\r\n* UserGuide: Add smart command\r\n\r\n* Add quiz ui image\r\n\r\n* Add ui quiz screenshot and fix card view color\r\n\r\n* UserGuide: Add quiz ui\r\n\r\n* UserGuide: Fix unclosed tag\r\n\r\n* Update User Guide\r\n\r\n* Add newline to UG\r\n",
             "insertions": 193,
             "deletions": 198
           }
@@ -270,25 +292,29 @@
         "commitResults": [
           {
             "hash": "89a0ee878db5ed4c6bff78cc96f39d5d56881869",
-            "message": "Image support fixes (#92)",
+            "messageTitle": "Image support fixes (#92)",
+            "messageBody": "* Fix issues related to image support and other minor grammar issues with other commands\r\n\r\n* Fix Image Command showing full path instead of file name\r\n\r\n* Fix black background color of list view when filtered\r\n",
             "insertions": 86,
             "deletions": 53
           },
           {
             "hash": "431ca94fe71645a01da66565eeecd83cd4bebdc1",
-            "message": "Complete Rewrite of User Guide: Robin\u0027s and Neutral Features (#95)",
+            "messageTitle": "Complete Rewrite of User Guide: Robin\u0027s and Neutral Features (#95)",
+            "messageBody": "* Comprehensive User Guide edits\r\n\r\n* More changes to User Guide\r\n",
             "insertions": 393,
             "deletions": 265
           },
           {
             "hash": "a0bdb5041d823755523701dd7f15470a1c4a08a8",
-            "message": "Developer Guide: Robin\u0027s Features (#97)",
+            "messageTitle": "Developer Guide: Robin\u0027s Features (#97)",
+            "messageBody": "* Developer guide changes\r\n\r\n* Add tags to User Guide\r\n\r\n* Fix quiz User Guide\r\n",
             "insertions": 53,
             "deletions": 31
           },
           {
             "hash": "a1062f4dbbf74bf85b48a51877333fb2e6ba27dd",
-            "message": "Add Robin\u0027s PPP (#99)",
+            "messageTitle": "Add Robin\u0027s PPP (#99)",
+            "messageBody": "",
             "insertions": 72,
             "deletions": 46
           }
@@ -303,7 +329,8 @@
         "commitResults": [
           {
             "hash": "2ca9393d9eef7e942c03b0f14444b54af6ef6ade",
-            "message": "Update Readme badges (#3)",
+            "messageTitle": "Update Readme badges (#3)",
+            "messageBody": "* readme: update travis and codacy badges\r\n\r\n* readme: update coveralls badge\r\n",
             "insertions": 3,
             "deletions": 4
           }
@@ -316,7 +343,8 @@
         "commitResults": [
           {
             "hash": "771d103ed6c0679b94028e64dbb89a2b8e15ceba",
-            "message": "Update Readme (#4)",
+            "messageTitle": "Update Readme (#4)",
+            "messageBody": "* readme: add appveyor badge\r\n\r\n* README.adoc: Change app name to Acquizition\r\n\r\n* Update README.adoc\r\n\r\n* Update UI image\r\n\r\n* Update README.adoc to include reference to se-edu\r\n",
             "insertions": 15,
             "deletions": 12
           }
@@ -329,7 +357,8 @@
         "commitResults": [
           {
             "hash": "32dac1569471a757893213cfc486e1df933c61dc",
-            "message": "Add simple quiz mode (#8)",
+            "messageTitle": "Add simple quiz mode (#8)",
+            "messageBody": "* Add Quiz command class\r\n\r\n* Fix checkstyle errors\r\n\r\n* Change browser panel to card view panel\r\n\r\n* Random quiz card view\r\n\r\n* test: remove broswer from test\r\n\r\n* Fix styles\r\n\r\n* test: Comment out close help test\r\n\r\n* Remove browserPanel test\r\n",
             "insertions": 145,
             "deletions": 67
           }
@@ -342,7 +371,8 @@
         "commitResults": [
           {
             "hash": "be0a03ffbf8da78d4183babf1771682ad13a15d8",
-            "message": "readme: Update travis repository name (#18)",
+            "messageTitle": "readme: Update travis repository name (#18)",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -355,7 +385,8 @@
         "commitResults": [
           {
             "hash": "0cd7e4c9b729d2ce0f0ab1562fe2c104302db5c9",
-            "message": "README: Update badge repository name (#23)",
+            "messageTitle": "README: Update badge repository name (#23)",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           }
@@ -368,7 +399,8 @@
         "commitResults": [
           {
             "hash": "7f8053bfde79fd4d25b359fcf8224961d2b1147b",
-            "message": "Refactor Flashcard Fields (#22)",
+            "messageTitle": "Refactor Flashcard Fields (#22)",
+            "messageBody": "* Add Face class\r\n\r\n* Fix fxml imports\r\n\r\n* Remove browser panel code and tests\r\n\r\n* Change flash card fields to front face and back face\r\n\r\n* Complete EditCommandTest\r\n\r\n* Complete EditCommandSystemTest\r\n\r\n* Complete CardCollectionTest\r\n\r\n* Complete JsonAdapted tests\r\n\r\n* Complete ModelManagerTest\r\n\r\n* Complete VersionedCardCollectionTest\r\n\r\n* Finish all tests\r\n\r\n* Fix imports\r\n\r\n* Remove all unused Flashcard field classes\r\n",
             "insertions": 862,
             "deletions": 2071
           }
@@ -381,7 +413,8 @@
         "commitResults": [
           {
             "hash": "58dcc18eab3a226dd237a56a21015cd07166048f",
-            "message": "Modify Flashcard Card View (#27)",
+            "messageTitle": "Modify Flashcard Card View (#27)",
+            "messageBody": "* Refactor FlashcardCard to FlashcardListCard to avoid ambiguity\r\n\r\n* Add FlashcardCardView and change the CardViewPanel to use it\r\n\r\n* Add FlashcardCardView tests\r\n\r\n* Modify card view and remove primary stage decoration\r\n\r\n* Modify card view to use separate panes\r\n",
             "insertions": 395,
             "deletions": 132
           }
@@ -394,7 +427,8 @@
         "commitResults": [
           {
             "hash": "d5d266b7c76aa082c767a8c0b8a2afdf83a01e42",
-            "message": "Add quiz command to developer guide (#30)",
+            "messageTitle": "Add quiz command to developer guide (#30)",
+            "messageBody": "* Add quiz command to developer guide\r\n\r\n* DeveloperGuide: Add quiz mode design considerations\r\n",
             "insertions": 25,
             "deletions": 0
           }
@@ -407,7 +441,8 @@
         "commitResults": [
           {
             "hash": "95a4ef40b44c36ebe7d4de0e46e698550b7801a7",
-            "message": "Reposense: Add config.json (#39)",
+            "messageTitle": "Reposense: Add config.json (#39)",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 0
           }
@@ -420,7 +455,8 @@
         "commitResults": [
           {
             "hash": "f1658af4b3382152510cf2cf681c90e5ea6f8b28",
-            "message": "Advanced Quiz Mode (#46)",
+            "messageTitle": "Advanced Quiz Mode (#46)",
+            "messageBody": "- Quiz mode that sorts cards by statistics\r\n\r\n- Quiz panel that contains cards remaining, number of good and bad feedback\r\n\r\n- User feedback through GoodCommand, BadCommand\r\n\r\n- ShowCommand to show the back face of a card during quiz mode\r\n\r\n- SmartCommand that executes ShowCommand if back face is not yet shown, or GoodCommand if back face is already shown\r\n\r\n* Add quiz mode property to relevant places\r\n\r\n* ExitCommand: If now is quiz mode, exit from quiz mode.\r\nOtherwise, exit as normal.\r\n\r\n* Hide flashcard list view on quiz mode\r\n\r\n* Add user feedback on quiz mode, and quiz mode now shuffles cards\r\n\r\n* Add quiz mode panel\r\n\r\n* Add show command and modify some quiz behaviours\r\n\r\n* Add smart command\r\n\r\n* QuizPanel: Add good/bad button\r\n\r\n* Quiz: Add current quiz statistics\r\n\r\n* Add all new class tests\r\n\r\n* QuizMode: Update statistics on user feedback\r\n\r\n* Quiz: Commit model on user feedback\r\n\r\n* Bump version to 1.3\r\n\r\n* Fix selection bugs and inconsistencies\r\n\r\n* Quiz: Refactor magic constants to QuizState\r\n",
             "insertions": 1036,
             "deletions": 43
           }
@@ -433,13 +469,15 @@
         "commitResults": [
           {
             "hash": "8f721e3de497bd42c89631397b7b75f7aaa9fa8f",
-            "message": "Add Toolbar (#49)",
+            "messageTitle": "Add Toolbar (#49)",
+            "messageBody": "* Add toolbar\r\n\r\n* Fix style\r\n\r\n* Add acquizition label to toolbar and adjust various sizes\r\n\r\n* Add acquizition icon\r\n\r\n* Change cards remaining label when 1 remaining card\r\n\r\n* Add toolbar tests\r\n\r\n* QuizPanel: Add JavaDoc\r\n\r\n* Disallow non-quiz commands in quiz mode\r\n\r\n* AddCommandTest: Support quiz mode\r\n\r\n* Add UploadCommandTest and ShareCommandTest\r\n\r\n* ShareCommand: Fix path resolution\r\n",
             "insertions": 373,
             "deletions": 103
           },
           {
             "hash": "7f05ba0d6da4f2a0b57a7e8a25252b595ac35ff7",
-            "message": "UserGuide: Update quiz mode (#52)",
+            "messageTitle": "UserGuide: Update quiz mode (#52)",
+            "messageBody": "* UserGuide: Update quiz mode\r\n\r\n* UserGuide: Add good and bad command\r\n\r\n* UserGuide: Add show command\r\n\r\n* UserGuide: Add smart command\r\n\r\n* Add quiz ui image\r\n\r\n* Add ui quiz screenshot and fix card view color\r\n\r\n* UserGuide: Add quiz ui\r\n\r\n* UserGuide: Fix unclosed tag\r\n",
             "insertions": 102,
             "deletions": 15
           }
@@ -452,13 +490,15 @@
         "commitResults": [
           {
             "hash": "8bc9f9cfde41f9951fa7a74f266801ac6bc7f154",
-            "message": "ImageCommand Fix (#56)",
+            "messageTitle": "ImageCommand Fix (#56)",
+            "messageBody": "* ImageCommand: Fix image directory creation\r\n\r\n* FlashcardCardView: Fix overflow ellipsis to wrap text\r\n",
             "insertions": 13,
             "deletions": 6
           },
           {
             "hash": "38a02715de1689123d1e6a5b62d9a56b1eb2d0f8",
-            "message": "UserGuide: Add missing commands and command summary (#57)",
+            "messageTitle": "UserGuide: Add missing commands and command summary (#57)",
+            "messageBody": "* UserGuide: Add select command\r\n\r\n* UserGuide: Add list command\r\n\r\n* UserGuide: Add history command\r\n\r\n* UserGuide: Add undo and redo commands\r\n\r\n* UserGuide: Add command summary\r\n\r\n* UserGuide: Add redo command\r\n\r\n* UserGuide: Add quiz and command summary tags\r\n",
             "insertions": 135,
             "deletions": 7
           }
@@ -471,13 +511,15 @@
         "commitResults": [
           {
             "hash": "979f02fcf7295f5463c08a04d188b502835f006c",
-            "message": "Change app icon (#87)",
+            "messageTitle": "Change app icon (#87)",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "0986ba0e7f2703b8a893fd4d5f522db269e661d5",
-            "message": "Developer Guide: Refactor existing commands and diagrams (#89)",
+            "messageTitle": "Developer Guide: Refactor existing commands and diagrams (#89)",
+            "messageBody": "* Modify architecture diagram\r\n\r\n* Modify some class diagrams\r\n\r\n* Remove encryption and add quiz sequence diagram pptx\r\n\r\n* Modify undo redo diagrams\r\n\r\n* Remove forking notes\r\n",
             "insertions": 106,
             "deletions": 125
           }
@@ -490,25 +532,29 @@
         "commitResults": [
           {
             "hash": "9d9808006585bdd46c32868eef6945fd0b2d5559",
-            "message": "DeveloperGuide: Quiz Mode (#93)",
+            "messageTitle": "DeveloperGuide: Quiz Mode (#93)",
+            "messageBody": "* Remove hand cursor from good in quiz panel\r\n\r\n* Add quiz, show, good/bad, exit diagrams and explanations\r\n\r\n* Change design considerations to use bullet points\r\n",
             "insertions": 76,
             "deletions": 12
           },
           {
             "hash": "3505e52723e582fed8987ffc2d889006477f80e0",
-            "message": "Docs: Add PPP - Sergio Vieri (#59)",
+            "messageTitle": "Docs: Add PPP - Sergio Vieri (#59)",
+            "messageBody": "* Docs: Add sergio vieri PPP\r\n\r\n* Fix exit quiz sequence diagram arrow color\r\n\r\n* Fix user guide typo, add link to reposense in PPP, and replace old screenshots\r\n\r\n* Add image and intro to PPP\r\n",
             "insertions": 69,
             "deletions": 49
           },
           {
             "hash": "91560f1ae0e5e277c43592aefdf4b63f6bd4e28d",
-            "message": "Remove use cases from PPP (#98)",
+            "messageTitle": "Remove use cases from PPP (#98)",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 11
           },
           {
             "hash": "0512f3cf3c94520b71c129d03e35b023b50134c8",
-            "message": "Quiz Fix (#100)",
+            "messageTitle": "Quiz Fix (#100)",
+            "messageBody": "Quiz Fix",
             "insertions": 1,
             "deletions": 1
           }
@@ -522,80 +568,405 @@
     "robincyu": 4300,
     "sergiovieri": 2752
   },
-  "authorFileFormatContributionMap": {
+  "authorFileTypeContributionMap": {
     "lungsin": {
-      "adoc": 382,
-      "cs": 0,
-      "css": 36,
-      "fxml": 14,
       "gradle": 1,
-      "html": 0,
-      "java": 1677,
-      "js": 0,
-      "json": 14,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "adoc": 229,
+      "adoc": 118,
+      "adoc": 35,
+      "java": 1,
+      "java": 12,
+      "java": 8,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 6,
+      "java": 1,
+      "java": 3,
+      "java": 1,
+      "java": 44,
+      "java": 4,
+      "java": 5,
+      "java": 77,
+      "java": 4,
+      "java": 6,
+      "java": 6,
+      "java": 1,
+      "java": 44,
+      "java": 34,
+      "java": 26,
+      "java": 17,
+      "java": 31,
+      "java": 26,
+      "java": 20,
+      "java": 57,
+      "java": 142,
+      "java": 104,
+      "java": 11,
+      "java": 30,
+      "java": 15,
+      "java": 17,
+      "css": 36,
+      "fxml": 4,
+      "fxml": 10,
+      "json": 4,
+      "json": 10,
+      "java": 4,
+      "java": 2,
+      "java": 1,
+      "java": 10,
+      "java": 2,
+      "java": 1,
+      "java": 12,
+      "java": 14,
+      "java": 9,
+      "java": 45,
+      "java": 3,
+      "java": 3,
+      "java": 71,
+      "java": 3,
+      "java": 5,
+      "java": 41,
+      "java": 133,
+      "java": 11,
+      "java": 122,
+      "java": 86,
+      "java": 48,
+      "java": 28,
+      "java": 5,
+      "java": 5,
+      "java": 7,
+      "java": 2,
+      "java": 4,
+      "java": 12,
+      "java": 6,
+      "java": 2,
+      "java": 5,
+      "java": 31,
+      "java": 7,
+      "java": 181
     },
     "lucatriglia": {
-      "adoc": 243,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 1032,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 21,
-      "xml": 0
+      "adoc": 16,
+      "adoc": 2,
+      "adoc": 173,
+      "adoc": 1,
+      "adoc": 49,
+      "adoc": 1,
+      "adoc": 1,
+      "txt": 6,
+      "java": 1,
+      "java": 1,
+      "java": 21,
+      "java": 92,
+      "java": 98,
+      "java": 3,
+      "java": 8,
+      "java": 1,
+      "java": 32,
+      "java": 52,
+      "java": 32,
+      "java": 36,
+      "java": 56,
+      "java": 42,
+      "txt": 5,
+      "txt": 5,
+      "txt": 5,
+      "java": 18,
+      "java": 94,
+      "java": 82,
+      "java": 21,
+      "java": 10,
+      "java": 19,
+      "java": 180,
+      "java": 19,
+      "java": 18,
+      "java": 78,
+      "java": 2,
+      "java": 16
     },
     "robincyu": {
-      "adoc": 547,
-      "cs": 0,
-      "css": 16,
-      "fxml": 42,
       "gradle": 1,
-      "html": 0,
-      "java": 3608,
-      "js": 0,
-      "json": 77,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
+      "xml": 4,
+      "adoc": 1,
+      "adoc": 80,
+      "adoc": 1,
+      "adoc": 393,
+      "css": 5,
+      "css": 7,
+      "adoc": 72,
+      "java": 23,
+      "java": 1,
+      "java": 2,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 3,
+      "java": 2,
+      "java": 4,
+      "java": 2,
+      "java": 2,
+      "java": 19,
+      "java": 23,
+      "java": 20,
+      "java": 2,
+      "java": 4,
+      "java": 6,
+      "java": 10,
+      "java": 72,
+      "java": 3,
+      "java": 1,
+      "java": 78,
+      "java": 1,
+      "java": 6,
+      "java": 7,
+      "java": 5,
+      "java": 7,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 5,
+      "java": 27,
+      "java": 3,
+      "java": 1,
+      "java": 5,
+      "java": 1,
+      "java": 1,
+      "java": 31,
+      "java": 1,
+      "java": 62,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 145,
+      "java": 51,
+      "java": 70,
+      "java": 18,
+      "java": 1,
+      "java": 12,
+      "java": 106,
+      "java": 27,
+      "java": 75,
+      "java": 137,
+      "java": 11,
+      "java": 7,
+      "java": 1,
+      "java": 10,
+      "java": 48,
+      "java": 39,
+      "java": 80,
+      "java": 61,
+      "java": 1,
+      "java": 5,
+      "java": 17,
+      "java": 2,
+      "java": 3,
+      "java": 23,
+      "java": 6,
+      "java": 69,
+      "java": 2,
+      "java": 3,
+      "java": 9,
+      "java": 4,
+      "java": 3,
+      "java": 6,
+      "fxml": 2,
+      "css": 4,
+      "fxml": 7,
+      "fxml": 31,
+      "fxml": 1,
+      "fxml": 1,
+      "json": 16,
+      "json": 10,
+      "json": 12,
+      "json": 10,
+      "json": 27,
+      "json": 1,
+      "json": 1,
       "txt": 5,
-      "xml": 4
+      "java": 5,
+      "java": 146,
+      "java": 5,
+      "java": 15,
+      "java": 7,
+      "java": 25,
+      "java": 14,
+      "java": 53,
+      "java": 7,
+      "java": 24,
+      "java": 60,
+      "java": 97,
+      "java": 3,
+      "java": 8,
+      "java": 106,
+      "java": 6,
+      "java": 15,
+      "java": 29,
+      "java": 10,
+      "java": 3,
+      "java": 18,
+      "java": 2,
+      "java": 11,
+      "java": 3,
+      "java": 3,
+      "java": 127,
+      "java": 37,
+      "java": 2,
+      "java": 267,
+      "java": 7,
+      "java": 147,
+      "java": 14,
+      "java": 119,
+      "java": 53,
+      "java": 2,
+      "java": 14,
+      "java": 34,
+      "java": 69,
+      "java": 61,
+      "java": 12,
+      "java": 8,
+      "java": 36,
+      "java": 3,
+      "java": 5,
+      "java": 90,
+      "java": 1,
+      "java": 4,
+      "java": 4,
+      "java": 2,
+      "java": 15,
+      "java": 38,
+      "java": 31,
+      "java": 17,
+      "java": 1,
+      "java": 54,
+      "java": 62,
+      "java": 31,
+      "java": 5,
+      "java": 9,
+      "java": 7,
+      "java": 38,
+      "java": 3
     },
     "sergiovieri": {
-      "adoc": 354,
-      "cs": 0,
+      "adoc": 18,
+      "json": 25,
+      "adoc": 190,
+      "adoc": 95,
+      "adoc": 51,
+      "java": 2,
+      "java": 1,
+      "java": 10,
+      "java": 25,
+      "java": 21,
+      "java": 6,
+      "java": 34,
+      "java": 8,
+      "java": 4,
+      "java": 50,
+      "java": 10,
+      "java": 6,
+      "java": 35,
+      "java": 6,
+      "java": 6,
+      "java": 61,
+      "java": 4,
+      "java": 5,
+      "java": 11,
+      "java": 29,
+      "java": 32,
+      "java": 6,
+      "java": 4,
+      "java": 6,
+      "java": 23,
+      "java": 2,
+      "java": 6,
+      "java": 9,
+      "java": 1,
+      "java": 36,
+      "java": 71,
+      "java": 49,
+      "java": 20,
+      "java": 1,
+      "java": 18,
+      "java": 69,
+      "java": 62,
+      "java": 10,
+      "java": 6,
+      "java": 70,
+      "java": 53,
+      "java": 4,
+      "fxml": 6,
       "css": 2,
-      "fxml": 145,
-      "gradle": 0,
-      "html": 0,
-      "java": 2201,
-      "js": 0,
-      "json": 50,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "fxml": 34,
+      "fxml": 2,
+      "fxml": 3,
+      "fxml": 69,
+      "fxml": 30,
+      "json": 8,
+      "json": 17,
+      "java": 16,
+      "java": 39,
+      "java": 14,
+      "java": 11,
+      "java": 8,
+      "java": 46,
+      "java": 21,
+      "java": 8,
+      "java": 1,
+      "java": 5,
+      "java": 29,
+      "java": 45,
+      "java": 34,
+      "java": 18,
+      "java": 22,
+      "java": 13,
+      "java": 3,
+      "java": 52,
+      "java": 54,
+      "java": 1,
+      "java": 29,
+      "java": 44,
+      "java": 45,
+      "java": 8,
+      "java": 38,
+      "java": 26,
+      "java": 28,
+      "java": 14,
+      "java": 12,
+      "java": 25,
+      "java": 39,
+      "java": 52,
+      "java": 37,
+      "java": 36,
+      "java": 19,
+      "java": 3,
+      "java": 9,
+      "java": 18,
+      "java": 6,
+      "java": 18,
+      "java": 61,
+      "java": 72,
+      "java": 9,
+      "java": 3,
+      "java": 48,
+      "java": 2,
+      "java": 18,
+      "java": 27,
+      "java": 17,
+      "java": 2,
+      "java": 7,
+      "java": 56,
+      "java": 13,
+      "java": 3,
+      "java": 22,
+      "java": 3,
+      "fxml": 1
     }
   },
   "authorContributionVariance": {
     "lungsin": 27590.482,
     "lucatriglia": 29878.613,
-    "robincyu": 1341632.4,
+    "robincyu": 1345020.2,
     "sergiovieri": 153988.75
   },
   "authorDisplayNameMap": {

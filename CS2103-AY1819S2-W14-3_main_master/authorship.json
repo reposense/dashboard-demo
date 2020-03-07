@@ -1,6 +1,171 @@
 [
   {
+    "path": ".gitignore",
+    "fileType": "gitignore",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "build/"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".gradle/"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".checkstyle"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".settings/"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".idea/"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "lib/*"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.iml"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.log"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.log.*"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.csv"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "config.json"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "src/test/data/sandbox/"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "preferences.json"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".DS_Store"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "./screenshot*.png"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "classes/"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/data/"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/bin/"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "src/main/resources/docs/"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "out/"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "s-tr"
+        },
+        "content": ".backup/"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "s-tr"
+        },
+        "content": "docs/diagrams/.~lock*"
+      }
+    ],
+    "authorContributionMap": {
+      "s-tr": 2,
+      "-": 20
+    }
+  },
+  {
     "path": "README.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -307,6 +472,7 @@
   },
   {
     "path": "_reposense/config.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -525,6 +691,7 @@
   },
   {
     "path": "build.gradle",
+    "fileType": "gradle",
     "lines": [
       {
         "lineNumber": 1,
@@ -2193,6 +2360,7 @@
   },
   {
     "path": "docs/AboutUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -2597,6 +2765,7 @@
   },
   {
     "path": "docs/ContactUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -2656,6 +2825,7 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -13596,6 +13766,7 @@
   },
   {
     "path": "docs/UserGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -16290,6 +16461,7 @@
   },
   {
     "path": "docs/stylesheets/asciidoctor.css",
+    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -19148,6 +19320,7 @@
   },
   {
     "path": "docs/team/bos10.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -19989,6 +20162,7 @@
   },
   {
     "path": "docs/team/erjillsison.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -20711,6 +20885,7 @@
   },
   {
     "path": "docs/team/iwle.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -21559,6 +21734,7 @@
   },
   {
     "path": "docs/team/lucydotc.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -22050,6 +22226,7 @@
   },
   {
     "path": "docs/team/s-tr.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -22737,6 +22914,7 @@
   },
   {
     "path": "src/main/java/seedu/address/MainApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -23939,6 +24117,7 @@
   },
   {
     "path": "src/main/java/seedu/address/battle/Battle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -24269,6 +24448,7 @@
   },
   {
     "path": "src/main/java/seedu/address/battle/BattleManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25217,6 +25397,7 @@
   },
   {
     "path": "src/main/java/seedu/address/battle/result/AttackDefeatedEnemy.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25407,6 +25588,7 @@
   },
   {
     "path": "src/main/java/seedu/address/battle/result/AttackDestroyedShip.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25598,6 +25780,7 @@
   },
   {
     "path": "src/main/java/seedu/address/battle/result/AttackFailed.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25788,6 +25971,7 @@
   },
   {
     "path": "src/main/java/seedu/address/battle/result/AttackHit.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25957,6 +26141,7 @@
   },
   {
     "path": "src/main/java/seedu/address/battle/result/AttackMissed.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26126,6 +26311,7 @@
   },
   {
     "path": "src/main/java/seedu/address/battle/result/AttackResult.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27094,6 +27280,7 @@
   },
   {
     "path": "src/main/java/seedu/address/battle/state/BattleState.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27473,6 +27660,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/Messages.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27588,6 +27776,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/index/Index.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28010,6 +28199,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/AppUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28299,6 +28489,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/CollectionUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28560,6 +28751,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/ConfigUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28737,6 +28929,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/FileUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29349,6 +29542,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/JsonUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30359,6 +30553,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/StringUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30851,6 +31046,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/CommandHistory.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31287,6 +31483,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/Logic.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31752,6 +31949,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/LogicManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32547,6 +32745,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AttackCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33340,6 +33539,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/BeginCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33635,6 +33835,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/Command.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34008,6 +34209,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExitCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34157,6 +34359,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/InitialiseMapCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34888,6 +35091,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35815,6 +36019,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListTagsCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36518,6 +36723,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/PutShipCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37570,6 +37776,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SaveCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38229,6 +38436,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/StatsCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38581,6 +38789,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AttackCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38785,6 +38994,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/BattleshipParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39434,6 +39644,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/CliSyntax.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39542,6 +39753,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/InitialiseMapCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39789,6 +40001,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ListCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40162,6 +40375,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ParserUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41342,6 +41556,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/PutShipCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41812,6 +42027,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/BoundaryValueChecker.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42891,6 +43107,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/MapGrid.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44441,6 +44658,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/Model.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45307,6 +45525,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ModelManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46873,6 +47092,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyAddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47008,6 +47228,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/UserPrefs.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47654,6 +47875,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/battleship/AircraftCarrierBattleship.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47823,6 +48045,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/battleship/Battleship.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49763,6 +49986,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/battleship/CruiserBattleship.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49932,6 +50156,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/battleship/DestroyerBattleship.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50101,6 +50326,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/battleship/Name.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50524,6 +50750,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/battleship/Orientation.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51540,6 +51767,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/cell/Cell.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52523,6 +52751,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/cell/Coordinates.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53743,6 +53972,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/cell/Status.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53969,6 +54199,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/exceptions/BoundaryValueException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54082,6 +54313,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/player/Enemy.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57312,6 +57544,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/player/Fleet.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60032,6 +60265,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/player/Player.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61206,6 +61440,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/statistics/PlayerStatistics.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61298,6 +61533,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/statistics/Statistics.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -62707,6 +62943,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/tag/Tag.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63192,6 +63429,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableStatistics.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63620,6 +63858,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonStatisticsStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64209,6 +64448,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/StatisticsStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64553,6 +64793,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/Storage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64849,6 +65090,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/StorageManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65481,6 +65723,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/EnemyMap.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65629,6 +65872,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/MainWindow.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -67215,6 +67459,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/Map.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68036,6 +68281,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/PlayerMap.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68184,6 +68430,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/StatisticView.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68564,6 +68811,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/StatusBarFooter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69183,6 +69431,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/UiManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69794,6 +70043,7 @@
   },
   {
     "path": "src/main/resources/view/DarkTheme.css",
+    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -72365,6 +72615,7 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -72901,6 +73152,7 @@
   },
   {
     "path": "src/main/resources/view/PlayerMap.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -72952,6 +73204,7 @@
   },
   {
     "path": "src/main/resources/view/StatisticView.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -73184,6 +73437,7 @@
   },
   {
     "path": "src/main/resources/view/StatsPane.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -73339,6 +73593,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableStatistics/statsTest.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -73396,6 +73651,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableStatistics/statsTest2.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -73453,6 +73709,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableStatistics/statsTest3.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -73510,6 +73767,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableStatistics/statsTeststatsCommand.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -73567,6 +73825,7 @@
   },
   {
     "path": "src/test/java/seedu/address/TestApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74249,6 +74508,7 @@
   },
   {
     "path": "src/test/java/seedu/address/battle/BattleManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75804,6 +76064,7 @@
   },
   {
     "path": "src/test/java/seedu/address/commons/core/ConfigTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76177,6 +76438,7 @@
   },
   {
     "path": "src/test/java/seedu/address/commons/core/VersionTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77285,6 +77547,7 @@
   },
   {
     "path": "src/test/java/seedu/address/commons/util/AppUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77623,6 +77886,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/LogicManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79021,6 +79285,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/StatisticsTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79919,6 +80184,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AttackCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81979,6 +82245,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/BeginCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82470,6 +82737,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandResultTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82913,6 +83181,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83610,6 +83879,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/InitialiseMapCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84074,6 +84344,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ListCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85701,6 +85972,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ListTagsCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86816,6 +87088,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/PutShipCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88309,6 +88582,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SaveCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89290,6 +89564,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/StatsCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89719,6 +89994,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/StatsStorageTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89874,6 +90150,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AttackCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90316,6 +90593,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/BattleshipParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91034,6 +91312,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/InitialiseMapCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91280,6 +91559,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ListCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91527,6 +91807,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ParserUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92881,6 +93162,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/PutShipCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93533,6 +93815,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/BoundaryValueCheckerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94522,6 +94805,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/MapGridTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95121,6 +95405,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/ModelManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95943,6 +96228,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/battleship/BattleshipTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97050,6 +97336,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/battleship/CoordinatesTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97394,6 +97681,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/battleship/OrientationTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97892,6 +98180,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/cell/CellTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98531,6 +98820,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/cell/NameTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98835,6 +99125,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/player/EnemyTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100357,6 +100648,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/player/FleetTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102460,6 +102752,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/player/PlayerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102967,6 +103260,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/StorageManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103305,6 +103599,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/EvilEnemy.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103411,6 +103706,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/InterceptedEnemy.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -104119,6 +104415,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/SerializableTestClass.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -104632,6 +104929,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/SizeTenMapGrid.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105601,6 +105899,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalIndexes.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105779,6 +106078,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/CommandBoxTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106901,6 +107201,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/EnemyMapTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107105,6 +107406,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/GuiUnitTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107331,6 +107633,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/MainWindowCloseTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108033,6 +108336,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/MapTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108350,6 +108654,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/StatisticViewTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108772,6 +109077,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/StatusBarFooterTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
