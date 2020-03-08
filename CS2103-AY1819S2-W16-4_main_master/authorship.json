@@ -1,6 +1,358 @@
 [
   {
+    "path": ".coveralls.yml",
+    "fileType": "yml",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "service_name: travis-ci"
+      }
+    ],
+    "authorContributionMap": {
+      "barisbatuhan": 1
+    }
+  },
+  {
+    "path": ".gitattributes",
+    "fileType": "gitattributes",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "# Set the default behavior, in case people don\u0027t have core.autocrlf set."
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "* text\u003dauto"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "# Explicitly declare text files you want to always be normalized and converted"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "# to native line endings on checkout."
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "*.c text"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "*.h text"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "# Declare files that will always have CRLF line endings on checkout."
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "*.sln text eol\u003dcrlf"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "# Denote all files that are truly binary and should not be modified."
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.pdf binary"
+      }
+    ],
+    "authorContributionMap": {
+      "barisbatuhan": 12,
+      "-": 1
+    }
+  },
+  {
+    "path": ".travis.yml",
+    "fileType": "yml",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "language: java"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "matrix:"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  include:"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    - jdk: oraclejdk8"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "script: \u003e-"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    ./config/travis/run-checks.sh \u0026\u0026"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    ./gradlew clean checkstyleMain checkstyleTest headless allTests coverage coveralls asciidoctor"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "deploy:"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  skip_cleanup: true"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  provider: script"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  script: ./config/travis/deploy_github_pages.sh"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  on:"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    branch: master"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "addons:"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  apt:"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    packages:"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "      - oracle-java8-installer"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "before_cache:"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "cache:"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  directories:"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    - $HOME/.gradle/caches/"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    - $HOME/.gradle/wrapper/"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "after_success:"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "barisbatuhan"
+        },
+        "content": "  - coveralls"
+      }
+    ],
+    "authorContributionMap": {
+      "barisbatuhan": 3,
+      "-": 29
+    }
+  },
+  {
     "path": "README.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -26,7 +378,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "https://travis-ci.org/cs2103-ay1819s2-w16-4[image:https://travis-ci.org/cs2103-ay1819s2-w16-4/main.svg?branch\u003dmaster[Build Status]]"
       },
@@ -138,7 +490,7 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -306,7 +658,7 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -397,14 +749,14 @@
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "** Endorse Command written and tested."
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -613,14 +965,16 @@
       }
     ],
     "authorContributionMap": {
+      "Barış Batuhan Topal": 4,
       "barisbatuhan": 56,
       "charnixon": 2,
-      "abwilli": 1,
-      "-": 28
+      "Abby Williams": 1,
+      "-": 24
     }
   },
   {
     "path": "docs/AboutUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -973,6 +1327,7 @@
   },
   {
     "path": "docs/ContactUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -1005,7 +1360,7 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "* *Bug reports, Suggestions* : Post in our https://github.com/cs2103-ay1819s2-w16-4/main/issues[issue tracker] if you noticed bugs or have suggestions on how to improve."
       },
@@ -1019,23 +1374,24 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "* *Email us* : You can also reach us at `e0386949@u.nus.edu`"
       }
     ],
     "authorContributionMap": {
-      "abwilli": 2,
+      "Abby Williams": 2,
       "-": 5
     }
   },
   {
     "path": "docs/DeveloperGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "\u003d Recruit Me - Developer Guide"
       },
@@ -1196,14 +1552,14 @@
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "*JDK `9`* (revision `1.9.4` or later). Only JDK 9 is supported. +"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "This app will not work with later major JDK releases such as JDK 10, 11, etc."
       },
@@ -1238,14 +1594,14 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[NOTE]"
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Run the application through *IntelliJ* IDE. IntelliJ by default has Gradle and JavaFx plugins installed. +"
       },
@@ -5795,7 +6151,7 @@
       {
         "lineNumber": 681,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": ""
       },
@@ -5809,7 +6165,7 @@
       {
         "lineNumber": 683,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "\u003d\u003d\u003d Endorse Command"
       },
@@ -6369,7 +6725,7 @@
       {
         "lineNumber": 763,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": ""
       },
@@ -10121,7 +10477,7 @@
       {
         "lineNumber": 1299,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "\u003d\u003d Product Scope - Target user profile"
       },
@@ -10135,7 +10491,7 @@
       {
         "lineNumber": 1301,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "*General Needs*:"
       },
@@ -10191,35 +10547,35 @@
       {
         "lineNumber": 1309,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "*Special Needs*:"
       },
       {
         "lineNumber": 1310,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1311,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "* this is an application for recruitment agency specifically"
       },
       {
         "lineNumber": 1312,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "* the commands (filtering, sorting, deleting, adding etc.) and tags (education, experience etc.) are designed for applicants"
       },
       {
         "lineNumber": 1313,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -10366,14 +10722,14 @@
       {
         "lineNumber": 1334,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "|`* *` |user with many persons in the address book |sort persons by name |locate a person easily"
       },
       {
         "lineNumber": 1335,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -10415,49 +10771,49 @@
       {
         "lineNumber": 1341,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1342,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "|`* *` |user with many persons in the address book |undo the operation what he/she just did |prevent false updates in the address book"
       },
       {
         "lineNumber": 1343,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1344,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "|`* *` |user with many persons in the address book |redo the operation what he/she just did |prevent false undo operations in the address book"
       },
       {
         "lineNumber": 1345,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1346,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "|`* *` |user with many persons in the address book |see the education level, technical skills and experience of the persons |choose persons regarding more information given."
       },
       {
         "lineNumber": 1347,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -10695,329 +11051,329 @@
       {
         "lineNumber": 1381,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[discrete]"
       },
       {
         "lineNumber": 1382,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "\u003d\u003d\u003d Use case: Add person"
       },
       {
         "lineNumber": 1383,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1384,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "1.  User requests to add a new person with entering information about the new person"
       },
       {
         "lineNumber": 1385,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "2.  AddressBook adds the person"
       },
       {
         "lineNumber": 1386,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1387,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1388,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1389,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "*Extensions*"
       },
       {
         "lineNumber": 1390,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1391,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[none]"
       },
       {
         "lineNumber": 1392,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "* 2a. The given information format is invalid"
       },
       {
         "lineNumber": 1393,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1394,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1395,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[none]"
       },
       {
         "lineNumber": 1396,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "** 2a1. AddressBook shows an error message."
       },
       {
         "lineNumber": 1397,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1398,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1399,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1400,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[none]"
       },
       {
         "lineNumber": 1401,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "* 2b. All the necessary information is not given."
       },
       {
         "lineNumber": 1402,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1403,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1404,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1405,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[none]"
       },
       {
         "lineNumber": 1406,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "** 2b1. AddressBook shows an error message."
       },
       {
         "lineNumber": 1407,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1408,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1409,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1410,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[discrete]"
       },
       {
         "lineNumber": 1411,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "\u003d\u003d\u003d Use case: Filter person with and"
       },
       {
         "lineNumber": 1412,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1413,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "1.  User requests to filter address book with entering conditions to filter"
       },
       {
         "lineNumber": 1414,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "2.  AddressBook filters the persons that passes with all the conditions and prints those."
       },
       {
         "lineNumber": 1415,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1416,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1417,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1418,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "*Extensions*"
       },
       {
         "lineNumber": 1419,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1420,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[none]"
       },
       {
         "lineNumber": 1421,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "* 2a. The given information format is invalid"
       },
       {
         "lineNumber": 1422,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1423,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1424,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[none]"
       },
       {
         "lineNumber": 1425,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "** 2a1. AddressBook shows an error message."
       },
       {
         "lineNumber": 1426,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1427,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Use case ends."
       },
@@ -11038,308 +11394,308 @@
       {
         "lineNumber": 1430,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1431,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[discrete]"
       },
       {
         "lineNumber": 1432,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "\u003d\u003d\u003d Use case: Filter person with or"
       },
       {
         "lineNumber": 1433,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1434,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "1.  User requests to filter address book with entering conditions to filter"
       },
       {
         "lineNumber": 1435,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "2.  AddressBook filters the persons that passes with at least one of the conditions and prints those."
       },
       {
         "lineNumber": 1436,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1437,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1438,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1439,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "*Extensions*"
       },
       {
         "lineNumber": 1440,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1441,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[none]"
       },
       {
         "lineNumber": 1442,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "* 2a. The given information format is invalid"
       },
       {
         "lineNumber": 1443,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1444,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1445,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[none]"
       },
       {
         "lineNumber": 1446,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "** 2a1. AddressBook shows an error message."
       },
       {
         "lineNumber": 1447,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1448,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1449,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1450,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[appendix]"
       },
       {
         "lineNumber": 1451,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1452,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[discrete]"
       },
       {
         "lineNumber": 1453,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "\u003d\u003d\u003d Use case: Filter clearing"
       },
       {
         "lineNumber": 1454,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1455,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "1.  User requests to clear all the filtering in the address book."
       },
       {
         "lineNumber": 1456,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "2.  Filtering is cleared and all the people in the book is printed."
       },
       {
         "lineNumber": 1457,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1458,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1459,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1460,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[discrete]"
       },
       {
         "lineNumber": 1461,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "\u003d\u003d\u003d Use case: Sort address book by name"
       },
       {
         "lineNumber": 1462,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1463,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "1.  User requests to sort address book by name"
       },
       {
         "lineNumber": 1464,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "2.  The address book is printed in a sorted order with respect to the names."
       },
       {
         "lineNumber": 1465,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "+"
       },
       {
         "lineNumber": 1466,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 1467,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1468,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1469,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[appendix]"
       },
       {
         "lineNumber": 1470,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1471,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 1472,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "[appendix]"
       },
       {
         "lineNumber": 1473,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -11360,7 +11716,7 @@
       {
         "lineNumber": 1476,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ".  Should work on any \u003c\u003cmainstream-os,mainstream OS\u003e\u003e as long as it has Java `9` (revision `1.9.4` or higher) installed."
       },
@@ -11898,20 +12254,23 @@
       }
     ],
     "authorContributionMap": {
+      "Barış Batuhan Topal": 113,
       "barisbatuhan": 187,
-      "abwilli": 129,
+      "abwilli": 126,
       "charnixon": 16,
-      "-": 1048,
+      "Abby Williams": 3,
+      "-": 935,
       "DMGreenhouse": 172
     }
   },
   {
     "path": "docs/UserGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "\u003d Recruit Me - User Guide"
       },
@@ -12009,7 +12368,7 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": ":repoURL: https://github.com/cs2103-ay1819s2-w16-4/main"
       },
@@ -12051,7 +12410,7 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Recruit Me is an application for keeping all your company\u0027s applicants in a concise and organized format for easy searching designed to help you find the best candidates."
       },
@@ -12079,7 +12438,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": ".  Ensure you have Java `9` (revision `9.01` or later) installed in your Computer."
       },
@@ -12100,14 +12459,14 @@
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Only Java 9 is supported. +"
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": ""
       },
@@ -12254,7 +12613,7 @@
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "* Items with `…`​ after them can be used multiple times including zero times e.g. `[skill/TAG]...` can be used as `{nbsp}` (i.e. 0 times), `skill/Java`, `skill/Excel skill/leadership` etc."
       },
@@ -12331,7 +12690,7 @@
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Adds a candidate to Recruit Me +"
       },
@@ -12534,7 +12893,7 @@
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Edits an existing candidate in Recruit Me. +"
       },
@@ -12597,7 +12956,7 @@
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": ""
       },
@@ -12660,7 +13019,7 @@
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "* `edit 2 n/Betsy Crower skill/` +"
       },
@@ -12695,7 +13054,7 @@
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "\u003d\u003d\u003d Filtering Recruit Me: `filter`"
       },
@@ -12975,7 +13334,7 @@
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "* After one filtering, the filtered address book can be filtered again."
       },
@@ -12996,7 +13355,7 @@
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -13017,7 +13376,7 @@
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "Examples:"
       },
@@ -13150,7 +13509,7 @@
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Endorses an existing candidate in RecruitMe. +"
       },
@@ -13409,7 +13768,7 @@
       {
         "lineNumber": 215,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -14473,7 +14832,7 @@
       {
         "lineNumber": 367,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "* The index refers to the index number shown in the displayed applicant pool."
       },
@@ -14487,7 +14846,7 @@
       {
         "lineNumber": 369,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -14536,7 +14895,7 @@
       {
         "lineNumber": 376,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Deletes the 2nd person in the applicant pool."
       },
@@ -14585,7 +14944,7 @@
       {
         "lineNumber": 383,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Selects the person identified by the index number used in the displayed applicant pool. +"
       },
@@ -14613,7 +14972,7 @@
       {
         "lineNumber": 387,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -14641,7 +15000,7 @@
       {
         "lineNumber": 391,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -14816,7 +15175,7 @@
       {
         "lineNumber": 416,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Restores the applicant pool to the state before the previous _undoable_ command was executed. +"
       },
@@ -14851,7 +15210,7 @@
       {
         "lineNumber": 421,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Undoable commands: those commands that modify the applicant pool\u0027s content (`add`, `delete`, `edit` and `clear`)."
       },
@@ -15159,7 +15518,7 @@
       {
         "lineNumber": 465,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Clears all entries from the applicant pool. +"
       },
@@ -15530,7 +15889,7 @@
       {
         "lineNumber": 518,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "Applicant data is saved in the hard disk automatically after any command that changes the data. +"
       },
@@ -15838,7 +16197,7 @@
       {
         "lineNumber": 562,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "*A*: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous application folder."
       },
@@ -15866,7 +16225,7 @@
       {
         "lineNumber": 566,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": ""
       },
@@ -16090,13 +16449,16 @@
     ],
     "authorContributionMap": {
       "barisbatuhan": 178,
-      "abwilli": 51,
-      "-": 229,
+      "Barış Batuhan Topal": 7,
+      "abwilli": 29,
+      "Abby Williams": 22,
+      "-": 222,
       "DMGreenhouse": 139
     }
   },
   {
     "path": "docs/team/abbywilliams.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -16206,35 +16568,35 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "* *Major enhancement*: Endorse Command"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "** What it does: allows any current employees with access to the platform the opportunity to personally endorse candidates of their choice"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "** Justification: Tags are critical elements that shape a candidate and this color-coded system allows managers to better view these applicants and allows employees to interact with the recruiting process."
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "** Highlights:"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "    - command allows an employee to add their name as a special blue tag to a candidate\u0027s profile"
       },
@@ -16255,7 +16617,7 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "    - command accepts all characters and is not limited to alphanumeric input"
       },
@@ -16269,7 +16631,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": ""
       },
@@ -16283,14 +16645,14 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "    - Refactoring Tag to distinguish between their skills and positions when they add and edit their profile"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "    - Present skills and position tags in different colors for recruiters to get a better view of the candidate"
       },
@@ -16304,7 +16666,7 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "    - Allow more than just alphanumeric input for the skill/position options"
       },
@@ -17711,12 +18073,14 @@
     ],
     "authorContributionMap": {
       "barisbatuhan": 1,
-      "abwilli": 199,
+      "abwilli": 189,
+      "Abby Williams": 10,
       "DMGreenhouse": 30
     }
   },
   {
     "path": "docs/team/barisbatuhan.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -18132,6 +18496,7 @@
   },
   {
     "path": "docs/team/charlottenixon.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -18506,6 +18871,7 @@
   },
   {
     "path": "docs/team/danielgreenhouse.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -18808,6 +19174,7 @@
   },
   {
     "path": "src/main/java/seedu/address/MainApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -20197,6 +20564,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/Logic.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -20759,6 +21127,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/LogicManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21594,6 +21963,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22166,6 +22536,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -24186,6 +24557,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EndorseCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -24924,6 +25296,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FilterCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25355,14 +25728,14 @@
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "    private boolean isFilterCleared;"
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
@@ -25446,7 +25819,7 @@
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "        isFilterCleared \u003d false;"
       },
@@ -25642,7 +26015,7 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "        if (processNum \u003d\u003d 1) {"
       },
@@ -25656,7 +26029,7 @@
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "            isFilterCleared \u003d false;"
       },
@@ -25691,7 +26064,7 @@
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "            isFilterCleared \u003d false;"
       },
@@ -25761,7 +26134,7 @@
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "                model.clearFilter();"
       },
@@ -25782,7 +26155,7 @@
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "        }"
       },
@@ -25838,21 +26211,21 @@
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": ""
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "            if (isFilterCleared) {"
       },
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "                isFilterCleared \u003d false;"
       },
@@ -25866,7 +26239,7 @@
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "-"
+          "gitId": "Barış Batuhan Topal"
         },
         "content": "                return new CommandResult(MESSAGE_CLEAR_FILTER_PERSON_SUCCESS);"
       },
@@ -26209,11 +26582,12 @@
     ],
     "authorContributionMap": {
       "barisbatuhan": 171,
-      "-": 12
+      "Barış Batuhan Topal": 12
     }
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SortCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27175,6 +27549,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortDegree.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27414,6 +27789,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortDuplicateList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27660,6 +28036,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortEducation.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27885,6 +28262,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortGpa.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28124,6 +28502,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortListWithDuplicates.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28440,6 +28819,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortMethod.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28560,6 +28940,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortName.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28772,6 +29153,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortSurname.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29005,6 +29387,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortTagNumber.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29350,6 +29733,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortTags.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29632,6 +30016,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/sortmethods/SortUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30383,6 +30768,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30968,6 +31354,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddressBookParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31707,6 +32094,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/CliSyntax.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32188,6 +32576,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32955,6 +33344,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EndorseCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33335,6 +33725,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FilterCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36640,6 +37031,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ParserUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37940,6 +38332,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/SortCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38439,6 +38832,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/SortWord.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38720,6 +39114,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/AddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41706,6 +42101,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/Model.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43004,6 +43400,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ModelManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45100,6 +45497,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyAddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45284,6 +45682,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedAddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46091,6 +46490,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Degree.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46646,6 +47046,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Education.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47074,6 +47475,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Gpa.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47594,6 +47996,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Person.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49776,6 +50179,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/PersonUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50275,6 +50679,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/UniquePersonList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51397,6 +51802,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/tag/SkillsTag.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51988,6 +52394,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/util/SampleDataUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53070,7 +53477,7 @@
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": ""
       },
@@ -53168,7 +53575,7 @@
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "        if (endorsements !\u003d null) {"
       },
@@ -53196,7 +53603,7 @@
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "abwilli"
+          "gitId": "Abby Williams"
         },
         "content": "        }"
       },
@@ -53224,13 +53631,15 @@
     ],
     "authorContributionMap": {
       "barisbatuhan": 100,
-      "abwilli": 29,
+      "abwilli": 26,
+      "Abby Williams": 3,
       "-": 42,
       "DMGreenhouse": 5
     }
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedPerson.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54320,6 +54729,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedTag.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54757,6 +55167,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/BrowserPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55600,6 +56011,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/PersonCard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56290,6 +56702,7 @@
   },
   {
     "path": "src/main/resources/view/DarkTheme.css",
+    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -58903,6 +59316,7 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -59388,6 +59802,7 @@
   },
   {
     "path": "src/main/resources/view/PersonListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -59670,6 +60085,7 @@
   },
   {
     "path": "src/main/resources/view/html/bensonmeier.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -59755,6 +60171,7 @@
   },
   {
     "path": "src/main/resources/view/html/brucewayne.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -59840,6 +60257,7 @@
   },
   {
     "path": "src/main/resources/view/html/peterparker.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -59925,6 +60343,7 @@
   },
   {
     "path": "src/main/resources/view/html/placeholder.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -60010,6 +60429,7 @@
   },
   {
     "path": "src/main/resources/view/html/tonystark.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -60095,6 +60515,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/duplicatePersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -60245,6 +60666,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/invalidPersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -60332,6 +60754,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/typicalPersonsAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -60812,6 +61235,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/PersonCardHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61598,6 +62022,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/LogicManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -62952,6 +63377,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65096,6 +65522,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66312,6 +66739,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68066,6 +68494,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditPersonDescriptorTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68481,6 +68910,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EndorseCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69275,6 +69705,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/FilterCommandIntegrationTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74548,6 +74979,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/FilterCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78883,6 +79315,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SortCommandIntegrationTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79367,6 +79800,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SortCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81756,6 +82190,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82838,6 +83273,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/EditCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84354,6 +84790,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/FilterCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87617,6 +88054,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ParserUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89561,6 +89999,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/AddressBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90642,6 +91081,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/PersonTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91344,6 +91784,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/UniquePersonListTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92648,6 +93089,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/tag/SkillsTagTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92839,6 +93281,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonAdaptedPersonTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93733,6 +94176,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/EditPersonDescriptorBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94564,6 +95008,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/PersonBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95738,6 +96183,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/PersonUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96295,6 +96741,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalIndexes.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96416,6 +96863,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalPersons.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97603,6 +98051,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/BrowserPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98004,6 +98453,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/HelpWindowTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98531,6 +98981,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/PersonCardTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99044,6 +99495,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/PersonListPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99832,6 +100284,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/testutil/GuiTestAssert.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100639,6 +101092,7 @@
   },
   {
     "path": "src/test/java/systemtests/AddCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102484,6 +102938,7 @@
   },
   {
     "path": "src/test/java/systemtests/AddressBookSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -104537,6 +104992,7 @@
   },
   {
     "path": "src/test/java/systemtests/ClearCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105253,6 +105709,7 @@
   },
   {
     "path": "src/test/java/systemtests/DeleteCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106634,6 +107091,7 @@
   },
   {
     "path": "src/test/java/systemtests/EditCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108534,6 +108992,7 @@
   },
   {
     "path": "src/test/java/systemtests/FindCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109930,6 +110389,7 @@
   },
   {
     "path": "src/test/java/systemtests/HelpCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110702,6 +111162,7 @@
   },
   {
     "path": "src/test/java/systemtests/SampleDataTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111082,6 +111543,7 @@
   },
   {
     "path": "src/test/java/systemtests/SelectCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,

@@ -2,67 +2,126 @@
   "authorDailyContributionsMap": {
     "chuaes": [
       {
-        "insertions": 40,
-        "deletions": 55,
+        "insertions": 0,
+        "deletions": 1,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "4c93ded9d5388983f24e1804850a678ee97e07e2",
+            "messageTitle": "remove unecessary config",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 77,
         "date": "2019-02-18",
         "commitResults": [
           {
+            "hash": "02a6916cd3291455c431207d643dec8dec482c17",
+            "messageTitle": "Update _config.yml",
+            "messageBody": "fix EOF error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
             "hash": "f22520b66bd34cc05c6790655f22a87366e6391f",
-            "message": "Remove email(unnecessary) from contactUs",
+            "messageTitle": "Remove email(unnecessary) from contactUs",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "55d69f9ebaca8c739fe98f913318c486d2b9635f",
-            "message": "Update the application names and necessary info",
+            "messageTitle": "Update the application names and necessary info",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 8
           },
           {
             "hash": "fbaf00b9e95363831312350e4217185460d2cf59",
-            "message": "update the links and name of gradle",
+            "messageTitle": "update the links and name of gradle",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 8
           },
           {
+            "hash": "da3301ba9dd324d845bfd19fa2a526ac45f9feb1",
+            "messageTitle": "Remove unnecessary links(ab1, ab2..)in the header",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 21
+          },
+          {
+            "hash": "57f57610731987709f0d2cdf79015ae7c5c15268",
+            "messageTitle": "Add a UI mockup of your intended final product",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "fd5838894ef1106422ebd5df7ac3d37ac8a05067",
+            "messageTitle": "modify the ui mockup",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "95e9e133428c679e2cf4d642e9896be43cd4cf81",
-            "message": "Update the suggestion link",
+            "messageTitle": "Update the suggestion link",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "ccb4fc5101c80f441e0b2ed0c478d2c37b15bc15",
-            "message": "Update build.gradle",
+            "messageTitle": "Update build.gradle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
+            "hash": "9e48b8f1c3adc2258682da534f17ee0bf0e8c1e3",
+            "messageTitle": "add profile pic of every member",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "0910f39bed7494a248372f3c2dd8cef4eb0063a3",
-            "message": "Update the about us info",
+            "messageTitle": "Update the about us info",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 28
           },
           {
             "hash": "a3f48c297b0e9a97e11480de85c0a8193e668bb4",
-            "message": "Update AboutUs.adoc",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "e815487839524546fb42ff0d7938adc60c49a66c",
-            "message": "Update aboutUs as the reflected team name is wrong",
+            "messageTitle": "Update aboutUs as the reflected team name is wrong",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "d798c42a7227352f6574dc434218d1d318d91416",
-            "message": "Update AboutUs.adoc",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a714f5c98f5342aa7c69ba8013a48e4a44025048",
-            "message": "remove a small info in aboutUs",
+            "messageTitle": "remove a small info in aboutUs",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -75,19 +134,22 @@
         "commitResults": [
           {
             "hash": "8ebe433ce0eff35a22c7d540c56fe59c951d7855",
-            "message": "Update travis, appveyor and coverall links",
+            "messageTitle": "Update travis, appveyor and coverall links",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "169a30a0f6ac1931cdd68caf7907fe2a2d3f3fad",
-            "message": "update the incorrect link of coverall",
+            "messageTitle": "update the incorrect link of coverall",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "74a63c653fb5799a3d5722d5d537eaf268f74174",
-            "message": "fix incorrect display of coverall detail",
+            "messageTitle": "fix incorrect display of coverall detail",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -100,15 +162,24 @@
         "commitResults": [
           {
             "hash": "e7da851b6b76f3dec27a014838bfd34bf65ba315",
-            "message": "fix incorrect travis link",
+            "messageTitle": "fix incorrect travis link",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "98044f20937256b8b68e5eba3a7f460ecf0531b4",
-            "message": "minor fix in travis link",
+            "messageTitle": "minor fix in travis link",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "cb70b2e0b244c0a8582fafc74a6dfa4e7e26588c",
+            "messageTitle": "modify the sample ui",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
           }
         ]
       },
@@ -119,28 +190,31 @@
         "commitResults": [
           {
             "hash": "75ce4f11c936c2952cc11e124d7a47819a10c4c9",
-            "message": "Refactoring - change address to giatros and change the icon",
+            "messageTitle": "Refactoring - change address to giatros and change the icon",
+            "messageBody": "",
             "insertions": 1273,
             "deletions": 1271
           }
         ]
       },
       {
-        "insertions": 763,
-        "deletions": 764,
+        "insertions": 765,
+        "deletions": 765,
         "date": "2019-03-17",
         "commitResults": [
           {
             "hash": "46bdbd286fe15743f1e55108ace76f804c2e88f1",
-            "message": "fix checkstyle issue",
+            "messageTitle": "fix checkstyle issue",
+            "messageBody": "",
             "insertions": 52,
             "deletions": 55
           },
           {
             "hash": "056b0d9cf3bf3b30a87dd0ce7e050711017f3df1",
-            "message": "refactoring - changing the remaining \u0027address\u0027 to giatros",
-            "insertions": 711,
-            "deletions": 709
+            "messageTitle": "refactoring - changing the remaining \u0027address\u0027 to giatros",
+            "messageBody": "",
+            "insertions": 713,
+            "deletions": 710
           }
         ]
       },
@@ -151,7 +225,8 @@
         "commitResults": [
           {
             "hash": "3720ed590ffe8e4aa5853be4ccc74d54f20e2cb8",
-            "message": "changing the missed out \"address\" to giatros",
+            "messageTitle": "changing the missed out \"address\" to giatros",
+            "messageBody": "",
             "insertions": 209,
             "deletions": 209
           }
@@ -164,43 +239,50 @@
         "commitResults": [
           {
             "hash": "bd717b46a4dac882bfa1a8c9892bff71c6e21d75",
-            "message": "renaming of role (person to patient) and remaining (address to giatros)",
+            "messageTitle": "renaming of role (person to patient) and remaining (address to giatros)",
+            "messageBody": "",
             "insertions": 2197,
             "deletions": 2148
           },
           {
             "hash": "747fdaa98fa7f357a4e7519b29d981263aa3f0de",
-            "message": "fix checkstyle issues",
+            "messageTitle": "fix checkstyle issues",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 10
           },
           {
             "hash": "5bb62ae584fdaa0f0772cb6d05d9405a25cfb6b7",
-            "message": "add newline at eof for giatrobook",
+            "messageTitle": "add newline at eof for giatrobook",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "69403dd856fcbff6c6b2bbac7e8a1bb6d13c8116",
-            "message": "fix trailing whitespace in versionedGiatrosBookTest",
+            "messageTitle": "fix trailing whitespace in versionedGiatrosBookTest",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "06b27eaad086eb826e01a448810cb48973469091",
-            "message": "continuous checkstyle fix",
+            "messageTitle": "continuous checkstyle fix",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "412b9a1cc37fcb99cc191fc6ded7af3572296a9b",
-            "message": "fix RedundantImport and Linelength issues",
+            "messageTitle": "fix RedundantImport and Linelength issues",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 10
           },
           {
             "hash": "508d3be46bc5dfe6569168e9431123a9920d97a8",
-            "message": "fix lineLength for addCommand sys test",
+            "messageTitle": "fix lineLength for addCommand sys test",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           }
@@ -213,7 +295,8 @@
         "commitResults": [
           {
             "hash": "4019f066a7dc83aaaa8d07f56f15c3b9c8c4237b",
-            "message": "register and add account",
+            "messageTitle": "register and add account",
+            "messageBody": "",
             "insertions": 1544,
             "deletions": 60
           }
@@ -226,31 +309,36 @@
         "commitResults": [
           {
             "hash": "9a887d55bcf75bf576626be40ce73efc0eda4afd",
-            "message": "filled up the json file",
+            "messageTitle": "filled up the json file",
+            "messageBody": "",
             "insertions": 48,
             "deletions": 6
           },
           {
             "hash": "79c763cb307d0c1fbbfa19146f238b977d65cf82",
-            "message": "Fixed all the checkstyle issues",
+            "messageTitle": "Fixed all the checkstyle issues",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 12
           },
           {
             "hash": "9a72dfc5caffe4c7e2d5a7144aa112c707238600",
-            "message": "Fix checkstyle issue",
+            "messageTitle": "Fix checkstyle issue",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "afde9ada72b6619d8a926c3fd29bb546fbdca16d",
-            "message": "fix checkstyle issue",
+            "messageTitle": "fix checkstyle issue",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "cc2e5a3222ebab06c94be24fd7d2a98a33f80139",
-            "message": "fix checkstyle issue",
+            "messageTitle": "fix checkstyle issue",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -263,295 +351,626 @@
         "commitResults": [
           {
             "hash": "904b0877f1ee860fb4faf5ead29d24f693857ed8",
-            "message": "login, logout and register features enhancement and bug fixes",
+            "messageTitle": "login, logout and register features enhancement and bug fixes",
+            "messageBody": "",
             "insertions": 199,
             "deletions": 77
           },
           {
             "hash": "aa91824a4d4b86383877bb9224be32819b80dab4",
-            "message": "Logout feature",
+            "messageTitle": "Logout feature",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 1
           },
           {
             "hash": "4f80e7d0c84a97593c12c4865162598a763f7f97",
-            "message": "gui update",
+            "messageTitle": "gui update",
+            "messageBody": "",
             "insertions": 57,
             "deletions": 36
           },
           {
+            "hash": "f15bd242e53d06f6bf76938d225ccbfbd672e817",
+            "messageTitle": "default image for brower panel holder",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "050736503bc5196e120b6cbb6a7e5efa645a0a9c",
-            "message": "Checkstyle fixes",
+            "messageTitle": "Checkstyle fixes",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 27
           },
           {
             "hash": "a02270d58acb2d1c0e372ea277f0e3b73ce4c4dd",
-            "message": "checkstyle fixes",
+            "messageTitle": "checkstyle fixes",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 3
           },
           {
             "hash": "da700ec1c64aed54bbef40f4f925043f878651cb",
-            "message": "checkstyle fix",
+            "messageTitle": "checkstyle fix",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "65af6f19c3e13ca08e11010644339ff36d2311e3",
-            "message": "account creator class is used for testing and bug fix for before-login constraints",
+            "messageTitle": "account creator class is used for testing and bug fix for before-login constraints",
+            "messageBody": "",
             "insertions": 67,
             "deletions": 27
           },
           {
             "hash": "07ba8d8b1600d0645e087d28aaf65869f093bc26",
-            "message": "Checkstyle fixes",
+            "messageTitle": "Checkstyle fixes",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 1
           },
           {
             "hash": "0842f21bd2a557f52ba4af6683aa31a38856737f",
-            "message": "checkstyle fixes",
+            "messageTitle": "checkstyle fixes",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "12e1574408264f1b013a071c387f4834028cafc0",
-            "message": "Add \"head staff\" role and put more restriction to normal staff role",
+            "messageTitle": "Add \"head staff\" role and put more restriction to normal staff role",
+            "messageBody": "",
             "insertions": 169,
             "deletions": 10
           },
           {
             "hash": "fc1c98bb736e262d59df337b32b0903e13c03107",
-            "message": "checkstyle fixes",
+            "messageTitle": "checkstyle fixes",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 2
           }
         ]
       },
       {
-        "insertions": 322,
+        "insertions": 381,
         "deletions": 50,
         "date": "2019-04-13",
         "commitResults": [
           {
             "hash": "47b41b6c210b21362adc580ebf810b4c1635edc9",
-            "message": "Fixes to wrong message displayed after entering a command",
+            "messageTitle": "Fixes to wrong message displayed after entering a command",
+            "messageBody": "",
             "insertions": 250,
             "deletions": 40
           },
           {
             "hash": "fd1cdacf2cc525c18c89f3e0701ec915a52317af",
-            "message": "Fix checkstyle issues",
-            "insertions": 72,
+            "messageTitle": "Fix checkstyle issues",
+            "messageBody": "",
+            "insertions": 131,
             "deletions": 10
           }
         ]
       },
       {
         "insertions": 2202,
-        "deletions": 518,
+        "deletions": 577,
         "date": "2019-04-15",
         "commitResults": [
           {
             "hash": "f32cf1f95a01c0d9e0f5a4009d223929e28c0308",
-            "message": "Tests added to increase code coverage",
+            "messageTitle": "Tests added to increase code coverage",
+            "messageBody": "",
             "insertions": 1730,
-            "deletions": 98
+            "deletions": 157
           },
           {
             "hash": "77cdd457fc88f8bb63f84906d16cba90907cc72e",
-            "message": "Checkstyle fix",
+            "messageTitle": "Checkstyle fix",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 9
           },
           {
             "hash": "dd36fbb438a66dc639dc747e0f6bb7b84c9cbb18",
-            "message": "checkstyle fix",
+            "messageTitle": "checkstyle fix",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "c6424b0a32fe540c5191e8fb2cd38f6f2f7d4388",
-            "message": "Checkstyle fix",
+            "messageTitle": "Checkstyle fix",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "fd187d6a1cacd555b5a87923e60098ca88da3cf4",
-            "message": "Checkstyle fixes",
+            "messageTitle": "Checkstyle fixes",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 50
           },
           {
             "hash": "0271bea7e0769fba6b3369907740d00e39f0c32b",
-            "message": "Checkstyle fixes",
+            "messageTitle": "Checkstyle fixes",
+            "messageBody": "",
             "insertions": 98,
             "deletions": 100
           },
           {
             "hash": "b35a8938a2c9d572762ea7ed3f14eac75ce89bef",
-            "message": "Fixed checkstyle",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 4
           },
           {
             "hash": "ac5c91100084174acfa067a626369ad405886f49",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "1295aecf10110cf58d381d8ae984da22291aae0f",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "7e77c2db903889b5fb78615fe92433ac27ed41c8",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 3
           },
           {
             "hash": "57e8225c14f440a44e8b4b6a9b62f3490abf31b1",
-            "message": "checkstyle fix",
+            "messageTitle": "checkstyle fix",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "c4c35674baf0ab2ca651aff28eac54bad3b977d8",
-            "message": "Checkstyle fixes",
+            "messageTitle": "Checkstyle fixes",
+            "messageBody": "",
             "insertions": 58,
             "deletions": 54
           },
           {
             "hash": "837c81da9614d05181364b1e1e30bc22eb3dfe55",
-            "message": "Checkstyle fixes",
+            "messageTitle": "Checkstyle fixes",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 10
           },
           {
             "hash": "937dc4f6d72b16497dbd67de5197079d792df863",
-            "message": "checkstyle fixes",
+            "messageTitle": "checkstyle fixes",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "749ddf03a3fbe7f94757fbcfe4f926049a6af49e",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "97da63f64cf64088fd04ff4b70a4afd2aab465e6",
-            "message": "Update register related class to fix checkstyle issue",
+            "messageTitle": "Update register related class to fix checkstyle issue",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 12
           },
           {
             "hash": "e6c76c69a4b2dcd9aaefc88f1780309adce58496",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "0124473c9fd289bca018e1d34c41171f8ba4da01",
-            "message": "fix login test",
+            "messageTitle": "fix login test",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "36bf00097aa55cc7eb8303b6aa98c03cf1d1c598",
-            "message": "Remove uncessary test from login",
+            "messageTitle": "Remove uncessary test from login",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 18
           },
           {
             "hash": "39d082d02815e0f55c3981cc65a4bb805eead84c",
-            "message": "Update the ug to reflect the current product",
+            "messageTitle": "Update the ug to reflect the current product",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 8
           },
           {
             "hash": "5d7348ad7e08cbde56bbadf273f244fd18b664fd",
-            "message": "Add more restrictions to managerial role",
+            "messageTitle": "Add more restrictions to managerial role",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 3
           },
           {
             "hash": "acf3b5e89f4b3b0c5e2ef621739cbf83abddd76c",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e752209d91d2076aa267dce0b6f50ed640b16e5b",
-            "message": "Fix failed test during to new manager\u0027s constraint",
+            "messageTitle": "Fix failed test during to new manager\u0027s constraint",
+            "messageBody": "",
             "insertions": 53,
             "deletions": 40
           },
           {
             "hash": "7e920fe8b930b4a8e1811ffcb7b6298310d3cb2b",
-            "message": "whatever",
+            "messageTitle": "whatever",
+            "messageBody": "",
             "insertions": 48,
             "deletions": 11
           },
           {
             "hash": "ce65a513c59fe5db1940f9aa20d9f304ba7b466d",
-            "message": "Remove failed test",
+            "messageTitle": "Remove failed test",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 42
           },
           {
+            "hash": "1b9e99674679f2183927da82c2cccc0b744aaa68",
+            "messageTitle": "Update doc and diagram to reflect the new changes",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "6a7474be7ad0f01bb87543481e47608b7fecef16",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 12
           },
           {
             "hash": "ddbd8692030c4bc285c13ed52367574d0e92892e",
-            "message": "Update the dg",
+            "messageTitle": "Update the dg",
+            "messageBody": "",
             "insertions": 88,
             "deletions": 19
           }
         ]
       }
     ],
-    "sickerin": [
+    "Daniel Pyone Maung": [
       {
-        "insertions": 70,
-        "deletions": 10,
-        "date": "2019-04-14",
+        "insertions": 20,
+        "deletions": 19,
+        "date": "2019-03-05",
         "commitResults": [
           {
-            "hash": "8014dcb3e25c80d45297a32d60a342f60389f5ac",
-            "message": "Update UserGuide.adoc",
-            "insertions": 68,
-            "deletions": 8
-          },
-          {
-            "hash": "a90be6ce98ec91db854389d6247c7221caa1cef4",
-            "message": "Update UserGuide.adoc",
-            "insertions": 2,
-            "deletions": 2
+            "hash": "ce084bef45006f5c3146f59b2d8324fd5f7afea0",
+            "messageTitle": "model: more relevant sample data",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 19
           }
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 2,
+        "insertions": 299,
+        "deletions": 67,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "b50f04a234c71e50f7205040cd44721638d277c0",
+            "messageTitle": "add appointment class",
+            "messageBody": "class is incomplete, regex not filled out",
+            "insertions": 114,
+            "deletions": 61
+          },
+          {
+            "hash": "1d8cd0e9baaa29076c546001081d03569e89d6b4",
+            "messageTitle": "add AddaptCommandParser",
+            "messageBody": "need to add parser still....",
+            "insertions": 38,
+            "deletions": 0
+          },
+          {
+            "hash": "c1ca6bb87b3c3b214168ce9a6448fba003030012",
+            "messageTitle": "add AddAptCommand",
+            "messageBody": "refactored version, need to make it suitable",
+            "insertions": 116,
+            "deletions": 0
+          },
+          {
+            "hash": "27db0d8cbda79a66d901067c52a801e45b9e35cc",
+            "messageTitle": "modified Patient and AddAptCommand",
+            "messageBody": "add Prefix to CliSyntax",
+            "insertions": 31,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 334,
+        "deletions": 90,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "3309da20e881b0585a579973e07f9dbeb5950232",
+            "messageTitle": "add appointment to ParserUtil, corrected typos",
+            "messageBody": "untested",
+            "insertions": 37,
+            "deletions": 6
+          },
+          {
+            "hash": "f633776b3eee70af0ad7cff6c7c58eab0921f111",
+            "messageTitle": "add AddaptCommand to GiatrosBookParser",
+            "messageBody": "add example in addaptcommand, corrected bucks in addallcommand",
+            "insertions": 11,
+            "deletions": 5
+          },
+          {
+            "hash": "9478a598f5dcf0bdfb6a740ceb09bddfa05c2b00",
+            "messageTitle": "modify EditCommand for appointment",
+            "messageBody": "",
+            "insertions": 62,
+            "deletions": 19
+          },
+          {
+            "hash": "6b365425007f680ff2aee94ebdda3636c4bcb0fd",
+            "messageTitle": "modified SampleDataUtil and RemallCommand to account for appointments",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 7
+          },
+          {
+            "hash": "7e9b94fb1f5cfd1e63c21c68f600ea1853263320",
+            "messageTitle": "fixed typo in SampleDataUtil",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "efecfc1a549619858575a784deab7a183d579a4d",
+            "messageTitle": "add JsonAdapted versions; fixed typos and modified parsers for apt",
+            "messageBody": "Working well",
+            "insertions": 101,
+            "deletions": 21
+          },
+          {
+            "hash": "520888b2bdd52f953bd325d011862200cd29f32a",
+            "messageTitle": "add appointments to UI; refactor and modify UI files",
+            "messageBody": "",
+            "insertions": 99,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 554,
+        "deletions": 239,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "7a31771b9b7c12c4a59e91e193bb907b080b94b1",
+            "messageTitle": "add appointments unit test and  mod misc files for appointments",
+            "messageBody": "only 2 tests failing",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "250926a6173f82e4142bc9084ee99d854ee488e3",
+            "messageTitle": "add appointments .... , modify giatrosbook.json (see prev commit)",
+            "messageBody": "prev commit was a mistake",
+            "insertions": 292,
+            "deletions": 108
+          },
+          {
+            "hash": "8b11fca63715f07aa1fc53f6cacd3971e5b5cc0b",
+            "messageTitle": "gitignore update",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 8
+          },
+          {
+            "hash": "605632e82d8b0796cecf9da88710cd29ca1fd57a",
+            "messageTitle": "configure so that all tests pass locally (see description)",
+            "messageBody": "- add and corrected apt related prefixes across repo\n- remove allergy from patient requirenonnull\n- account for appointment in parser tests\n- added space for descriptor builders when apt/ or y/ is null so that we don\u0027t get y/apt\n- modified typical patients to account for appointments\n- account for appointment in systemtests (add and edit)\n",
+            "insertions": 98,
+            "deletions": 32
+          },
+          {
+            "hash": "8b16da8f613ff0fe66d1517b9d727bf629162be1",
+            "messageTitle": "resolve merge conflicts, modify RemallCommandTest for appointment",
+            "messageBody": "still one error in remallcommandtest",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "d668cb6366c61213e53a955f4bfb4436be704f58",
+            "messageTitle": "fix checkstyleMain",
+            "messageBody": "",
+            "insertions": 45,
+            "deletions": 34
+          },
+          {
+            "hash": "fdf46408cbe26e924d24f3eca6eccf3dcf5efcf6",
+            "messageTitle": "fix checkstyleTest",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 16
+          },
+          {
+            "hash": "3ac05910f81d16cf3c9e683c24ef38b18458e65b",
+            "messageTitle": "fix mistake in RemallCommandTests, upload sickerin.adoc",
+            "messageBody": "",
+            "insertions": 89,
+            "deletions": 32
+          },
+          {
+            "hash": "7ab5255ce78a9c07f06259b198d8c38b67d568f1",
+            "messageTitle": "remove system.out.print; fix typo in AddCommandParser javadocs",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 974,
+        "deletions": 183,
         "date": "2019-04-15",
         "commitResults": [
           {
-            "hash": "67ccf55e4106dcd8812ed6f81b1ee440dcc58ecc",
-            "message": "fix StyleCheck",
+            "hash": "a81b69c6a8fee43f52058299ccb60840a3c1b8ea",
+            "messageTitle": "fix EOF and trailing whitespace",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "0ef4d7363c452c0c1a00f82bf4dd03507b5157d0",
+            "messageTitle": "some changes to sickerin.adoc",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "08f1ef60187e0a52ed1c17c1c9130d34f20fc3ab",
+            "messageTitle": "add AddaptCommandTest, modify AddaptCommand for duplicate error",
+            "messageBody": "",
+            "insertions": 201,
+            "deletions": 15
+          },
+          {
+            "hash": "d113182229f9d517e1799b5e73ce5868443dfc5f",
+            "messageTitle": "fix appointment tests for GiatrosBookParser and AddaptCommand;",
+            "messageBody": "fix usersession for addaptcommandparser",
+            "insertions": 62,
+            "deletions": 39
+          },
+          {
+            "hash": "b39e2ccc012e781f7fa35f2ad131da2a80dfeb35",
+            "messageTitle": "add Remapt command and associated parsers",
+            "messageBody": "",
+            "insertions": 187,
+            "deletions": 6
+          },
+          {
+            "hash": "aa7760ae7a0bfd00f69e656e0ed8692f54fac5cf",
+            "messageTitle": "add RemaptCommand related tests",
+            "messageBody": "- modified typical patients idx 1 with appointment to avoid significant refactoring of tests\n- modified RemallCommandTest with appointments\n- add appointments to PatientCardHandle",
+            "insertions": 226,
+            "deletions": 6
+          },
+          {
+            "hash": "19df9a5d320d4c58f4aa7b992d9221babf662fa6",
+            "messageTitle": "fix bug no null pointer exception for Appointment",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0001176edf2827924e2741b8428e810f7bbc5272",
+            "messageTitle": "fix Checkstylemain and test, add remapt to GiatrosBookParserTest",
+            "messageBody": "",
+            "insertions": 45,
+            "deletions": 34
+          },
+          {
+            "hash": "c918bdfa09397d2712c46628e4ac13ab7f86dbc4",
+            "messageTitle": "update user docs and developerguide for appointments",
+            "messageBody": "",
+            "insertions": 44,
+            "deletions": 2
+          },
+          {
+            "hash": "3473331fc8cfedc097a0bb71d01270d729af6da8",
+            "messageTitle": "import addapt to logicmanager",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "2e416af5e828211b1354448cf33c9de59f2733f9",
+            "messageTitle": "fix typo in addaptCommand; update DeveloperGuide",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
-            "hash": "b17a81d77ebb80bbaa273bc6f322a602709e115d",
-            "message": "Update RegisterCommandParserTest.java",
+            "hash": "7ad4da71576430bee1ac80b2db422fa521e59138",
+            "messageTitle": "updateDeveloperGuide",
+            "messageBody": "",
+            "insertions": 137,
+            "deletions": 2
+          },
+          {
+            "hash": "f6093c25ce31b455e5210a528c78e557fae7f811",
+            "messageTitle": "updateDeveloperGuide",
+            "messageBody": "",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "0435ca5de1086df87d6142b77d8f6dd2056561c6",
+            "messageTitle": "remove misc comments",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "0b3edd11820c3814d30c9179081670f65ea0b399",
+            "messageTitle": "fix EOF and Developer Guide",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 37
+          },
+          {
+            "hash": "a97d7201d2ad8215bcc63671149d245ac80b7f69",
+            "messageTitle": "updated sickerin.adoc",
+            "messageBody": "refactor person to patients\nallegied to allergies\nupdated ",
+            "insertions": 16,
+            "deletions": 20
+          },
+          {
+            "hash": "8f8a3cd08b5d174a4d89778c76194995536cc386",
+            "messageTitle": "fix Whitespace adoccheckstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6f07589345bdb31bb2675fa6c2b439a690fa017f",
+            "messageTitle": "Auto stash before merge of \"master\" and \"upstream/master\"",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "7855381cd4c978246634e22e653a5719327d0a4d",
+            "messageTitle": "fix trailing whitespace",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -566,32 +985,94 @@
         "commitResults": [
           {
             "hash": "3e67e015b0acfee21624371630c6d6a5b3a81022",
-            "message": "Export to csv command + test",
+            "messageTitle": "Export to csv command + test",
+            "messageBody": "",
             "insertions": 321,
             "deletions": 1
           },
           {
             "hash": "842bbcd9813abfde0d5c85a4027e27cace7e09dc",
-            "message": "Export tests added",
+            "messageTitle": "Export tests added",
+            "messageBody": "",
             "insertions": 42,
             "deletions": 123
           },
           {
             "hash": "ec984a92aa373fcda26a27774df10aecfb5e518b",
-            "message": "Checkstyle",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 8
           },
           {
             "hash": "f14c7a8fa075f3e12079a45341a32e2770b4cf45",
-            "message": "Docs updated",
+            "messageTitle": "Docs updated",
+            "messageBody": "",
             "insertions": 129,
             "deletions": 7
           }
         ]
       }
     ],
+    "sickerin": [
+      {
+        "insertions": 70,
+        "deletions": 10,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "8014dcb3e25c80d45297a32d60a342f60389f5ac",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
+            "insertions": 68,
+            "deletions": 8
+          },
+          {
+            "hash": "a90be6ce98ec91db854389d6247c7221caa1cef4",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "67ccf55e4106dcd8812ed6f81b1ee440dcc58ecc",
+            "messageTitle": "fix StyleCheck",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b17a81d77ebb80bbaa273bc6f322a602709e115d",
+            "messageTitle": "Update RegisterCommandParserTest.java",
+            "messageBody": "fix checkstyleTest",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
     "wfxronald": [
+      {
+        "insertions": 0,
+        "deletions": 1,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "24216cb9e3d9db88dd8f68da7f83f5806a9f4ba2",
+            "messageTitle": "Remove _config.yml",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
       {
         "insertions": 217,
         "deletions": 83,
@@ -599,103 +1080,120 @@
         "commitResults": [
           {
             "hash": "665273395b2237902e93585ea2ed870d43f99b77",
-            "message": "Update title of developer guide for testing",
+            "messageTitle": "Update title of developer guide for testing",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "fd97942f6e633e3adac09aa0949e75691e549875",
-            "message": "Update team details in developer guide",
+            "messageTitle": "Update team details in developer guide",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "6cd069127e0653598884d17ba383e36fb3ef7ab1",
-            "message": "Update appendix B of developer guide: product scope",
+            "messageTitle": "Update appendix B of developer guide: product scope",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 7
           },
           {
             "hash": "e10fa981bba86e2579e39d52d864025720cb9b1c",
-            "message": "Update appendix C of developer guide: user stories",
+            "messageTitle": "Update appendix C of developer guide: user stories",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 7
           },
           {
             "hash": "981177dd089d63b453f811c06d58fb3ca6a33449",
-            "message": "Update appendix D of developer guide: use cases",
+            "messageTitle": "Update appendix D of developer guide: use cases",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 7
           },
           {
             "hash": "edf872a5d56503552f27ce0e094da8bd15739810",
-            "message": "Update appendix E \u0026 F of developer guide: non functional requirements \u0026 glossary",
+            "messageTitle": "Update appendix E \u0026 F of developer guide: non functional requirements \u0026 glossary",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 4
           },
           {
             "hash": "6beaf6233e8d84213cd19b7be05465b945118c85",
-            "message": "Update title of user guide for testing",
+            "messageTitle": "Update title of user guide for testing",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "eac2668dcc792d92285a724097f921149d29c7e6",
-            "message": "Update team details in user guide",
+            "messageTitle": "Update team details in user guide",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "b7faf3c5e7d109cb3c1e776da654c69d4050ad25",
-            "message": "Update user guide: introduction",
+            "messageTitle": "Update user guide: introduction",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "d9fa0e8650d2be9f584ca156fa4c4c087421d22f",
-            "message": "Update user guide: quick start",
+            "messageTitle": "Update user guide: quick start",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "30ec0903a94ced491b813685fc78519a9f0dd939",
-            "message": "Update user guide: features (help, add, list)",
+            "messageTitle": "Update user guide: features (help, add, list)",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 10
           },
           {
             "hash": "2a2c247fd536cd5f9bf3ca187729805f489afa95",
-            "message": "Update user guide: features (edit, find, delete)",
+            "messageTitle": "Update user guide: features (edit, find, delete)",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 20
           },
           {
             "hash": "604bf9195ac371eeed7cd1db0640c1842147cffe",
-            "message": "Update user guide: features (clear, exit), FAQ, to be implemented in v2.0",
+            "messageTitle": "Update user guide: features (clear, exit), FAQ, to be implemented in v2.0",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "77d4141a8cc63aac6ff5eb4dcb9e07652143874a",
-            "message": "Improve UI component by making coloured tags",
+            "messageTitle": "Improve UI component by making coloured tags",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 3
           },
           {
             "hash": "a8053fc98f5b390ecbb98b3495631d9151e7993c",
-            "message": "Try multi-coloured tag",
+            "messageTitle": "Try multi-coloured tag",
+            "messageBody": "",
             "insertions": 31,
             "deletions": 2
           },
           {
             "hash": "55fc9e93efa8864df1144c0b6568f0aef5260113",
-            "message": "Introduce more tag colours",
+            "messageTitle": "Introduce more tag colours",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 2
           },
           {
             "hash": "ea64a3f877f281e445cd9d88c11457ac4ea636b1",
-            "message": "Add newline at EOF for DarkTheme.css",
+            "messageTitle": "Add newline at EOF for DarkTheme.css",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -708,55 +1206,64 @@
         "commitResults": [
           {
             "hash": "5a23a66134a78184aa2117b1c78e763ddcfbe7ae",
-            "message": "Teach the app to accept \u0027addall\u0027 command that does nothing",
+            "messageTitle": "Teach the app to accept \u0027addall\u0027 command that does nothing",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 0
           },
           {
             "hash": "8185a51e78f830cf9bc4969ba04dd503a254ed88",
-            "message": "Update test related to \u0027addall\u0027 command",
+            "messageTitle": "Update test related to \u0027addall\u0027 command",
+            "messageBody": "",
             "insertions": 167,
             "deletions": 0
           },
           {
             "hash": "78320abe8db561f3420719965f96a446faa89b7f",
-            "message": "Teach the app to accept \u0027addall\u0027 arguments",
+            "messageTitle": "Teach the app to accept \u0027addall\u0027 arguments",
+            "messageBody": "",
             "insertions": 77,
             "deletions": 4
           },
           {
             "hash": "206296d795c7ee59f9d057e101237c16b030d02b",
-            "message": "Update parser for \u0027addall\u0027 to throw exception for invalid format",
+            "messageTitle": "Update parser for \u0027addall\u0027 to throw exception for invalid format",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 0
           },
           {
             "hash": "ec9c8b9f4d5a091801daa952cbb4eb953ff8a4f5",
-            "message": "Minor change in checking invalid informat",
+            "messageTitle": "Minor change in checking invalid informat",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 4
           },
           {
             "hash": "90bd8b69074ef7554ead39785cdd8617cfe84cc8",
-            "message": "Update test for \u0027addall\u0027 arguments",
+            "messageTitle": "Update test for \u0027addall\u0027 arguments",
+            "messageBody": "",
             "insertions": 87,
             "deletions": 3
           },
           {
             "hash": "9370cbbff52907ed33ee4894790802a478931325",
-            "message": "Remove unused imports",
+            "messageTitle": "Remove unused imports",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 22
           },
           {
             "hash": "517363047f118db76a03054a1688943b61bc64f5",
-            "message": "Remove unused import in tests related to \u0027addall\u0027",
+            "messageTitle": "Remove unused import in tests related to \u0027addall\u0027",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 45
           },
           {
             "hash": "59ebec109f85811ebb160c95610f30dc0b1e2ebf",
-            "message": "Update developer guide to reflect a narrower target audience: receptionist",
+            "messageTitle": "Update developer guide to reflect a narrower target audience: receptionist",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 22
           }
@@ -769,7 +1276,8 @@
         "commitResults": [
           {
             "hash": "8139fb986fc217d51f96ffc4c67f484cfb3bc8b5",
-            "message": "Add more parser test for addall",
+            "messageTitle": "Add more parser test for addall",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 1
           }
@@ -782,19 +1290,22 @@
         "commitResults": [
           {
             "hash": "156c590fd46116223df1740fec3d9152b2ba30ac",
-            "message": "Fix minor error in what addall command returns",
+            "messageTitle": "Fix minor error in what addall command returns",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 3
           },
           {
             "hash": "24473d3dd3ec3f589374c78fd9b3cc58704180e4",
-            "message": "Add a placeholder for allergy in PersonCard",
+            "messageTitle": "Add a placeholder for allergy in PersonCard",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 0
           },
           {
             "hash": "62abaac641956d74e7952da1b21a1e1d2cac5c65",
-            "message": "Refactor \u0027addall\u0027 command - Change some strings into final values - Instead of a local parser, use the argument tokenizer and parser utility to implement the parser for \u0027addall\u0027 - Change the tag for allergy to be \u0027y/\u0027 to prevent clash with address",
+            "messageTitle": "Refactor \u0027addall\u0027 command - Change some strings into final values - Instead of a local parser, use the argument tokenizer and parser utility to implement the parser for \u0027addall\u0027 - Change the tag for allergy to be \u0027y/\u0027 to prevent clash with address",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 14
           }
@@ -807,25 +1318,29 @@
         "commitResults": [
           {
             "hash": "58e1482587eadfbac5e96ff80b86c526d7b33f7b",
-            "message": "Refactor test for \u0027addall\u0027 - Add some examples of valid allergy to test utility - Update test to reflect the new parsing format - Minor edit in usage message of \u0027addall\u0027 command",
+            "messageTitle": "Refactor test for \u0027addall\u0027 - Add some examples of valid allergy to test utility - Update test to reflect the new parsing format - Minor edit in usage message of \u0027addall\u0027 command",
+            "messageBody": "",
             "insertions": 54,
             "deletions": 149
           },
           {
             "hash": "12c925ce585fa4695c74fcb5aa5fbe27d9a25912",
-            "message": "Minor change in placeholder implementation of allergy in PersonCard",
+            "messageTitle": "Minor change in placeholder implementation of allergy in PersonCard",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "9d9675443acb76e68e954d0c5c9896bff1dc674c",
-            "message": "Remove checkStyle error and update description of \u0027addall\u0027",
+            "messageTitle": "Remove checkStyle error and update description of \u0027addall\u0027",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "ce9a146255898082684b60c287d0c2699a0da808",
-            "message": "Model the Allergy as an object instead of a String - Refactor the \u0027addall\u0027 method to take in Allergy instead of String - Refactor the respective tests for \u0027addall\u0027 method",
+            "messageTitle": "Model the Allergy as an object instead of a String - Refactor the \u0027addall\u0027 method to take in Allergy instead of String - Refactor the respective tests for \u0027addall\u0027 method",
+            "messageBody": "",
             "insertions": 93,
             "deletions": 19
           }
@@ -838,94 +1353,108 @@
         "commitResults": [
           {
             "hash": "2462ddc1bb07f3a67190af58075d4687e5c5fb00",
-            "message": "Modify \u0027Person\u0027 to support an \u0027Allergy\u0027 field - Currently, does not support addition of a patient with an allergy immediately - Currently, also does not support editing the allergy of a patient using \u0027edit\u0027 command - Modify \u0027SampleDataUtil\u0027 to include \u0027Allergy\u0027 field",
+            "messageTitle": "Modify \u0027Person\u0027 to support an \u0027Allergy\u0027 field - Currently, does not support addition of a patient with an allergy immediately - Currently, also does not support editing the allergy of a patient using \u0027edit\u0027 command - Modify \u0027SampleDataUtil\u0027 to include \u0027Allergy\u0027 field",
+            "messageBody": "",
             "insertions": 36,
             "deletions": 12
           },
           {
             "hash": "e4eba893eec2f35060b4366bb98d6565c7ae3c6f",
-            "message": "Refactor \u0027Person\u0027 to \u0027Patient\u0027 - Due to conflicts, some changes need to be committed again separately",
+            "messageTitle": "Refactor \u0027Person\u0027 to \u0027Patient\u0027 - Due to conflicts, some changes need to be committed again separately",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 6
           },
           {
             "hash": "c06217da2a3366fd836dabe1697894f47b30341d",
-            "message": "Refactor a few more files: \u0027Person\u0027 to \u0027Patient\u0027",
+            "messageTitle": "Refactor a few more files: \u0027Person\u0027 to \u0027Patient\u0027",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 9
           },
           {
             "hash": "3ce9ae10de138a29330e5f9e16378179781eb280",
-            "message": "Rename JsonAdaptedPerson to JsonAdaptedPatient",
+            "messageTitle": "Rename JsonAdaptedPerson to JsonAdaptedPatient",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "92067565140fa12a7a563b73de8274655deba99a",
-            "message": "Add \u0027Allergy\u0027 field to JsonAdaptedPatient class",
+            "messageTitle": "Add \u0027Allergy\u0027 field to JsonAdaptedPatient class",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 1
           },
           {
             "hash": "b078fbabe693ea347d425f2c92a393ebd6534975",
-            "message": "Add withAllergy() for PatientBuilder",
+            "messageTitle": "Add withAllergy() for PatientBuilder",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 1
           },
           {
             "hash": "82e505163a96774ebfe82c92770c4a70ea09bfc0",
-            "message": "Connect Allergy field to PatientCard - Modify the PatientCard\u0027s constructor to add the allergy - Modify GuiTestAssert to compare the allergy label",
+            "messageTitle": "Connect Allergy field to PatientCard - Modify the PatientCard\u0027s constructor to add the allergy - Modify GuiTestAssert to compare the allergy label",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "862cc42fb30a621e2cbf2dd5569c8c08671d8b22",
-            "message": "Edit the logic of \u0027addall\u0027 and update tests for execute",
+            "messageTitle": "Edit the logic of \u0027addall\u0027 and update tests for execute",
+            "messageBody": "",
             "insertions": 193,
             "deletions": 17
           },
           {
             "hash": "6a62625c1edfd3ff015c0f1448d8026ce11471c1",
-            "message": "Add EOF for giatrosbook.json",
+            "messageTitle": "Add EOF for giatrosbook.json",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "9ec57dda32ad9e47d10cad7cd8dc8127c21ada69",
-            "message": "Remove checkStyle error in AddallCommandTest",
+            "messageTitle": "Remove checkStyle error in AddallCommandTest",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 7
           },
           {
             "hash": "56d5012c4ff8eb065a120856f36278096c73fde8",
-            "message": "Remove more checkStyle error",
+            "messageTitle": "Remove more checkStyle error",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 3
           },
           {
             "hash": "d9e1bce3fd34e67545406e10e18622b402a5de28",
-            "message": "Remove minor checkStyle error - unused import",
+            "messageTitle": "Remove minor checkStyle error - unused import",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 2
           }
         ]
       },
       {
-        "insertions": 26,
-        "deletions": 26,
+        "insertions": 28,
+        "deletions": 28,
         "date": "2019-03-26",
         "commitResults": [
           {
             "hash": "230861ceceb4a8e66e6b6c8895f5a08f88dd8ab8",
-            "message": "Configure reposense",
-            "insertions": 26,
-            "deletions": 0
+            "messageTitle": "Configure reposense",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 1
           },
           {
             "hash": "1114cb4ca967fcffbd113d314406b146e641abd0",
-            "message": "Undo reposense configuration",
-            "insertions": 0,
-            "deletions": 26
+            "messageTitle": "Undo reposense configuration",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 27
           }
         ]
       },
@@ -936,25 +1465,29 @@
         "commitResults": [
           {
             "hash": "bd83d221a66b76c8d33d192439119c33a8bdf7dd",
-            "message": "Refactor Tag as Allergy to take in multiple allergies - Currently, the old Allergy feature is still inside",
+            "messageTitle": "Refactor Tag as Allergy to take in multiple allergies - Currently, the old Allergy feature is still inside",
+            "messageBody": "",
             "insertions": 509,
             "deletions": 563
           },
           {
             "hash": "75f83c3a530bc78b3450f4e49960669d9174c0f7",
-            "message": "Edit checkStyle error in SampleDataUtil.java",
+            "messageTitle": "Edit checkStyle error in SampleDataUtil.java",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "20b6e9b0cf396add7ff0c17be589dd43b2b0e8cb",
-            "message": "Edit to remove checkStyle error",
+            "messageTitle": "Edit to remove checkStyle error",
+            "messageBody": "",
             "insertions": 50,
             "deletions": 45
           },
           {
             "hash": "f5b1da0f58eaab8553edd9f23644f815be647de0",
-            "message": "Update the various documentations",
+            "messageTitle": "Update the various documentations",
+            "messageBody": "",
             "insertions": 61,
             "deletions": 343
           }
@@ -967,7 +1500,8 @@
         "commitResults": [
           {
             "hash": "d7ce4cef1fa7fa7f56561dcb0ba1c025a0e2ce3d",
-            "message": "Update the app to version 1.3.0",
+            "messageTitle": "Update the app to version 1.3.0",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -980,62 +1514,78 @@
         "commitResults": [
           {
             "hash": "9b904fe2be67b98ee7708e576ab534a8978cf560",
-            "message": "Integrate addAll command to Allergy tag",
+            "messageTitle": "Integrate addAll command to Allergy tag",
+            "messageBody": "",
             "insertions": 122,
             "deletions": 130
           },
           {
             "hash": "7ca5cac07f53d674ea30cbd5641d18a9e268081d",
-            "message": "Update the json test file with accounts - Previously tests were failing because new login feature was added, expecting a new json format",
+            "messageTitle": "Update the json test file with accounts - Previously tests were failing because new login feature was added, expecting a new json format",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 3
           },
           {
             "hash": "0ec400e295508879f75eb8d2078464ab1517ad06",
-            "message": "Creating a new remall command - This behaves in the exact opposite manner of addall command - Tests have not been added yet",
+            "messageTitle": "Creating a new remall command - This behaves in the exact opposite manner of addall command - Tests have not been added yet",
+            "messageBody": "",
             "insertions": 163,
             "deletions": 17
           },
           {
             "hash": "d571ae516c241033b2ca4e68c3dcacb78c619b99",
-            "message": "Add line at EOF for giatrosbook.json",
+            "messageTitle": "Add line at EOF for giatrosbook.json",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "807a1ac7269342282f727b838c20467b836388a6",
-            "message": "Remove checkStyle error due to if-else braces",
+            "messageTitle": "Remove checkStyle error due to if-else braces",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 4
           },
           {
             "hash": "6d1f29c5df67270d643f68721db847c53fcbc595",
-            "message": "Remove checkStyle error due to unused import",
+            "messageTitle": "Remove checkStyle error due to unused import",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           }
         ]
       },
       {
-        "insertions": 89,
-        "deletions": 42,
+        "insertions": 202,
+        "deletions": 43,
         "date": "2019-04-10",
         "commitResults": [
           {
+            "hash": "50d851ebc264356764d5a3a3cc3dad4a871e2686",
+            "messageTitle": "Update the various documentations and first draft PPP",
+            "messageBody": "",
+            "insertions": 113,
+            "deletions": 1
+          },
+          {
             "hash": "2d1643ca881855d5d947f9b36330a0247ba00b1f",
-            "message": "Some UI improvements",
+            "messageTitle": "Some UI improvements",
+            "messageBody": "",
             "insertions": 72,
             "deletions": 38
           },
           {
             "hash": "00eccc6d6675cd79d5647579d7d6399c55634a39",
-            "message": "Update Javadoc comment to tackle checkStyle error",
+            "messageTitle": "Update Javadoc comment to tackle checkStyle error",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "b3dc5fddaf1e460118fc47decbea7ec5731707e7",
-            "message": "Edit minor error due to search keyword bound by brackets - Also updated the failing tests",
+            "messageTitle": "Edit minor error due to search keyword bound by brackets - Also updated the failing tests",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 4
           }
@@ -1048,7 +1598,8 @@
         "commitResults": [
           {
             "hash": "760edd65e29832b0fe45d50d117eb4b918aefaa4",
-            "message": "Update to green theme",
+            "messageTitle": "Update to green theme",
+            "messageBody": "",
             "insertions": 36,
             "deletions": 36
           }
@@ -1061,25 +1612,29 @@
         "commitResults": [
           {
             "hash": "47e728fa5f1e59d3fa12ae3fe95f2ca892010116",
-            "message": "Update the tests for remall and others",
+            "messageTitle": "Update the tests for remall and others",
+            "messageBody": "",
             "insertions": 299,
             "deletions": 1
           },
           {
             "hash": "1b2782f87ab3324451cddf169a69faaef7b4bcab",
-            "message": "Fix the build.gradle file to run test properly",
+            "messageTitle": "Fix the build.gradle file to run test properly",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "5a74337e2cf5cb1a2cb8c7d1ff285d38997ad7bf",
-            "message": "Edit typo in user guide to reflect the tag addremall",
+            "messageTitle": "Edit typo in user guide to reflect the tag addremall",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "2e29659926c4327d83e371d9614720e9da0f9ac7",
-            "message": "Refactor addall and remall command - Ensure that not removing/adding allergy is considered an exception, and should not modify the giatrosbook state (not undo/redoable) - Change the test to assert failure instead - Change the instruction for addall and remall to reflect the user guide - Change the error handling for addall and remall when only index is provided but no allergy tags",
+            "messageTitle": "Refactor addall and remall command - Ensure that not removing/adding allergy is considered an exception, and should not modify the giatrosbook state (not undo/redoable) - Change the test to assert failure instead - Change the instruction for addall and remall to reflect the user guide - Change the error handling for addall and remall when only index is provided but no allergy tags",
+            "messageBody": "",
             "insertions": 32,
             "deletions": 55
           }
@@ -1092,15 +1647,24 @@
         "commitResults": [
           {
             "hash": "baa63c60a33d45fb215362454bb28c149e31387b",
-            "message": "Change the app version",
+            "messageTitle": "Change the app version",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "0ef36747569aeecacd3c3e962a3c4495d2d4732a",
-            "message": "Remove unused import in RemallCommandTest",
+            "messageTitle": "Remove unused import in RemallCommandTest",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
+          },
+          {
+            "hash": "d507bde5f1d7aea478241e86541316783135db9a",
+            "messageTitle": "Update the documentation diagrams in developer guide",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
           }
         ]
       },
@@ -1111,86 +1675,199 @@
         "commitResults": [
           {
             "hash": "9732406e6a7bb1f7ca59e955b52d961c3caf6ef5",
-            "message": "Edit typo in documentation for add/remall",
+            "messageTitle": "Edit typo in documentation for add/remall",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 6
           }
         ]
       },
       {
-        "insertions": 475,
-        "deletions": 468,
+        "insertions": 472,
+        "deletions": 465,
         "date": "2019-04-15",
         "commitResults": [
           {
             "hash": "617c738772bec1c042cfcad90190a5a6e177730c",
-            "message": "Update user guide: new UI screenshot and authentication part",
+            "messageTitle": "Update user guide: new UI screenshot and authentication part",
+            "messageBody": "",
             "insertions": 41,
             "deletions": 2
           },
           {
             "hash": "8bcf0d88e5b9bef72dae0e760e4b1b437dadcde8",
-            "message": "Minor PPP update",
+            "messageTitle": "Minor PPP update",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c8929478776cec835bd472333a32eb9f66af1121",
-            "message": "Update developer guide: manual test, add/remall",
+            "messageTitle": "Update developer guide: manual test, add/remall",
+            "messageBody": "",
             "insertions": 340,
             "deletions": 64
           },
           {
             "hash": "93f948800e2073922a8f8969235f7357aaa5fa43",
-            "message": "Update developer guide: remall and design choice",
+            "messageTitle": "Update developer guide: remall and design choice",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 2
           },
           {
             "hash": "f75d4c38f24e329602da4b3059fd54fa880b2d8b",
-            "message": "More test for CommandResultTest",
+            "messageTitle": "More test for CommandResultTest",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 0
           },
           {
             "hash": "79816f55ae43ad2e2afd7898e32c198b21c2ccc7",
-            "message": "Fixing documentation tags, remove template PPP",
+            "messageTitle": "Fixing documentation tags, remove template PPP",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 81
           },
           {
             "hash": "57895d1b2f5d3a492beed90edf7bca7f6e5f02a2",
-            "message": "Update about us page",
+            "messageTitle": "Update about us page",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 273
           },
           {
+            "hash": "796cc97423ff22202eeea0c1a3641753d1d42ca4",
+            "messageTitle": "Edit powerpoint for diagrams and update png diagrams",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "b9786d97ab500dbd9a0f2c8cbf257efc37a034cd",
-            "message": "Update PPP",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 6
           },
           {
             "hash": "aba076eaa5e0870357838738d891538d5566bd37",
-            "message": "Remove remnants of Allergy and update about us",
+            "messageTitle": "Remove remnants of Allergy and update about us",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 34
           },
           {
-            "hash": "f4ed3d34e0f347a57101a8d6e82e92e7d0224893",
-            "message": "Update README.adoc",
+            "hash": "bc3fa3c67f219f9e52044e5db1c246dd41f94872",
+            "messageTitle": "Last minute DG change",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "Ronald Santoso": [
+      {
+        "insertions": 306,
+        "deletions": 81,
+        "date": "2019-02-15",
+        "commitResults": [
+          {
+            "hash": "6e8312fbc625edf28a709cf62c7e2888a3554802",
+            "messageTitle": "Update documentation for about us",
+            "messageBody": "- Remove template links and replace them with the correct links\n- Remove template pictures and replace them with a placeholder photo\n",
+            "insertions": 238,
+            "deletions": 31
+          },
+          {
+            "hash": "552263757bf1d095679759f758a27ec8bb5b7b2d",
+            "messageTitle": "Update documentation for contact us",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
-            "hash": "bc3fa3c67f219f9e52044e5db1c246dd41f94872",
-            "message": "Last minute DG change",
+            "hash": "539c07d258a43d08f2cd7b7b2dd5f7a231f89323",
+            "messageTitle": "Update documentation for user guide",
+            "messageBody": "- Remove references to address book and update them\n- Create a new mock-up of the GUI\n- Edit the basic features of Giatros\n",
+            "insertions": 64,
+            "deletions": 46
+          },
+          {
+            "hash": "d8babb3a97cf4ec9740637c226b6e48f2a1448df",
+            "messageTitle": "Minor edit to documentation for user guide",
+            "messageBody": "- Update repourl to the current project URL\n",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 83,
+        "deletions": 27,
+        "date": "2019-02-16",
+        "commitResults": [
+          {
+            "hash": "d260cd6bd2d06bf8735d6c581a0808c513755adc",
+            "messageTitle": "Update documentation for developer guide",
+            "messageBody": "- Update appendices: target user, value proposition, user stories, use cases, non-functional requirements\n",
+            "insertions": 83,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 216,
+        "deletions": 776,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "eadc866e2ffc73b64fe99e5837bf8a6df2d741c8",
+            "messageTitle": "Revert \"Update various documentations\"",
+            "messageBody": "",
+            "insertions": 108,
+            "deletions": 388
+          },
+          {
+            "hash": "eadc866e2ffc73b64fe99e5837bf8a6df2d741c8",
+            "messageTitle": "Revert \"Update various documentations\"",
+            "messageBody": "",
+            "insertions": 108,
+            "deletions": 388
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "f4ed3d34e0f347a57101a8d6e82e92e7d0224893",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f4ed3d34e0f347a57101a8d6e82e92e7d0224893",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "d4b919634b7d5ab9e2037b62a947aad411141d8c",
-            "message": "Update README.adoc",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d4b919634b7d5ab9e2037b62a947aad411141d8c",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1199,91 +1876,423 @@
     ]
   },
   "authorFinalContributionMap": {
-    "chuaes": 7073,
-    "sickerin": 65,
+    "chuaes": 7128,
+    "Daniel Pyone Maung": 1645,
     "radhika-lakhtakia": 364,
-    "wfxronald": 2000
+    "sickerin": 65,
+    "wfxronald": 2000,
+    "Ronald Santoso": 0
   },
-  "authorFileFormatContributionMap": {
+  "authorFileTypeContributionMap": {
     "chuaes": {
-      "adoc": 102,
-      "cs": 0,
-      "css": 1,
-      "fxml": 59,
+      "adoc": 7,
       "gradle": 3,
-      "html": 0,
-      "java": 6817,
-      "js": 0,
-      "json": 89,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
       "txt": 2,
-      "xml": 0
+      "adoc": 17,
+      "adoc": 1,
+      "adoc": 12,
+      "adoc": 2,
+      "adoc": 63,
+      "json": 46,
+      "properties": 2,
+      "java": 3,
+      "java": 43,
+      "java": 1,
+      "java": 41,
+      "java": 1,
+      "java": 17,
+      "java": 5,
+      "java": 1,
+      "java": 1,
+      "java": 61,
+      "java": 16,
+      "java": 24,
+      "java": 20,
+      "java": 15,
+      "java": 24,
+      "java": 19,
+      "java": 1,
+      "java": 1,
+      "java": 2,
+      "java": 1,
+      "java": 3,
+      "java": 1,
+      "java": 1,
+      "java": 3,
+      "java": 27,
+      "java": 1,
+      "java": 38,
+      "java": 79,
+      "java": 21,
+      "java": 5,
+      "java": 8,
+      "java": 4,
+      "java": 1,
+      "java": 16,
+      "java": 54,
+      "java": 4,
+      "java": 9,
+      "java": 3,
+      "java": 3,
+      "java": 7,
+      "java": 9,
+      "java": 15,
+      "java": 9,
+      "java": 73,
+      "java": 42,
+      "java": 71,
+      "java": 1,
+      "java": 21,
+      "java": 12,
+      "java": 1,
+      "java": 1,
+      "java": 5,
+      "java": 14,
+      "java": 28,
+      "java": 12,
+      "java": 47,
+      "java": 3,
+      "java": 19,
+      "java": 1,
+      "java": 8,
+      "java": 14,
+      "java": 61,
+      "java": 42,
+      "java": 53,
+      "java": 2,
+      "java": 88,
+      "java": 75,
+      "java": 118,
+      "java": 14,
+      "java": 3,
+      "java": 12,
+      "java": 35,
+      "java": 96,
+      "java": 59,
+      "java": 64,
+      "java": 145,
+      "java": 58,
+      "java": 31,
+      "java": 7,
+      "java": 7,
+      "java": 8,
+      "java": 3,
+      "java": 3,
+      "java": 3,
+      "java": 6,
+      "java": 18,
+      "java": 3,
+      "java": 138,
+      "java": 11,
+      "java": 6,
+      "java": 35,
+      "java": 16,
+      "java": 78,
+      "java": 17,
+      "java": 26,
+      "java": 39,
+      "java": 5,
+      "java": 9,
+      "java": 21,
+      "java": 6,
+      "java": 9,
+      "java": 5,
+      "java": 2,
+      "java": 1,
+      "java": 72,
+      "java": 16,
+      "java": 71,
+      "java": 1,
+      "java": 4,
+      "java": 1,
+      "java": 6,
+      "java": 11,
+      "java": 59,
+      "java": 62,
+      "java": 50,
+      "fxml": 34,
+      "fxml": 7,
+      "css": 1,
+      "fxml": 9,
+      "fxml": 1,
+      "fxml": 6,
+      "json": 3,
+      "json": 2,
+      "json": 12,
+      "json": 9,
+      "json": 13,
+      "json": 1,
+      "json": 1,
+      "json": 2,
+      "java": 1,
+      "java": 4,
+      "java": 10,
+      "java": 38,
+      "java": 1,
+      "java": 39,
+      "java": 160,
+      "java": 1,
+      "java": 24,
+      "java": 18,
+      "java": 26,
+      "java": 43,
+      "java": 1,
+      "java": 1,
+      "java": 8,
+      "java": 63,
+      "java": 25,
+      "java": 2,
+      "java": 2,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 3,
+      "java": 1,
+      "java": 1,
+      "java": 95,
+      "java": 22,
+      "java": 82,
+      "java": 5,
+      "java": 15,
+      "java": 1,
+      "java": 54,
+      "java": 73,
+      "java": 118,
+      "java": 16,
+      "java": 6,
+      "java": 23,
+      "java": 6,
+      "java": 5,
+      "java": 12,
+      "java": 21,
+      "java": 38,
+      "java": 17,
+      "java": 69,
+      "java": 63,
+      "java": 75,
+      "java": 45,
+      "java": 14,
+      "java": 1,
+      "java": 3,
+      "java": 16,
+      "java": 58,
+      "java": 15,
+      "java": 46,
+      "java": 11,
+      "java": 9,
+      "java": 16,
+      "java": 105,
+      "java": 67,
+      "java": 72,
+      "java": 94,
+      "java": 108,
+      "java": 4,
+      "java": 160,
+      "java": 61,
+      "java": 14,
+      "java": 29,
+      "java": 119,
+      "java": 89,
+      "java": 2,
+      "java": 2,
+      "java": 10,
+      "java": 2,
+      "java": 29,
+      "java": 2,
+      "java": 180,
+      "java": 26,
+      "java": 44,
+      "java": 57,
+      "java": 5,
+      "java": 15,
+      "java": 75,
+      "java": 1,
+      "java": 81,
+      "java": 15,
+      "java": 78,
+      "java": 20,
+      "java": 1,
+      "java": 11,
+      "java": 35,
+      "java": 6,
+      "java": 32,
+      "java": 8,
+      "java": 4,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 7,
+      "java": 64,
+      "java": 103,
+      "java": 1,
+      "java": 9,
+      "java": 1,
+      "java": 3,
+      "java": 47,
+      "java": 88,
+      "java": 66,
+      "java": 40,
+      "java": 1,
+      "java": 2,
+      "java": 85,
+      "java": 23,
+      "java": 1,
+      "java": 60,
+      "java": 110,
+      "java": 44,
+      "java": 58,
+      "java": 12,
+      "java": 10,
+      "java": 9,
+      "java": 44,
+      "java": 3,
+      "fxml": 1,
+      "fxml": 1
     },
-    "sickerin": {
-      "adoc": 65,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+    "Daniel Pyone Maung": {
+      "classpath": 30,
+      "gitignore": 2,
+      "project": 23,
+      "adoc": 40,
+      "adoc": 2,
+      "adoc": 63,
+      "json": 12,
+      "java": 9,
+      "java": 3,
+      "java": 1,
+      "java": 115,
+      "java": 34,
+      "java": 1,
+      "java": 112,
+      "java": 6,
+      "java": 1,
+      "java": 56,
+      "java": 1,
+      "java": 24,
+      "java": 11,
+      "java": 28,
+      "java": 55,
+      "java": 110,
+      "java": 23,
+      "java": 21,
+      "java": 49,
+      "java": 25,
+      "java": 35,
+      "css": 12,
+      "fxml": 2,
+      "json": 9,
+      "java": 20,
+      "java": 196,
+      "java": 12,
+      "java": 6,
+      "java": 205,
+      "java": 42,
+      "java": 48,
+      "java": 20,
+      "java": 45,
+      "java": 34,
+      "java": 12,
+      "java": 38,
+      "java": 17,
+      "java": 10,
+      "java": 1,
+      "java": 7,
+      "java": 17
     },
     "radhika-lakhtakia": {
-      "adoc": 125,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
       "gradle": 2,
-      "html": 0,
-      "java": 237,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "adoc": 49,
+      "adoc": 15,
+      "adoc": 61,
+      "java": 3,
+      "java": 107,
+      "java": 2,
+      "java": 45,
+      "java": 4,
+      "java": 14,
+      "java": 3,
+      "java": 59
+    },
+    "sickerin": {
+      "adoc": 65
     },
     "wfxronald": {
-      "adoc": 602,
-      "cs": 0,
-      "css": 80,
-      "fxml": 0,
       "gradle": 4,
+      "adoc": 1,
+      "adoc": 376,
+      "adoc": 162,
+      "adoc": 63,
+      "java": 1,
+      "java": 4,
+      "java": 105,
+      "java": 13,
+      "java": 110,
+      "java": 5,
+      "java": 42,
+      "java": 1,
+      "java": 13,
+      "java": 5,
+      "java": 16,
+      "java": 47,
+      "java": 54,
+      "java": 8,
+      "java": 6,
+      "java": 48,
+      "java": 4,
+      "java": 15,
+      "java": 26,
+      "css": 80,
       "html": 5,
-      "java": 1301,
-      "js": 0,
-      "json": 8,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+      "json": 3,
+      "json": 2,
+      "json": 3,
+      "java": 6,
+      "java": 187,
+      "java": 10,
+      "java": 3,
+      "java": 3,
+      "java": 195,
+      "java": 11,
+      "java": 49,
+      "java": 30,
+      "java": 19,
+      "java": 26,
+      "java": 54,
+      "java": 5,
+      "java": 26,
+      "java": 33,
+      "java": 8,
+      "java": 5,
+      "java": 7,
+      "java": 6,
+      "java": 13,
+      "java": 10,
+      "java": 5,
+      "java": 11,
+      "java": 8,
+      "java": 1,
+      "java": 3,
+      "java": 14,
+      "java": 20,
+      "java": 4,
+      "java": 6
+    },
+    "Ronald Santoso": {}
   },
   "authorContributionVariance": {
-    "chuaes": 550183.6,
-    "sickerin": 97.03764,
+    "chuaes": 555120.5,
+    "Daniel Pyone Maung": 33291.355,
     "radhika-lakhtakia": 6146.56,
-    "wfxronald": 59672.26
+    "sickerin": 97.03764,
+    "wfxronald": 59884.77,
+    "Ronald Santoso": 17098.695
   },
   "authorDisplayNameMap": {
-    "chuaes": "CHU...OON",
-    "sickerin": "DAN...UNG",
-    "radhika-lakhtakia": "LAK...IKA",
-    "wfxronald": "RON...OSO"
+    "chuaes": "chuaes",
+    "Daniel Pyone Maung": "Daniel Pyone Maung",
+    "radhika-lakhtakia": "radhika-lakhtakia",
+    "sickerin": "sickerin",
+    "wfxronald": "wfxronald",
+    "Ronald Santoso": "Ronald Santoso"
   }
 }

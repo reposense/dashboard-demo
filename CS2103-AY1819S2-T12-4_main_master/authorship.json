@@ -1,6 +1,363 @@
 [
   {
+    "path": ".gitignore",
+    "fileType": "gitignore",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "build/"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".gradle/"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".checkstyle"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".settings/"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".idea/"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "lib/*"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.iml"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.log"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.log.*"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.csv"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "lormee94"
+        },
+        "content": "/config.json"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "src/test/data/sandbox/"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "preferences.json"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".DS_Store"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "./screenshot*.png"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "classes/"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/data/"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/bin/"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "src/main/resources/docs/"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "out/"
+      }
+    ],
+    "authorContributionMap": {
+      "lormee94": 1,
+      "-": 19
+    }
+  },
+  {
+    "path": ".travis.yml",
+    "fileType": "yml",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "language: java"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "matrix:"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  include:"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    - jdk: oraclejdk9"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "script: \u003e-"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  ./config/travis/run-checks.sh \u0026\u0026"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "ptvrajsk"
+        },
+        "content": "  ./gradlew clean checkstyleMain checkstyleTest headless allTests coverage coveralls asciidoctor"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "deploy:"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  skip_cleanup: true"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  provider: script"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  script: ./config/travis/deploy_github_pages.sh"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  on:"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    branch: master"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "addons:"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  apt:"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    packages:"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "      - oracle-java9-installer"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "before_cache:"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "cache:"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  directories:"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    - $HOME/.gradle/caches/"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    - $HOME/.gradle/wrapper/"
+      }
+    ],
+    "authorContributionMap": {
+      "ptvrajsk": 1,
+      "-": 27
+    }
+  },
+  {
     "path": "README.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -283,6 +640,7 @@
   },
   {
     "path": "_reposense/config.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -473,6 +831,7 @@
   },
   {
     "path": "build.gradle",
+    "fileType": "gradle",
     "lines": [
       {
         "lineNumber": 1,
@@ -2143,6 +2502,7 @@
   },
   {
     "path": "docs/AboutUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -2525,6 +2885,7 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -17706,6 +18067,7 @@
   },
   {
     "path": "docs/UserGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -23038,6 +23400,7 @@
   },
   {
     "path": "docs/UsingGradle.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -23838,6 +24201,7 @@
   },
   {
     "path": "docs/diagrams/AddCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23853,6 +24217,7 @@
   },
   {
     "path": "docs/diagrams/ArchitectureDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23868,6 +24233,7 @@
   },
   {
     "path": "docs/diagrams/ClearCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23883,6 +24249,7 @@
   },
   {
     "path": "docs/diagrams/DeadlineClassDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23905,6 +24272,7 @@
   },
   {
     "path": "docs/diagrams/DeadlineCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23920,6 +24288,7 @@
   },
   {
     "path": "docs/diagrams/DeadlineCommandSequenceDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23935,6 +24304,7 @@
   },
   {
     "path": "docs/diagrams/DecryptCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23950,6 +24320,7 @@
   },
   {
     "path": "docs/diagrams/DecryptCommandSequenceDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23965,6 +24336,7 @@
   },
   {
     "path": "docs/diagrams/DeleteCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23980,6 +24352,7 @@
   },
   {
     "path": "docs/diagrams/DeleteCommandSequenceDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -23995,6 +24368,7 @@
   },
   {
     "path": "docs/diagrams/EncryptCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24010,6 +24384,7 @@
   },
   {
     "path": "docs/diagrams/EncryptCommandSequenceDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24025,6 +24400,7 @@
   },
   {
     "path": "docs/diagrams/FindCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24040,6 +24416,7 @@
   },
   {
     "path": "docs/diagrams/FindCommandSequenceDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24055,6 +24432,7 @@
   },
   {
     "path": "docs/diagrams/LogicClassDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24070,6 +24448,7 @@
   },
   {
     "path": "docs/diagrams/MergeCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24085,6 +24464,7 @@
   },
   {
     "path": "docs/diagrams/MergeCommandSequenceDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24100,6 +24480,7 @@
   },
   {
     "path": "docs/diagrams/ModelComponentClassBetterOopDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24115,6 +24496,7 @@
   },
   {
     "path": "docs/diagrams/ModelComponentClassDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24130,6 +24512,7 @@
   },
   {
     "path": "docs/diagrams/MoveCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24145,6 +24528,7 @@
   },
   {
     "path": "docs/diagrams/OpenCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24160,6 +24544,7 @@
   },
   {
     "path": "docs/diagrams/PdfClassDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24175,6 +24560,7 @@
   },
   {
     "path": "docs/diagrams/RenameCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24190,6 +24576,7 @@
   },
   {
     "path": "docs/diagrams/SDforDeletePdf.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24205,6 +24592,7 @@
   },
   {
     "path": "docs/diagrams/StorageComponentClassDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24220,6 +24608,7 @@
   },
   {
     "path": "docs/diagrams/UIComponentClassDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24235,6 +24624,7 @@
   },
   {
     "path": "docs/images/FindCommandActivityDiagram.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -24250,6 +24640,7 @@
   },
   {
     "path": "docs/team/jetkan-yk.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -25462,6 +25853,7 @@
   },
   {
     "path": "docs/team/lormee94.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -27264,6 +27656,7 @@
   },
   {
     "path": "docs/team/ptvrajsk.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -29246,6 +29639,7 @@
   },
   {
     "path": "docs/team/weitanglau.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -32025,7 +32419,1872 @@
     }
   },
   {
+    "path": "gradle/wrapper/gradle-wrapper.properties",
+    "fileType": "properties",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "jetkan-yk"
+        },
+        "content": "#Mon Apr 15 00:08:12 SGT 2019"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "distributionBase\u003dGRADLE_USER_HOME"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "distributionPath\u003dwrapper/dists"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "zipStoreBase\u003dGRADLE_USER_HOME"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "zipStorePath\u003dwrapper/dists"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "jetkan-yk"
+        },
+        "content": "distributionUrl\u003dhttps\\://services.gradle.org/distributions/gradle-4.8.1-all.zip"
+      }
+    ],
+    "authorContributionMap": {
+      "-": 4,
+      "jetkan-yk": 2
+    }
+  },
+  {
+    "path": "gradlew",
+    "fileType": "gradlew",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "#!/usr/bin/env sh"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "##############################################################################"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "##"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "##  Gradle start up script for UN*X"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "##"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "##############################################################################"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# Attempt to set APP_HOME"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# Resolve links: $0 may be a link"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "PRG\u003d\"$0\""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# Need this for relative symlinks."
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "while [ -h \"$PRG\" ] ; do"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    ls\u003d`ls -ld \"$PRG\"`"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    link\u003d`expr \"$ls\" : \u0027.*-\u003e \\(.*\\)$\u0027`"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    if expr \"$link\" : \u0027/.*\u0027 \u003e /dev/null; then"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        PRG\u003d\"$link\""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    else"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        PRG\u003d`dirname \"$PRG\"`\"/$link\""
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    fi"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "done"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "SAVED\u003d\"`pwd`\""
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "cd \"`dirname \\\"$PRG\\\"`/\" \u003e/dev/null"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "APP_HOME\u003d\"`pwd -P`\""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "cd \"$SAVED\" \u003e/dev/null"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "APP_NAME\u003d\"Gradle\""
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "APP_BASE_NAME\u003d`basename \"$0\"`"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script."
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "DEFAULT_JVM_OPTS\u003d\"\""
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# Use the maximum available, or set MAX_FD !\u003d -1 to use that value."
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "MAX_FD\u003d\"maximum\""
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "warn () {"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    echo \"$*\""
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "}"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "die () {"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    echo"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    echo \"$*\""
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    echo"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    exit 1"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "}"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# OS specific support (must be \u0027true\u0027 or \u0027false\u0027)."
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "cygwin\u003dfalse"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "msys\u003dfalse"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "darwin\u003dfalse"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "nonstop\u003dfalse"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "case \"`uname`\" in"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  CYGWIN* )"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    cygwin\u003dtrue"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    ;;"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  Darwin* )"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    darwin\u003dtrue"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    ;;"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  MINGW* )"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    msys\u003dtrue"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    ;;"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  NONSTOP* )"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    nonstop\u003dtrue"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    ;;"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "esac"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "CLASSPATH\u003d$APP_HOME/gradle/wrapper/gradle-wrapper.jar"
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# Determine the Java command to use to start the JVM."
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if [ -n \"$JAVA_HOME\" ] ; then"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    if [ -x \"$JAVA_HOME/jre/sh/java\" ] ; then"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        # IBM\u0027s JDK on AIX uses strange locations for the executables"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        JAVACMD\u003d\"$JAVA_HOME/jre/sh/java\""
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    else"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        JAVACMD\u003d\"$JAVA_HOME/bin/java\""
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    fi"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    if [ ! -x \"$JAVACMD\" ] ; then"
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        die \"ERROR: JAVA_HOME is set to an invalid directory: $JAVA_HOME"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Please set the JAVA_HOME variable in your environment to match the"
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "WeiTangLau"
+        },
+        "content": "directory of your Java installation.\""
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    fi"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "else"
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    JAVACMD\u003d\"java\""
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    which java \u003e/dev/null 2\u003e\u00261 || die \"ERROR: JAVA_HOME is not set and no \u0027java\u0027 command could be found in your PATH."
+      },
+      {
+        "lineNumber": 86,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 87,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Please set the JAVA_HOME variable in your environment to match the"
+      },
+      {
+        "lineNumber": 88,
+        "author": {
+          "gitId": "WeiTangLau"
+        },
+        "content": "directory of your Java installation.\""
+      },
+      {
+        "lineNumber": 89,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "fi"
+      },
+      {
+        "lineNumber": 90,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 91,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# Increase the maximum file descriptors if we can."
+      },
+      {
+        "lineNumber": 92,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if [ \"$cygwin\" \u003d \"false\" -a \"$darwin\" \u003d \"false\" -a \"$nonstop\" \u003d \"false\" ] ; then"
+      },
+      {
+        "lineNumber": 93,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    MAX_FD_LIMIT\u003d`ulimit -H -n`"
+      },
+      {
+        "lineNumber": 94,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    if [ $? -eq 0 ] ; then"
+      },
+      {
+        "lineNumber": 95,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        if [ \"$MAX_FD\" \u003d \"maximum\" -o \"$MAX_FD\" \u003d \"max\" ] ; then"
+      },
+      {
+        "lineNumber": 96,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            MAX_FD\u003d\"$MAX_FD_LIMIT\""
+      },
+      {
+        "lineNumber": 97,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        fi"
+      },
+      {
+        "lineNumber": 98,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        ulimit -n $MAX_FD"
+      },
+      {
+        "lineNumber": 99,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        if [ $? -ne 0 ] ; then"
+      },
+      {
+        "lineNumber": 100,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            warn \"Could not set maximum file descriptor limit: $MAX_FD\""
+      },
+      {
+        "lineNumber": 101,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        fi"
+      },
+      {
+        "lineNumber": 102,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    else"
+      },
+      {
+        "lineNumber": 103,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        warn \"Could not query maximum file descriptor limit: $MAX_FD_LIMIT\""
+      },
+      {
+        "lineNumber": 104,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    fi"
+      },
+      {
+        "lineNumber": 105,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "fi"
+      },
+      {
+        "lineNumber": 106,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 107,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# For Darwin, add options to specify how the application appears in the dock"
+      },
+      {
+        "lineNumber": 108,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if $darwin; then"
+      },
+      {
+        "lineNumber": 109,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    GRADLE_OPTS\u003d\"$GRADLE_OPTS \\\"-Xdock:name\u003d$APP_NAME\\\" \\\"-Xdock:icon\u003d$APP_HOME/media/gradle.icns\\\"\""
+      },
+      {
+        "lineNumber": 110,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "fi"
+      },
+      {
+        "lineNumber": 111,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 112,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# For Cygwin, switch paths to Windows format before running java"
+      },
+      {
+        "lineNumber": 113,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if $cygwin ; then"
+      },
+      {
+        "lineNumber": 114,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    APP_HOME\u003d`cygpath --path --mixed \"$APP_HOME\"`"
+      },
+      {
+        "lineNumber": 115,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    CLASSPATH\u003d`cygpath --path --mixed \"$CLASSPATH\"`"
+      },
+      {
+        "lineNumber": 116,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    JAVACMD\u003d`cygpath --unix \"$JAVACMD\"`"
+      },
+      {
+        "lineNumber": 117,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 118,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    # We build the pattern for arguments to be converted via cygpath"
+      },
+      {
+        "lineNumber": 119,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    ROOTDIRSRAW\u003d`find -L / -maxdepth 1 -mindepth 1 -type d 2\u003e/dev/null`"
+      },
+      {
+        "lineNumber": 120,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    SEP\u003d\"\""
+      },
+      {
+        "lineNumber": 121,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    for dir in $ROOTDIRSRAW ; do"
+      },
+      {
+        "lineNumber": 122,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        ROOTDIRS\u003d\"$ROOTDIRS$SEP$dir\""
+      },
+      {
+        "lineNumber": 123,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        SEP\u003d\"|\""
+      },
+      {
+        "lineNumber": 124,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    done"
+      },
+      {
+        "lineNumber": 125,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    OURCYGPATTERN\u003d\"(^($ROOTDIRS))\""
+      },
+      {
+        "lineNumber": 126,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    # Add a user-defined pattern to the cygpath arguments"
+      },
+      {
+        "lineNumber": 127,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    if [ \"$GRADLE_CYGPATTERN\" !\u003d \"\" ] ; then"
+      },
+      {
+        "lineNumber": 128,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        OURCYGPATTERN\u003d\"$OURCYGPATTERN|($GRADLE_CYGPATTERN)\""
+      },
+      {
+        "lineNumber": 129,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    fi"
+      },
+      {
+        "lineNumber": 130,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    # Now convert the arguments - kludge to limit ourselves to /bin/sh"
+      },
+      {
+        "lineNumber": 131,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    i\u003d0"
+      },
+      {
+        "lineNumber": 132,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    for arg in \"$@\" ; do"
+      },
+      {
+        "lineNumber": 133,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        CHECK\u003d`echo \"$arg\"|egrep -c \"$OURCYGPATTERN\" -`"
+      },
+      {
+        "lineNumber": 134,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        CHECK2\u003d`echo \"$arg\"|egrep -c \"^-\"`                                 ### Determine if an option"
+      },
+      {
+        "lineNumber": 135,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 136,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        if [ $CHECK -ne 0 ] \u0026\u0026 [ $CHECK2 -eq 0 ] ; then                    ### Added a condition"
+      },
+      {
+        "lineNumber": 137,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            eval `echo args$i`\u003d`cygpath --path --ignore --mixed \"$arg\"`"
+      },
+      {
+        "lineNumber": 138,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        else"
+      },
+      {
+        "lineNumber": 139,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            eval `echo args$i`\u003d\"\\\"$arg\\\"\""
+      },
+      {
+        "lineNumber": 140,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        fi"
+      },
+      {
+        "lineNumber": 141,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        i\u003d$((i+1))"
+      },
+      {
+        "lineNumber": 142,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    done"
+      },
+      {
+        "lineNumber": 143,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    case $i in"
+      },
+      {
+        "lineNumber": 144,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (0) set -- ;;"
+      },
+      {
+        "lineNumber": 145,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (1) set -- \"$args0\" ;;"
+      },
+      {
+        "lineNumber": 146,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (2) set -- \"$args0\" \"$args1\" ;;"
+      },
+      {
+        "lineNumber": 147,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (3) set -- \"$args0\" \"$args1\" \"$args2\" ;;"
+      },
+      {
+        "lineNumber": 148,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (4) set -- \"$args0\" \"$args1\" \"$args2\" \"$args3\" ;;"
+      },
+      {
+        "lineNumber": 149,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (5) set -- \"$args0\" \"$args1\" \"$args2\" \"$args3\" \"$args4\" ;;"
+      },
+      {
+        "lineNumber": 150,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (6) set -- \"$args0\" \"$args1\" \"$args2\" \"$args3\" \"$args4\" \"$args5\" ;;"
+      },
+      {
+        "lineNumber": 151,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (7) set -- \"$args0\" \"$args1\" \"$args2\" \"$args3\" \"$args4\" \"$args5\" \"$args6\" ;;"
+      },
+      {
+        "lineNumber": 152,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (8) set -- \"$args0\" \"$args1\" \"$args2\" \"$args3\" \"$args4\" \"$args5\" \"$args6\" \"$args7\" ;;"
+      },
+      {
+        "lineNumber": 153,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        (9) set -- \"$args0\" \"$args1\" \"$args2\" \"$args3\" \"$args4\" \"$args5\" \"$args6\" \"$args7\" \"$args8\" ;;"
+      },
+      {
+        "lineNumber": 154,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    esac"
+      },
+      {
+        "lineNumber": 155,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "fi"
+      },
+      {
+        "lineNumber": 156,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 157,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# Escape application args"
+      },
+      {
+        "lineNumber": 158,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "save () {"
+      },
+      {
+        "lineNumber": 159,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    for i do printf %s\\\\n \"$i\" | sed \"s/\u0027/\u0027\\\\\\\\\u0027\u0027/g;1s/^/\u0027/;\\$s/\\$/\u0027 \\\\\\\\/\" ; done"
+      },
+      {
+        "lineNumber": 160,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    echo \" \""
+      },
+      {
+        "lineNumber": 161,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "}"
+      },
+      {
+        "lineNumber": 162,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "APP_ARGS\u003d$(save \"$@\")"
+      },
+      {
+        "lineNumber": 163,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 164,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# Collect all arguments for the java command, following the shell quoting and substitution rules"
+      },
+      {
+        "lineNumber": 165,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "eval set -- $DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS \"\\\"-Dorg.gradle.appname\u003d$APP_BASE_NAME\\\"\" -classpath \"\\\"$CLASSPATH\\\"\" org.gradle.wrapper.GradleWrapperMain \"$APP_ARGS\""
+      },
+      {
+        "lineNumber": 166,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 167,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "# by default we should be in the correct project dir, but when run from Finder on Mac, the cwd is wrong"
+      },
+      {
+        "lineNumber": 168,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if [ \"$(uname)\" \u003d \"Darwin\" ] \u0026\u0026 [ \"$HOME\" \u003d \"$PWD\" ]; then"
+      },
+      {
+        "lineNumber": 169,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "  cd \"$(dirname \"$0\")\""
+      },
+      {
+        "lineNumber": 170,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "fi"
+      },
+      {
+        "lineNumber": 171,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 172,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "exec \"$JAVACMD\" \"$@\""
+      }
+    ],
+    "authorContributionMap": {
+      "WeiTangLau": 2,
+      "-": 170
+    }
+  },
+  {
+    "path": "gradlew.bat",
+    "fileType": "bat",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@if \"%DEBUG%\" \u003d\u003d \"\" @echo off"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem ##########################################################################"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem  Gradle startup script for Windows"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem ##########################################################################"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem Set local scope for the variables with windows NT shell"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if \"%OS%\"\u003d\u003d\"Windows_NT\" setlocal"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set DIRNAME\u003d%~dp0"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if \"%DIRNAME%\" \u003d\u003d \"\" set DIRNAME\u003d."
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set APP_BASE_NAME\u003d%~n0"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set APP_HOME\u003d%DIRNAME%"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script."
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set DEFAULT_JVM_OPTS\u003d"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem Find java.exe"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if defined JAVA_HOME goto findJavaFromJavaHome"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set JAVA_EXE\u003djava.exe"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "%JAVA_EXE% -version \u003eNUL 2\u003e\u00261"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if \"%ERRORLEVEL%\" \u003d\u003d \"0\" goto init"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "echo."
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "echo ERROR: JAVA_HOME is not set and no \u0027java\u0027 command could be found in your PATH."
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "echo."
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "echo Please set the JAVA_HOME variable in your environment to match the"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "WeiTangLau"
+        },
+        "content": "echo directory of your Java installation."
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "goto fail"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":findJavaFromJavaHome"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set JAVA_HOME\u003d%JAVA_HOME:\"\u003d%"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set JAVA_EXE\u003d%JAVA_HOME%/bin/java.exe"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if exist \"%JAVA_EXE%\" goto init"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "echo."
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "echo ERROR: JAVA_HOME is set to an invalid directory: %JAVA_HOME%"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "echo."
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "echo Please set the JAVA_HOME variable in your environment to match the"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "WeiTangLau"
+        },
+        "content": "echo directory of your Java installation."
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "goto fail"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":init"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem Get command-line arguments, handling Windows variants"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if not \"%OS%\" \u003d\u003d \"Windows_NT\" goto win9xME_args"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":win9xME_args"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem Slurp the command line arguments."
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set CMD_LINE_ARGS\u003d"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set _SKIP\u003d2"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":win9xME_args_slurp"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if \"x%~1\" \u003d\u003d \"x\" goto execute"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set CMD_LINE_ARGS\u003d%*"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":execute"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem Setup the command line"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "set CLASSPATH\u003d%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem Execute Gradle"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\"%JAVA_EXE%\" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %GRADLE_OPTS% \"-Dorg.gradle.appname\u003d%APP_BASE_NAME%\" -classpath \"%CLASSPATH%\" org.gradle.wrapper.GradleWrapperMain %CMD_LINE_ARGS%"
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":end"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "@rem End local scope for the variables with windows NT shell"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if \"%ERRORLEVEL%\"\u003d\u003d\"0\" goto mainEnd"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":fail"
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "rem Set variable GRADLE_EXIT_CONSOLE if you need the _script_ return code instead of"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "rem the _cmd.exe /c_ return code!"
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if  not \"\" \u003d\u003d \"%GRADLE_EXIT_CONSOLE%\" exit 1"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "exit /b 1"
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":mainEnd"
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "if \"%OS%\"\u003d\u003d\"Windows_NT\" endlocal"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ":omega"
+      }
+    ],
+    "authorContributionMap": {
+      "WeiTangLau": 2,
+      "-": 82
+    }
+  },
+  {
     "path": "src/main/java/seedu/pdf/AppParameters.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32484,6 +34743,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/MainApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33804,6 +36064,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/core/Config.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34255,6 +36516,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/core/GuiSettings.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34775,6 +37037,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/core/LogsCenter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35568,6 +37831,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/core/Messages.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35684,6 +37948,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/core/Version.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36484,6 +38749,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/core/index/Index.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36871,6 +39137,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/exceptions/DataConversionException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36957,6 +39224,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/exceptions/IllegalValueException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37113,6 +39381,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/util/AppUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37395,6 +39664,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/util/CollectionUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37649,6 +39919,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/util/ConfigUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37819,6 +40090,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/util/FileUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38410,6 +40682,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/util/InvalidationListenerManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38783,6 +41056,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/util/JsonUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39793,6 +42067,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/commons/util/StringUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40687,6 +42962,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/CommandHistory.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41181,6 +43457,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/Logic.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41752,6 +44029,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/LogicManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42708,6 +44986,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/AddCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43314,6 +45593,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/ClearCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43492,6 +45772,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/Command.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43655,6 +45936,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/CommandResult.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44161,6 +46443,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/DeadlineCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45088,6 +47371,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/DecryptCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45924,6 +48208,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/DeleteCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46559,6 +48844,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/EncryptCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47402,6 +49688,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/ExitCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47551,6 +49838,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/FilterCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47861,6 +50149,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/FindCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48173,6 +50462,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/HelpCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48336,6 +50626,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/HistoryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48576,6 +50867,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/ListCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48762,6 +51054,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/MergeCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49640,6 +51933,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/MoveCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50407,6 +52701,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/OpenCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50922,6 +53217,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/RedoCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51149,6 +53445,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/RenameCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52715,6 +55012,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/SelectCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53110,6 +55408,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/SortCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53477,6 +55776,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/TagCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54250,6 +56550,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/UndoCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54477,6 +56778,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/commands/exceptions/CommandException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54606,6 +56908,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/AddCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55128,6 +57431,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/AddGuiParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55417,6 +57721,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/ArgumentMultimap.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55930,6 +58235,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/ArgumentTokenizer.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56975,6 +59281,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/CliSyntax.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57350,6 +59657,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/DeadlineCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57822,6 +60130,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/DecryptCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58160,6 +60469,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/DeleteCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58479,6 +60789,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/EncryptCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58845,6 +61156,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/FilterCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59135,6 +61447,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/FindCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59390,6 +61703,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/MergeCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59630,6 +61944,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/MoveCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60215,6 +62530,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/MoveGuiParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60462,6 +62778,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/OpenCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60723,6 +63040,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/Parser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60844,6 +63162,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/ParserUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61927,6 +64246,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/PdfBookParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -62778,6 +65098,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/Prefix.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63060,6 +65381,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/RenameCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63553,6 +65875,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/SelectCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63758,6 +66081,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/SortCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64237,6 +66561,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/TagCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64729,6 +67054,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/logic/parser/exceptions/ParseException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64857,6 +67183,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/Model.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65946,6 +68273,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/ModelManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -67608,6 +69936,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/PdfBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68626,6 +70955,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/ReadOnlyPdfBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68762,6 +71092,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/ReadOnlyUserPrefs.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68884,6 +71215,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/UserPrefs.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69504,6 +71836,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/VersionedPdfBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70292,6 +72625,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/Deadline.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71625,6 +73959,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/Directory.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72104,6 +74439,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/Name.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72606,6 +74942,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/NameContainsKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72840,6 +75177,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/Pdf.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74118,6 +76456,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/Size.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74828,6 +77167,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/TagContainsKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75124,6 +77464,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/UniquePdfList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76093,6 +78434,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/exceptions/DuplicatePdfException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76180,6 +78522,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/pdf/exceptions/PdfNotFoundException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76232,6 +78575,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/tag/Tag.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76619,6 +78963,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/model/util/SampleDataUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77015,6 +79360,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/storage/JsonAdaptedPdf.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77817,6 +80163,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/storage/JsonAdaptedTag.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78162,6 +80509,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/storage/JsonPdfBookStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78733,6 +81081,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/storage/JsonSerializablePdfBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79164,6 +81513,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/storage/JsonUserPrefsStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79502,6 +81852,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/storage/PdfBookStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79835,6 +82186,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/storage/Storage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80069,6 +82421,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/storage/StorageManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80619,6 +82972,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/storage/UserPrefsStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80881,6 +83235,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/BrowserPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81858,6 +84213,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/CommandBox.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82945,6 +85301,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/HelpWindow.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83592,6 +85949,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/ListElementPointer.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84378,6 +86736,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/MainWindow.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85803,6 +88162,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/PdfCard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86626,6 +88986,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/PdfListPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87133,6 +89494,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/ResultDisplay.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87338,6 +89700,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/StatusBarFooter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87831,6 +90194,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/Ui.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87931,6 +90295,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/UiManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88542,6 +90907,7 @@
   },
   {
     "path": "src/main/java/seedu/pdf/ui/UiPart.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89168,6 +91534,7 @@
   },
   {
     "path": "src/main/resources/view/BrowserPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -89388,6 +91755,7 @@
   },
   {
     "path": "src/main/resources/view/DarkTheme.css",
+    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -91995,6 +94363,7 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -92482,6 +94851,7 @@
   },
   {
     "path": "src/main/resources/view/PdfListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -92792,6 +95162,7 @@
   },
   {
     "path": "src/main/resources/view/PdfListPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -92857,6 +95228,7 @@
   },
   {
     "path": "src/main/resources/view/default.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -93027,6 +95399,7 @@
   },
   {
     "path": "src/test/data/JsonPdfBookStorageTest/invalidAndValidPdfPdfBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -93126,6 +95499,7 @@
   },
   {
     "path": "src/test/data/JsonPdfBookStorageTest/invalidPdfPdfBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -93190,6 +95564,7 @@
   },
   {
     "path": "src/test/data/JsonUserPrefsStorageTest/ExtraValuesUserPref.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -93290,6 +95665,7 @@
   },
   {
     "path": "src/test/data/JsonUserPrefsStorageTest/TypicalUserPref.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -93376,6 +95752,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/AlertDialogHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93609,6 +95986,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/MainWindowHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93975,6 +96353,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/PdfCardHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94574,6 +96953,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/PdfListPanelHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95698,6 +98078,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/StageHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96148,6 +98529,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/AppParametersTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96563,6 +98945,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/TestApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97335,6 +99718,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/core/ConfigTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97561,6 +99945,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/core/VersionTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98543,6 +100928,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/core/index/IndexTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99196,6 +101582,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/util/AppUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99534,6 +101921,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/util/CollectionUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100362,6 +102750,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/util/ConfigUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101274,6 +103663,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/util/FileUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101451,6 +103841,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/util/InvalidationListenerManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101964,6 +104355,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/util/JsonUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102288,6 +104680,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/commons/util/StringUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103473,6 +105866,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/CommandHistoryTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -104035,6 +106429,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/LogicManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105346,6 +107741,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/AddCommandIntegrationTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105697,6 +108093,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/AddCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107668,6 +110065,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/ClearCommandIntegrationTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107914,6 +110312,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/ClearCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108188,6 +110587,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/CommandResultTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108694,6 +111094,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/CommandTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110543,6 +112944,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/DeadlineCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111615,6 +114017,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/DecryptCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112897,6 +115300,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/DeleteCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114851,6 +117255,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/EditPdfDescriptorTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -115153,6 +117558,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/EncryptCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -116519,6 +118925,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/ExitCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -116689,6 +119096,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/FindCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -117279,6 +119687,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/HelpCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -117442,6 +119851,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/HistoryCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -117724,6 +120134,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/ListCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118020,6 +120431,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/MergeCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119246,6 +121658,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/RedoCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119597,6 +122010,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/RenameCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -121642,6 +124056,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/SelectCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122407,6 +124822,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/SortCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122534,6 +124950,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/TagCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -123347,6 +125764,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/commands/UndoCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -123670,6 +126088,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/AddCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -124150,6 +126569,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/ArgumentTokenizerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125209,6 +127629,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/CommandParserTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125484,6 +127905,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/DeadlineCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -126102,6 +128524,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/DecryptCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -126699,6 +129122,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/DeleteCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127074,6 +129498,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/EncryptCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127692,6 +130117,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/FindCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127939,6 +130365,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/MergeCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128557,6 +130984,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/ParserUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -130052,6 +132480,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/PdfBookParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131758,6 +134187,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/RenameCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -132580,6 +135010,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/SelectCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -132793,6 +135224,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/logic/parser/TagCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133342,6 +135774,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/ModelManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -134981,6 +137414,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/PdfBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135962,6 +138396,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/UserPrefsTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -136118,6 +138553,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/VersionedPdfBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138212,6 +140648,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/pdf/DeadlineTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -139382,6 +141819,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/pdf/DirectoryTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -139922,6 +142360,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/pdf/NameContainsKeywordsPredicateTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -140484,6 +142923,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/pdf/NameTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -141052,6 +143492,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/pdf/PdfTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -141914,6 +144355,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/pdf/SizeTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -142916,6 +145358,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/pdf/TagContainsKeywordsPredicateTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -143463,6 +145906,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/pdf/UniquePdfListTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -144766,6 +147210,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/model/tag/TagTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -145048,6 +147493,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/storage/JsonAdaptedPdfTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -145959,6 +148405,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/storage/JsonPdfBookStorageTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -146842,6 +149289,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/storage/JsonUserPrefsStorageTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -147803,6 +150251,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/storage/StorageManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148302,6 +150751,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/testutil/Assert.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148682,6 +151132,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/testutil/EditPdfDescriptorBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -149152,6 +151603,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/testutil/PdfBookBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -149398,6 +151850,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/testutil/PdfBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150197,6 +152650,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/testutil/PdfUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151017,6 +153471,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/testutil/SerializableTestClass.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151530,6 +153985,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/testutil/TestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151924,6 +154380,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/testutil/TypicalIndexes.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152016,6 +154473,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/testutil/TypicalPdfs.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -153928,6 +156386,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/BrowserPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154233,6 +156692,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/CommandBoxTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -155355,6 +157815,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/GuiUnitTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -155582,6 +158043,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/HelpWindowTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -156102,6 +158564,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/ListElementPointerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -157336,6 +159799,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/MainWindowCloseTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -158032,6 +160496,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/PdfCardTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -158561,6 +161026,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/PdfListPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -159287,6 +161753,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/ResultDisplayTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -159541,6 +162008,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/StatusBarFooterTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -160076,6 +162544,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/TestFxmlObject.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -160330,6 +162799,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/UiPartTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161165,6 +163635,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/testutil/GuiTestAssert.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161670,6 +164141,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/testutil/StageRule.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161917,6 +164389,7 @@
   },
   {
     "path": "src/test/java/seedu/pdf/ui/testutil/UiPartRule.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -162129,6 +164602,7 @@
   },
   {
     "path": "src/test/java/systemtests/AddCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -163044,6 +165518,7 @@
   },
   {
     "path": "src/test/java/systemtests/ClearCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -163761,6 +166236,7 @@
   },
   {
     "path": "src/test/java/systemtests/ClockRule.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -164169,6 +166645,7 @@
   },
   {
     "path": "src/test/java/systemtests/DeleteCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -165531,6 +168008,7 @@
   },
   {
     "path": "src/test/java/systemtests/HelpCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -166291,6 +168769,7 @@
   },
   {
     "path": "src/test/java/systemtests/ModelHelper.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -166573,6 +169052,7 @@
   },
   {
     "path": "src/test/java/systemtests/PdfBookSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -168593,6 +171073,7 @@
   },
   {
     "path": "src/test/java/systemtests/SampleDataTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -168960,6 +171441,7 @@
   },
   {
     "path": "src/test/java/systemtests/SelectCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -170050,6 +172532,7 @@
   },
   {
     "path": "src/test/java/systemtests/SystemTestSetupHelper.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -170577,6 +173060,7 @@
   },
   {
     "path": "src/test/resources/view/UiPartTest/validFile.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -170614,6 +173098,7 @@
   },
   {
     "path": "src/test/resources/view/UiPartTest/validFileWithFxRoot.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,

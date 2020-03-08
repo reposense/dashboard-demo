@@ -1,6 +1,7 @@
 [
   {
     "path": "README.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -33,7 +34,7 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -230,11 +231,13 @@
     "authorContributionMap": {
       "roanurquhart": 3,
       "FanDongzhe": 1,
-      "-": 28
+      "Roan Urquhart": 1,
+      "-": 27
     }
   },
   {
     "path": "build.gradle",
+    "fileType": "gradle",
     "lines": [
       {
         "lineNumber": 1,
@@ -1903,6 +1906,7 @@
   },
   {
     "path": "docs/AboutUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -2047,14 +2051,14 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "Zhang Jiayu"
         },
         "content": "\u003d\u003d\u003d Jiayu Zhang"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "Zhang Jiayu"
         },
         "content": "image::zhangjiayu0303.png[width\u003d\"150\", align\u003d\"left\"]"
       },
@@ -2173,14 +2177,14 @@
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Roan Urquhart"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "image::roanurquhart.png[width\u003d\"150\", align\u003d\"left\"]"
       },
@@ -2238,17 +2242,20 @@
       "roanurquhart": 1,
       "ZhangJiayu0303": 7,
       "FanDongzhe": 2,
-      "-": 30,
+      "Roan Urquhart": 2,
+      "Zhang Jiayu": 2,
+      "-": 26,
       "jkhiani": 7
     }
   },
   {
     "path": "docs/DeveloperGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d Marketing Morph - Developer Guide"
       },
@@ -2367,7 +2374,7 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "By: `Team W16-3`      Since: `Jan 2019`      Licence: `MIT`"
       },
@@ -8597,7 +8604,7 @@
       {
         "lineNumber": 908,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* * *` |new user |see usage instructions |refer to instructions when I forget how to use the Marketing Morph App"
       },
@@ -8611,7 +8618,7 @@
       {
         "lineNumber": 910,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* * *` |user |add a new person or company | keep track of potential target demographics and clients"
       },
@@ -8625,7 +8632,7 @@
       {
         "lineNumber": 912,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* * *` |user |delete a person or company |remove entries that I no longer need"
       },
@@ -8639,7 +8646,7 @@
       {
         "lineNumber": 914,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* * *` |user |find a person or company by name |locate details of persons without having to go through the entire list"
       },
@@ -8653,7 +8660,7 @@
       {
         "lineNumber": 916,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* * *` |user |sort persons by name |locate a person easily"
       },
@@ -8695,7 +8702,7 @@
       {
         "lineNumber": 922,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* * *` |user |create a group of clients |to organize potential clients into a separate group"
       },
@@ -8709,7 +8716,7 @@
       {
         "lineNumber": 924,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* * *` |user |add contacts to a favorites list |to have quick access to the most used contacts"
       },
@@ -8737,7 +8744,7 @@
       {
         "lineNumber": 928,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* * *` |user |update person or company data |to change information that is no longer correct"
       },
@@ -8779,28 +8786,28 @@
       {
         "lineNumber": 934,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* *` |user |can analyze which people can afford a product |to effectively target potential consumers"
       },
       {
         "lineNumber": 935,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 936,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`* *` |user |can determine which people can shop at particular businesses |to sell information to companies"
       },
       {
         "lineNumber": 937,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -8835,7 +8842,7 @@
       {
         "lineNumber": 942,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|`*` |user |hide \u003c\u003cprivate-contact-detail,private contact details\u003e\u003e by default |minimize chance of someone else seeing them by accident"
       },
@@ -11069,13 +11076,15 @@
     "authorContributionMap": {
       "roanurquhart": 46,
       "ZhangJiayu0303": 47,
+      "Roan Urquhart": 15,
       "FanDongzhe": 22,
-      "-": 958,
+      "-": 943,
       "jkhiani": 187
     }
   },
   {
     "path": "docs/UserGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -11332,14 +11341,14 @@
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* **`add`**`add n/Jane Doe p/23456789 e/janed@example.com a/113, Clementi Ave 2, #02-24 s/5000 o/teacher r/single` : adds a contact named `Jane Doe` to the Address Book."
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* **`delete`**`1` : deletes the 1st contact shown in the current person list"
       },
@@ -11605,112 +11614,112 @@
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Adding a company : `addcpny`"
       },
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Adds a company to the client list"
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Format: `addcpny` n/NAME p/NUMBER e/EMAIL a/ADDRESS s/REVENUE o/SECTOR r/STRUCTURE [t/TAG]…"
       },
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Explanation:"
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "`REVENUE` represents a company\u0027s yearly revenue."
       },
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "`SECTOR` represents the type of company i.e. Food, Retail, Bank."
       },
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "`STRUCTURE` distinguishes the organization of the company i.e. Conglomerate, Local, International, Private, Public, etc."
       },
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 87,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "`addcpny` n/Walmart p/98765432 e/walmart@gmail.com a/John street, block 123, #01-01  s/234525223 o/Retail r/Corporation"
       },
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "`addcpny` n/Betsy Cakes p/1234567 e/cakes@gmail.com a/Bob street, block 232 s/2242023 o/Food r/LocalBusiness t/popular  t/local"
       },
@@ -11773,28 +11782,28 @@
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Listing all companies : `listcpny`"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Shows a list of all companies in the clients list. +"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Format: `listcpny`"
       },
@@ -11808,7 +11817,7 @@
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -11962,133 +11971,133 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Editing a company : `editcpny`"
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Edits an existing company in the client list. +"
       },
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Format: `editcpny INDEX [n/NAME] [p/PHONE] [e/EMAIL] [a/ADDRESS] [t/TAG]...`"
       },
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "****"
       },
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* Edits the company at the specified `INDEX`. The index refers to the index number shown in the displayed company list. The index *must be a positive integer* 1, 2, 3, ..."
       },
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* At least one of the optional fields must be provided."
       },
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* Existing values will be updated to the input values."
       },
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* When editing tags, the existing tags of the company will be removed i.e adding of tags is not cumulative."
       },
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* You can remove all the company\u0027s tags by typing `t/` without specifying any tags after it."
       },
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "****"
       },
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* `editcpny 1 p/91234567 e/monay@example.com` +"
       },
       {
         "lineNumber": 143,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Edits the phone number and email address of the 1st company to be `91234567` and `monay@example.com` respectively."
       },
       {
         "lineNumber": 144,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* `editcpny 2 n/Small Money t/` +"
       },
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Edits the name of the 2nd company to be `Small Money` and clears all existing tags."
       },
@@ -12102,7 +12111,7 @@
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -12256,133 +12265,133 @@
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Locating companies by name : `findcpny`"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 171,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Finds companies whose names contain any of the given keywords. +"
       },
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Format: `findcpny KEYWORD [MORE_KEYWORDS]`"
       },
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 174,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "****"
       },
       {
         "lineNumber": 175,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* The search is case insensitive. e.g `mcdonalds` will match `McDonalds`"
       },
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* The order of the keywords does not matter. e.g. `McDonalds Bojangles` will match `Bojangles McDonalds`"
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* Only the name is searched."
       },
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* Only full words will be matched e.g. `McDonald` will not match `McDonalds`"
       },
       {
         "lineNumber": 179,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* Companies matching at least one keyword will be returned (i.e. `OR` search). e.g. `McDonalds Bojangles` will return `McDonalds`, `Bojangles`"
       },
       {
         "lineNumber": 180,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "****"
       },
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 184,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* `find Burger` +"
       },
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Returns `Burger Spot` and `Burger King`"
       },
       {
         "lineNumber": 186,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* `find Burger Taco Shoes` +"
       },
       {
         "lineNumber": 187,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Returns any person having names `Burger`, `Taco`, or `Shoes`"
       },
@@ -12396,7 +12405,7 @@
       {
         "lineNumber": 189,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -12781,133 +12790,133 @@
       {
         "lineNumber": 244,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Deleting a company : `deletecpny`"
       },
       {
         "lineNumber": 245,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 246,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Deletes the specified Company from the address book. +"
       },
       {
         "lineNumber": 247,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Format: `deletecpny INDEX`"
       },
       {
         "lineNumber": 248,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 249,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "****"
       },
       {
         "lineNumber": 250,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* Deletes the company at the specified `INDEX`."
       },
       {
         "lineNumber": 251,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* The index refers to the index number shown in the displayed company list."
       },
       {
         "lineNumber": 252,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* The index *must be a positive integer* 1, 2, 3, ..."
       },
       {
         "lineNumber": 253,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "****"
       },
       {
         "lineNumber": 254,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 255,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 256,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 257,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* `list` +"
       },
       {
         "lineNumber": 258,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "`delete 2` +"
       },
       {
         "lineNumber": 259,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Deletes the 2nd company in the address book."
       },
       {
         "lineNumber": 260,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* `find Burger` +"
       },
       {
         "lineNumber": 261,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "`delete 1` +"
       },
       {
         "lineNumber": 262,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Deletes the 1st company in the results of the `find` command."
       },
@@ -12921,7 +12930,7 @@
       {
         "lineNumber": 264,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -13754,7 +13763,7 @@
       {
         "lineNumber": 383,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Find clients: `findCli` `[coming in v2.0]`"
       },
@@ -13845,7 +13854,7 @@
       {
         "lineNumber": 396,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Find shops: `findShops` `[coming in v2.0]`"
       },
@@ -13950,7 +13959,7 @@
       {
         "lineNumber": 411,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Add to favorite list: `favorite`"
       },
@@ -14349,7 +14358,7 @@
       {
         "lineNumber": 468,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d\u003d Create group: `group` `[coming in v2.0]`"
       },
@@ -14986,49 +14995,49 @@
       {
         "lineNumber": 559,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Add* `add n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS s/SALARY o/OCCUPATION r/RELATIONSHIP [t/TAG]...` +"
       },
       {
         "lineNumber": 560,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "e.g. `add n/James Ho p/22224444 e/jamesho@example.com a/123, Clementi Rd, 1234665 s/100 o/baker r/single t/friend t/colleague`"
       },
       {
         "lineNumber": 561,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Add Company* `addcpny n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS s/REVENUE o/SECTOR r/STRUCTURE [t/TAG]...` +"
       },
       {
         "lineNumber": 562,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "e.g. `addcpny n/McDonalds p/22342422 e/mcds@gmail.com a/23244 Super Tasty Rd s/303030303030 o/Food r/InternationalCorp`"
       },
       {
         "lineNumber": 563,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Clear Persons* : `clear`"
       },
       {
         "lineNumber": 564,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Clear Companies* : `clearcpny`"
       },
       {
         "lineNumber": 565,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Delete Person* : `delete INDEX` +"
       },
@@ -15042,21 +15051,21 @@
       {
         "lineNumber": 567,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Delete Company* : `deletecpny INDEX` +"
       },
       {
         "lineNumber": 568,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "e.g. `delete 2`"
       },
       {
         "lineNumber": 569,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Edit Person* : `edit INDEX [n/NAME] [p/PHONE_NUMBER] [e/EMAIL] [a/ADDRESS] [t/TAG]...` +"
       },
@@ -15070,21 +15079,21 @@
       {
         "lineNumber": 571,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Edit Company* : `editcpny INDEX [n/NAME] [p/PHONE_NUMBER] [e/EMAIL] [a/ADDRESS] [t/TAG]...` +"
       },
       {
         "lineNumber": 572,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "e.g. `editcpny 1 n/Burger King`"
       },
       {
         "lineNumber": 573,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Find Person* : `find KEYWORD [MORE_KEYWORDS]` +"
       },
@@ -15098,14 +15107,14 @@
       {
         "lineNumber": 575,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Find Company* `findcpny KEYWORD [MORE_KEYWORDS]` +"
       },
       {
         "lineNumber": 576,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "e.g. `findcpny McDonalds`"
       },
@@ -15140,14 +15149,14 @@
       {
         "lineNumber": 581,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *List Persons* : `list`"
       },
       {
         "lineNumber": 582,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *List Companies* : `listcpny`"
       },
@@ -15275,12 +15284,14 @@
       "roanurquhart": 10,
       "ZhangJiayu0303": 96,
       "FanDongzhe": 99,
-      "-": 345,
+      "Roan Urquhart": 104,
+      "-": 241,
       "jkhiani": 49
     }
   },
   {
     "path": "docs/team/FanDongzhe.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -15933,6 +15944,7 @@
   },
   {
     "path": "docs/team/FanDongzhe.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -20792,6 +20804,7 @@
   },
   {
     "path": "docs/team/jkhiani.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -21311,6 +21324,7 @@
   },
   {
     "path": "docs/team/jkhiani.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -28837,214 +28851,215 @@
   },
   {
     "path": "docs/team/roanurquhart.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d Roan Urquhart - Project Portfolio"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ":site-section: AboutUs"
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ":imagesDir: ../images"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ":stylesDir: ../stylesheets"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d PROJECT: Marketing Morph"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "---"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d Overview"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "Marketing Morph is a desktop marketing application. It has a GUI but most of the user interactions happen using a CLI (Command Line Interface). It is meant to be utilized by a marketing company in order to effectively organize potential targets and potential clients."
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d Summary of contributions"
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Major enhancement*: added *the ability to store and manipulate companies in the Addressbook*"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "** How I did it: I created a parallel architecture similar to the Person class and have connected it to the main application."
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "** What it does: allows the user to have a list of potential corporate clients, not only potential consumer targets. The user will be able to look at both the companies list and persons list in parallel. The user can analyze the connections between the consumers and the companies with functionality provided by my team member."
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "** Justification: This feature improves the product significantly because it increases the organization of the application as well as allowing for useful marketing and business analysis."
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "** Highlights: This enhancement affects existing commands and required the addition of many new classes and objects. Due to the dense OOP structure of Addressbook Level 4, I had to carefully trace the functionality of my additions throughout the infrastructure in order to implement the company class in the most effective way. The implementation wasvery challenging because it involved the navigation and creation of many new classes. I also reworked the infrastructure in order to accomodate for my changes"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "** Credits: The prexisting code base was very useful for guiding my implementation of the company feature. It is clear and comprehensive so I would like to thank the original contributers to this AB4. No other outside libraries were used."
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Minor enhancement*: helped with the implementation of the favorite function that allowed contacts to be saved into a favorites group."
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Code contributed*: https://nus-cs2103-ay1819s2.github.io/cs2103-dashboard/#search\u003droanurquhart"
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "* *Other contributions*:"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "** Project management:"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "*** Worked with teammates to diagnose and fix bugs"
       },
@@ -29058,7 +29073,7 @@
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "** Enhancements to existing features:"
       },
@@ -29072,7 +29087,7 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "** Documentation:"
       },
@@ -29100,7 +29115,7 @@
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "** Community:"
       },
@@ -29121,56 +29136,56 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d Contributions to the User Guide"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeting end-users._"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -29184,7 +29199,7 @@
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -29198,7 +29213,7 @@
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -29212,7 +29227,7 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -29226,7 +29241,7 @@
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -29240,49 +29255,49 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "\u003d\u003d Contributions to the Developer Guide"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|_Given below are sections I contributed to the Developer Guide. They showcase my ability to write technical documentation and the technical depth of my contributions to the project._"
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -29296,7 +29311,7 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -29310,11 +29325,12 @@
     ],
     "authorContributionMap": {
       "roanurquhart": 14,
-      "-": 53
+      "Roan Urquhart": 53
     }
   },
   {
     "path": "docs/team/roanurquhart.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -35665,6 +35681,7 @@
   },
   {
     "path": "docs/team/zhangjiayu0303.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -36163,6 +36180,7 @@
   },
   {
     "path": "docs/team/zhangjiayu0303.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -40672,6 +40690,7 @@
   },
   {
     "path": "src/main/java/seedu/address/MainApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42005,6 +42024,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/Messages.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42119,6 +42139,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/Logic.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42751,6 +42772,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/LogicManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43628,6 +43650,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44183,6 +44206,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddCpnyCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44730,6 +44754,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AverageRevenueCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44942,6 +44967,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AverageSalaryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45175,6 +45201,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/CompanyComparator.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45904,6 +45931,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/CountCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46081,6 +46109,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DelFavoriteCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46537,6 +46566,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteCpnyCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46930,6 +46960,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48865,6 +48896,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditCpnyCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50805,6 +50837,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExportCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51590,6 +51623,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FavoriteCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52124,6 +52158,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindCpnyCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52440,6 +52475,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindOccupationCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52735,6 +52771,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindSectorCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53030,6 +53067,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindmaxCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53262,6 +53300,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindminCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53494,6 +53533,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/HelpCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53664,6 +53704,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListCpnyCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53889,6 +53930,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListFavoritesCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54086,6 +54128,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/MedianRevenueCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54297,6 +54340,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/MedianSalaryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54516,6 +54560,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/PersonComparator.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55287,6 +55332,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SortCompanyCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55631,6 +55677,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SortPersonCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56024,6 +56071,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56531,6 +56579,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddCpnyCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57036,6 +57085,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddressBookParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58287,6 +58337,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/CliSyntax.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58422,6 +58473,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DelFavoriteCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58676,6 +58728,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DeleteCpnyCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58887,6 +58940,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59575,6 +59629,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditCpnyCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60262,6 +60317,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ExportCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60424,6 +60480,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FavoriteCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60692,6 +60749,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FindCpnyCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60938,6 +60996,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FindOccupationCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61177,6 +61236,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FindSectorCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61416,6 +61476,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ParserUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -62630,6 +62691,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/SortCompanyCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -62820,6 +62882,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/SortPersonCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63017,6 +63080,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/AddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64792,6 +64856,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/Model.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66266,6 +66331,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ModelManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68804,6 +68870,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyAddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68961,6 +69028,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Company.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70131,6 +70199,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/NameContainsCpnyKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70370,6 +70439,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/NameContainsKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70603,6 +70673,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/NameMatchesPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70814,6 +70885,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Occupation.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71235,6 +71307,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/OccupationContainsKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71467,6 +71540,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Person.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72633,6 +72707,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/PersonIsFavoritePredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72795,6 +72870,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Relationship.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73216,6 +73292,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Salary.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73595,6 +73672,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/SectorContainsKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73827,6 +73905,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/UniqueCompanyList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74900,6 +74979,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/UniquePersonList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75953,6 +76033,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/util/SampleDataUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76411,6 +76492,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedCompany.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77477,6 +77559,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedPerson.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78537,6 +78620,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableAddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79135,6 +79219,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/AnalyzePanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79171,6 +79256,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/BrowserPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79343,7 +79429,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "Roan Urquhart"
         },
         "content": ""
       },
@@ -79650,12 +79736,14 @@
       }
     ],
     "authorContributionMap": {
-      "-": 66,
+      "Roan Urquhart": 1,
+      "-": 65,
       "jkhiani": 2
     }
   },
   {
     "path": "src/main/java/seedu/address/ui/CompanyCard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80259,6 +80347,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/CompanyListPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80764,6 +80853,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/MainWindow.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82300,6 +82390,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/PersonCard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82906,6 +82997,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/StatusBarFooter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83475,6 +83567,7 @@
   },
   {
     "path": "src/main/resources/view/AnalyzePanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -83581,6 +83674,7 @@
   },
   {
     "path": "src/main/resources/view/CompanyListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -83862,6 +83956,7 @@
   },
   {
     "path": "src/main/resources/view/CompanyListPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -83926,6 +84021,7 @@
   },
   {
     "path": "src/main/resources/view/DarkTheme.css",
+    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -86707,6 +86803,7 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -87262,6 +87359,7 @@
   },
   {
     "path": "src/main/resources/view/PersonListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -87544,6 +87642,7 @@
   },
   {
     "path": "src/main/resources/view/StatusBarFooter.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -87665,6 +87764,7 @@
   },
   {
     "path": "src/test/data/JsonAddressBookStorageTest/invalidAndValidPersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -87807,6 +87907,7 @@
   },
   {
     "path": "src/test/data/JsonAddressBookStorageTest/invalidPersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -87893,6 +87994,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/duplicatePersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -88057,6 +88159,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/invalidPersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -88158,6 +88261,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/typicalPersonsAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -88651,6 +88755,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/PersonCardHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89444,6 +89549,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/LogicManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90804,6 +90910,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93418,6 +93525,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCpnyCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96122,6 +96230,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97575,6 +97684,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/FavoriteCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97905,6 +98015,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SortPersonCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98340,6 +98451,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99884,6 +99996,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/EditCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101764,6 +101877,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/FavoriteCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101891,6 +102005,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ParserUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103903,6 +104018,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/SortPersonCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -104142,6 +104258,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/AddressBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105229,6 +105346,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/OccupationTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105496,6 +105614,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/PersonTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106275,6 +106394,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/RelationshipTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106549,6 +106669,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/SalaryTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106837,6 +106958,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonAdaptedPersonTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108108,6 +108230,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/AddressBookBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108419,6 +108542,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/CompanyBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109358,6 +109482,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/EditPersonDescriptorBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110187,6 +110312,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/PersonBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111121,6 +111247,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/PersonUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111642,6 +111769,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalPersons.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112423,6 +112551,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/BrowserPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112712,6 +112841,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/PersonListPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113499,6 +113629,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/StatusBarFooterTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114040,6 +114171,7 @@
   },
   {
     "path": "src/test/java/systemtests/AddCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -116065,6 +116197,7 @@
   },
   {
     "path": "src/test/java/systemtests/AddressBookSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118153,6 +118286,7 @@
   },
   {
     "path": "src/test/java/systemtests/DeleteCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119520,6 +119654,7 @@
   },
   {
     "path": "src/test/java/systemtests/DeleteFavoriteSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119801,6 +119936,7 @@
   },
   {
     "path": "src/test/java/systemtests/EditCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122134,6 +122270,7 @@
   },
   {
     "path": "src/test/java/systemtests/FavoriteCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122478,6 +122615,7 @@
   },
   {
     "path": "src/test/java/systemtests/HelpCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -123243,6 +123381,7 @@
   },
   {
     "path": "src/test/java/systemtests/ListFavoritesCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
